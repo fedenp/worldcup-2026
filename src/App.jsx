@@ -36,7 +36,7 @@ export default function App() {
       <aside className="sidebar" style={{ display: 'none' }}>
         <div className="sb-top">
           <div className="sb-brand">
-            <img src="/WorldCup/mascotas.webp" alt="Mascotas" className="sb-mascot" />
+            <img src={`${import.meta.env.BASE_URL}mascotas.webp`} alt="Mascotas" className="sb-mascot" />
             <div>
               <div className="sb-title">Mundial 2026</div>
               <div className="sb-sub">FIFA WORLD CUP</div>
@@ -68,7 +68,7 @@ export default function App() {
         <header className="topbar">
           <div className="brand">
             <div className="brand-mark">
-              <img src="/WorldCup/mascotas.webp" alt="Mascotas Mundial 2026" className="brand-mascot" />
+              <img src={`${import.meta.env.BASE_URL}mascotas.webp`} alt="Mascotas Mundial 2026" className="brand-mascot" />
             </div>
             <div>
               <div className="brand-name">Mundial 2026</div>

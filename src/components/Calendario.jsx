@@ -101,7 +101,7 @@ export default function Calendario() {
   const [error, setError] = useState(null)
 
   useEffect(() => {
-    fetch('/WorldCup/data/matches.json')
+    fetch(`${import.meta.env.BASE_URL}data/matches.json`)
       .then(r => {
         if (!r.ok) throw new Error('No se encontró matches.json')
         return r.json()
