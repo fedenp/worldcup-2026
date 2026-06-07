@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700;800&family=DM+Mono:wght@300;400;500&display=swap');
+
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+html { font-size: 16px; -webkit-text-size-adjust: 100%; }
+
+:root, [data-theme="light"] {
+  --bg:        #F7F8FA;
+  --surface:   #FFFFFF;
+  --surface2:  #F0F2F5;
+  --border:    #E8ECF0;
+  --border2:   #D4DAE2;
+  --ink:       #0F172A;
+  --ink2:      #475569;
+  --ink3:      #94A3B8;
+  --ink4:      #CBD5E1;
+  --blue:      #2563EB;
+  --blue-dim:  #EFF4FF;
+  --green:     #059669;
+  --green-dim: #ECFDF5;
+  --green-b:   #6EE7B7;
+  --red:       #DC2626;
+  --red-dim:   #FEF2F2;
+  --amber:     #D97706;
+  --amber-dim: #FFFBEB;
+  --amber-b:   #FCD34D;
+  --shadow:    0 1px 3px rgba(0,0,0,0.07),0 1px 2px rgba(0,0,0,0.04);
+  --shadow-md: 0 4px 14px rgba(0,0,0,0.09),0 1px 3px rgba(0,0,0,0.05);
+  --topbar-bg: rgba(247,248,250,0.93);
+  --nav-bg:    rgba(255,255,255,0.93);
+  --toggle-track: #E2E8F0;
+  --toggle-knob:  #FFF;
+  --gold: #D97706;
+}
+
+[data-theme="dark"] {
+  --bg:        #0C1420;
+  --surface:   #172030;
+  --surface2:  #1E2D40;
+  --border:    rgba(255,255,255,0.07);
+  --border2:   rgba(255,255,255,0.13);
+  --ink:       #F1F5F9;
+  --ink2:      #7A93AC;
+  --ink3:      #415A72;
+  --ink4:      #243347;
+  --blue:      #60A5FA;
+  --blue-dim:  rgba(96,165,250,0.12);
+  --green:     #34D399;
+  --green-dim: rgba(52,211,153,0.10);
+  --green-b:   rgba(52,211,153,0.3);
+  --red:       #F87171;
+  --red-dim:   rgba(248,113,113,0.10);
+  --amber:     #FCD34D;
+  --amber-dim: rgba(252,211,77,0.10);
+  --amber-b:   rgba(252,211,77,0.3);
+  --shadow:    0 1px 4px rgba(0,0,0,0.35);
+  --shadow-md: 0 6px 24px rgba(0,0,0,0.5);
+  --topbar-bg: rgba(12,20,32,0.93);
+  --nav-bg:    rgba(23,32,48,0.95);
+  --toggle-track: #1E2D40;
+  --toggle-knob:  #F59E0B;
+  --gold: #C9A84C;
+}
+
+body, .card, .topbar {
+  transition: background 0.28s ease, color 0.28s ease, border-color 0.28s ease;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: 'Sora', system-ui, sans-serif;
+  min-height: 100dvh;
+  overflow-x: hidden;
+}
+
+@keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.3} }
+@keyframes pulse  { 0%,100%{opacity:1} 50%{opacity:0.3} }

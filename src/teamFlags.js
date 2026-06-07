@@ -1,0 +1,132 @@
+// ISO 3166-1 alpha-2 codes for all 48 World Cup 2026 teams
+const FLAGS = {
+  // Group A
+  'Mexico':              'mx',
+  'South Africa':        'za',
+  'Senegal':             'sn',
+  'New Zealand':         'nz',
+  // Group B
+  'Argentina':           'ar',
+  'Chile':               'cl',
+  'Poland':              'pl',
+  'Ecuador':             'ec',
+  // Group C
+  'United States':       'us',
+  'USA':                 'us',
+  'Bosnia & Herzegovina':'ba',
+  'Bosnia and Herzegovina':'ba',
+  'Haiti':               'ht',
+  'Panama':              'pa',
+  'DR Congo':            'cd',
+  'New Caledonia':       'nc',
+  // Group D
+  'Brazil':              'br',
+  'Peru':                'pe',
+  'Colombia':            'co',
+  'Slovenia':            'si',
+  // Group E
+  'France':              'fr',
+  'Morocco':             'ma',
+  'Saudi Arabia':        'sa',
+  'Ukraine':             'ua',
+  // Group F
+  'Germany':             'de',
+  'Nigeria':             'ng',
+  'Japan':               'jp',
+  'Czech Republic':      'cz',
+  'Czechia':             'cz',
+  // Group G
+  'Spain':               'es',
+  'Portugal':            'pt',
+  'Mexico':              'mx',
+  'Belgium':             'be',
+  // Group H
+  'Netherlands':         'nl',
+  'Australia':           'au',
+  'Serbia':              'rs',
+  'Costa Rica':          'cr',
+  // Group I
+  'South Korea':         'kr',
+  'Uruguay':             'uy',
+  'Sweden':              'se',
+  'Egypt':               'eg',
+  // Group J
+  'England':             'gb-eng',
+  'Cameroon':            'cm',
+  'Iran':                'ir',
+  'Guatemala':           'gt',
+  // Group K
+  'Italy':               'it',
+  'Ivory Coast':         'ci',
+  "Côte d'Ivoire":       'ci',
+  'Honduras':            'hn',
+  'Indonesia':           'id',
+  // Group L
+  'Canada':              'ca',
+  'Venezuela':           've',
+  'Bolivia':             'bo',
+  'Algeria':             'dz',
+  // Others
+  'Switzerland':         'ch',
+  'Croatia':             'hr',
+  'Denmark':             'dk',
+  'Austria':             'at',
+  'Turkey':              'tr',
+  'Türkiye':             'tr',
+  'Romania':             'ro',
+  'Hungary':             'hu',
+  'Scotland':            'gb-sct',
+  'Wales':               'gb-wls',
+  'Slovakia':            'sk',
+  'Greece':              'gr',
+  'Albania':             'al',
+  'Paraguay':            'py',
+  'Jamaica':             'jm',
+  'Honduras':            'hn',
+  'Cuba':                'cu',
+  'Qatar':               'qa',
+  'Tunisia':             'tn',
+  'Ghana':               'gh',
+  'Mali':                'ml',
+  'Zambia':              'zm',
+  'Tanzania':            'tz',
+  'Guinea':              'gn',
+  'Zimbabwe':            'zw',
+  'Angola':              'ao',
+  'Mozambique':          'mz',
+  'Uganda':              'ug',
+  'Gabon':               'ga',
+  'Togo':                'tg',
+  'Benin':               'bj',
+  'Cape Verde':          'cv',
+  'Burkina Faso':        'bf',
+  'Sudan':               'sd',
+  'Libya':               'ly',
+  'Iraq':                'iq',
+  'Jordan':              'jo',
+  'Syria':               'sy',
+  'Bahrain':             'bh',
+  'Kuwait':              'kw',
+  'UAE':                 'ae',
+  'United Arab Emirates':'ae',
+  'Uzbekistan':          'uz',
+  'Thailand':            'th',
+  'Vietnam':             'vn',
+  'Philippines':         'ph',
+  'Malaysia':            'my',
+  'Singapore':           'sg',
+  'Tahiti':              'pf',
+  'Solomon Islands':     'sb',
+  'Papua New Guinea':    'pg',
+  'Fiji':                'fj',
+  'Vanuatu':             'vu',
+}
+
+export function flagUrl(teamName, size = 40) {
+  if (!teamName) return null
+  const iso = FLAGS[teamName]
+  if (!iso) return null
+  return `https://flagcdn.com/w${size}/${iso}.png`
+}
+
+export default FLAGS
