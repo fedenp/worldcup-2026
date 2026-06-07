@@ -1,17 +1,17 @@
 import { useState } from 'react'
 import Calendario from './components/Calendario.jsx'
 import {
-  Table, CalendarBlank, TreeStructure, ChartBar,
-  TrendUp, Globe, Newspaper, Sun, Moon, SoccerBall
+  SoccerBall, CalendarBlank, Trophy, ChartLineUp,
+  ChartBar, Globe, Newspaper, Sun, Moon
 } from '@phosphor-icons/react'
 import './App.css'
 
 const TABS = [
-  { id: 'grupos',        Icon: Table,         label: 'Grupos' },
+  { id: 'grupos',        Icon: SoccerBall,    label: 'Grupos' },
   { id: 'calendario',   Icon: CalendarBlank,  label: 'Calendario' },
-  { id: 'bracket',      Icon: TreeStructure,  label: 'Bracket' },
-  { id: 'estadisticas', Icon: ChartBar,       label: 'Stats' },
-  { id: 'pronosticos',  Icon: TrendUp,        label: 'Pronóst.' },
+  { id: 'bracket',      Icon: Trophy,         label: 'Bracket' },
+  { id: 'estadisticas', Icon: ChartLineUp,    label: 'Stats' },
+  { id: 'pronosticos',  Icon: ChartBar,       label: 'Pronóst.' },
   { id: 'equipos',      Icon: Globe,          label: 'Equipos' },
   { id: 'noticias',     Icon: Newspaper,      label: 'Noticias' },
 ]
