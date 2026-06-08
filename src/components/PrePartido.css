@@ -108,6 +108,14 @@
 }
 .pp-venue-tag { color: var(--ink2); }
 
+/* ─── DESKTOP ─── */
+@media (min-width: 900px) {
+  .pp-container {
+    top: 0;
+    left: 220px; /* sidebar width */
+  }
+}
+
 /* ─── SECTION CARDS ─── */
 .pp-card {
   background: var(--surface);

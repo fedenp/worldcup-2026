@@ -59,6 +59,12 @@ export default function App() {
           </div>
         </div>
         <nav className="sb-nav">
+          {selectedMatch && (
+            <button className="sb-back-btn" onClick={closeMatch}>
+              <CaretLeft size={15} weight="bold" />
+              <span>Volver al Calendario</span>
+            </button>
+          )}
           {TABS.map(({ id, Icon, label }) => (
             <button
               key={id}
