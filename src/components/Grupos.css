@@ -93,12 +93,10 @@
 
 .th-pts, .td-pts {
   font-weight: 700;
-  color: var(--ink) !important;
+  color: var(--amber) !important;
 }
 
 .th-xg, .td-xg {
-  color: var(--amber) !important;
-  font-weight: 500;
   min-width: 38px;
 }
 
