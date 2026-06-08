@@ -40,13 +40,13 @@ function Flag({ name }) {
   return <img src={url} alt={name} className="fix-flag-img" />
 }
 
-function FixtureRow({ match }) {
+function FixtureRow({ match, onSelectMatch }) {
   const isLive = ['LIVE', '1H', '2H', 'HT'].includes(match.status)
   const isFinished = match.status === 'FT'
   const showScore = isLive || isFinished
 
   return (
-    <div className="fixture-row">
+    <div className="fixture-row" onClick={() => onSelectMatch(match)}>
       <div className="fix-meta">
         <div className="fix-time">
           {isLive ? <><span className="live-dot" />Live</> : formatTime(match.kickoff_at)}
@@ -95,7 +95,7 @@ function groupByDate(matches) {
     .map(([date, ms]) => [date, ms.sort((a, b) => new Date(a.kickoff_at) - new Date(b.kickoff_at))])
 }
 
-export default function Calendario() {
+export default function Calendario({ onSelectMatch }) {
   const [matches, setMatches] = useState([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
@@ -129,7 +129,7 @@ export default function Calendario() {
             {formatDayHeader(date)}
             {isToday(date) && <span style={{ marginLeft: 8, color: 'var(--blue)', fontWeight: 400, textTransform: 'none', letterSpacing: 0 }}>Hoy</span>}
           </div>
-          {dayMatches.map(m => <FixtureRow key={m.id} match={m} />)}
+          {dayMatches.map(m => <FixtureRow key={m.id} match={m} onSelectMatch={onSelectMatch} />)}
         </div>
       ))}
     </div>

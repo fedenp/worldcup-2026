@@ -1,0 +1,43 @@
+{
+  "event_id": 8308,
+  "venue": {
+    "name": "AT&T Stadium",
+    "city": "Arlington",
+    "capacity": 80000
+  },
+  "weather": {
+    "code": null,
+    "description": null,
+    "wind_speed": null,
+    "temperature_c": null
+  },
+  "prediction": {
+    "prob_home": 27.5,
+    "prob_draw": 26.9,
+    "prob_away": 45.6,
+    "predicted": "A",
+    "xg_home": 1.4,
+    "xg_away": 1.5,
+    "most_likely_score": "1-1",
+    "confidence": 0.4561
+  },
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 0,
+    "away_wins": 1,
+    "home_goals": 1,
+    "away_goals": 2,
+    "avg_total_goals": 3,
+    "home_win_rate": 0,
+    "away_win_rate": 1,
+    "recent_matches": [
+      {
+        "away": "Croatia",
+        "date": "2018-06-26T17:00:00+00:00",
+        "home": "England",
+        "score": "1-2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "event_id": 8329,
+  "venue": {
+    "name": "MetLife Stadium",
+    "city": "East Rutherford",
+    "capacity": 82500
+  },
+  "weather": {
+    "code": null,
+    "description": null,
+    "wind_speed": null,
+    "temperature_c": null
+  },
+  "prediction": {
+    "prob_home": 33.1,
+    "prob_draw": 25.2,
+    "prob_away": 41.7,
+    "predicted": "A",
+    "xg_home": 1.27,
+    "xg_away": 1.35,
+    "most_likely_score": "1-1",
+    "confidence": 0.4167
+  },
+  "head_to_head": null
+}

@@ -1,0 +1,43 @@
+{
+  "event_id": 8314,
+  "venue": {
+    "name": "Estadio Akron",
+    "city": "Guadalajara",
+    "capacity": 46355
+  },
+  "weather": {
+    "code": 80,
+    "description": null,
+    "wind_speed": 2.3,
+    "temperature_c": 24
+  },
+  "prediction": {
+    "prob_home": 55.5,
+    "prob_draw": 22.9,
+    "prob_away": 21.6,
+    "predicted": "H",
+    "xg_home": 0.73,
+    "xg_away": 1.2,
+    "most_likely_score": "0-1",
+    "confidence": 0.5553
+  },
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 1,
+    "draws": 0,
+    "away_wins": 0,
+    "home_goals": 2,
+    "away_goals": 1,
+    "avg_total_goals": 3,
+    "home_win_rate": 1,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Mexico",
+        "date": "2018-06-23T14:00:00+00:00",
+        "home": "South Korea",
+        "score": "1-2"
+      }
+    ]
+  }
+}

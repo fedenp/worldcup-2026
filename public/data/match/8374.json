@@ -1,0 +1,16 @@
+{
+  "event_id": 8374,
+  "venue": {
+    "name": "Arrowhead Stadium",
+    "city": "Kansas City",
+    "capacity": 76416
+  },
+  "weather": {
+    "code": null,
+    "description": null,
+    "wind_speed": null,
+    "temperature_c": null
+  },
+  "prediction": null,
+  "head_to_head": null
+}

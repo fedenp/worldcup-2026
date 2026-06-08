@@ -1,0 +1,25 @@
+{
+  "event_id": 8350,
+  "venue": {
+    "name": "Estadio Akron",
+    "city": "Guadalajara",
+    "capacity": 46355
+  },
+  "weather": {
+    "code": null,
+    "description": null,
+    "wind_speed": null,
+    "temperature_c": null
+  },
+  "prediction": {
+    "prob_home": 43.8,
+    "prob_draw": 25.8,
+    "prob_away": 30.4,
+    "predicted": "H",
+    "xg_home": 1.23,
+    "xg_away": 1.6,
+    "most_likely_score": "1-1",
+    "confidence": 0.4382
+  },
+  "head_to_head": null
+}

@@ -1,0 +1,25 @@
+{
+  "event_id": 8358,
+  "venue": {
+    "name": "AT&T Stadium",
+    "city": "Arlington",
+    "capacity": 80000
+  },
+  "weather": {
+    "code": null,
+    "description": null,
+    "wind_speed": null,
+    "temperature_c": null
+  },
+  "prediction": {
+    "prob_home": 30.8,
+    "prob_draw": 21.5,
+    "prob_away": 47.7,
+    "predicted": "A",
+    "xg_home": 1.15,
+    "xg_away": 1.35,
+    "most_likely_score": "1-1",
+    "confidence": 0.4766
+  },
+  "head_to_head": null
+}

@@ -64,6 +64,19 @@
 }
 [data-theme="dark"] .toggle-knob { transform: translateX(16px); }
 
+/* ─── TOPBAR BACK BUTTON ─── */
+.topbar-back {
+  display: flex; align-items: center; gap: 6px;
+  background: none; border: none;
+  color: var(--blue); cursor: pointer;
+  font-family: 'Sora', sans-serif;
+  font-size: 14px; font-weight: 600;
+  padding: 6px 4px;
+  -webkit-tap-highlight-color: transparent;
+}
+[data-theme="dark"] .topbar-back { color: var(--amber); }
+.topbar-back:active { opacity: 0.7; }
+
 /* ─── CONTENT ─── */
 .content {
   padding: 14px 14px 4px;

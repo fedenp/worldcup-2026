@@ -1,0 +1,49 @@
+{
+  "event_id": 8306,
+  "venue": {
+    "name": "Arrowhead Stadium",
+    "city": "Kansas City",
+    "capacity": 76416
+  },
+  "weather": {
+    "code": null,
+    "description": null,
+    "wind_speed": null,
+    "temperature_c": null
+  },
+  "prediction": {
+    "prob_home": 63.6,
+    "prob_draw": 19.6,
+    "prob_away": 16.8,
+    "predicted": "H",
+    "xg_home": 1.45,
+    "xg_away": 1.2,
+    "most_likely_score": "1-1",
+    "confidence": 0.6359
+  },
+  "head_to_head": {
+    "total_matches": 2,
+    "home_wins": 2,
+    "draws": 0,
+    "away_wins": 0,
+    "home_goals": 5,
+    "away_goals": 3,
+    "avg_total_goals": 4,
+    "home_win_rate": 1,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Argentina",
+        "date": "2018-06-26T17:00:00+00:00",
+        "home": "Algeria",
+        "score": "1-2"
+      },
+      {
+        "away": "Argentina",
+        "date": "2014-06-25T09:00:00+00:00",
+        "home": "Algeria",
+        "score": "2-3"
+      }
+    ]
+  }
+}

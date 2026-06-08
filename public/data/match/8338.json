@@ -1,0 +1,25 @@
+{
+  "event_id": 8338,
+  "venue": {
+    "name": "Hard Rock Stadium",
+    "city": "Miami Gardens",
+    "capacity": 65326
+  },
+  "weather": {
+    "code": null,
+    "description": null,
+    "wind_speed": null,
+    "temperature_c": null
+  },
+  "prediction": {
+    "prob_home": 21.5,
+    "prob_draw": 19.7,
+    "prob_away": 58.9,
+    "predicted": "A",
+    "xg_home": 0.63,
+    "xg_away": 1.57,
+    "most_likely_score": "0-1",
+    "confidence": 0.5886
+  },
+  "head_to_head": null
+}

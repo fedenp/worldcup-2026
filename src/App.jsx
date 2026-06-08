@@ -1,9 +1,10 @@
 import { useState } from 'react'
 import Calendario from './components/Calendario.jsx'
 import Grupos from './components/Grupos.jsx'
+import PrePartido from './components/PrePartido.jsx'
 import {
   SoccerBall, CalendarBlank, Trophy, ChartLineUp,
-  ChartBar, Globe, Newspaper, Sun, Moon
+  ChartBar, Globe, Newspaper, Sun, Moon, CaretLeft
 } from '@phosphor-icons/react'
 import './App.css'
 
@@ -18,7 +19,8 @@ const TABS = [
 ]
 
 export default function App() {
-  const [activeTab, setActiveTab] = useState('calendario')
+  const [activeTab,     setActiveTab]     = useState('calendario')
+  const [selectedMatch, setSelectedMatch] = useState(null)
   const [theme, setTheme] = useState(() => {
     const t = 'dark'
     document.documentElement.setAttribute('data-theme', t)
@@ -31,8 +33,16 @@ export default function App() {
     document.documentElement.setAttribute('data-theme', next)
   }
 
+  function openMatch(match) {
+    setSelectedMatch(match)
+  }
+
+  function closeMatch() {
+    setSelectedMatch(null)
+  }
+
   return (
-    <div id="view-main">
+    <div id="view-main" style={selectedMatch ? { paddingBottom: 0 } : {}}>
       {/* Desktop sidebar */}
       <aside className="sidebar" style={{ display: 'none' }}>
         <div className="sb-top">
@@ -53,7 +63,7 @@ export default function App() {
             <button
               key={id}
               className={`sb-item ${activeTab === id ? 'active' : ''}`}
-              onClick={() => setActiveTab(id)}
+              onClick={() => { closeMatch(); setActiveTab(id) }}
             >
               <Icon size={17} weight={activeTab === id ? 'duotone' : 'regular'} />
               <span>{label}</span>
@@ -65,17 +75,24 @@ export default function App() {
 
       {/* Main scroll area */}
       <div className="main-scroll" style={{ flex: 1, overflowY: 'auto' }}>
-        {/* Mobile topbar */}
+        {/* Topbar — changes when a match is open */}
         <header className="topbar">
-          <div className="brand">
-            <div className="brand-mark">
-              <img src={`${import.meta.env.BASE_URL}mascotas.webp`} alt="Mascotas Mundial 2026" className="brand-mascot" />
+          {selectedMatch ? (
+            <button className="topbar-back" onClick={closeMatch}>
+              <CaretLeft size={16} weight="bold" />
+              <span>Calendario</span>
+            </button>
+          ) : (
+            <div className="brand">
+              <div className="brand-mark">
+                <img src={`${import.meta.env.BASE_URL}mascotas.webp`} alt="Mascotas Mundial 2026" className="brand-mascot" />
+              </div>
+              <div>
+                <div className="brand-name">Mundial 2026</div>
+                <div className="brand-year">FIFA WORLD CUP</div>
+              </div>
             </div>
-            <div>
-              <div className="brand-name">Mundial 2026</div>
-              <div className="brand-year">FIFA WORLD CUP</div>
-            </div>
-          </div>
+          )}
           <div className="topbar-right">
             <div className="toggle-wrap" onClick={toggleTheme}>
               {theme === 'dark'
@@ -87,9 +104,9 @@ export default function App() {
         </header>
 
         <div className="content">
-          {activeTab === 'grupos'     && <Grupos />}
-          {activeTab === 'calendario' && <Calendario />}
-          {!['grupos', 'calendario'].includes(activeTab) && (
+          {!selectedMatch && activeTab === 'grupos'     && <Grupos />}
+          {!selectedMatch && activeTab === 'calendario' && <Calendario onSelectMatch={openMatch} />}
+          {!selectedMatch && !['grupos', 'calendario'].includes(activeTab) && (
             <div className="placeholder">
               <p>Próximamente</p>
             </div>
@@ -97,23 +114,28 @@ export default function App() {
         </div>
       </div>
 
-      {/* Mobile bottom nav */}
-      <nav className="bottom-nav">
-        <div className="nav-items">
-          {TABS.map(({ id, Icon, label }) => (
-            <button
-              key={id}
-              className={`nav-item ${activeTab === id ? 'active' : ''}`}
-              onClick={() => setActiveTab(id)}
-            >
-              <div className="nav-icon-wrap">
-                <Icon size={20} weight={activeTab === id ? 'duotone' : 'regular'} />
-              </div>
-              <span className="nav-label">{label}</span>
-            </button>
-          ))}
-        </div>
-      </nav>
+      {/* Pre-partido overlay — slides in over the content */}
+      {selectedMatch && <PrePartido key={selectedMatch.id} match={selectedMatch} />}
+
+      {/* Bottom nav — hidden while a match is open */}
+      {!selectedMatch && (
+        <nav className="bottom-nav">
+          <div className="nav-items">
+            {TABS.map(({ id, Icon, label }) => (
+              <button
+                key={id}
+                className={`nav-item ${activeTab === id ? 'active' : ''}`}
+                onClick={() => setActiveTab(id)}
+              >
+                <div className="nav-icon-wrap">
+                  <Icon size={20} weight={activeTab === id ? 'duotone' : 'regular'} />
+                </div>
+                <span className="nav-label">{label}</span>
+              </button>
+            ))}
+          </div>
+        </nav>
+      )}
     </div>
   )
 }

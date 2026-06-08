@@ -1,0 +1,25 @@
+{
+  "event_id": 8311,
+  "venue": {
+    "name": "Mercedes-Benz Stadium",
+    "city": "Atlanta",
+    "capacity": 71000
+  },
+  "weather": {
+    "code": 2,
+    "description": "cloudy",
+    "wind_speed": 12,
+    "temperature_c": 34
+  },
+  "prediction": {
+    "prob_home": 44.9,
+    "prob_draw": 26.3,
+    "prob_away": 28.9,
+    "predicted": "H",
+    "xg_home": 1.3,
+    "xg_away": 1.3,
+    "most_likely_score": "1-1",
+    "confidence": 0.4485
+  },
+  "head_to_head": null
+}

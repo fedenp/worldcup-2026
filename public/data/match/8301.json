@@ -1,0 +1,43 @@
+{
+  "event_id": 8301,
+  "venue": {
+    "name": "Hard Rock Stadium",
+    "city": "Miami Gardens",
+    "capacity": 65326
+  },
+  "weather": {
+    "code": null,
+    "description": null,
+    "wind_speed": null,
+    "temperature_c": null
+  },
+  "prediction": {
+    "prob_home": 22.5,
+    "prob_draw": 20.6,
+    "prob_away": 56.9,
+    "predicted": "A",
+    "xg_home": 0.75,
+    "xg_away": 1.35,
+    "most_likely_score": "0-1",
+    "confidence": 0.5692
+  },
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 0,
+    "away_wins": 1,
+    "home_goals": 0,
+    "away_goals": 1,
+    "avg_total_goals": 1,
+    "home_win_rate": 0,
+    "away_win_rate": 1,
+    "recent_matches": [
+      {
+        "away": "Saudi Arabia",
+        "date": "2018-06-20T14:00:00+00:00",
+        "home": "Uruguay",
+        "score": "1-0"
+      }
+    ]
+  }
+}

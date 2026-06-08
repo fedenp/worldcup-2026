@@ -1,0 +1,25 @@
+{
+  "event_id": 8302,
+  "venue": {
+    "name": "SoFi Stadium",
+    "city": "Inglewood",
+    "capacity": 70242
+  },
+  "weather": {
+    "code": null,
+    "description": null,
+    "wind_speed": null,
+    "temperature_c": null
+  },
+  "prediction": {
+    "prob_home": 31,
+    "prob_draw": 28.3,
+    "prob_away": 40.7,
+    "predicted": "A",
+    "xg_home": 1.15,
+    "xg_away": 1.02,
+    "most_likely_score": "1-1",
+    "confidence": 0.4074
+  },
+  "head_to_head": null
+}

@@ -1,0 +1,25 @@
+{
+  "event_id": 8316,
+  "venue": {
+    "name": "Lumen Field",
+    "city": "Seattle",
+    "capacity": 68740
+  },
+  "weather": {
+    "code": 0,
+    "description": "unknown",
+    "wind_speed": 13.1,
+    "temperature_c": 25
+  },
+  "prediction": {
+    "prob_home": 33,
+    "prob_draw": 32.3,
+    "prob_away": 34.6,
+    "predicted": "A",
+    "xg_home": 1.4,
+    "xg_away": 1.07,
+    "most_likely_score": "1-1",
+    "confidence": 0.3462
+  },
+  "head_to_head": null
+}

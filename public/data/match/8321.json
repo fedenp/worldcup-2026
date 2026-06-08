@@ -1,0 +1,25 @@
+{
+  "event_id": 8321,
+  "venue": {
+    "name": "BMO Field",
+    "city": "Toronto",
+    "capacity": 45700
+  },
+  "weather": {
+    "code": 1,
+    "description": "clear",
+    "wind_speed": 21.3,
+    "temperature_c": 24
+  },
+  "prediction": {
+    "prob_home": 56.3,
+    "prob_draw": 21.9,
+    "prob_away": 21.9,
+    "predicted": "H",
+    "xg_home": 1.8,
+    "xg_away": 1.27,
+    "most_likely_score": "1-1",
+    "confidence": 0.5626
+  },
+  "head_to_head": null
+}

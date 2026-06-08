@@ -1,0 +1,43 @@
+{
+  "event_id": 8354,
+  "venue": {
+    "name": "MetLife Stadium",
+    "city": "East Rutherford",
+    "capacity": 82500
+  },
+  "weather": {
+    "code": null,
+    "description": null,
+    "wind_speed": null,
+    "temperature_c": null
+  },
+  "prediction": {
+    "prob_home": 28.5,
+    "prob_draw": 21.3,
+    "prob_away": 50.2,
+    "predicted": "A",
+    "xg_home": 0.73,
+    "xg_away": 2,
+    "most_likely_score": "0-1",
+    "confidence": 0.5022
+  },
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 0,
+    "away_wins": 1,
+    "home_goals": 1,
+    "away_goals": 6,
+    "avg_total_goals": 7,
+    "home_win_rate": 0,
+    "away_win_rate": 1,
+    "recent_matches": [
+      {
+        "away": "Panama",
+        "date": "2018-06-24T11:00:00+00:00",
+        "home": "England",
+        "score": "6-1"
+      }
+    ]
+  }
+}

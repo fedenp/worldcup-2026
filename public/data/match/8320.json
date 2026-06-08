@@ -1,0 +1,25 @@
+{
+  "event_id": 8320,
+  "venue": {
+    "name": "NRG Stadium",
+    "city": "Houston",
+    "capacity": 72220
+  },
+  "weather": {
+    "code": null,
+    "description": null,
+    "wind_speed": null,
+    "temperature_c": null
+  },
+  "prediction": {
+    "prob_home": 58.9,
+    "prob_draw": 22,
+    "prob_away": 19,
+    "predicted": "H",
+    "xg_home": 1.5,
+    "xg_away": 1,
+    "most_likely_score": "1-0",
+    "confidence": 0.5892
+  },
+  "head_to_head": null
+}

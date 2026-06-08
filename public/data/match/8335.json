@@ -1,0 +1,25 @@
+{
+  "event_id": 8335,
+  "venue": {
+    "name": "BC Place",
+    "city": "Vancouver",
+    "capacity": 54500
+  },
+  "weather": {
+    "code": null,
+    "description": null,
+    "wind_speed": null,
+    "temperature_c": null
+  },
+  "prediction": {
+    "prob_home": 69.4,
+    "prob_draw": 18.4,
+    "prob_away": 12.2,
+    "predicted": "H",
+    "xg_home": 2.05,
+    "xg_away": 1.33,
+    "most_likely_score": "2-1",
+    "confidence": 0.6938
+  },
+  "head_to_head": null
+}

@@ -1,0 +1,16 @@
+{
+  "event_id": 8375,
+  "venue": {
+    "name": "NRG Stadium",
+    "city": "Houston",
+    "capacity": 72220
+  },
+  "weather": {
+    "code": null,
+    "description": null,
+    "wind_speed": null,
+    "temperature_c": null
+  },
+  "prediction": null,
+  "head_to_head": null
+}
