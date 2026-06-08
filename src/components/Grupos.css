@@ -1,0 +1,139 @@
+/* ─── WRAPPER ─── */
+.grupos { }
+
+.grupos-state {
+  display: flex; flex-direction: column;
+  align-items: center; justify-content: center;
+  height: 50vh; gap: 0.5rem;
+  color: var(--ink3); font-size: 0.9rem;
+  text-align: center; padding: 1rem;
+}
+.grupos-state.error { color: var(--red); }
+.grupos-state .hint {
+  font-family: 'DM Mono', monospace;
+  font-size: 0.75rem; color: var(--ink3); margin-top: 0.5rem;
+}
+
+/* ─── GROUP CARD ─── */
+.group-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 14px; overflow: hidden;
+  margin-bottom: 10px;
+  box-shadow: var(--shadow);
+}
+
+.group-header {
+  padding: 8px 14px;
+  background: #093C5D;
+  border-bottom: 1px solid var(--border);
+  font-size: 10px; font-weight: 700;
+  letter-spacing: 0.08em; text-transform: uppercase;
+  color: #DDE6ED; font-family: 'DM Mono', monospace;
+}
+[data-theme="dark"] .group-header {
+  background: #DDE6ED;
+  color: #093C5D;
+}
+
+/* ─── TABLE ─── */
+.group-table-wrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.group-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: 'DM Mono', monospace;
+  font-size: 12px;
+}
+
+.group-table thead tr {
+  border-bottom: 1px solid var(--border);
+}
+
+.group-table th {
+  padding: 5px 6px;
+  text-align: center;
+  font-size: 9px; font-weight: 700;
+  letter-spacing: 0.06em; text-transform: uppercase;
+  color: var(--ink3);
+  white-space: nowrap;
+}
+
+.group-table td {
+  padding: 9px 6px;
+  text-align: center;
+  color: var(--ink);
+  border-top: 1px solid var(--border);
+  white-space: nowrap;
+}
+.group-table tbody tr:first-child td { border-top: none; }
+
+/* ─── QUALIFIED ROWS ─── */
+.group-table tbody tr.qualified td:first-child {
+  border-left: 3px solid var(--green);
+}
+.group-table tbody tr.qualified .td-pos {
+  color: var(--green) !important;
+}
+
+/* ─── COLUMN WIDTHS ─── */
+.th-pos, .td-pos {
+  width: 28px; min-width: 28px;
+  font-size: 11px; color: var(--ink3);
+}
+
+.th-team, .td-team {
+  text-align: left !important;
+  padding-left: 10px !important;
+  min-width: 120px;
+}
+
+.th-pts, .td-pts {
+  font-weight: 700;
+  color: var(--ink) !important;
+}
+
+.th-xg, .td-xg {
+  color: var(--amber) !important;
+  font-weight: 500;
+  min-width: 38px;
+}
+
+/* ─── TEAM CELL ─── */
+.team-cell {
+  display: flex; align-items: center; gap: 7px;
+}
+.team-flag {
+  width: 22px; height: 15px;
+  object-fit: cover; border-radius: 2px;
+  flex-shrink: 0;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+}
+.team-flag-fallback { font-size: 14px; line-height: 1; }
+.team-name {
+  font-family: 'Sora', sans-serif;
+  font-size: 12px; font-weight: 600;
+  white-space: nowrap;
+}
+
+/* ─── GD COLORS ─── */
+.gd-pos { color: var(--green); }
+.gd-neg { color: var(--red); }
+
+/* ─── LEGEND ─── */
+.grupos-legend {
+  display: flex; align-items: center; gap: 7px;
+  padding: 4px 2px 12px;
+  font-size: 10px; color: var(--ink3);
+  font-family: 'DM Mono', monospace;
+  letter-spacing: 0.03em;
+}
+.legend-bar {
+  width: 3px; height: 14px; border-radius: 2px;
+  background: var(--ink4);
+  flex-shrink: 0;
+}
+.legend-bar.qualified { background: var(--green); }

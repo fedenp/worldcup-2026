@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import Calendario from './components/Calendario.jsx'
+import Grupos from './components/Grupos.jsx'
 import {
   SoccerBall, CalendarBlank, Trophy, ChartLineUp,
   ChartBar, Globe, Newspaper, Sun, Moon
@@ -86,10 +87,10 @@ export default function App() {
         </header>
 
         <div className="content">
+          {activeTab === 'grupos'     && <Grupos />}
           {activeTab === 'calendario' && <Calendario />}
-          {activeTab !== 'calendario' && (
+          {!['grupos', 'calendario'].includes(activeTab) && (
             <div className="placeholder">
-              <p>{TABS.find(t => t.id === activeTab)?.icon}</p>
               <p>Próximamente</p>
             </div>
           )}
