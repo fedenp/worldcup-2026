@@ -30,6 +30,8 @@ function GroupTable({ name, teams }) {
             <tr>
               <th className="th-pos">#</th>
               <th className="th-team">Equipo</th>
+              <th className="th-pts">Pts</th>
+              <th className="th-xg">xG</th>
               <th>PJ</th>
               <th>G</th>
               <th>E</th>
@@ -37,8 +39,6 @@ function GroupTable({ name, teams }) {
               <th>GF</th>
               <th>GC</th>
               <th>DG</th>
-              <th className="th-pts">Pts</th>
-              <th className="th-xg">xG</th>
             </tr>
           </thead>
           <tbody>
@@ -46,6 +46,8 @@ function GroupTable({ name, teams }) {
               <tr key={team.team_id} className={team.position <= 2 ? 'qualified' : ''}>
                 <td className="td-pos">{team.position}</td>
                 <td className="td-team"><TeamCell name={team.team_name} /></td>
+                <td className="td-pts">{team.pts}</td>
+                <td className="td-xg">{Number(team.xg).toFixed(1)}</td>
                 <td>{team.played}</td>
                 <td>{team.won}</td>
                 <td>{team.drawn}</td>
@@ -53,8 +55,6 @@ function GroupTable({ name, teams }) {
                 <td>{team.gf}</td>
                 <td>{team.ga}</td>
                 <td><GdCell value={team.gd} /></td>
-                <td className="td-pts">{team.pts}</td>
-                <td className="td-xg">{Number(team.xg).toFixed(1)}</td>
               </tr>
             ))}
           </tbody>
