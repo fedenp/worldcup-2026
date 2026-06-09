@@ -9,6 +9,15 @@
 import fs   from 'fs'
 import path from 'path'
 
+// Load .env for local runs (GitHub Actions sets env vars directly)
+try {
+  const envFile = fs.readFileSync(path.resolve('.env'), 'utf8')
+  for (const line of envFile.split('\n')) {
+    const [key, ...rest] = line.split('=')
+    if (key && rest.length) process.env[key.trim()] = rest.join('=').trim()
+  }
+} catch {}
+
 const TOKEN          = process.env.BSD_API_TOKEN
 const BASE_URL       = 'https://sports.bzzoiro.com/api/v2'
 const STANDINGS_PATH = path.resolve('public/data/standings.json')
