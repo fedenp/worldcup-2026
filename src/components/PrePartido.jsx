@@ -377,22 +377,181 @@ function LineasApuesta({ match, odds, pred }) {
   )
 }
 
+// ─── IDENTIDAD TÁCTICA ───────────────────────────────────────
+
+const PROFILE_LABELS = {
+  attacking: 'Atacante',
+  defensive: 'Defensivo',
+  balanced:  'Equilibrado',
+}
+
+function getStyleTags(m) {
+  if (!m) return []
+  const tags = []
+  if (m.avg_possession > 60)       tags.push('Posesión alta')
+  else if (m.avg_possession < 45)  tags.push('Juego directo')
+  if (m.clean_sheet_pct > 50)      tags.push('Sólido atrás')
+  if (m.avg_goals_scored > 1.8)    tags.push('Potente ofensiva')
+  if (m.btts_pct < 30)             tags.push('Bien organizado')
+  if (m.over_25_pct > 55)          tags.push('Partido abierto')
+  return tags.slice(0, 3)
+}
+
+function offenseScore(m) {
+  // Normalize avg_goals_scored: 0–3 → 0–100
+  return Math.min(100, Math.round((m.avg_goals_scored / 3.0) * 100))
+}
+
+function generateSummary(home, away, match) {
+  if (!home || !away) return null
+  const lp = { attacking: 'ofensivo', defensive: 'defensivo', balanced: 'equilibrado' }
+  const hp = lp[home.tactical_profile] ?? home.tactical_profile ?? '—'
+  const ap = lp[away.tactical_profile] ?? away.tactical_profile ?? '—'
+  const possGap = Math.abs(home.avg_possession - away.avg_possession) > 10
+  const dominant = home.avg_possession > away.avg_possession ? match.home_team : match.away_team
+  let t = `${match.home_team} (${home.preferred_formation}, ${hp}) frente a ${match.away_team} (${away.preferred_formation}, ${ap}).`
+  if (possGap) t += ` ${dominant} domina habitualmente la posesión del balón.`
+  else         t += ` Estilos similares en la gestión del balón.`
+  return t
+}
+
+function AttrBar({ label, value }) {
+  const pct = Math.min(100, Math.max(0, Math.round(value ?? 0)))
+  return (
+    <div className="pp-attr-bar">
+      <div className="pp-attr-row">
+        <span className="pp-attr-label">{label}</span>
+        <span className="pp-attr-val">{pct}%</span>
+      </div>
+      <div className="pp-attr-track">
+        <div className="pp-attr-fill" style={{ width: `${pct}%` }} />
+      </div>
+    </div>
+  )
+}
+
+function TeamTactics({ team, teamId, manager }) {
+  const tags      = getStyleTags(manager)
+  const formation = manager?.preferred_formation ?? '—'
+  const profile   = PROFILE_LABELS[manager?.tactical_profile] ?? manager?.tactical_profile ?? null
+
+  return (
+    <div className="pp-tactics-col">
+      {/* Header: crest + team name + formation */}
+      <div className="pp-tactics-header">
+        <Crest teamId={teamId} teamName={team} size={32} />
+        <div className="pp-tactics-team-info">
+          <div className="pp-tactics-team-name">{team}</div>
+          <div className="pp-tactics-meta">
+            <span className="pp-tactics-formation">{formation}</span>
+            {manager && (
+              <span className="pp-tactics-manager-name">{manager.name}</span>
+            )}
+          </div>
+        </div>
+      </div>
+
+      {manager ? (
+        <>
+          {/* Tactical profile badge */}
+          {profile && (
+            <span
+              className="pp-tactics-profile-badge"
+              data-profile={manager.tactical_profile}
+            >
+              {profile}
+            </span>
+          )}
+
+          {/* Style tags */}
+          {tags.length > 0 && (
+            <div className="pp-tactics-tags">
+              {tags.map(t => (
+                <span key={t} className="pp-tactics-tag">{t}</span>
+              ))}
+            </div>
+          )}
+
+          {/* Attribute bars */}
+          <div className="pp-tactics-bars">
+            <AttrBar label="Poder ofensivo"      value={offenseScore(manager)} />
+            <AttrBar label="Solidez defensiva"   value={manager.clean_sheet_pct} />
+            <AttrBar label="Posesión media"      value={manager.avg_possession} />
+            <AttrBar label="Efectividad"         value={manager.win_pct} />
+          </div>
+
+          {/* Win record chip */}
+          <div className="pp-tactics-record">
+            <span className="pp-tactics-record-chip pp-tactics-w">{manager.wins}G</span>
+            <span className="pp-tactics-record-chip pp-tactics-d">{manager.draws}E</span>
+            <span className="pp-tactics-record-chip pp-tactics-l">{manager.losses}P</span>
+            <span className="pp-tactics-record-note">últimos {manager.matches_total} partidos</span>
+          </div>
+        </>
+      ) : (
+        <div className="pp-tactics-empty">Sin datos disponibles</div>
+      )}
+    </div>
+  )
+}
+
+function IdentidadTactica({ match, managersData }) {
+  const hm = managersData?.[String(match.home_team_id)] ?? null
+  const am = managersData?.[String(match.away_team_id)] ?? null
+
+  if (!hm && !am) {
+    return (
+      <Card title="Identidad Táctica" badge="Perfil de juego">
+        <div className="pp-card-body">
+          <Unavailable msg="Datos disponibles cuando empiece el torneo" />
+        </div>
+      </Card>
+    )
+  }
+
+  const summary = generateSummary(hm, am, match)
+
+  return (
+    <Card title="Identidad Táctica" badge="Perfil de juego">
+      <div className="pp-tactics-grid">
+        <TeamTactics
+          team={match.home_team}
+          teamId={match.home_team_id}
+          manager={hm}
+        />
+        <div className="pp-tactics-divider" />
+        <TeamTactics
+          team={match.away_team}
+          teamId={match.away_team_id}
+          manager={am}
+        />
+      </div>
+      {summary && (
+        <div className="pp-tactics-summary">{summary}</div>
+      )}
+    </Card>
+  )
+}
+
 // ─── ROOT ─────────────────────────────────────────────────────
 export default function PrePartido({ match }) {
-  const [extra,  setExtra]  = useState(null)
-  const [groups, setGroups] = useState(null)
-  const [odds,   setOdds]   = useState(null)
-  const [ready,  setReady]  = useState(false)
+  const [extra,    setExtra]    = useState(null)
+  const [groups,   setGroups]   = useState(null)
+  const [odds,     setOdds]     = useState(null)
+  const [managers, setManagers] = useState(null)
+  const [ready,    setReady]    = useState(false)
 
   useEffect(() => {
     Promise.all([
       fetch(`${BASE}data/match/${match.id}.json`).then(r => r.ok ? r.json() : null).catch(() => null),
       fetch(`${BASE}data/standings.json`).then(r => r.ok ? r.json() : null).catch(() => null),
       fetch(`${BASE}data/odds.json`).then(r => r.ok ? r.json() : null).catch(() => null),
-    ]).then(([ext, std, oddsFile]) => {
+      fetch(`${BASE}data/managers.json`).then(r => r.ok ? r.json() : null).catch(() => null),
+    ]).then(([ext, std, oddsFile, mgrFile]) => {
       setExtra(ext)
       setGroups(std?.groups ?? null)
       setOdds(oddsFile?.events?.[String(match.id)] ?? null)
+      setManagers(mgrFile?.managers ?? null)
       setReady(true)
     })
   }, [match.id])
@@ -405,10 +564,11 @@ export default function PrePartido({ match }) {
         <div className="pp-loading">Cargando datos…</div>
       ) : (
         <div className="pp-sections">
-          <Probabilidades match={match} pred={extra?.prediction} />
-          <FormaReciente  match={match} groups={groups} />
-          <LineasApuesta  match={match} odds={odds} pred={extra?.prediction} />
-          <H2H            match={match} data={extra?.head_to_head} />
+          <Probabilidades  match={match} pred={extra?.prediction} />
+          <FormaReciente   match={match} groups={groups} />
+          <LineasApuesta   match={match} odds={odds} pred={extra?.prediction} />
+          <IdentidadTactica match={match} managersData={managers} />
+          <H2H             match={match} data={extra?.head_to_head} />
         </div>
       )}
     </div>
