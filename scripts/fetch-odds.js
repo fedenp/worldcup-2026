@@ -27,6 +27,13 @@ function normalize(name) {
 
 // Bidirectional aliases: odds-api name <-> BSD name (both normalized)
 const ALIAS_MAP = {
+  // Turkey ↔ Türkiye (normalized: turkey ↔ turkiye)
+  'turkey':                'turkiye',
+  'turkiye':               'turkey',
+  // Cape Verde (odds-api) ↔ Cabo Verde (BSD)
+  'cape verde':            'cabo verde',
+  'cabo verde':            'cape verde',
+  // Other common mismatches
   'ivory coast':           'cote divoire',
   'cote divoire':          'ivory coast',
   'usa':                   'united states',
@@ -38,8 +45,6 @@ const ALIAS_MAP = {
   'dr congo':              'congo dr',
   'congo dr':              'dr congo',
   'democratic republic of congo': 'congo dr',
-  'cape verde islands':    'cape verde',
-  'cape verde':            'cape verde islands',
   'trinidad and tobago':   'trinidad tobago',
   'trinidad tobago':       'trinidad and tobago',
   'north korea':           'korea dpr',
