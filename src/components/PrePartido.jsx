@@ -301,19 +301,98 @@ function H2H({ match, data }) {
   )
 }
 
+// ─── LÍNEAS DE APUESTA ───────────────────────────────────────
+const VALUE_THRESHOLD = 3  // minimum edge (pp) to show "Valor" badge
+
+function buildValueNote(match, odds, pred) {
+  if (!pred || !odds) return null
+  const candidates = [
+    { label: match.home_team, modelPct: pred.prob_home, impliedPct: odds.implied_home, odd: odds.avg_home },
+    { label: 'Empate',        modelPct: pred.prob_draw, impliedPct: odds.implied_draw, odd: odds.avg_draw },
+    { label: match.away_team, modelPct: pred.prob_away, impliedPct: odds.implied_away, odd: odds.avg_away },
+  ]
+    .filter(c => c.odd && c.modelPct != null && c.impliedPct != null)
+    .map(c => ({ ...c, edge: c.modelPct - c.impliedPct }))
+    .filter(c => c.edge > VALUE_THRESHOLD)
+
+  if (!candidates.length) return null
+  const best = candidates.reduce((a, b) => (a.edge > b.edge ? a : b))
+  return (
+    <>
+      <strong>{best.label}</strong> a {best.odd.toFixed(2)}: nuestro modelo le asigna {best.modelPct}% —
+      {best.edge.toFixed(1)}pp por encima del {best.impliedPct}% implícito de la cuota.
+    </>
+  )
+}
+
+function OddsCell({ label, odd, implied, value }) {
+  return (
+    <div className="pp-odds-cell">
+      <div className="pp-odds-label">{label}</div>
+      {odd != null ? (
+        <>
+          <div className="pp-odds-val">{odd.toFixed(2)}</div>
+          <div className="pp-odds-implied">Implícita: {implied}%</div>
+          {value && <div className="pp-odds-value-badge">⚡ Valor</div>}
+        </>
+      ) : (
+        <div className="pp-odds-val">—</div>
+      )}
+    </div>
+  )
+}
+
+function LineasApuesta({ match, odds, pred }) {
+  if (!odds) {
+    return (
+      <Card title="Líneas de apuesta" badge="Cuotas decimales">
+        <div className="pp-card-body">
+          <Unavailable msg="Disponible próximo al partido" />
+        </div>
+      </Card>
+    )
+  }
+
+  const isValue = {
+    home: pred?.prob_home != null && odds.implied_home != null && (pred.prob_home - odds.implied_home) > VALUE_THRESHOLD,
+    draw: pred?.prob_draw != null && odds.implied_draw != null && (pred.prob_draw - odds.implied_draw) > VALUE_THRESHOLD,
+    away: pred?.prob_away != null && odds.implied_away != null && (pred.prob_away - odds.implied_away) > VALUE_THRESHOLD,
+  }
+
+  const note = buildValueNote(match, odds, pred)
+
+  return (
+    <Card title="Líneas de apuesta" badge={`${odds.bookmakers_count} casas · Promedio`}>
+      <div className="pp-odds-grid">
+        <OddsCell label={match.home_team}  odd={odds.avg_home} implied={odds.implied_home} value={isValue.home} />
+        <OddsCell label="Empate"           odd={odds.avg_draw} implied={odds.implied_draw} value={isValue.draw} />
+        <OddsCell label={match.away_team}  odd={odds.avg_away} implied={odds.implied_away} value={isValue.away} />
+      </div>
+      {note && (
+        <div className="pp-odds-note">
+          💡 <strong>Apuesta de valor:</strong> {note}
+        </div>
+      )}
+    </Card>
+  )
+}
+
 // ─── ROOT ─────────────────────────────────────────────────────
 export default function PrePartido({ match }) {
   const [extra,  setExtra]  = useState(null)
   const [groups, setGroups] = useState(null)
+  const [odds,   setOdds]   = useState(null)
   const [ready,  setReady]  = useState(false)
 
   useEffect(() => {
     Promise.all([
       fetch(`${BASE}data/match/${match.id}.json`).then(r => r.ok ? r.json() : null).catch(() => null),
       fetch(`${BASE}data/standings.json`).then(r => r.ok ? r.json() : null).catch(() => null),
-    ]).then(([ext, std]) => {
+      fetch(`${BASE}data/odds.json`).then(r => r.ok ? r.json() : null).catch(() => null),
+    ]).then(([ext, std, oddsFile]) => {
       setExtra(ext)
       setGroups(std?.groups ?? null)
+      setOdds(oddsFile?.events?.[String(match.id)] ?? null)
       setReady(true)
     })
   }, [match.id])
@@ -328,7 +407,8 @@ export default function PrePartido({ match }) {
         <div className="pp-sections">
           <Probabilidades match={match} pred={extra?.prediction} />
           <FormaReciente  match={match} groups={groups} />
-          <H2H match={match} data={extra?.head_to_head} />
+          <LineasApuesta  match={match} odds={odds} pred={extra?.prediction} />
+          <H2H            match={match} data={extra?.head_to_head} />
         </div>
       )}
     </div>
