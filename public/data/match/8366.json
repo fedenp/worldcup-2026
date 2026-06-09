@@ -5,12 +5,7 @@
     "city": "Atlanta",
     "capacity": 71000
   },
-  "weather": {
-    "code": null,
-    "description": null,
-    "wind_speed": null,
-    "temperature_c": null
-  },
+  "weather": null,
   "prediction": null,
   "head_to_head": null
 }
