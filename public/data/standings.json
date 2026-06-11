@@ -1,9 +1,25 @@
 {
-  "updated_at": "2026-06-11T18:44:09.049Z",
+  "updated_at": "2026-06-11T21:57:15.567Z",
   "groups": {
     "Group A": [
       {
         "position": 1,
+        "team_id": 451,
+        "team_name": "Mexico",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "gf": 2,
+        "ga": 0,
+        "gd": 2,
+        "pts": 3,
+        "xg": 0,
+        "form": "WLDLW",
+        "live": false
+      },
+      {
+        "position": 2,
         "team_id": 930,
         "team_name": "Czechia",
         "played": 0,
@@ -19,39 +35,7 @@
         "live": false
       },
       {
-        "position": 2,
-        "team_id": 451,
-        "team_name": "Mexico",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "gf": 0,
-        "ga": 0,
-        "gd": 0,
-        "pts": 0,
-        "xg": 0,
-        "form": "WLDLW",
-        "live": false
-      },
-      {
         "position": 3,
-        "team_id": 452,
-        "team_name": "South Africa",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "gf": 0,
-        "ga": 0,
-        "gd": 0,
-        "pts": 0,
-        "xg": 0,
-        "form": "",
-        "live": false
-      },
-      {
-        "position": 4,
         "team_id": 453,
         "team_name": "South Korea",
         "played": 0,
@@ -64,6 +48,22 @@
         "pts": 0,
         "xg": 0,
         "form": "WLDWL",
+        "live": false
+      },
+      {
+        "position": 4,
+        "team_id": 452,
+        "team_name": "South Africa",
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "gf": 0,
+        "ga": 2,
+        "gd": -2,
+        "pts": 0,
+        "xg": 0,
+        "form": "",
         "live": false
       }
     ],

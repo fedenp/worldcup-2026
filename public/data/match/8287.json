@@ -6,8 +6,8 @@
     "capacity": 87523
   },
   "weather": {
-    "code": 55,
-    "description": null,
+    "code": 2,
+    "description": "cloudy",
     "wind_speed": 5,
     "temperature_c": 21
   },
