@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T02:59:41.949Z",
+  "updated_at": "2026-06-12T08:19:56.238Z",
   "groups": {
     "Group A": [
       {
@@ -20,35 +20,35 @@
       },
       {
         "position": 2,
-        "team_id": 930,
-        "team_name": "Czechia",
-        "played": 0,
-        "won": 0,
+        "team_id": 453,
+        "team_name": "South Korea",
+        "played": 1,
+        "won": 1,
         "drawn": 0,
         "lost": 0,
-        "gf": 0,
-        "ga": 0,
-        "gd": 0,
-        "pts": 0,
-        "xg": 0,
-        "form": "",
-        "live": true
+        "gf": 2,
+        "ga": 1,
+        "gd": 1,
+        "pts": 3,
+        "xg": 1.8,
+        "form": "WLDWL",
+        "live": false
       },
       {
         "position": 3,
-        "team_id": 453,
-        "team_name": "South Korea",
-        "played": 0,
+        "team_id": 930,
+        "team_name": "Czechia",
+        "played": 1,
         "won": 0,
         "drawn": 0,
-        "lost": 0,
-        "gf": 0,
-        "ga": 0,
-        "gd": 0,
+        "lost": 1,
+        "gf": 1,
+        "ga": 2,
+        "gd": -1,
         "pts": 0,
-        "xg": 0,
-        "form": "WLDWL",
-        "live": true
+        "xg": 0.8,
+        "form": "",
+        "live": false
       },
       {
         "position": 4,
