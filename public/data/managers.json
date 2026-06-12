@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T21:57:36.390Z",
+  "updated_at": "2026-06-12T03:00:37.265Z",
   "managers": {
     "451": {
       "id": 128,
@@ -21,6 +21,27 @@
       "btts_pct": 23.8,
       "over_25_pct": 28.6,
       "stats_updated_at": "2026-06-08T23:30:33.064581+00:00"
+    },
+    "452": {
+      "id": 87,
+      "name": "Hugo Broos",
+      "short_name": "H. Broos",
+      "country": "Belgium",
+      "tactical_profile": "balanced",
+      "preferred_formation": "4-2-3-1",
+      "current_team_id": 452,
+      "matches_total": 25,
+      "wins": 10,
+      "draws": 9,
+      "losses": 6,
+      "win_pct": 40,
+      "avg_goals_scored": 1.24,
+      "avg_goals_conceded": 0.84,
+      "avg_possession": 65.43,
+      "clean_sheet_pct": 44,
+      "btts_pct": 40,
+      "over_25_pct": 40,
+      "stats_updated_at": "2026-06-08T23:30:31.643155+00:00"
     },
     "453": {
       "id": 105,
