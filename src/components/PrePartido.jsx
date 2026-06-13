@@ -707,27 +707,6 @@ const POS_COLORS = {
   F: '#F87171',
 }
 
-function generateFormationLayout(formationStr) {
-  if (!formationStr) return null
-  const lines = formationStr.split('-').map(Number).filter(n => !isNaN(n) && n > 0)
-  if (lines.length < 2 || lines.length > 4) return null
-  const total = lines.reduce((s, n) => s + n, 0)
-  if (total !== 10) return null
-
-  const players = [{ pos: 'G', x: 6, y: 50, name: 'POR', player_id: 'syn-GK', n: 50 }]
-  const posGroups = lines.map((_, i) => (i === 0 ? 'D' : i === lines.length - 1 ? 'F' : 'M'))
-  const xPos = lines.map((_, i) => 18 + (i + 1) * (65 / (lines.length + 1)))
-
-  lines.forEach((count, li) => {
-    const pos = posGroups[li]
-    const x = xPos[li]
-    for (let i = 0; i < count; i++) {
-      players.push({ pos, x, y: (100 / (count + 1)) * (i + 1), name: pos, player_id: `syn-${pos}-${li}-${i}`, n: 50 })
-    }
-  })
-  return players
-}
-
 function buildConnections(players) {
   const byPos = {}
   for (const p of players) (byPos[p.pos] = byPos[p.pos] || []).push(p)
@@ -831,17 +810,14 @@ function PitchSVG({ players, isSynthetic }) {
   )
 }
 
-function RedDePases({ match, positions, managersData }) {
+function RedDePases({ match, positions, fallbackPositions }) {
   const [side, setSide] = useState('home')
 
-  const homePos = positions?.home ?? null
-  const awayPos = positions?.away ?? null
+  const homePos = positions?.home ?? fallbackPositions?.home ?? null
+  const awayPos = positions?.away ?? fallbackPositions?.away ?? null
   const curPos  = side === 'home' ? homePos : awayPos
-  const teamId  = side === 'home' ? match.home_team_id : match.away_team_id
-  const mgr     = managersData?.[String(teamId)] ?? null
-  const synthetic = generateFormationLayout(mgr?.preferred_formation ?? null)
-  const displayPos  = curPos ?? synthetic
-  const isSynthetic = !curPos
+  const isCurrentMatch = !!positions
+  const isFallback = !isCurrentMatch && (homePos !== null || awayPos !== null)
 
   const POS_LEGEND = [
     { col: POS_COLORS.G, lbl: 'Portero' },
@@ -849,6 +825,12 @@ function RedDePases({ match, positions, managersData }) {
     { col: POS_COLORS.M, lbl: 'Mediocampista' },
     { col: POS_COLORS.F, lbl: 'Delantero' },
   ]
+
+  const noteText = isCurrentMatch
+    ? 'Tamaño del nodo = toques con el balón'
+    : isFallback
+    ? 'Posiciones del último partido · Referencia pre-partido'
+    : null
 
   return (
     <Card title="Red de Pases" badge="Posiciones promedio">
@@ -861,15 +843,15 @@ function RedDePases({ match, positions, managersData }) {
         </button>
       </div>
 
-      {displayPos ? (
-        <PitchSVG players={displayPos} isSynthetic={isSynthetic} />
+      {curPos ? (
+        <PitchSVG players={curPos} isSynthetic={false} />
       ) : (
         <div className="pp-card-body" style={{ paddingBottom: 28 }}>
           <Unavailable msg="Disponible tras el primer partido" />
         </div>
       )}
 
-      {displayPos && (
+      {(homePos || awayPos) && (
         <>
           <div className="pp-pn-legend">
             {POS_LEGEND.map(({ col, lbl }) => (
@@ -879,11 +861,7 @@ function RedDePases({ match, positions, managersData }) {
               </span>
             ))}
           </div>
-          <div className="pp-pn-note">
-            {isSynthetic
-              ? `Posiciones de referencia · Formación ${mgr?.preferred_formation ?? '—'}`
-              : 'Tamaño del nodo = toques con el balón'}
-          </div>
+          {noteText && <div className="pp-pn-note">{noteText}</div>}
         </>
       )}
     </Card>
@@ -892,28 +870,65 @@ function RedDePases({ match, positions, managersData }) {
 
 // ─── ROOT ─────────────────────────────────────────────────────
 export default function PrePartido({ match }) {
-  const [extra,       setExtra]       = useState(null)
-  const [groups,      setGroups]      = useState(null)
-  const [odds,        setOdds]        = useState(null)
-  const [managers,    setManagers]    = useState(null)
-  const [teamHistory, setTeamHistory] = useState(null)
-  const [ready,       setReady]       = useState(false)
+  const [extra,             setExtra]             = useState(null)
+  const [groups,            setGroups]            = useState(null)
+  const [odds,              setOdds]              = useState(null)
+  const [managers,          setManagers]          = useState(null)
+  const [teamHistory,       setTeamHistory]       = useState(null)
+  const [fallbackPositions, setFallbackPositions] = useState({ home: null, away: null })
+  const [ready,             setReady]             = useState(false)
 
   useEffect(() => {
-    Promise.all([
-      fetch(`${BASE}data/match/${match.id}.json`).then(r => r.ok ? r.json() : null).catch(() => null),
-      fetch(`${BASE}data/standings.json`).then(r => r.ok ? r.json() : null).catch(() => null),
-      fetch(`${BASE}data/odds.json`).then(r => r.ok ? r.json() : null).catch(() => null),
-      fetch(`${BASE}data/managers.json`).then(r => r.ok ? r.json() : null).catch(() => null),
-      fetch(`${BASE}data/team_history.json`).then(r => r.ok ? r.json() : null).catch(() => null),
-    ]).then(([ext, std, oddsFile, mgrFile, histFile]) => {
+    async function load() {
+      const safe = p => p.then(r => r.ok ? r.json() : null).catch(() => null)
+      const [ext, std, oddsFile, mgrFile, histFile, allMatches] = await Promise.all([
+        safe(fetch(`${BASE}data/match/${match.id}.json`)),
+        safe(fetch(`${BASE}data/standings.json`)),
+        safe(fetch(`${BASE}data/odds.json`)),
+        safe(fetch(`${BASE}data/managers.json`)),
+        safe(fetch(`${BASE}data/team_history.json`)),
+        safe(fetch(`${BASE}data/matches.json`)),
+      ])
+
       setExtra(ext)
       setGroups(std?.groups ?? null)
       setOdds(oddsFile?.events?.[String(match.id)] ?? null)
       setManagers(mgrFile?.managers ?? null)
       setTeamHistory(histFile)
+
+      // Phase 2: fetch last-played positions for future matches
+      let fbPos = { home: null, away: null }
+      if (!ext?.average_positions && Array.isArray(allMatches)) {
+        const ftMatches = allMatches.filter(m => m.status === 'FT' && m.id !== match.id)
+        const byDate = (a, b) => new Date(b.kickoff_at) - new Date(a.kickoff_at)
+
+        const lastHome = ftMatches
+          .filter(m => m.home_team_id === match.home_team_id || m.away_team_id === match.home_team_id)
+          .sort(byDate)[0] ?? null
+
+        const lastAway = ftMatches
+          .filter(m => m.home_team_id === match.away_team_id || m.away_team_id === match.away_team_id)
+          .sort(byDate)[0] ?? null
+
+        const ids = [...new Set([lastHome?.id, lastAway?.id].filter(Boolean))]
+        const fetched = await Promise.all(ids.map(id => safe(fetch(`${BASE}data/match/${id}.json`))))
+        const cache = Object.fromEntries(ids.map((id, i) => [id, fetched[i]]))
+
+        if (lastHome && cache[lastHome.id]?.average_positions) {
+          const side = lastHome.home_team_id === match.home_team_id ? 'home' : 'away'
+          fbPos.home = cache[lastHome.id].average_positions[side]
+        }
+        if (lastAway && cache[lastAway.id]?.average_positions) {
+          const side = lastAway.home_team_id === match.away_team_id ? 'home' : 'away'
+          fbPos.away = cache[lastAway.id].average_positions[side]
+        }
+      }
+
+      setFallbackPositions(fbPos)
       setReady(true)
-    })
+    }
+
+    load()
   }, [match.id])
 
   return (
@@ -929,7 +944,7 @@ export default function PrePartido({ match }) {
           <LineasApuesta        match={match} odds={odds} pred={extra?.prediction} />
           <IdentidadTactica     match={match} managersData={managers} />
           <MatrizAtaqueDefensa  match={match} teamHistory={teamHistory} />
-          <RedDePases           match={match} positions={extra?.average_positions} managersData={managers} />
+          <RedDePases           match={match} positions={extra?.average_positions} fallbackPositions={fallbackPositions} />
           <H2H                  match={match} data={extra?.head_to_head} />
         </div>
       )}
