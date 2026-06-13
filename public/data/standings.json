@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T17:17:49.093Z",
+  "updated_at": "2026-06-13T21:09:16.049Z",
   "groups": {
     "Group A": [
       {
@@ -104,14 +104,14 @@
         "position": 3,
         "team_id": 461,
         "team_name": "Qatar",
-        "played": 0,
+        "played": 1,
         "won": 0,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 0,
-        "gf": 0,
-        "ga": 0,
+        "gf": 1,
+        "ga": 1,
         "gd": 0,
-        "pts": 0,
+        "pts": 1,
         "xg": 0,
         "form": "LLL",
         "live": false
@@ -120,14 +120,14 @@
         "position": 4,
         "team_id": 462,
         "team_name": "Switzerland",
-        "played": 0,
+        "played": 1,
         "won": 0,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 0,
-        "gf": 0,
-        "ga": 0,
+        "gf": 1,
+        "ga": 1,
         "gd": 0,
-        "pts": 0,
+        "pts": 1,
         "xg": 0,
         "form": "WLWDW",
         "live": false

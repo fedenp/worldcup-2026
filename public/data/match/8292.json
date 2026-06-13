@@ -6,8 +6,8 @@
     "capacity": 68500
   },
   "weather": {
-    "code": 0,
-    "description": "unknown",
+    "code": 2,
+    "description": "cloudy",
     "wind_speed": 9.4,
     "temperature_c": 33
   },
@@ -22,5 +22,266 @@
     "confidence": 0.5886
   },
   "head_to_head": null,
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 22,
+        "x": 81.5,
+        "y": 47.8,
+        "pos": "F",
+        "name": "B. Embolo",
+        "player_id": 2811
+      },
+      {
+        "n": 39,
+        "x": 9.3,
+        "y": 50.7,
+        "pos": "G",
+        "name": "G. Kobel",
+        "player_id": 2155
+      },
+      {
+        "n": 14,
+        "x": 66.2,
+        "y": 75.8,
+        "pos": "F",
+        "name": "Z. Amdouni",
+        "player_id": 22868
+      },
+      {
+        "n": 11,
+        "x": 78,
+        "y": 20.9,
+        "pos": "M",
+        "name": "F. Rieder",
+        "player_id": 2404
+      },
+      {
+        "n": 110,
+        "x": 47.8,
+        "y": 39.2,
+        "pos": "D",
+        "name": "N. Elvedi",
+        "player_id": 2869
+      },
+      {
+        "n": 121,
+        "x": 46.4,
+        "y": 59.1,
+        "pos": "D",
+        "name": "M. Akanji",
+        "player_id": 1679
+      },
+      {
+        "n": 22,
+        "x": 70.4,
+        "y": 35.3,
+        "pos": "M",
+        "name": "J. Manzambi",
+        "player_id": 1178
+      },
+      {
+        "n": 70,
+        "x": 79.2,
+        "y": 79.4,
+        "pos": "M",
+        "name": "R. Vargas",
+        "player_id": 3803
+      },
+      {
+        "n": 10,
+        "x": 48,
+        "y": 87.4,
+        "pos": "M",
+        "name": "M. Muheim",
+        "player_id": 1596
+      },
+      {
+        "n": 43,
+        "x": 70.8,
+        "y": 29,
+        "pos": "M",
+        "name": "D. Ndoye",
+        "player_id": 551
+      },
+      {
+        "n": 11,
+        "x": 56.8,
+        "y": 59,
+        "pos": "M",
+        "name": "A. Jashari",
+        "player_id": 2005
+      },
+      {
+        "n": 51,
+        "x": 63.2,
+        "y": 29.8,
+        "pos": "M",
+        "name": "M. Aebischer",
+        "player_id": 1660
+      },
+      {
+        "n": 97,
+        "x": 64.1,
+        "y": 16.4,
+        "pos": "M",
+        "name": "D. Zakaria",
+        "player_id": 3616
+      },
+      {
+        "n": 85,
+        "x": 58.3,
+        "y": 42.2,
+        "pos": "M",
+        "name": "G. Xhaka",
+        "player_id": 348
+      },
+      {
+        "n": 66,
+        "x": 64.8,
+        "y": 65.6,
+        "pos": "M",
+        "name": "R. Freuler",
+        "player_id": 4266
+      },
+      {
+        "n": 94,
+        "x": 57.3,
+        "y": 81.2,
+        "pos": "D",
+        "name": "R. Rodríguez",
+        "player_id": 1582
+      }
+    ],
+    "home": [
+      {
+        "n": 30,
+        "x": 29.7,
+        "y": 19.6,
+        "pos": "D",
+        "name": "A. A. Oui",
+        "player_id": 53905
+      },
+      {
+        "n": 45,
+        "x": 37.8,
+        "y": 85.3,
+        "pos": "D",
+        "name": "H. Al-Amin",
+        "player_id": 35888
+      },
+      {
+        "n": 35,
+        "x": 38.8,
+        "y": 37.4,
+        "pos": "M",
+        "name": "A. Madibo",
+        "player_id": 53918
+      },
+      {
+        "n": 30,
+        "x": 48.7,
+        "y": 56.9,
+        "pos": "F",
+        "name": "Y. Abdurisag",
+        "player_id": 53912
+      },
+      {
+        "n": 37,
+        "x": 52.1,
+        "y": 57.2,
+        "pos": "M",
+        "name": "E. Junior",
+        "player_id": 53911
+      },
+      {
+        "n": 20,
+        "x": 28.4,
+        "y": 24.9,
+        "pos": "M",
+        "name": "J. G. Abdulsallam",
+        "player_id": 53908
+      },
+      {
+        "n": 13,
+        "x": 45,
+        "y": 35.7,
+        "pos": "F",
+        "name": "A. Alaaeldin",
+        "player_id": 53917
+      },
+      {
+        "n": 29,
+        "x": 36,
+        "y": 63.3,
+        "pos": "M",
+        "name": "K. Boudiaf",
+        "player_id": 53916
+      },
+      {
+        "n": 22,
+        "x": 40.1,
+        "y": 45,
+        "pos": "M",
+        "name": "A. Fathi",
+        "player_id": 53909
+      },
+      {
+        "n": 12,
+        "x": 37.8,
+        "y": 34.6,
+        "pos": "M",
+        "name": "M. N. Almanai",
+        "player_id": 53914
+      },
+      {
+        "n": 45,
+        "x": 52.9,
+        "y": 45.8,
+        "pos": "M",
+        "name": "A. Afif",
+        "player_id": 53913
+      },
+      {
+        "n": 3,
+        "x": 42.6,
+        "y": 18.1,
+        "pos": "F",
+        "name": "H. A. Haydos",
+        "player_id": 53923
+      },
+      {
+        "n": 48,
+        "x": 31,
+        "y": 66.6,
+        "pos": "D",
+        "name": "I. Laye",
+        "player_id": 53910
+      },
+      {
+        "n": 61,
+        "x": 26.2,
+        "y": 40.4,
+        "pos": "D",
+        "name": "B. Khoukhi",
+        "player_id": 53907
+      },
+      {
+        "n": 51,
+        "x": 27.5,
+        "y": 28.3,
+        "pos": "D",
+        "name": "P. Miguel",
+        "player_id": 53906
+      },
+      {
+        "n": 59,
+        "x": 7.8,
+        "y": 50.9,
+        "pos": "G",
+        "name": "M. I. Abunad",
+        "player_id": 53904
+      }
+    ]
+  }
 }
