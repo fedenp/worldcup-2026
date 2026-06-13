@@ -6,10 +6,10 @@
     "capacity": 80000
   },
   "weather": {
-    "code": null,
-    "description": null,
-    "wind_speed": null,
-    "temperature_c": null
+    "code": 0,
+    "description": "unknown",
+    "wind_speed": 28.9,
+    "temperature_c": 34
   },
   "prediction": {
     "prob_home": 30.8,
