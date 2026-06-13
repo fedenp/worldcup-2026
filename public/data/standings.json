@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T02:51:43.573Z",
+  "updated_at": "2026-06-13T07:42:11.713Z",
   "groups": {
     "Group A": [
       {
@@ -202,6 +202,22 @@
     "Group D": [
       {
         "position": 1,
+        "team_id": 457,
+        "team_name": "USA",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "gf": 4,
+        "ga": 1,
+        "gd": 3,
+        "pts": 3,
+        "xg": 1.3,
+        "form": "WDDLD",
+        "live": false
+      },
+      {
+        "position": 2,
         "team_id": 459,
         "team_name": "Australia",
         "played": 0,
@@ -215,22 +231,6 @@
         "xg": 0,
         "form": "WWLLD",
         "live": false
-      },
-      {
-        "position": 2,
-        "team_id": 458,
-        "team_name": "Paraguay",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "gf": 0,
-        "ga": 0,
-        "gd": 0,
-        "pts": 0,
-        "xg": 0,
-        "form": "",
-        "live": true
       },
       {
         "position": 3,
@@ -250,19 +250,19 @@
       },
       {
         "position": 4,
-        "team_id": 457,
-        "team_name": "USA",
-        "played": 0,
+        "team_id": 458,
+        "team_name": "Paraguay",
+        "played": 1,
         "won": 0,
         "drawn": 0,
-        "lost": 0,
-        "gf": 0,
-        "ga": 0,
-        "gd": 0,
+        "lost": 1,
+        "gf": 1,
+        "ga": 4,
+        "gd": -3,
         "pts": 0,
-        "xg": 0,
-        "form": "WDDLD",
-        "live": true
+        "xg": 0.5,
+        "form": "",
+        "live": false
       }
     ],
     "Group E": [
