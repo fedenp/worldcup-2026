@@ -810,14 +810,27 @@ function PitchSVG({ players, isSynthetic }) {
   )
 }
 
+const NOTE_BY_SOURCE = {
+  current: 'Tamaño del nodo = toques con el balón',
+  wc:      'Posiciones del último partido Mundial · Referencia',
+  intl:    'Último partido internacional · Referencia pre-partido',
+}
+
 function RedDePases({ match, positions, fallbackPositions }) {
   const [side, setSide] = useState('home')
 
-  const homePos = positions?.home ?? fallbackPositions?.home ?? null
-  const awayPos = positions?.away ?? fallbackPositions?.away ?? null
-  const curPos  = side === 'home' ? homePos : awayPos
-  const isCurrentMatch = !!positions
-  const isFallback = !isCurrentMatch && (homePos !== null || awayPos !== null)
+  // Resolve per-side data objects: { positions, source } | null
+  const homeData = positions?.home
+    ? { positions: positions.home, source: 'current' }
+    : fallbackPositions?.home ?? null
+
+  const awayData = positions?.away
+    ? { positions: positions.away, source: 'current' }
+    : fallbackPositions?.away ?? null
+
+  const curData = side === 'home' ? homeData : awayData
+  const curPos  = curData?.positions ?? null
+  const noteText = curData ? (NOTE_BY_SOURCE[curData.source] ?? null) : null
 
   const POS_LEGEND = [
     { col: POS_COLORS.G, lbl: 'Portero' },
@@ -825,12 +838,6 @@ function RedDePases({ match, positions, fallbackPositions }) {
     { col: POS_COLORS.M, lbl: 'Mediocampista' },
     { col: POS_COLORS.F, lbl: 'Delantero' },
   ]
-
-  const noteText = isCurrentMatch
-    ? 'Tamaño del nodo = toques con el balón'
-    : isFallback
-    ? 'Posiciones del último partido · Referencia pre-partido'
-    : null
 
   return (
     <Card title="Red de Pases" badge="Posiciones promedio">
@@ -851,7 +858,7 @@ function RedDePases({ match, positions, fallbackPositions }) {
         </div>
       )}
 
-      {(homePos || awayPos) && (
+      {(homeData || awayData) && (
         <>
           <div className="pp-pn-legend">
             {POS_LEGEND.map(({ col, lbl }) => (
@@ -896,8 +903,10 @@ export default function PrePartido({ match }) {
       setManagers(mgrFile?.managers ?? null)
       setTeamHistory(histFile)
 
-      // Phase 2: fetch last-played positions for future matches
-      let fbPos = { home: null, away: null }
+      // fallbackPositions shape: { home: { positions, source } | null, away: ... }
+      const fbPos = { home: null, away: null }
+
+      // Phase 2: last WC match positions for future matches
       if (!ext?.average_positions && Array.isArray(allMatches)) {
         const ftMatches = allMatches.filter(m => m.status === 'FT' && m.id !== match.id)
         const byDate = (a, b) => new Date(b.kickoff_at) - new Date(a.kickoff_at)
@@ -916,11 +925,24 @@ export default function PrePartido({ match }) {
 
         if (lastHome && cache[lastHome.id]?.average_positions) {
           const side = lastHome.home_team_id === match.home_team_id ? 'home' : 'away'
-          fbPos.home = cache[lastHome.id].average_positions[side]
+          fbPos.home = { positions: cache[lastHome.id].average_positions[side], source: 'wc' }
         }
         if (lastAway && cache[lastAway.id]?.average_positions) {
           const side = lastAway.home_team_id === match.away_team_id ? 'home' : 'away'
-          fbPos.away = cache[lastAway.id].average_positions[side]
+          fbPos.away = { positions: cache[lastAway.id].average_positions[side], source: 'wc' }
+        }
+      }
+
+      // Phase 3: last international match from last-positions.json
+      const lastPos = await safe(fetch(`${BASE}data/last-positions.json`))
+      if (lastPos?.teams) {
+        if (!fbPos.home) {
+          const t = lastPos.teams[String(match.home_team_id)]
+          if (t?.positions?.length) fbPos.home = { positions: t.positions, source: 'intl' }
+        }
+        if (!fbPos.away) {
+          const t = lastPos.teams[String(match.away_team_id)]
+          if (t?.positions?.length) fbPos.away = { positions: t.positions, source: 'intl' }
         }
       }
 
