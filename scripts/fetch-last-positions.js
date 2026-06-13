@@ -31,13 +31,14 @@ try {
   }
 } catch {}
 
-const API_KEY    = process.env.API_FOOTBALL_KEY
-const API_BASE   = 'https://v3.football.api-sports.io'
-const CACHE_PATH = path.resolve('.team_id_cache.json')
-const STD_PATH   = path.resolve('public/data/standings.json')
-const OUT_PATH   = path.resolve('public/data/last-positions.json')
-const SEASONS    = [2025, 2024]
-const DELAY_MS   = 1300
+const API_KEY       = process.env.API_FOOTBALL_KEY
+const API_BASE      = 'https://v3.football.api-sports.io'
+const CACHE_PATH    = path.resolve('.team_id_cache.json')
+const PROGRESS_PATH = path.resolve('.last_positions_progress.json')
+const STD_PATH      = path.resolve('public/data/standings.json')
+const OUT_PATH      = path.resolve('public/data/last-positions.json')
+const SEASONS       = [2025, 2024]
+const DELAY_MS      = 6500   // 10 req/min limit → 6.5s = ~9 req/min con margen
 
 const limitArg = process.argv.indexOf('--limit')
 const LIMIT    = limitArg !== -1 ? parseInt(process.argv[limitArg + 1]) : Infinity
@@ -65,6 +66,7 @@ Run fetch-team-history.js first to generate the team ID cache:
 }
 
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)) }
+function wait() { process.stdout.write(`  ⏳ ${DELAY_MS / 1000}s...\n`); return sleep(DELAY_MS) }
 
 async function apiGet(endpoint, params = {}) {
   const url = new URL(`${API_BASE}${endpoint}`)
@@ -176,39 +178,56 @@ function lineupToPositions(startXI) {
 
 // ─── MAIN ─────────────────────────────────────────────────────
 async function main() {
-  const idCache  = JSON.parse(fs.readFileSync(CACHE_PATH, 'utf8'))
-  const std      = JSON.parse(fs.readFileSync(STD_PATH, 'utf8'))
+  const idCache = JSON.parse(fs.readFileSync(CACHE_PATH, 'utf8'))
+  const std     = JSON.parse(fs.readFileSync(STD_PATH, 'utf8'))
 
   const bsdTeams = []
   for (const rows of Object.values(std.groups)) {
     for (const row of rows) bsdTeams.push({ id: row.team_id, name: row.team_name })
   }
 
-  const teams = bsdTeams.slice(0, LIMIT)
+  const teams     = bsdTeams.slice(0, LIMIT)
   const approxReq = teams.filter(t => idCache[t.id]).length * 2
   console.log(`\n📋 ${teams.length} equipos · ${Object.keys(idCache).length} IDs cacheados`)
+  console.log(`⏱  Delay: ${DELAY_MS / 1000}s entre requests (~9 req/min)`)
   console.log(`⚠️  Requests estimados: ~${approxReq} (límite diario: 100/día)\n`)
 
-  const result = {}
-  let found = 0
+  // Load progress — allows Ctrl+C and resume
+  let progress = {}
+  if (fs.existsSync(PROGRESS_PATH)) {
+    progress = JSON.parse(fs.readFileSync(PROGRESS_PATH, 'utf8'))
+    console.log(`🔄 Retomando: ${Object.keys(progress).length} equipos ya procesados\n`)
+  }
 
-  for (const team of teams) {
+  let found = Object.keys(progress).length
+
+  for (let i = 0; i < teams.length; i++) {
+    const team  = teams[i]
+    const tag   = `[${i + 1}/${teams.length}] ${team.name}`
     const apiId = idCache[team.id]
+
     if (!apiId) {
-      console.log(`  ✗ ${team.name}: no cached API-Football ID`)
+      console.log(`  ✗  ${tag}: sin ID API-Football`)
+      continue
+    }
+
+    // Skip already-processed teams
+    if (progress[team.id]) {
+      const p = progress[team.id]
+      console.log(`  ⏭  ${tag}: ya procesado (${p.fixture_date} vs ${p.opponent} · ${p.formation})`)
       continue
     }
 
     // ── Step 1: find most recent finished fixture ──────────────
     let lastFixture = null
     for (const season of SEASONS) {
-      process.stdout.write(`  ${team.name} (s${season})`)
+      process.stdout.write(`  ${tag} (s${season})`)
       let fixtures = []
       try {
         fixtures = await apiGet('/fixtures', { team: apiId, season })
       } catch (e) {
         process.stdout.write(` ⚠ ${e.message}\n`)
-        await sleep(DELAY_MS)
+        await wait()
         continue
       }
 
@@ -216,18 +235,18 @@ async function main() {
         .filter(f => ['FT', 'AET', 'PEN'].includes(f.fixture?.status?.short))
         .sort((a, b) => b.fixture.timestamp - a.fixture.timestamp)
 
-      process.stdout.write(` → ${finished.length} finished`)
+      process.stdout.write(` → ${finished.length} terminados`)
 
       if (finished.length > 0) {
         lastFixture = finished[0]
         break
       }
-      await sleep(DELAY_MS)
+      await wait()
     }
 
     if (!lastFixture) {
-      process.stdout.write(` → no finished fixtures found\n`)
-      await sleep(DELAY_MS)
+      process.stdout.write(` → sin fixtures terminados\n`)
+      await wait()
       continue
     }
 
@@ -239,13 +258,13 @@ async function main() {
     process.stdout.write(` · ${fixtureDate} vs ${opponent} ${score}`)
 
     // ── Step 2: fetch lineup for that fixture ──────────────────
-    await sleep(DELAY_MS)
+    await wait()
     let lineupResponse
     try {
       lineupResponse = await apiGet('/fixtures', { id: fixtureId })
     } catch (e) {
-      process.stdout.write(` ⚠ lineup fetch: ${e.message}\n`)
-      await sleep(DELAY_MS)
+      process.stdout.write(` ⚠ lineup: ${e.message}\n`)
+      await wait()
       continue
     }
 
@@ -254,19 +273,17 @@ async function main() {
     const teamLineup  = lineups.find(l => l.team.id === apiId)
 
     if (!teamLineup?.startXI?.length) {
-      process.stdout.write(` → no lineup\n`)
-      await sleep(DELAY_MS)
+      process.stdout.write(` → sin lineup\n`)
       continue
     }
 
     const positions = lineupToPositions(teamLineup.startXI)
     if (!positions) {
-      process.stdout.write(` → position parse failed\n`)
-      await sleep(DELAY_MS)
+      process.stdout.write(` → parse fallido\n`)
       continue
     }
 
-    result[team.id] = {
+    const record = {
       team_name:       team.name,
       api_football_id: apiId,
       fixture_id:      fixtureId,
@@ -275,29 +292,38 @@ async function main() {
       formation:       teamLineup.formation ?? '?',
       positions,
     }
+
+    // Save to progress immediately (survives Ctrl+C)
+    progress[team.id] = record
+    fs.writeFileSync(PROGRESS_PATH, JSON.stringify(progress, null, 2))
+
     found++
     process.stdout.write(` ✓ ${positions.length} jugadores (${teamLineup.formation})\n`)
-    await sleep(DELAY_MS)
   }
 
-  // ─── Save output ───────────────────────────────────────────
+  // ─── Build and save final output ───────────────────────────
   const output = {
-    updated_at:     new Date().toISOString(),
-    note:           'Posiciones del último partido internacional por equipo (API-Football lineups → coordenadas x/y)',
+    updated_at:      new Date().toISOString(),
+    note:            'Posiciones del último partido internacional por equipo (API-Football lineups → coordenadas x/y)',
     teams_with_data: found,
-    teams:          result,
+    teams:           progress,
   }
   fs.writeFileSync(OUT_PATH, JSON.stringify(output, null, 2))
-
   console.log(`\n✅ ${found}/${teams.length} equipos → public/data/last-positions.json`)
+
+  if (found < teams.length) {
+    console.log('💡 Para retomar: volvé a correr el script. El progreso está en .last_positions_progress.json')
+  } else {
+    if (fs.existsSync(PROGRESS_PATH)) fs.unlinkSync(PROGRESS_PATH)
+    console.log('🧹 Progreso limpiado (.last_positions_progress.json eliminado)')
+  }
 
   // ─── Summary ───────────────────────────────────────────────
   const byMonth = {}
-  for (const t of Object.values(result)) {
+  for (const t of Object.values(progress)) {
     const m = t.fixture_date.slice(0, 7)
     byMonth[m] = (byMonth[m] ?? 0) + 1
   }
-
   if (Object.keys(byMonth).length) {
     console.log('\n📅 Datos por mes:')
     for (const [month, count] of Object.entries(byMonth).sort()) {
@@ -305,7 +331,7 @@ async function main() {
     }
   }
 
-  const noData = teams.filter(t => idCache[t.id] && !result[t.id])
+  const noData = teams.filter(t => idCache[t.id] && !progress[t.id])
   if (noData.length) {
     console.log(`\n⚠️  Sin datos: ${noData.map(t => t.name).join(', ')}`)
   }

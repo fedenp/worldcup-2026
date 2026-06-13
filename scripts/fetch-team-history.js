@@ -55,7 +55,15 @@ Get a free key at https://dashboard.api-football.com/
   process.exit(1)
 }
 
+const DELAY_MS   = 6500   // 10 req/min limit → 6.5s delay = ~9 req/min with margin
+const PROGRESS_PATH = path.resolve('.team_history_progress.json')
+
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)) }
+
+function wait(label) {
+  process.stdout.write(`  ⏳ ${DELAY_MS / 1000}s...\n`)
+  return sleep(DELAY_MS)
+}
 
 async function apiGet(endpoint, params = {}) {
   const url = new URL(`${API_BASE}${endpoint}`)
@@ -168,9 +176,9 @@ async function main() {
   let idCache = {}
   if (fs.existsSync(CACHE_PATH)) {
     idCache = JSON.parse(fs.readFileSync(CACHE_PATH, 'utf8'))
-    console.log(`📦 Loaded ID cache (${Object.keys(idCache).length} entries) — skipping search phase\n`)
+    console.log(`📦 ID cache: ${Object.keys(idCache).length} entradas — saltando Phase 1\n`)
   } else {
-    console.log('🔍 Phase 1: Searching API-Football team IDs…')
+    console.log('🔍 Phase 1: Buscando IDs en API-Football…')
     for (const team of bsdTeams) {
       process.stdout.write(`  ${team.name}`)
       const apiId = await findApiId(team.name)
@@ -180,67 +188,102 @@ async function main() {
       } else {
         process.stdout.write(' → ✗ not found\n')
       }
-      await sleep(1300)
+      await wait()
     }
     fs.writeFileSync(CACHE_PATH, JSON.stringify(idCache, null, 2))
-    console.log(`\n💾 Saved ID cache to .team_id_cache.json\n`)
+    console.log(`\n💾 ID cache guardado en .team_id_cache.json\n`)
   }
 
-  // Phase 2: fetch fixtures
+  // Phase 2: fetch fixtures — with resume support
   const SEASONS = [2024, 2023]
-  console.log(`📊 Phase 2: Fetching fixtures (seasons: ${SEASONS.join(', ')})…`)
 
-  const teams = {}
-  let total = 0
+  // Load progress (allows Ctrl+C and resume)
+  let progress = {}
+  if (fs.existsSync(PROGRESS_PATH)) {
+    progress = JSON.parse(fs.readFileSync(PROGRESS_PATH, 'utf8'))
+    console.log(`🔄 Retomando: ${Object.keys(progress).length} equipos ya procesados\n`)
+  }
 
-  for (const bsdTeam of bsdTeams) {
+  console.log(`📊 Phase 2: Fixtures (seasons: ${SEASONS.join(', ')}) — ${DELAY_MS / 1000}s entre requests\n`)
+
+  let done = 0
+
+  for (let i = 0; i < bsdTeams.length; i++) {
+    const bsdTeam = bsdTeams[i]
+    const tag = `[${i + 1}/${bsdTeams.length}] ${bsdTeam.name}`
+
+    // Skip already processed teams
+    if (progress[bsdTeam.id]) {
+      const p = progress[bsdTeam.id]
+      console.log(`  ⏭  ${tag}: ya procesado (${p.goals_for_avg} GF/p · ${p.goals_against_avg} GA/p · n=${p.matches_used})`)
+      done++
+      continue
+    }
+
     const apiId = idCache[bsdTeam.id]
     if (!apiId) {
-      console.log(`  ✗ ${bsdTeam.name}: no API-Football ID`)
+      console.log(`  ✗  ${tag}: sin ID API-Football`)
       continue
     }
 
     let combinedFixtures = []
     for (const season of SEASONS) {
-      process.stdout.write(`  ${bsdTeam.name} (s${season})`)
+      process.stdout.write(`  ${tag} (s${season})`)
       const fixtures = await fetchFixturesBySeason(apiId, season)
       combinedFixtures = combinedFixtures.concat(fixtures)
-      process.stdout.write(` → ${fixtures.length} matches\n`)
-      await sleep(1300)
-      if (combinedFixtures.length >= 15) break  // enough data
+      process.stdout.write(` → ${fixtures.length} partidos\n`)
+      await wait()
+      if (combinedFixtures.length >= 15) break
     }
 
     const stats = computeStats(combinedFixtures, apiId)
     if (!stats) {
-      console.log(`  ✗ ${bsdTeam.name}: no usable fixture data`)
+      console.log(`  ✗  ${tag}: sin datos de fixture`)
       continue
     }
 
-    teams[bsdTeam.id] = {
+    const record = {
       team_id:           bsdTeam.id,
       team_name:         bsdTeam.name,
       api_football_id:   apiId,
-      // Using goals as xG proxy (API-Football free plan doesn't include xG)
       xg_for_avg:        stats.goals_for_avg,
       xg_against_avg:    stats.goals_against_avg,
       goals_for_avg:     stats.goals_for_avg,
       goals_against_avg: stats.goals_against_avg,
       matches_used:      stats.matches_used,
     }
-    console.log(`  ✓ ${bsdTeam.name}: ${stats.goals_for_avg} goles/p | ${stats.goals_against_avg} concedidos | n=${stats.matches_used}`)
-    total++
+
+    // Save to progress immediately (survives Ctrl+C)
+    progress[bsdTeam.id] = record
+    fs.writeFileSync(PROGRESS_PATH, JSON.stringify(progress, null, 2))
+
+    console.log(`  ✓  ${tag}: ${stats.goals_for_avg} GF/p · ${stats.goals_against_avg} GA/p · n=${stats.matches_used}`)
+    done++
   }
 
-  // Save JSON for frontend
+  // Build final output from progress
+  const teams = {}
+  for (const bsdTeam of bsdTeams) {
+    if (progress[bsdTeam.id]) teams[bsdTeam.id] = progress[bsdTeam.id]
+  }
+
   const output = {
     updated_at: new Date().toISOString(),
-    data_type: 'goals',
-    note: 'Goles promedio históricos (proxy de xG). Plan free de API-Football no incluye xG.',
+    data_type:  'goals',
+    note:       'Goles promedio históricos (proxy de xG). Plan free de API-Football no incluye xG.',
     seasons_used: SEASONS,
     teams,
   }
   fs.writeFileSync(OUT_PATH, JSON.stringify(output, null, 2))
-  console.log(`\n✅ ${total}/${bsdTeams.length} equipos → public/data/team_history.json`)
+  console.log(`\n✅ ${done}/${bsdTeams.length} equipos → public/data/team_history.json`)
+
+  if (done < bsdTeams.length) {
+    console.log(`\n💡 Para retomar: volvé a correr el script. El progreso se guardó en .team_history_progress.json`)
+  } else {
+    // Clean up progress file when fully done
+    if (fs.existsSync(PROGRESS_PATH)) fs.unlinkSync(PROGRESS_PATH)
+    console.log('🧹 Progreso limpiado (.team_history_progress.json eliminado)')
+  }
 
   // ─── SUPABASE SQL ──────────────────────────────────────────
   console.log(`
