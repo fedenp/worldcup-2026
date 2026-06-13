@@ -533,13 +533,179 @@ function IdentidadTactica({ match, managersData }) {
   )
 }
 
+// ─── MATRIZ ATAQUE / DEFENSA ──────────────────────────────────
+
+function median(arr) {
+  const s = [...arr].sort((a, b) => a - b)
+  const m = Math.floor(s.length / 2)
+  return s.length % 2 !== 0 ? s[m] : (s[m - 1] + s[m]) / 2
+}
+
+function MatrizAtaqueDefensa({ match, teamHistory }) {
+  const teams = teamHistory ? Object.values(teamHistory.teams ?? {}) : []
+
+  const homeD = teamHistory?.teams?.[String(match.home_team_id)] ?? null
+  const awayD = teamHistory?.teams?.[String(match.away_team_id)] ?? null
+
+  if (!teams.length || (!homeD && !awayD)) {
+    return (
+      <Card title="Matriz Ataque / Defensa" badge="Contexto del torneo">
+        <div className="pp-card-body">
+          <Unavailable msg="Ejecutá scripts/fetch-team-history.js para generar los datos" />
+        </div>
+      </Card>
+    )
+  }
+
+  // ─── axes ────────────────────────────────────────────────
+  const allX = teams.map(t => t.xg_against_avg ?? t.goals_against_avg).filter(v => v != null)
+  const allY = teams.map(t => t.xg_for_avg     ?? t.goals_for_avg).filter(v => v != null)
+
+  const xMax = Math.max(2.5, Math.ceil(Math.max(...allX) * 4) / 4)
+  const yMax = Math.max(2.5, Math.ceil(Math.max(...allY) * 4) / 4)
+
+  const medX = median(allX)
+  const medY = median(allY)
+
+  // ─── SVG layout ──────────────────────────────────────────
+  const W = 340, H = 220
+  const pL = 38, pR = 10, pT = 12, pB = 28
+  const pw = W - pL - pR   // plot width
+  const ph = H - pT - pB   // plot height
+
+  const sx = v => pL + (v / xMax) * pw
+  const sy = v => pT + ((yMax - v) / yMax) * ph
+
+  const msx = sx(medX)
+  const msy = sy(medY)
+
+  const xTicks = [0, 1, 2, xMax].filter((v, i, a) => a.indexOf(v) === i)
+  const yTicks = [0, 1, 2, yMax].filter((v, i, a) => a.indexOf(v) === i)
+
+  const dataLabel = teamHistory?.data_type === 'xg' ? 'xG histórico' : 'Goles históricos'
+  const sources   = teams[0]?.source === 'bsd_managers' ? 'Datos pre-torneo BSD' : `Datos pre-torneo · ${teams.length} equipos`
+
+  return (
+    <Card title="Matriz Ataque / Defensa" badge={dataLabel}>
+      <div className="pp-matrix-wrap">
+        <svg
+          viewBox={`0 0 ${W} ${H}`}
+          className="pp-matrix-svg"
+          aria-label="Scatter plot ataque vs defensa"
+        >
+          {/* Quadrant shading */}
+          <rect x={pL} y={pT} width={msx - pL} height={msy - pT} fill="var(--green)" opacity="0.04" />
+          <rect x={msx} y={pT} width={pL + pw - msx} height={msy - pT} fill="var(--amber)" opacity="0.04" />
+          <rect x={pL} y={msy} width={msx - pL} height={pT + ph - msy} fill="var(--blue)" opacity="0.04" />
+          <rect x={msx} y={msy} width={pL + pw - msx} height={pT + ph - msy} fill="var(--red)" opacity="0.03" />
+
+          {/* Median lines */}
+          <line x1={msx} y1={pT} x2={msx} y2={pT + ph} stroke="var(--border2)" strokeDasharray="3 3" strokeWidth="1" />
+          <line x1={pL} y1={msy} x2={pL + pw} y2={msy} stroke="var(--border2)" strokeDasharray="3 3" strokeWidth="1" />
+
+          {/* Quadrant labels */}
+          <text x={pL + 4} y={pT + 10} className="pp-mq-label">Élite</text>
+          <text x={pL + pw - 4} y={pT + 10} textAnchor="end" className="pp-mq-label">Ariete</text>
+          <text x={pL + 4} y={pT + ph - 4} className="pp-mq-label">Bunker</text>
+          <text x={pL + pw - 4} y={pT + ph - 4} textAnchor="end" className="pp-mq-label">Desarrollo</text>
+
+          {/* X axis ticks */}
+          {xTicks.map(v => (
+            <g key={v}>
+              <line x1={sx(v)} y1={pT + ph} x2={sx(v)} y2={pT + ph + 3} stroke="var(--border2)" strokeWidth="1" />
+              <text x={sx(v)} y={H - 5} textAnchor="middle" className="pp-m-tick">{v}</text>
+            </g>
+          ))}
+
+          {/* Y axis ticks */}
+          {yTicks.map(v => (
+            <g key={v}>
+              <line x1={pL - 3} y1={sy(v)} x2={pL} y2={sy(v)} stroke="var(--border2)" strokeWidth="1" />
+              <text x={pL - 5} y={sy(v) + 3} textAnchor="end" className="pp-m-tick">{v}</text>
+            </g>
+          ))}
+
+          {/* All 48 teams (background dots) */}
+          {teams.map(t => {
+            const xv = t.xg_against_avg ?? t.goals_against_avg
+            const yv = t.xg_for_avg     ?? t.goals_for_avg
+            if (xv == null || yv == null) return null
+            const isHome = t.team_id === match.home_team_id
+            const isAway = t.team_id === match.away_team_id
+            if (isHome || isAway) return null
+            return (
+              <circle
+                key={t.team_id}
+                cx={sx(xv)} cy={sy(yv)}
+                r="3"
+                fill="var(--ink3)"
+                opacity="0.5"
+              />
+            )
+          })}
+
+          {/* Away team (draw first so home overlaps if same position) */}
+          {awayD && (() => {
+            const xv = awayD.xg_against_avg ?? awayD.goals_against_avg
+            const yv = awayD.xg_for_avg     ?? awayD.goals_for_avg
+            const cx = sx(xv), cy = sy(yv)
+            const labelY = cy > pT + 20 ? cy - 10 : cy + 18
+            return (
+              <g>
+                <circle cx={cx} cy={cy} r="7" fill="var(--red)" opacity="0.85" />
+                <text x={cx} y={labelY} textAnchor="middle" className="pp-m-team-label pp-m-away">
+                  {match.away_team.split(' ')[0]}
+                </text>
+              </g>
+            )
+          })()}
+
+          {/* Home team */}
+          {homeD && (() => {
+            const xv = homeD.xg_against_avg ?? homeD.goals_against_avg
+            const yv = homeD.xg_for_avg     ?? homeD.goals_for_avg
+            const cx = sx(xv), cy = sy(yv)
+            const labelY = cy > pT + 20 ? cy - 10 : cy + 18
+            return (
+              <g>
+                <circle cx={cx} cy={cy} r="7" fill="var(--blue)" opacity="0.85" />
+                <text x={cx} y={labelY} textAnchor="middle" className="pp-m-team-label pp-m-home">
+                  {match.home_team.split(' ')[0]}
+                </text>
+              </g>
+            )
+          })()}
+
+          {/* Axis labels */}
+          <text x={pL + pw / 2} y={H - 1} textAnchor="middle" className="pp-m-axis">
+            ← Mejor defensa · Goles concedidos/partido · Peor →
+          </text>
+        </svg>
+
+        {/* Legend */}
+        <div className="pp-matrix-legend">
+          <span className="pp-matrix-dot" style={{ background: 'var(--blue)' }} />
+          <span className="pp-matrix-legend-name">{match.home_team}</span>
+          <span className="pp-matrix-dot" style={{ background: 'var(--red)' }} />
+          <span className="pp-matrix-legend-name">{match.away_team}</span>
+          <span className="pp-matrix-dot" style={{ background: 'var(--ink3)', opacity: 0.5 }} />
+          <span className="pp-matrix-legend-name" style={{ color: 'var(--ink3)' }}>Resto del torneo</span>
+        </div>
+
+        <div className="pp-matrix-note">{sources}</div>
+      </div>
+    </Card>
+  )
+}
+
 // ─── ROOT ─────────────────────────────────────────────────────
 export default function PrePartido({ match }) {
-  const [extra,    setExtra]    = useState(null)
-  const [groups,   setGroups]   = useState(null)
-  const [odds,     setOdds]     = useState(null)
-  const [managers, setManagers] = useState(null)
-  const [ready,    setReady]    = useState(false)
+  const [extra,       setExtra]       = useState(null)
+  const [groups,      setGroups]      = useState(null)
+  const [odds,        setOdds]        = useState(null)
+  const [managers,    setManagers]    = useState(null)
+  const [teamHistory, setTeamHistory] = useState(null)
+  const [ready,       setReady]       = useState(false)
 
   useEffect(() => {
     Promise.all([
@@ -547,11 +713,13 @@ export default function PrePartido({ match }) {
       fetch(`${BASE}data/standings.json`).then(r => r.ok ? r.json() : null).catch(() => null),
       fetch(`${BASE}data/odds.json`).then(r => r.ok ? r.json() : null).catch(() => null),
       fetch(`${BASE}data/managers.json`).then(r => r.ok ? r.json() : null).catch(() => null),
-    ]).then(([ext, std, oddsFile, mgrFile]) => {
+      fetch(`${BASE}data/team_history.json`).then(r => r.ok ? r.json() : null).catch(() => null),
+    ]).then(([ext, std, oddsFile, mgrFile, histFile]) => {
       setExtra(ext)
       setGroups(std?.groups ?? null)
       setOdds(oddsFile?.events?.[String(match.id)] ?? null)
       setManagers(mgrFile?.managers ?? null)
+      setTeamHistory(histFile)
       setReady(true)
     })
   }, [match.id])
@@ -564,11 +732,12 @@ export default function PrePartido({ match }) {
         <div className="pp-loading">Cargando datos…</div>
       ) : (
         <div className="pp-sections">
-          <Probabilidades  match={match} pred={extra?.prediction} />
-          <FormaReciente   match={match} groups={groups} />
-          <LineasApuesta   match={match} odds={odds} pred={extra?.prediction} />
-          <IdentidadTactica match={match} managersData={managers} />
-          <H2H             match={match} data={extra?.head_to_head} />
+          <Probabilidades       match={match} pred={extra?.prediction} />
+          <FormaReciente        match={match} groups={groups} />
+          <LineasApuesta        match={match} odds={odds} pred={extra?.prediction} />
+          <IdentidadTactica     match={match} managersData={managers} />
+          <MatrizAtaqueDefensa  match={match} teamHistory={teamHistory} />
+          <H2H                  match={match} data={extra?.head_to_head} />
         </div>
       )}
     </div>

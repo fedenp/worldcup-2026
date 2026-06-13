@@ -576,6 +576,79 @@
   font-weight: 500;
 }
 
+/* ─── MATRIZ ATAQUE / DEFENSA ─── */
+.pp-matrix-wrap { overflow: hidden; }
+
+.pp-matrix-svg {
+  width: 100%;
+  display: block;
+  overflow: visible;
+}
+
+/* Quadrant labels */
+.pp-mq-label {
+  font-family: 'DM Mono', monospace;
+  font-size: 7.5px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  fill: var(--ink3);
+  text-transform: uppercase;
+}
+
+/* Tick numbers */
+.pp-m-tick {
+  font-family: 'DM Mono', monospace;
+  font-size: 7px;
+  fill: var(--ink3);
+}
+
+/* Axis label */
+.pp-m-axis {
+  font-family: 'DM Mono', monospace;
+  font-size: 7px;
+  fill: var(--ink3);
+}
+
+/* Team labels inside SVG */
+.pp-m-team-label {
+  font-family: 'Sora', sans-serif;
+  font-size: 9px;
+  font-weight: 800;
+}
+.pp-m-home { fill: var(--blue); }
+.pp-m-away { fill: var(--red); }
+
+/* Legend row */
+.pp-matrix-legend {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 16px 4px;
+  flex-wrap: wrap;
+}
+
+.pp-matrix-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  display: inline-block;
+}
+
+.pp-matrix-legend-name {
+  font-size: 10px;
+  font-weight: 700;
+  color: var(--ink2);
+  margin-right: 6px;
+}
+
+.pp-matrix-note {
+  padding: 2px 16px 12px;
+  font-family: 'DM Mono', monospace;
+  font-size: 9px;
+  color: var(--ink3);
+}
+
 /* ─── LOADING ─── */
 .pp-loading {
   padding: 40px 16px; text-align: center;

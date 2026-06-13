@@ -1,0 +1,284 @@
+/**
+ * scripts/fetch-team-history.js
+ *
+ * One-time script: fetches last ~20 international matches for each of the 48
+ * World Cup 2026 teams from API-Football, calculates goles/partido promedio
+ * (used as xG proxy — free plan doesn't include xG), and saves:
+ *   - public/data/team_history.json   → read by the frontend
+ *   - prints SQL to create/upsert the Supabase `team_history` table
+ *
+ * Request budget:
+ *   - Phase 1 (team search): 48 requests — cached in .team_id_cache.json
+ *     so subsequent runs skip this phase
+ *   - Phase 2 (fixtures season=2024): 48 requests
+ *   - TOTAL: ~96 requests (free tier = 100/day)
+ *
+ * Usage:
+ *   API_FOOTBALL_KEY=xxx node scripts/fetch-team-history.js
+ *   # or add API_FOOTBALL_KEY=xxx to .env
+ *
+ * Required env: API_FOOTBALL_KEY
+ * Optional env: SUPABASE_URL, SUPABASE_SERVICE_KEY (to upsert into Supabase)
+ */
+
+import fs   from 'fs'
+import path from 'path'
+
+// Load .env for local runs
+try {
+  const env = fs.readFileSync(path.resolve('.env'), 'utf8')
+  for (const line of env.split('\n')) {
+    const [k, ...v] = line.split('=')
+    if (k && v.length) process.env[k.trim()] = v.join('=').trim()
+  }
+} catch {}
+
+const API_KEY        = process.env.API_FOOTBALL_KEY
+const API_BASE       = 'https://v3.football.api-sports.io'
+const STANDINGS_PATH = path.resolve('public/data/standings.json')
+const OUT_PATH       = path.resolve('public/data/team_history.json')
+const CACHE_PATH     = path.resolve('.team_id_cache.json')
+
+if (!API_KEY) {
+  console.error(`
+❌  API_FOOTBALL_KEY not set.
+
+Add it to your .env file:
+  API_FOOTBALL_KEY=your_key_here
+
+And to GitHub Secrets (Settings → Secrets → Actions):
+  API_FOOTBALL_KEY=your_key_here
+
+This script runs manually once — it does NOT run in the cron workflow.
+Get a free key at https://dashboard.api-football.com/
+  `)
+  process.exit(1)
+}
+
+function sleep(ms) { return new Promise(r => setTimeout(r, ms)) }
+
+async function apiGet(endpoint, params = {}) {
+  const url = new URL(`${API_BASE}${endpoint}`)
+  Object.entries(params).forEach(([k, v]) => url.searchParams.set(k, String(v)))
+  const r = await fetch(url.toString(), {
+    headers: { 'x-apisports-key': API_KEY },
+    signal: AbortSignal.timeout(15000),
+  })
+  const data = await r.json()
+  const remaining = r.headers.get('x-ratelimit-requests-remaining')
+  if (remaining !== null) process.stdout.write(` [quota:${remaining}]`)
+  if (data.errors && Object.keys(data.errors).length > 0) {
+    throw new Error(`API-Football: ${JSON.stringify(data.errors)}`)
+  }
+  return data.response ?? []
+}
+
+// ─── NAME NORMALISATION ───────────────────────────────────────
+function norm(name) {
+  return (name || '')
+    .toLowerCase()
+    .normalize('NFD').replace(/[̀-ͯ]/g, '')
+    .replace(/[^a-z0-9 ]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim()
+}
+
+const ALIAS = {
+  'cabo verde':          'cape verde',
+  'cape verde':          'cabo verde',
+  'turkiye':             'turkey',
+  'turkey':              'turkiye',
+  'cote divoire':        'ivory coast',
+  'ivory coast':         'cote divoire',
+  'dr congo':            'democratic republic of congo',
+  'bosnia herzegovina':  'bosnia and herzegovina',
+  'usa':                 'united states',
+  'united states':       'usa',
+  'south korea':         'korea republic',
+}
+
+function nameCandidates(n) {
+  const a = norm(n); const b = ALIAS[a]
+  return b ? [a, b] : [a]
+}
+
+function nameMatches(apiName, bsdName) {
+  const av = nameCandidates(apiName)
+  const bv = nameCandidates(bsdName)
+  return av.some(a => bv.some(b => a === b || a.includes(b) || b.includes(a)))
+}
+
+// ─── PHASE 1: FIND API-FOOTBALL TEAM IDS ─────────────────────
+async function findApiId(bsdName) {
+  const searchName = ALIAS[norm(bsdName)] ?? bsdName
+  try {
+    const teams = await apiGet('/teams', { search: searchName })
+    const nationals = teams.filter(t =>
+      t.team?.national === true &&
+      !/\b(w|women|feminine|femenino)\b/i.test(t.team.name)
+    )
+    if (!nationals.length) return null
+    // Prefer exact name match
+    const exact = nationals.find(t => nameMatches(t.team.name, bsdName))
+    return (exact ?? nationals[0]).team.id
+  } catch (err) {
+    console.warn(`  ⚠ Search error: ${err.message}`)
+    return null
+  }
+}
+
+// ─── PHASE 2: FETCH FIXTURES BY SEASON ───────────────────────
+async function fetchFixturesBySeason(apiId, season) {
+  try {
+    return await apiGet('/fixtures', { team: apiId, season })
+  } catch {
+    return []
+  }
+}
+
+function computeStats(fixtures, apiId) {
+  const used = []
+  for (const f of fixtures) {
+    const isHome = f.teams?.home?.id === apiId
+    const gFor     = isHome ? f.goals?.home : f.goals?.away
+    const gAgainst = isHome ? f.goals?.away : f.goals?.home
+    if (gFor == null || gAgainst == null) continue
+    used.push({ gFor, gAgainst })
+  }
+  if (!used.length) return null
+  const avg = arr => Math.round((arr.reduce((s, v) => s + v, 0) / arr.length) * 100) / 100
+  return {
+    goals_for_avg:     avg(used.map(u => u.gFor)),
+    goals_against_avg: avg(used.map(u => u.gAgainst)),
+    matches_used:      used.length,
+  }
+}
+
+// ─── MAIN ─────────────────────────────────────────────────────
+async function main() {
+  const std = JSON.parse(fs.readFileSync(STANDINGS_PATH, 'utf8'))
+  const bsdTeams = []
+  for (const rows of Object.values(std.groups)) {
+    for (const row of rows) bsdTeams.push({ id: row.team_id, name: row.team_name })
+  }
+  console.log(`📋 ${bsdTeams.length} teams to process\n`)
+  console.log('⚠️  Free plan budget: ~96 req needed (48 search + 48 fixture fetch)\n')
+
+  // Load or build ID cache
+  let idCache = {}
+  if (fs.existsSync(CACHE_PATH)) {
+    idCache = JSON.parse(fs.readFileSync(CACHE_PATH, 'utf8'))
+    console.log(`📦 Loaded ID cache (${Object.keys(idCache).length} entries) — skipping search phase\n`)
+  } else {
+    console.log('🔍 Phase 1: Searching API-Football team IDs…')
+    for (const team of bsdTeams) {
+      process.stdout.write(`  ${team.name}`)
+      const apiId = await findApiId(team.name)
+      if (apiId) {
+        idCache[team.id] = apiId
+        process.stdout.write(` → ${apiId}\n`)
+      } else {
+        process.stdout.write(' → ✗ not found\n')
+      }
+      await sleep(1300)
+    }
+    fs.writeFileSync(CACHE_PATH, JSON.stringify(idCache, null, 2))
+    console.log(`\n💾 Saved ID cache to .team_id_cache.json\n`)
+  }
+
+  // Phase 2: fetch fixtures
+  const SEASONS = [2024, 2023]
+  console.log(`📊 Phase 2: Fetching fixtures (seasons: ${SEASONS.join(', ')})…`)
+
+  const teams = {}
+  let total = 0
+
+  for (const bsdTeam of bsdTeams) {
+    const apiId = idCache[bsdTeam.id]
+    if (!apiId) {
+      console.log(`  ✗ ${bsdTeam.name}: no API-Football ID`)
+      continue
+    }
+
+    let combinedFixtures = []
+    for (const season of SEASONS) {
+      process.stdout.write(`  ${bsdTeam.name} (s${season})`)
+      const fixtures = await fetchFixturesBySeason(apiId, season)
+      combinedFixtures = combinedFixtures.concat(fixtures)
+      process.stdout.write(` → ${fixtures.length} matches\n`)
+      await sleep(1300)
+      if (combinedFixtures.length >= 15) break  // enough data
+    }
+
+    const stats = computeStats(combinedFixtures, apiId)
+    if (!stats) {
+      console.log(`  ✗ ${bsdTeam.name}: no usable fixture data`)
+      continue
+    }
+
+    teams[bsdTeam.id] = {
+      team_id:           bsdTeam.id,
+      team_name:         bsdTeam.name,
+      api_football_id:   apiId,
+      // Using goals as xG proxy (API-Football free plan doesn't include xG)
+      xg_for_avg:        stats.goals_for_avg,
+      xg_against_avg:    stats.goals_against_avg,
+      goals_for_avg:     stats.goals_for_avg,
+      goals_against_avg: stats.goals_against_avg,
+      matches_used:      stats.matches_used,
+    }
+    console.log(`  ✓ ${bsdTeam.name}: ${stats.goals_for_avg} goles/p | ${stats.goals_against_avg} concedidos | n=${stats.matches_used}`)
+    total++
+  }
+
+  // Save JSON for frontend
+  const output = {
+    updated_at: new Date().toISOString(),
+    data_type: 'goals',
+    note: 'Goles promedio históricos (proxy de xG). Plan free de API-Football no incluye xG.',
+    seasons_used: SEASONS,
+    teams,
+  }
+  fs.writeFileSync(OUT_PATH, JSON.stringify(output, null, 2))
+  console.log(`\n✅ ${total}/${bsdTeams.length} equipos → public/data/team_history.json`)
+
+  // ─── SUPABASE SQL ──────────────────────────────────────────
+  console.log(`
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊  SQL para Supabase (ejecutar en SQL Editor una sola vez):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CREATE TABLE IF NOT EXISTS team_history (
+  team_id           INTEGER PRIMARY KEY,
+  team_name         TEXT    NOT NULL,
+  api_football_id   INTEGER,
+  xg_for_avg        FLOAT,
+  xg_against_avg    FLOAT,
+  goals_for_avg     FLOAT,
+  goals_against_avg FLOAT,
+  matches_used      INTEGER,
+  fetched_at        TIMESTAMPTZ DEFAULT NOW()
+);
+
+${Object.values(teams).length ? `-- Upsert data:
+INSERT INTO team_history (team_id, team_name, api_football_id, xg_for_avg, xg_against_avg, goals_for_avg, goals_against_avg, matches_used)
+VALUES
+${Object.values(teams).map(t =>
+  `  (${t.team_id}, '${t.team_name.replace(/'/g, "''")}', ${t.api_football_id}, ${t.xg_for_avg}, ${t.xg_against_avg}, ${t.goals_for_avg}, ${t.goals_against_avg}, ${t.matches_used})`
+).join(',\n')}
+ON CONFLICT (team_id) DO UPDATE SET
+  xg_for_avg = EXCLUDED.xg_for_avg,
+  xg_against_avg = EXCLUDED.xg_against_avg,
+  goals_for_avg = EXCLUDED.goals_for_avg,
+  goals_against_avg = EXCLUDED.goals_against_avg,
+  matches_used = EXCLUDED.matches_used,
+  fetched_at = NOW();` : '-- No data to insert yet.'}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+`)
+}
+
+main().catch(err => {
+  console.error('\n❌ Fatal error:', err.message)
+  process.exit(1)
+})
