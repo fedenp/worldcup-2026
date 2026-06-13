@@ -12,5 +12,6 @@
     "temperature_c": null
   },
   "prediction": null,
-  "head_to_head": null
+  "head_to_head": null,
+  "average_positions": null
 }

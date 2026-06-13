@@ -55,9 +55,12 @@ async function main() {
   for (let i = 0; i < matches.length; i += BATCH) {
     const batch = matches.slice(i, i + BATCH)
     await Promise.all(batch.map(async match => {
-      const [evt, pred] = await Promise.all([
+      const isFinished = match.status === 'FT'
+
+      const [evt, pred, stats] = await Promise.all([
         bsdGet(`/events/${match.id}/`),
         bsdGet(`/events/${match.id}/prediction/`),
+        isFinished ? bsdGet(`/events/${match.id}/stats/`) : Promise.resolve(null),
       ])
 
       const out = {
@@ -74,7 +77,8 @@ async function main() {
           most_likely_score: pred.markets.score?.most_likely ?? null,
           confidence:        pred.model?.confidence ?? null,
         } : null,
-        head_to_head: evt?.head_to_head ?? null,
+        head_to_head:      evt?.head_to_head ?? null,
+        average_positions: stats?.average_positions ?? null,
       }
 
       writeFileSync(join(outDir, `${match.id}.json`), JSON.stringify(out, null, 2), 'utf8')

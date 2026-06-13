@@ -39,5 +39,267 @@
         "score": "1-1"
       }
     ]
+  },
+  "average_positions": {
+    "away": [
+      {
+        "n": 47,
+        "x": 10,
+        "y": 49.6,
+        "pos": "G",
+        "name": "N. Vasilj",
+        "player_id": 2476
+      },
+      {
+        "n": 39,
+        "x": 46.6,
+        "y": 33.9,
+        "pos": "M",
+        "name": "I. Bašić",
+        "player_id": 53960
+      },
+      {
+        "n": 31,
+        "x": 48.7,
+        "y": 75.3,
+        "pos": "M",
+        "name": "A. Memić",
+        "player_id": 3222
+      },
+      {
+        "n": 28,
+        "x": 47.4,
+        "y": 30.7,
+        "pos": "M",
+        "name": "A. Gigović",
+        "player_id": 4150
+      },
+      {
+        "n": 25,
+        "x": 65.2,
+        "y": 46.8,
+        "pos": "F",
+        "name": "S. Baždar",
+        "player_id": 13780
+      },
+      {
+        "n": 5,
+        "x": 69.2,
+        "y": 74.5,
+        "pos": "M",
+        "name": "D. Burnić",
+        "player_id": 41783
+      },
+      {
+        "n": 13,
+        "x": 60.8,
+        "y": 72.3,
+        "pos": "M",
+        "name": "K. Alajbegović",
+        "player_id": 3046
+      },
+      {
+        "n": 20,
+        "x": 44.6,
+        "y": 41.7,
+        "pos": "M",
+        "name": "I. Šunjić",
+        "player_id": 3604
+      },
+      {
+        "n": 54,
+        "x": 45.8,
+        "y": 55.8,
+        "pos": "M",
+        "name": "B. Tahirović",
+        "player_id": 26812
+      },
+      {
+        "n": 41,
+        "x": 45.1,
+        "y": 15.4,
+        "pos": "F",
+        "name": "E. Bajraktarević",
+        "player_id": 3515
+      },
+      {
+        "n": 67,
+        "x": 34.4,
+        "y": 79,
+        "pos": "D",
+        "name": "S. Kolašinac",
+        "player_id": 1312
+      },
+      {
+        "n": 74,
+        "x": 32.3,
+        "y": 32.2,
+        "pos": "D",
+        "name": "N. Katić",
+        "player_id": 27586
+      },
+      {
+        "n": 70,
+        "x": 34.2,
+        "y": 17,
+        "pos": "D",
+        "name": "A. Dedić",
+        "player_id": 2052
+      },
+      {
+        "n": 44,
+        "x": 57.3,
+        "y": 56.2,
+        "pos": "F",
+        "name": "J. Lukić",
+        "player_id": 10686
+      },
+      {
+        "n": 51,
+        "x": 53.6,
+        "y": 51.9,
+        "pos": "F",
+        "name": "E. Demirović",
+        "player_id": 4516
+      },
+      {
+        "n": 76,
+        "x": 30.5,
+        "y": 59.5,
+        "pos": "D",
+        "name": "T. Muharemović",
+        "player_id": 2846
+      }
+    ],
+    "home": [
+      {
+        "n": 42,
+        "x": 15,
+        "y": 50,
+        "pos": "G",
+        "name": "M. Crépeau",
+        "player_id": 9267
+      },
+      {
+        "n": 33,
+        "x": 67.2,
+        "y": 14.4,
+        "pos": "M",
+        "name": "T. Buchanan",
+        "player_id": 1769
+      },
+      {
+        "n": 52,
+        "x": 71,
+        "y": 56.8,
+        "pos": "F",
+        "name": "T. Oluwaseyi",
+        "player_id": 1779
+      },
+      {
+        "n": 19,
+        "x": 67.4,
+        "y": 73.3,
+        "pos": "F",
+        "name": "P. David",
+        "player_id": 3754
+      },
+      {
+        "n": 17,
+        "x": 55.3,
+        "y": 87.4,
+        "pos": "M",
+        "name": "J. Shaffelburg",
+        "player_id": 9296
+      },
+      {
+        "n": 32,
+        "x": 60.6,
+        "y": 17.6,
+        "pos": "M",
+        "name": "A. Ahmed",
+        "player_id": 8580
+      },
+      {
+        "n": 8,
+        "x": 44,
+        "y": 51.5,
+        "pos": "F",
+        "name": "C. Larin",
+        "player_id": 4164
+      },
+      {
+        "n": 29,
+        "x": 72.9,
+        "y": 52.9,
+        "pos": "F",
+        "name": "J. David",
+        "player_id": 2186
+      },
+      {
+        "n": 75,
+        "x": 47.2,
+        "y": 81.2,
+        "pos": "D",
+        "name": "R. Laryea",
+        "player_id": 9548
+      },
+      {
+        "n": 6,
+        "x": 46.6,
+        "y": 49.5,
+        "pos": "M",
+        "name": "J. Osorio",
+        "player_id": 9550
+      },
+      {
+        "n": 57,
+        "x": 70.1,
+        "y": 86.1,
+        "pos": "M",
+        "name": "L. Millar",
+        "player_id": 6190
+      },
+      {
+        "n": 103,
+        "x": 41,
+        "y": 67.6,
+        "pos": "D",
+        "name": "D. Cornelius",
+        "player_id": 4155
+      },
+      {
+        "n": 76,
+        "x": 61.7,
+        "y": 50.6,
+        "pos": "M",
+        "name": "S. Eustaquio",
+        "player_id": 1011
+      },
+      {
+        "n": 99,
+        "x": 51.7,
+        "y": 53.3,
+        "pos": "M",
+        "name": "I. Koné",
+        "player_id": 2848
+      },
+      {
+        "n": 69,
+        "x": 52.8,
+        "y": 16.3,
+        "pos": "D",
+        "name": "A. Johnston",
+        "player_id": 4406
+      },
+      {
+        "n": 90,
+        "x": 42,
+        "y": 38.4,
+        "pos": "D",
+        "name": "L. D. Fougerolles",
+        "player_id": 7612
+      }
+    ]
   }
 }

@@ -6,8 +6,8 @@
     "capacity": 70242
   },
   "weather": {
-    "code": 0,
-    "description": "unknown",
+    "code": 1,
+    "description": "clear",
     "wind_speed": 20.7,
     "temperature_c": 22
   },
@@ -21,5 +21,6 @@
     "most_likely_score": "1-1",
     "confidence": 0.3512
   },
-  "head_to_head": null
+  "head_to_head": null,
+  "average_positions": null
 }

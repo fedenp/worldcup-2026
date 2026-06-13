@@ -698,6 +698,198 @@ function MatrizAtaqueDefensa({ match, teamHistory }) {
   )
 }
 
+// ─── RED DE PASES ────────────────────────────────────────────
+
+const POS_COLORS = {
+  G: '#F59E0B',
+  D: '#60A5FA',
+  M: '#34D399',
+  F: '#F87171',
+}
+
+function generateFormationLayout(formationStr) {
+  if (!formationStr) return null
+  const lines = formationStr.split('-').map(Number).filter(n => !isNaN(n) && n > 0)
+  if (lines.length < 2 || lines.length > 4) return null
+  const total = lines.reduce((s, n) => s + n, 0)
+  if (total !== 10) return null
+
+  const players = [{ pos: 'G', x: 6, y: 50, name: 'POR', player_id: 'syn-GK', n: 50 }]
+  const posGroups = lines.map((_, i) => (i === 0 ? 'D' : i === lines.length - 1 ? 'F' : 'M'))
+  const xPos = lines.map((_, i) => 18 + (i + 1) * (65 / (lines.length + 1)))
+
+  lines.forEach((count, li) => {
+    const pos = posGroups[li]
+    const x = xPos[li]
+    for (let i = 0; i < count; i++) {
+      players.push({ pos, x, y: (100 / (count + 1)) * (i + 1), name: pos, player_id: `syn-${pos}-${li}-${i}`, n: 50 })
+    }
+  })
+  return players
+}
+
+function buildConnections(players) {
+  const byPos = {}
+  for (const p of players) (byPos[p.pos] = byPos[p.pos] || []).push(p)
+
+  const dist2 = (a, b) => (a.x - b.x) ** 2 + (a.y - b.y) ** 2
+  const seen = new Set()
+  const conns = []
+
+  const add = (a, b) => {
+    const key = [a.player_id, b.player_id].sort().join('|')
+    if (!seen.has(key)) {
+      seen.add(key)
+      conns.push({ a, b, d: Math.sqrt(dist2(a, b)) })
+    }
+  }
+
+  const order = ['G', 'D', 'M', 'F']
+  for (let i = 0; i < order.length - 1; i++) {
+    const from = byPos[order[i]] ?? []
+    const to   = byPos[order[i + 1]] ?? []
+    for (const a of from) {
+      to.slice().sort((x, y) => dist2(a, x) - dist2(a, y)).slice(0, 2).forEach(b => add(a, b))
+    }
+  }
+  for (const pos of ['D', 'M', 'F']) {
+    const g = (byPos[pos] ?? []).slice().sort((a, b) => a.y - b.y)
+    for (let i = 0; i < g.length - 1; i++) add(g[i], g[i + 1])
+  }
+  return conns
+}
+
+function PitchSVG({ players, isSynthetic }) {
+  const W = 280, H = 420
+  const pL = 20, pR = 20, pT = 20, pB = 20
+  const pw = W - pL - pR
+  const ph = H - pT - pB
+
+  const toX = y => pL + (y / 100) * pw
+  const toY = x => pT + (1 - x / 100) * ph
+
+  const conns = buildConnections(players)
+  const maxD  = Math.max(...conns.map(c => c.d), 1)
+  const minD  = Math.min(...conns.map(c => c.d), 0)
+
+  const ns   = players.map(p => p.n ?? 50)
+  const minN = Math.min(...ns)
+  const maxN = Math.max(...ns)
+  const nodeR = n => isSynthetic ? 8 : Math.round(6 + ((n - minN) / Math.max(1, maxN - minN)) * 7)
+
+  const ls = 'rgba(255,255,255,0.18)'
+  const midY = pT + ph / 2
+  const midX = pL + pw / 2
+  const paW = pw * 0.593, paH = ph * 0.157, paL = pL + (pw - pw * 0.593) / 2
+  const gaW = pw * 0.269, gaH = ph * 0.052, gaL = pL + (pw - pw * 0.269) / 2
+  const cR = pw * 0.135
+
+  return (
+    <svg viewBox={`0 0 ${W} ${H}`} className="pp-pn-svg">
+      {/* Pitch markings */}
+      <rect x={pL} y={pT} width={pw} height={ph} fill="#1a4f32" />
+      <rect x={pL} y={pT} width={pw} height={ph} fill="none" stroke={ls} strokeWidth="1" />
+      <line x1={pL} y1={midY} x2={pL + pw} y2={midY} stroke={ls} strokeWidth="1" />
+      <circle cx={midX} cy={midY} r={cR} fill="none" stroke={ls} strokeWidth="1" />
+      <circle cx={midX} cy={midY} r="2" fill={ls} />
+      <rect x={paL} y={pT}        width={paW} height={paH} fill="none" stroke={ls} strokeWidth="1" />
+      <rect x={paL} y={pT+ph-paH} width={paW} height={paH} fill="none" stroke={ls} strokeWidth="1" />
+      <rect x={gaL} y={pT}        width={gaW} height={gaH} fill="none" stroke={ls} strokeWidth="1" />
+      <rect x={gaL} y={pT+ph-gaH} width={gaW} height={gaH} fill="none" stroke={ls} strokeWidth="1" />
+
+      {/* Connection lines */}
+      {conns.map((c, i) => {
+        const norm = 1 - (c.d - minD) / (maxD - minD + 0.01)
+        return (
+          <line key={i}
+            x1={toX(c.a.y)} y1={toY(c.a.x)}
+            x2={toX(c.b.y)} y2={toY(c.b.x)}
+            stroke="white"
+            strokeWidth={0.5 + norm * 1.8}
+            opacity={0.1 + norm * 0.28}
+          />
+        )
+      })}
+
+      {/* Player nodes */}
+      {players.map(p => {
+        const cx  = toX(p.y)
+        const cy  = toY(p.x)
+        const pr  = nodeR(p.n ?? 50)
+        const col = POS_COLORS[p.pos] ?? '#94A3B8'
+        const raw = p.name ?? ''
+        const lbl = isSynthetic ? p.pos : raw.split(' ').pop().slice(0, 9)
+        return (
+          <g key={p.player_id ?? `p-${p.x}-${p.y}`}>
+            <circle cx={cx} cy={cy} r={pr} fill={col} opacity="0.9" />
+            <circle cx={cx} cy={cy} r={pr} fill="none" stroke="rgba(0,0,0,0.35)" strokeWidth="0.8" />
+            <text x={cx} y={cy - pr - 3} textAnchor="middle" className="pp-pn-label">{lbl}</text>
+          </g>
+        )
+      })}
+    </svg>
+  )
+}
+
+function RedDePases({ match, positions, managersData }) {
+  const [side, setSide] = useState('home')
+
+  const homePos = positions?.home ?? null
+  const awayPos = positions?.away ?? null
+  const curPos  = side === 'home' ? homePos : awayPos
+  const teamId  = side === 'home' ? match.home_team_id : match.away_team_id
+  const mgr     = managersData?.[String(teamId)] ?? null
+  const synthetic = generateFormationLayout(mgr?.preferred_formation ?? null)
+  const displayPos  = curPos ?? synthetic
+  const isSynthetic = !curPos
+
+  const POS_LEGEND = [
+    { col: POS_COLORS.G, lbl: 'Portero' },
+    { col: POS_COLORS.D, lbl: 'Defensa' },
+    { col: POS_COLORS.M, lbl: 'Mediocampista' },
+    { col: POS_COLORS.F, lbl: 'Delantero' },
+  ]
+
+  return (
+    <Card title="Red de Pases" badge="Posiciones promedio">
+      <div className="pp-pn-tabs">
+        <button className={`pp-pn-tab${side === 'home' ? ' active' : ''}`} onClick={() => setSide('home')}>
+          {match.home_team}
+        </button>
+        <button className={`pp-pn-tab${side === 'away' ? ' active' : ''}`} onClick={() => setSide('away')}>
+          {match.away_team}
+        </button>
+      </div>
+
+      {displayPos ? (
+        <PitchSVG players={displayPos} isSynthetic={isSynthetic} />
+      ) : (
+        <div className="pp-card-body" style={{ paddingBottom: 28 }}>
+          <Unavailable msg="Disponible tras el primer partido" />
+        </div>
+      )}
+
+      {displayPos && (
+        <>
+          <div className="pp-pn-legend">
+            {POS_LEGEND.map(({ col, lbl }) => (
+              <span key={lbl} className="pp-pn-legend-item">
+                <span className="pp-pn-dot" style={{ background: col }} />
+                <span className="pp-pn-dot-label">{lbl}</span>
+              </span>
+            ))}
+          </div>
+          <div className="pp-pn-note">
+            {isSynthetic
+              ? `Posiciones de referencia · Formación ${mgr?.preferred_formation ?? '—'}`
+              : 'Tamaño del nodo = toques con el balón'}
+          </div>
+        </>
+      )}
+    </Card>
+  )
+}
+
 // ─── ROOT ─────────────────────────────────────────────────────
 export default function PrePartido({ match }) {
   const [extra,       setExtra]       = useState(null)
@@ -737,6 +929,7 @@ export default function PrePartido({ match }) {
           <LineasApuesta        match={match} odds={odds} pred={extra?.prediction} />
           <IdentidadTactica     match={match} managersData={managers} />
           <MatrizAtaqueDefensa  match={match} teamHistory={teamHistory} />
+          <RedDePases           match={match} positions={extra?.average_positions} managersData={managers} />
           <H2H                  match={match} data={extra?.head_to_head} />
         </div>
       )}
