@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T12:54:28.699Z",
+  "updated_at": "2026-06-14T13:14:29.809Z",
   "data_type": "goals",
   "note": "Goles promedio históricos (proxy de xG). Plan free de API-Football no incluye xG.",
   "seasons_used": [
@@ -137,6 +137,36 @@
       "goals_against_avg": 1.52,
       "matches_used": 21
     },
+    "467": {
+      "team_id": 467,
+      "team_name": "Germany",
+      "api_football_id": 25,
+      "xg_for_avg": 2.28,
+      "xg_against_avg": 0.84,
+      "goals_for_avg": 2.28,
+      "goals_against_avg": 0.84,
+      "matches_used": 25
+    },
+    "469": {
+      "team_id": 469,
+      "team_name": "Netherlands",
+      "api_football_id": 1118,
+      "xg_for_avg": 2.62,
+      "xg_against_avg": 0.96,
+      "goals_for_avg": 2.62,
+      "goals_against_avg": 0.96,
+      "matches_used": 26
+    },
+    "470": {
+      "team_id": 470,
+      "team_name": "Japan",
+      "api_football_id": 12,
+      "xg_for_avg": 3.27,
+      "xg_against_avg": 1.13,
+      "goals_for_avg": 3.27,
+      "goals_against_avg": 1.13,
+      "matches_used": 15
+    },
     "471": {
       "team_id": 471,
       "team_name": "Côte d'Ivoire",
@@ -157,6 +187,246 @@
       "goals_against_avg": 1.07,
       "matches_used": 14
     },
+    "474": {
+      "team_id": 474,
+      "team_name": "Tunisia",
+      "api_football_id": 28,
+      "xg_for_avg": 1.48,
+      "xg_against_avg": 0.41,
+      "goals_for_avg": 1.48,
+      "goals_against_avg": 0.41,
+      "matches_used": 27
+    },
+    "475": {
+      "team_id": 475,
+      "team_name": "Spain",
+      "api_football_id": 9,
+      "xg_for_avg": 2.74,
+      "xg_against_avg": 0.96,
+      "goals_for_avg": 2.74,
+      "goals_against_avg": 0.96,
+      "matches_used": 27
+    },
+    "476": {
+      "team_id": 476,
+      "team_name": "Cabo Verde",
+      "api_football_id": 1533,
+      "xg_for_avg": 1.33,
+      "xg_against_avg": 0.96,
+      "goals_for_avg": 1.33,
+      "goals_against_avg": 0.96,
+      "matches_used": 27
+    },
+    "477": {
+      "team_id": 477,
+      "team_name": "Belgium",
+      "api_football_id": 1,
+      "xg_for_avg": 2,
+      "xg_against_avg": 0.96,
+      "goals_for_avg": 2,
+      "goals_against_avg": 0.96,
+      "matches_used": 24
+    },
+    "478": {
+      "team_id": 478,
+      "team_name": "Egypt",
+      "api_football_id": 32,
+      "xg_for_avg": 1.72,
+      "xg_against_avg": 0.83,
+      "goals_for_avg": 1.72,
+      "goals_against_avg": 0.83,
+      "matches_used": 29
+    },
+    "479": {
+      "team_id": 479,
+      "team_name": "Saudi Arabia",
+      "api_football_id": 23,
+      "xg_for_avg": 1.38,
+      "xg_against_avg": 1.33,
+      "goals_for_avg": 1.38,
+      "goals_against_avg": 1.33,
+      "matches_used": 21
+    },
+    "480": {
+      "team_id": 480,
+      "team_name": "Uruguay",
+      "api_football_id": 7,
+      "xg_for_avg": 1.8,
+      "xg_against_avg": 0.73,
+      "goals_for_avg": 1.8,
+      "goals_against_avg": 0.73,
+      "matches_used": 15
+    },
+    "481": {
+      "team_id": 481,
+      "team_name": "Iran",
+      "api_football_id": 22,
+      "xg_for_avg": 2.71,
+      "xg_against_avg": 0.76,
+      "goals_for_avg": 2.71,
+      "goals_against_avg": 0.76,
+      "matches_used": 17
+    },
+    "482": {
+      "team_id": 482,
+      "team_name": "New Zealand",
+      "api_football_id": 4673,
+      "xg_for_avg": 1.56,
+      "xg_against_avg": 1,
+      "goals_for_avg": 1.56,
+      "goals_against_avg": 1,
+      "matches_used": 16
+    },
+    "483": {
+      "team_id": 483,
+      "team_name": "Austria",
+      "api_football_id": 775,
+      "xg_for_avg": 2.29,
+      "xg_against_avg": 0.88,
+      "goals_for_avg": 2.29,
+      "goals_against_avg": 0.88,
+      "matches_used": 24
+    },
+    "484": {
+      "team_id": 484,
+      "team_name": "Jordan",
+      "api_football_id": 1548,
+      "xg_for_avg": 1.63,
+      "xg_against_avg": 1.84,
+      "goals_for_avg": 1.63,
+      "goals_against_avg": 1.84,
+      "matches_used": 19
+    },
+    "485": {
+      "team_id": 485,
+      "team_name": "France",
+      "api_football_id": 2,
+      "xg_for_avg": 1.77,
+      "xg_against_avg": 0.92,
+      "goals_for_avg": 1.77,
+      "goals_against_avg": 0.92,
+      "matches_used": 26
+    },
+    "486": {
+      "team_id": 486,
+      "team_name": "Senegal",
+      "api_football_id": 13,
+      "xg_for_avg": 1.82,
+      "xg_against_avg": 0.47,
+      "goals_for_avg": 1.82,
+      "goals_against_avg": 0.47,
+      "matches_used": 34
+    },
+    "488": {
+      "team_id": 488,
+      "team_name": "Norway",
+      "api_football_id": 1090,
+      "xg_for_avg": 3.22,
+      "xg_against_avg": 1,
+      "goals_for_avg": 3.22,
+      "goals_against_avg": 1,
+      "matches_used": 18
+    },
+    "489": {
+      "team_id": 489,
+      "team_name": "Argentina",
+      "api_football_id": 26,
+      "xg_for_avg": 2.36,
+      "xg_against_avg": 0.21,
+      "goals_for_avg": 2.36,
+      "goals_against_avg": 0.21,
+      "matches_used": 14
+    },
+    "490": {
+      "team_id": 490,
+      "team_name": "Algeria",
+      "api_football_id": 1532,
+      "xg_for_avg": 1.91,
+      "xg_against_avg": 0.76,
+      "goals_for_avg": 1.91,
+      "goals_against_avg": 0.76,
+      "matches_used": 33
+    },
+    "491": {
+      "team_id": 491,
+      "team_name": "Portugal",
+      "api_football_id": 27,
+      "xg_for_avg": 2.31,
+      "xg_against_avg": 1.12,
+      "goals_for_avg": 2.31,
+      "goals_against_avg": 1.12,
+      "matches_used": 26
+    },
+    "493": {
+      "team_id": 493,
+      "team_name": "England",
+      "api_football_id": 10,
+      "xg_for_avg": 2.04,
+      "xg_against_avg": 0.52,
+      "goals_for_avg": 2.04,
+      "goals_against_avg": 0.52,
+      "matches_used": 25
+    },
+    "494": {
+      "team_id": 494,
+      "team_name": "Croatia",
+      "api_football_id": 3,
+      "xg_for_avg": 2.09,
+      "xg_against_avg": 1,
+      "goals_for_avg": 2.09,
+      "goals_against_avg": 1,
+      "matches_used": 23
+    },
+    "495": {
+      "team_id": 495,
+      "team_name": "Ghana",
+      "api_football_id": 1504,
+      "xg_for_avg": 1.59,
+      "xg_against_avg": 1.07,
+      "goals_for_avg": 1.59,
+      "goals_against_avg": 1.07,
+      "matches_used": 27
+    },
+    "496": {
+      "team_id": 496,
+      "team_name": "Panama",
+      "api_football_id": 11,
+      "xg_for_avg": 1.52,
+      "xg_against_avg": 1.31,
+      "goals_for_avg": 1.52,
+      "goals_against_avg": 1.31,
+      "matches_used": 29
+    },
+    "497": {
+      "team_id": 497,
+      "team_name": "Uzbekistan",
+      "api_football_id": 1568,
+      "xg_for_avg": 1.82,
+      "xg_against_avg": 0.82,
+      "goals_for_avg": 1.82,
+      "goals_against_avg": 0.82,
+      "matches_used": 17
+    },
+    "498": {
+      "team_id": 498,
+      "team_name": "Colombia",
+      "api_football_id": 8,
+      "xg_for_avg": 2.06,
+      "xg_against_avg": 0.65,
+      "goals_for_avg": 2.06,
+      "goals_against_avg": 0.65,
+      "matches_used": 17
+    },
+    "731": {
+      "team_id": 731,
+      "team_name": "Sweden",
+      "api_football_id": 5,
+      "xg_for_avg": 1.84,
+      "xg_against_avg": 1.58,
+      "goals_for_avg": 1.84,
+      "goals_against_avg": 1.58,
+      "matches_used": 19
+    },
     "930": {
       "team_id": 930,
       "team_name": "Czechia",
@@ -176,6 +446,16 @@
       "goals_for_avg": 1.76,
       "goals_against_avg": 1.44,
       "matches_used": 25
+    },
+    "933": {
+      "team_id": 933,
+      "team_name": "Iraq",
+      "api_football_id": 1567,
+      "xg_for_avg": 1.58,
+      "xg_against_avg": 1.32,
+      "goals_for_avg": 1.58,
+      "goals_against_avg": 1.32,
+      "matches_used": 19
     }
   }
 }
