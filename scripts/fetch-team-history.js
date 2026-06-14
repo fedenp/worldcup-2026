@@ -172,30 +172,42 @@ async function main() {
   console.log(`📋 ${bsdTeams.length} teams to process\n`)
   console.log('⚠️  Free plan budget: ~96 req needed (48 search + 48 fixture fetch)\n')
 
-  // Load or build ID cache
+  // Load ID cache — may be partial if Phase 1 was interrupted previously
   let idCache = {}
   if (fs.existsSync(CACHE_PATH)) {
     idCache = JSON.parse(fs.readFileSync(CACHE_PATH, 'utf8'))
-    console.log(`📦 ID cache: ${Object.keys(idCache).length} entradas — saltando Phase 1\n`)
+  }
+
+  // Only search teams not yet in cache (null = searched but not found; undefined = not searched yet)
+  const needsSearch = bsdTeams.filter(t => !(t.id in idCache))
+
+  if (needsSearch.length === 0) {
+    const hits = Object.values(idCache).filter(Boolean).length
+    console.log(`📦 Phase 1 completa: ${hits}/${bsdTeams.length} IDs encontrados — saltando\n`)
   } else {
-    console.log('🔍 Phase 1: Buscando IDs en API-Football…')
-    for (const team of bsdTeams) {
-      process.stdout.write(`  ${team.name}`)
+    const already = Object.keys(idCache).length
+    console.log(`🔍 Phase 1: ${needsSearch.length} equipos pendientes (${already} ya cacheados)…`)
+    for (const team of needsSearch) {
+      const idx = bsdTeams.findIndex(t => t.id === team.id) + 1
+      process.stdout.write(`  [${idx}/${bsdTeams.length}] ${team.name}`)
       const apiId = await findApiId(team.name)
       if (apiId) {
         idCache[team.id] = apiId
         process.stdout.write(` → ${apiId}\n`)
       } else {
+        idCache[team.id] = null  // mark as searched+not-found to avoid re-searching on resume
         process.stdout.write(' → ✗ not found\n')
       }
+      // Save after every single team — survives Ctrl+C
+      fs.writeFileSync(CACHE_PATH, JSON.stringify(idCache, null, 2))
       await wait()
     }
-    fs.writeFileSync(CACHE_PATH, JSON.stringify(idCache, null, 2))
-    console.log(`\n💾 ID cache guardado en .team_id_cache.json\n`)
+    const hits = Object.values(idCache).filter(Boolean).length
+    console.log(`\n💾 Phase 1 lista: ${hits}/${bsdTeams.length} IDs encontrados\n`)
   }
 
   // Phase 2: fetch fixtures — with resume support
-  const SEASONS = [2024, 2023]
+  const SEASONS = [2024, 2023, 2022]
 
   // Load progress (allows Ctrl+C and resume)
   let progress = {}

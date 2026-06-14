@@ -37,7 +37,7 @@ const CACHE_PATH    = path.resolve('.team_id_cache.json')
 const PROGRESS_PATH = path.resolve('.last_positions_progress.json')
 const STD_PATH      = path.resolve('public/data/standings.json')
 const OUT_PATH      = path.resolve('public/data/last-positions.json')
-const SEASONS       = [2025, 2024]
+const SEASONS       = [2024, 2023, 2022]
 const DELAY_MS      = 6500   // 10 req/min limit → 6.5s = ~9 req/min con margen
 
 const limitArg = process.argv.indexOf('--limit')
