@@ -6,8 +6,8 @@
     "capacity": 72220
   },
   "weather": {
-    "code": 51,
-    "description": null,
+    "code": 2,
+    "description": "cloudy",
     "wind_speed": 12.2,
     "temperature_c": 30
   },
@@ -22,5 +22,250 @@
     "confidence": 0.4434
   },
   "head_to_head": null,
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 56,
+        "x": 38,
+        "y": 22.3,
+        "pos": "D",
+        "name": "S. Floranus",
+        "player_id": 5328
+      },
+      {
+        "n": 43,
+        "x": 53.6,
+        "y": 42.6,
+        "pos": "M",
+        "name": "T. Chong",
+        "player_id": 6073
+      },
+      {
+        "n": 28,
+        "x": 58.2,
+        "y": 56.2,
+        "pos": "F",
+        "name": "J. Locadia",
+        "player_id": 22227
+      },
+      {
+        "n": 18,
+        "x": 38.2,
+        "y": 71.5,
+        "pos": "F",
+        "name": "S. Hansen",
+        "player_id": 5631
+      },
+      {
+        "n": 9,
+        "x": 61.6,
+        "y": 57.5,
+        "pos": "F",
+        "name": "G. Kastaneer",
+        "player_id": 22229
+      },
+      {
+        "n": 31,
+        "x": 62.7,
+        "y": 44.3,
+        "pos": "M",
+        "name": "J. Antonisse",
+        "player_id": 11253
+      },
+      {
+        "n": 65,
+        "x": 25.5,
+        "y": 65.7,
+        "pos": "D",
+        "name": "A. Obispo",
+        "player_id": 3518
+      },
+      {
+        "n": 12,
+        "x": 68.9,
+        "y": 68,
+        "pos": "M",
+        "name": "J. Margaritha",
+        "player_id": 22233
+      },
+      {
+        "n": 53,
+        "x": 7.2,
+        "y": 48.3,
+        "pos": "G",
+        "name": "E. Room",
+        "player_id": 22241
+      },
+      {
+        "n": 54,
+        "x": 26.1,
+        "y": 37.5,
+        "pos": "D",
+        "name": "R. Bazoer",
+        "player_id": 6904
+      },
+      {
+        "n": 59,
+        "x": 41.8,
+        "y": 41.8,
+        "pos": "D",
+        "name": "L. Comenencia",
+        "player_id": 7715
+      },
+      {
+        "n": 84,
+        "x": 44,
+        "y": 57.9,
+        "pos": "M",
+        "name": "J. Bacuna",
+        "player_id": 6672
+      },
+      {
+        "n": 90,
+        "x": 37.6,
+        "y": 37.8,
+        "pos": "M",
+        "name": "L. Bacuna",
+        "player_id": 22231
+      },
+      {
+        "n": 50,
+        "x": 31.8,
+        "y": 83.3,
+        "pos": "D",
+        "name": "D. Fonville",
+        "player_id": 5451
+      }
+    ],
+    "home": [
+      {
+        "n": 21,
+        "x": 57.1,
+        "y": 60.3,
+        "pos": "F",
+        "name": "D. Undav",
+        "player_id": 1620
+      },
+      {
+        "n": 29,
+        "x": 11.8,
+        "y": 48.7,
+        "pos": "G",
+        "name": "M. Neuer",
+        "player_id": 2456
+      },
+      {
+        "n": 15,
+        "x": 25.9,
+        "y": 25.1,
+        "pos": "D",
+        "name": "W. Anton",
+        "player_id": 2157
+      },
+      {
+        "n": 14,
+        "x": 68,
+        "y": 79.6,
+        "pos": "D",
+        "name": "D. Raum",
+        "player_id": 2891
+      },
+      {
+        "n": 64,
+        "x": 59.8,
+        "y": 74.6,
+        "pos": "D",
+        "name": "N. Brown",
+        "player_id": 1350
+      },
+      {
+        "n": 51,
+        "x": 69.7,
+        "y": 48.9,
+        "pos": "M",
+        "name": "J. Musiala",
+        "player_id": 8564
+      },
+      {
+        "n": 119,
+        "x": 45.6,
+        "y": 67.8,
+        "pos": "D",
+        "name": "N. Schlotterbeck",
+        "player_id": 2158
+      },
+      {
+        "n": 19,
+        "x": 57.7,
+        "y": 45.1,
+        "pos": "M",
+        "name": "L. Goretzka",
+        "player_id": 2470
+      },
+      {
+        "n": 101,
+        "x": 54,
+        "y": 54.2,
+        "pos": "M",
+        "name": "A. Pavlović",
+        "player_id": 2462
+      },
+      {
+        "n": 19,
+        "x": 31.2,
+        "y": 44.6,
+        "pos": "D",
+        "name": "A. Rüdiger",
+        "player_id": 588
+      },
+      {
+        "n": 93,
+        "x": 65.1,
+        "y": 59.7,
+        "pos": "M",
+        "name": "F. Wirtz",
+        "player_id": 330
+      },
+      {
+        "n": 82,
+        "x": 44.1,
+        "y": 40.7,
+        "pos": "D",
+        "name": "J. Tah",
+        "player_id": 2459
+      },
+      {
+        "n": 81,
+        "x": 66.4,
+        "y": 22.6,
+        "pos": "M",
+        "name": "L. Sané",
+        "player_id": 3732
+      },
+      {
+        "n": 94,
+        "x": 54.2,
+        "y": 21.3,
+        "pos": "M",
+        "name": "J. Kimmich",
+        "player_id": 2461
+      },
+      {
+        "n": 61,
+        "x": 64,
+        "y": 41.1,
+        "pos": "M",
+        "name": "F. Nmecha",
+        "player_id": 2160
+      },
+      {
+        "n": 60,
+        "x": 66.3,
+        "y": 48.3,
+        "pos": "F",
+        "name": "K. Havertz",
+        "player_id": 4941
+      }
+    ]
+  }
 }
