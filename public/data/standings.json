@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T03:38:28.629Z",
+  "updated_at": "2026-06-15T09:57:18.622Z",
   "groups": {
     "Group A": [
       {
@@ -334,6 +334,22 @@
     "Group F": [
       {
         "position": 1,
+        "team_id": 731,
+        "team_name": "Sweden",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "gf": 5,
+        "ga": 1,
+        "gd": 4,
+        "pts": 3,
+        "xg": 1.4,
+        "form": "WLW",
+        "live": false
+      },
+      {
+        "position": 2,
         "team_id": 470,
         "team_name": "Japan",
         "played": 1,
@@ -349,7 +365,7 @@
         "live": false
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": 469,
         "team_name": "Netherlands",
         "played": 1,
@@ -365,36 +381,20 @@
         "live": false
       },
       {
-        "position": 3,
-        "team_id": 731,
-        "team_name": "Sweden",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "gf": 0,
-        "ga": 0,
-        "gd": 0,
-        "pts": 0,
-        "xg": 0,
-        "form": "WLW",
-        "live": true
-      },
-      {
         "position": 4,
         "team_id": 474,
         "team_name": "Tunisia",
-        "played": 0,
+        "played": 1,
         "won": 0,
         "drawn": 0,
-        "lost": 0,
-        "gf": 0,
-        "ga": 0,
-        "gd": 0,
+        "lost": 1,
+        "gf": 1,
+        "ga": 5,
+        "gd": -4,
         "pts": 0,
-        "xg": 0,
+        "xg": 0.3,
         "form": "WLDWL",
-        "live": true
+        "live": false
       }
     ],
     "Group G": [
