@@ -22,5 +22,258 @@
     "confidence": 0.4312
   },
   "head_to_head": null,
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 19,
+        "x": 52.2,
+        "y": 57.8,
+        "pos": "F",
+        "name": "D. R. Livramento",
+        "player_id": 2276
+      },
+      {
+        "n": 48,
+        "x": 26.4,
+        "y": 49.5,
+        "pos": "M",
+        "name": "K. Lenini",
+        "player_id": 22076
+      },
+      {
+        "n": 38,
+        "x": 28.2,
+        "y": 67,
+        "pos": "M",
+        "name": "J. Monteiro",
+        "player_id": 5331
+      },
+      {
+        "n": 29,
+        "x": 32.1,
+        "y": 73.8,
+        "pos": "F",
+        "name": "J. Cabral",
+        "player_id": 1241
+      },
+      {
+        "n": 35,
+        "x": 36.9,
+        "y": 27.5,
+        "pos": "M",
+        "name": "R. Mendes",
+        "player_id": 7073
+      },
+      {
+        "n": 26,
+        "x": 31.2,
+        "y": 83.8,
+        "pos": "M",
+        "name": "W. Semedo",
+        "player_id": 22075
+      },
+      {
+        "n": 21,
+        "x": 37.9,
+        "y": 43.5,
+        "pos": "F",
+        "name": "N. Da Costa",
+        "player_id": 6645
+      },
+      {
+        "n": 18,
+        "x": 31.9,
+        "y": 48.1,
+        "pos": "M",
+        "name": "D. Duarte",
+        "player_id": 3314
+      },
+      {
+        "n": 18,
+        "x": 38.6,
+        "y": 39.8,
+        "pos": "M",
+        "name": "L. Duarte",
+        "player_id": 22077
+      },
+      {
+        "n": 15,
+        "x": 32.6,
+        "y": 84.7,
+        "pos": "M",
+        "name": "J. Paulo",
+        "player_id": 11206
+      },
+      {
+        "n": 53,
+        "x": 23.7,
+        "y": 84.4,
+        "pos": "D",
+        "name": "S. L. Cabral",
+        "player_id": 1235
+      },
+      {
+        "n": 4,
+        "x": 61.2,
+        "y": 53.6,
+        "pos": "M",
+        "name": "T. Arcanjo",
+        "player_id": 2701
+      },
+      {
+        "n": 66,
+        "x": 18.7,
+        "y": 30.7,
+        "pos": "D",
+        "name": "Pico",
+        "player_id": 22089
+      },
+      {
+        "n": 83,
+        "x": 7.7,
+        "y": 47.3,
+        "pos": "G",
+        "name": "Vozinha",
+        "player_id": 22095
+      },
+      {
+        "n": 50,
+        "x": 31.9,
+        "y": 14.4,
+        "pos": "D",
+        "name": "S. Moreira",
+        "player_id": 9199
+      },
+      {
+        "n": 78,
+        "x": 19.4,
+        "y": 69.9,
+        "pos": "D",
+        "name": "Diney",
+        "player_id": 22092
+      }
+    ],
+    "home": [
+      {
+        "n": 36,
+        "x": 12.5,
+        "y": 54.2,
+        "pos": "G",
+        "name": "U. Simón",
+        "player_id": 562
+      },
+      {
+        "n": 52,
+        "x": 71.6,
+        "y": 77.6,
+        "pos": "M",
+        "name": "Gavi",
+        "player_id": 4900
+      },
+      {
+        "n": 122,
+        "x": 52.4,
+        "y": 36.2,
+        "pos": "D",
+        "name": "P. Cubarsí",
+        "player_id": 740
+      },
+      {
+        "n": 137,
+        "x": 56.2,
+        "y": 66.3,
+        "pos": "D",
+        "name": "A. Laporte",
+        "player_id": 565
+      },
+      {
+        "n": 31,
+        "x": 79.5,
+        "y": 45.9,
+        "pos": "F",
+        "name": "M. Oyarzabal",
+        "player_id": 3890
+      },
+      {
+        "n": 142,
+        "x": 72.1,
+        "y": 52.5,
+        "pos": "M",
+        "name": "Pedri",
+        "player_id": 744
+      },
+      {
+        "n": 16,
+        "x": 74.5,
+        "y": 32.7,
+        "pos": "M",
+        "name": "M. Merino",
+        "player_id": 451
+      },
+      {
+        "n": 94,
+        "x": 65.9,
+        "y": 39.8,
+        "pos": "M",
+        "name": "F. Ruiz",
+        "player_id": 2249
+      },
+      {
+        "n": 116,
+        "x": 63.3,
+        "y": 13.5,
+        "pos": "D",
+        "name": "M. Llorente",
+        "player_id": 3832
+      },
+      {
+        "n": 3,
+        "x": 80.6,
+        "y": 86.4,
+        "pos": "M",
+        "name": "N. Williams",
+        "player_id": 571
+      },
+      {
+        "n": 13,
+        "x": 59.8,
+        "y": 45.3,
+        "pos": "M",
+        "name": "D. Olmo",
+        "player_id": 746
+      },
+      {
+        "n": 145,
+        "x": 63.7,
+        "y": 54.8,
+        "pos": "M",
+        "name": "Rodri",
+        "player_id": 4267
+      },
+      {
+        "n": 90,
+        "x": 70.4,
+        "y": 83,
+        "pos": "D",
+        "name": "M. Cucurella",
+        "player_id": 386
+      },
+      {
+        "n": 70,
+        "x": 75.8,
+        "y": 20.2,
+        "pos": "F",
+        "name": "F. Torres",
+        "player_id": 749
+      },
+      {
+        "n": 40,
+        "x": 80.7,
+        "y": 14.3,
+        "pos": "M",
+        "name": "L. Yamal",
+        "player_id": 745
+      }
+    ]
+  }
 }
