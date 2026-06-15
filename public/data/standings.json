@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T21:05:30.455Z",
+  "updated_at": "2026-06-15T03:38:28.629Z",
   "groups": {
     "Group A": [
       {
@@ -147,7 +147,7 @@
         "gd": 1,
         "pts": 3,
         "xg": 1.1,
-        "form": "LWDWL",
+        "form": "WLWDW",
         "live": false
       },
       {
@@ -195,7 +195,7 @@
         "gd": -1,
         "pts": 0,
         "xg": 1.2,
-        "form": "",
+        "form": "L",
         "live": false
       }
     ],
@@ -229,7 +229,7 @@
         "gd": 2,
         "pts": 3,
         "xg": 0.8,
-        "form": "WWLLD",
+        "form": "WWWLL",
         "live": false
       },
       {
@@ -245,7 +245,7 @@
         "gd": -2,
         "pts": 0,
         "xg": 1.3,
-        "form": "",
+        "form": "L",
         "live": false
       },
       {
@@ -279,39 +279,39 @@
         "gd": 6,
         "pts": 3,
         "xg": 4,
-        "form": "WDLLW",
+        "form": "WWDLL",
         "live": false
       },
       {
         "position": 2,
         "team_id": 471,
         "team_name": "Côte d'Ivoire",
-        "played": 0,
-        "won": 0,
+        "played": 1,
+        "won": 1,
         "drawn": 0,
         "lost": 0,
-        "gf": 0,
+        "gf": 1,
         "ga": 0,
-        "gd": 0,
-        "pts": 0,
-        "xg": 0,
-        "form": "LLW",
+        "gd": 1,
+        "pts": 3,
+        "xg": 1.7,
+        "form": "WLLW",
         "live": false
       },
       {
         "position": 3,
         "team_id": 472,
         "team_name": "Ecuador",
-        "played": 0,
+        "played": 1,
         "won": 0,
         "drawn": 0,
-        "lost": 0,
+        "lost": 1,
         "gf": 0,
-        "ga": 0,
-        "gd": 0,
+        "ga": 1,
+        "gd": -1,
         "pts": 0,
-        "xg": 0,
-        "form": "LDWDW",
+        "xg": 1,
+        "form": "LLDWD",
         "live": false
       },
       {
@@ -327,7 +327,7 @@
         "gd": -6,
         "pts": 0,
         "xg": 0.4,
-        "form": "",
+        "form": "L",
         "live": false
       }
     ],
@@ -336,33 +336,33 @@
         "position": 1,
         "team_id": 470,
         "team_name": "Japan",
-        "played": 0,
+        "played": 1,
         "won": 0,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 0,
-        "gf": 0,
-        "ga": 0,
+        "gf": 2,
+        "ga": 2,
         "gd": 0,
-        "pts": 0,
-        "xg": 0,
-        "form": "WLWLD",
-        "live": true
+        "pts": 1,
+        "xg": 0.5,
+        "form": "DWLWL",
+        "live": false
       },
       {
         "position": 2,
         "team_id": 469,
         "team_name": "Netherlands",
-        "played": 0,
+        "played": 1,
         "won": 0,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 0,
-        "gf": 0,
-        "ga": 0,
+        "gf": 2,
+        "ga": 2,
         "gd": 0,
-        "pts": 0,
-        "xg": 0,
-        "form": "WDWWW",
-        "live": true
+        "pts": 1,
+        "xg": 0.8,
+        "form": "DWDWW",
+        "live": false
       },
       {
         "position": 3,
@@ -378,7 +378,7 @@
         "pts": 0,
         "xg": 0,
         "form": "WLW",
-        "live": false
+        "live": true
       },
       {
         "position": 4,
@@ -394,7 +394,7 @@
         "pts": 0,
         "xg": 0,
         "form": "WLDWL",
-        "live": false
+        "live": true
       }
     ],
     "Group G": [

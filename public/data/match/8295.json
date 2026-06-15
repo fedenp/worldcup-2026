@@ -21,7 +21,25 @@
     "most_likely_score": "1-1",
     "confidence": 0.4434
   },
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 1,
+    "draws": 0,
+    "away_wins": 0,
+    "home_goals": 7,
+    "away_goals": 1,
+    "avg_total_goals": 8,
+    "home_win_rate": 1,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Curaçao",
+        "date": "2026-06-14T17:00:00+00:00",
+        "home": "Germany",
+        "score": "7-1"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {
