@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T16:41:07.862Z",
+  "updated_at": "2026-06-16T22:07:31.809Z",
   "groups": {
     "Group A": [
       {
@@ -534,15 +534,15 @@
         "position": 1,
         "team_id": 485,
         "team_name": "France",
-        "played": 0,
-        "won": 0,
+        "played": 1,
+        "won": 1,
         "drawn": 0,
         "lost": 0,
-        "gf": 0,
-        "ga": 0,
-        "gd": 0,
-        "pts": 0,
-        "xg": 0,
+        "gf": 3,
+        "ga": 1,
+        "gd": 2,
+        "pts": 3,
+        "xg": 1.9,
         "form": "LWWDW",
         "live": false
       },
@@ -560,7 +560,7 @@
         "pts": 0,
         "xg": 0,
         "form": "",
-        "live": false
+        "live": true
       },
       {
         "position": 3,
@@ -576,21 +576,21 @@
         "pts": 0,
         "xg": 0,
         "form": "",
-        "live": false
+        "live": true
       },
       {
         "position": 4,
         "team_id": 486,
         "team_name": "Senegal",
-        "played": 0,
+        "played": 1,
         "won": 0,
         "drawn": 0,
-        "lost": 0,
-        "gf": 0,
-        "ga": 0,
-        "gd": 0,
+        "lost": 1,
+        "gf": 1,
+        "ga": 3,
+        "gd": -2,
         "pts": 0,
-        "xg": 0,
+        "xg": 0.5,
         "form": "WWLLD",
         "live": false
       }

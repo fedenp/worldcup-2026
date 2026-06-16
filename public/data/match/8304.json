@@ -6,8 +6,8 @@
     "capacity": 82500
   },
   "weather": {
-    "code": 3,
-    "description": "rain",
+    "code": 2,
+    "description": "cloudy",
     "wind_speed": 21.9,
     "temperature_c": 26
   },
@@ -22,5 +22,242 @@
     "confidence": 0.6527
   },
   "head_to_head": null,
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 34,
+        "x": 64.2,
+        "y": 28.2,
+        "pos": "F",
+        "name": "I. Sarr",
+        "player_id": 1787
+      },
+      {
+        "n": 61,
+        "x": 43.1,
+        "y": 78.6,
+        "pos": "M",
+        "name": "S. Mané",
+        "player_id": 7879
+      },
+      {
+        "n": 6,
+        "x": 57.8,
+        "y": 49.8,
+        "pos": "F",
+        "name": "A. B. Dieng",
+        "player_id": 1479
+      },
+      {
+        "n": 63,
+        "x": 9.9,
+        "y": 53.6,
+        "pos": "G",
+        "name": "E. Mendy",
+        "player_id": 8110
+      },
+      {
+        "n": 47,
+        "x": 56.1,
+        "y": 63.1,
+        "pos": "F",
+        "name": "N. Jackson",
+        "player_id": 2471
+      },
+      {
+        "n": 17,
+        "x": 68,
+        "y": 19.2,
+        "pos": "F",
+        "name": "I. Mbaye",
+        "player_id": 2255
+      },
+      {
+        "n": 18,
+        "x": 45.3,
+        "y": 44.6,
+        "pos": "M",
+        "name": "H. Diarra",
+        "player_id": 4743
+      },
+      {
+        "n": 50,
+        "x": 53.9,
+        "y": 38.1,
+        "pos": "M",
+        "name": "L. Camara",
+        "player_id": 2228
+      },
+      {
+        "n": 85,
+        "x": 50.5,
+        "y": 87.3,
+        "pos": "D",
+        "name": "E. H. M. Diouf",
+        "player_id": 1638
+      },
+      {
+        "n": 16,
+        "x": 74.5,
+        "y": 45.3,
+        "pos": "M",
+        "name": "I. Ndiaye",
+        "player_id": 810
+      },
+      {
+        "n": 17,
+        "x": 53.9,
+        "y": 44.4,
+        "pos": "M",
+        "name": "P. I. Ciss",
+        "player_id": 3864
+      },
+      {
+        "n": 75,
+        "x": 40.5,
+        "y": 44.7,
+        "pos": "M",
+        "name": "I. Gueye",
+        "player_id": 3800
+      },
+      {
+        "n": 67,
+        "x": 45.8,
+        "y": 57.7,
+        "pos": "M",
+        "name": "P. Gueye",
+        "player_id": 1771
+      },
+      {
+        "n": 79,
+        "x": 43.3,
+        "y": 12.4,
+        "pos": "M",
+        "name": "K. Diatta",
+        "player_id": 2233
+      },
+      {
+        "n": 64,
+        "x": 31.5,
+        "y": 32.5,
+        "pos": "D",
+        "name": "K. Koulibaly",
+        "player_id": 7992
+      },
+      {
+        "n": 92,
+        "x": 33.7,
+        "y": 71,
+        "pos": "D",
+        "name": "M. Niakhaté",
+        "player_id": 1106
+      }
+    ],
+    "home": [
+      {
+        "n": 43,
+        "x": 71.9,
+        "y": 58.4,
+        "pos": "F",
+        "name": "K. Mbappé",
+        "player_id": 594
+      },
+      {
+        "n": 45,
+        "x": 60.8,
+        "y": 42.5,
+        "pos": "F",
+        "name": "O. Dembélé",
+        "player_id": 2253
+      },
+      {
+        "n": 13,
+        "x": 63.2,
+        "y": 83.8,
+        "pos": "F",
+        "name": "B. Barcola",
+        "player_id": 2261
+      },
+      {
+        "n": 14,
+        "x": 39.4,
+        "y": 26.1,
+        "pos": "M",
+        "name": "R. Cherki",
+        "player_id": 856
+      },
+      {
+        "n": 96,
+        "x": 48.7,
+        "y": 12,
+        "pos": "D",
+        "name": "J. Koundé",
+        "player_id": 739
+      },
+      {
+        "n": 61,
+        "x": 11.4,
+        "y": 49.9,
+        "pos": "G",
+        "name": "M. Maignan",
+        "player_id": 1987
+      },
+      {
+        "n": 69,
+        "x": 55.6,
+        "y": 74.9,
+        "pos": "F",
+        "name": "D. Doué",
+        "player_id": 4324
+      },
+      {
+        "n": 71,
+        "x": 44.9,
+        "y": 82.2,
+        "pos": "D",
+        "name": "T. Hernández",
+        "player_id": 7994
+      },
+      {
+        "n": 72,
+        "x": 50.6,
+        "y": 57.8,
+        "pos": "M",
+        "name": "A. Rabiot",
+        "player_id": 1994
+      },
+      {
+        "n": 89,
+        "x": 43.4,
+        "y": 46.6,
+        "pos": "M",
+        "name": "A. Tchouaméni",
+        "player_id": 591
+      },
+      {
+        "n": 108,
+        "x": 33.5,
+        "y": 31.4,
+        "pos": "D",
+        "name": "D. Upamecano",
+        "player_id": 3463
+      },
+      {
+        "n": 84,
+        "x": 59.3,
+        "y": 38.7,
+        "pos": "M",
+        "name": "M. Olise",
+        "player_id": 2467
+      },
+      {
+        "n": 84,
+        "x": 32.4,
+        "y": 65.5,
+        "pos": "D",
+        "name": "W. Saliba",
+        "player_id": 3460
+      }
+    ]
+  }
 }
