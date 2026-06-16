@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T22:17:41.662Z",
+  "updated_at": "2026-06-16T03:34:09.751Z",
   "groups": {
     "Group A": [
       {
@@ -345,7 +345,7 @@
         "gd": 4,
         "pts": 3,
         "xg": 1.4,
-        "form": "WLW",
+        "form": "WWLW",
         "live": false
       },
       {
@@ -393,13 +393,45 @@
         "gd": -4,
         "pts": 0,
         "xg": 0.3,
-        "form": "WLDWL",
+        "form": "LWLDW",
         "live": false
       }
     ],
     "Group G": [
       {
         "position": 1,
+        "team_id": 481,
+        "team_name": "Iran",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "gf": 2,
+        "ga": 2,
+        "gd": 0,
+        "pts": 1,
+        "xg": 1.5,
+        "form": "LWLDL",
+        "live": false
+      },
+      {
+        "position": 2,
+        "team_id": 482,
+        "team_name": "New Zealand",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "gf": 2,
+        "ga": 2,
+        "gd": 0,
+        "pts": 1,
+        "xg": 1.2,
+        "form": "",
+        "live": false
+      },
+      {
+        "position": 3,
         "team_id": 477,
         "team_name": "Belgium",
         "played": 1,
@@ -411,11 +443,11 @@
         "gd": 0,
         "pts": 1,
         "xg": 1.3,
-        "form": "DLWWW",
+        "form": "DDLWW",
         "live": false
       },
       {
-        "position": 2,
+        "position": 4,
         "team_id": 478,
         "team_name": "Egypt",
         "played": 1,
@@ -427,45 +459,45 @@
         "gd": 0,
         "pts": 1,
         "xg": 1.1,
-        "form": "LLL",
-        "live": false
-      },
-      {
-        "position": 3,
-        "team_id": 481,
-        "team_name": "Iran",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "gf": 0,
-        "ga": 0,
-        "gd": 0,
-        "pts": 0,
-        "xg": 0,
-        "form": "LWLDL",
-        "live": false
-      },
-      {
-        "position": 4,
-        "team_id": 482,
-        "team_name": "New Zealand",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "gf": 0,
-        "ga": 0,
-        "gd": 0,
-        "pts": 0,
-        "xg": 0,
-        "form": "",
+        "form": "DLLL",
         "live": false
       }
     ],
     "Group H": [
       {
         "position": 1,
+        "team_id": 479,
+        "team_name": "Saudi Arabia",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "gf": 1,
+        "ga": 1,
+        "gd": 0,
+        "pts": 1,
+        "xg": 1.1,
+        "form": "DLLWW",
+        "live": false
+      },
+      {
+        "position": 2,
+        "team_id": 480,
+        "team_name": "Uruguay",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "gf": 1,
+        "ga": 1,
+        "gd": 0,
+        "pts": 1,
+        "xg": 1.6,
+        "form": "DWLDW",
+        "live": false
+      },
+      {
+        "position": 3,
         "team_id": 476,
         "team_name": "Cabo Verde",
         "played": 1,
@@ -477,11 +509,11 @@
         "gd": 0,
         "pts": 1,
         "xg": 0.3,
-        "form": "",
+        "form": "D",
         "live": false
       },
       {
-        "position": 2,
+        "position": 4,
         "team_id": 475,
         "team_name": "Spain",
         "played": 1,
@@ -493,40 +525,8 @@
         "gd": 0,
         "pts": 1,
         "xg": 2.3,
-        "form": "LDWDW",
+        "form": "DLDWD",
         "live": false
-      },
-      {
-        "position": 3,
-        "team_id": 479,
-        "team_name": "Saudi Arabia",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "gf": 0,
-        "ga": 0,
-        "gd": 0,
-        "pts": 0,
-        "xg": 0,
-        "form": "LLWWL",
-        "live": true
-      },
-      {
-        "position": 4,
-        "team_id": 480,
-        "team_name": "Uruguay",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "gf": 0,
-        "ga": 0,
-        "gd": 0,
-        "pts": 0,
-        "xg": 0,
-        "form": "WLDWW",
-        "live": true
       }
     ],
     "Group I": [

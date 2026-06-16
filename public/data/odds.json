@@ -1,70 +1,44 @@
 {
-  "updated_at": "2026-06-15T22:17:49.991Z",
+  "updated_at": "2026-06-16T03:34:14.952Z",
   "events": {
-    "8301": {
-      "event_id": 8301,
-      "home_team": "Saudi Arabia",
-      "away_team": "Uruguay",
-      "commence_time": "2026-06-15T22:03:00Z",
-      "avg_home": 6.94,
-      "avg_draw": 3.47,
-      "avg_away": 1.58,
-      "implied_home": 14.4,
-      "implied_draw": 28.8,
-      "implied_away": 63.3,
-      "bookmakers_count": 19
-    },
-    "8302": {
-      "event_id": 8302,
-      "home_team": "Iran",
-      "away_team": "New Zealand",
-      "commence_time": "2026-06-16T01:00:00Z",
-      "avg_home": 1.79,
-      "avg_draw": 3.56,
-      "avg_away": 5.04,
-      "implied_home": 55.9,
-      "implied_draw": 28.1,
-      "implied_away": 19.8,
-      "bookmakers_count": 24
-    },
     "8303": {
       "event_id": 8303,
       "home_team": "Austria",
       "away_team": "Jordan",
       "commence_time": "2026-06-17T04:00:00Z",
-      "avg_home": 1.34,
-      "avg_draw": 5.38,
-      "avg_away": 9.01,
-      "implied_home": 74.6,
+      "avg_home": 1.35,
+      "avg_draw": 5.37,
+      "avg_away": 8.9,
+      "implied_home": 74.1,
       "implied_draw": 18.6,
-      "implied_away": 11.1,
-      "bookmakers_count": 24
+      "implied_away": 11.2,
+      "bookmakers_count": 25
     },
     "8304": {
       "event_id": 8304,
       "home_team": "France",
       "away_team": "Senegal",
       "commence_time": "2026-06-16T19:00:00Z",
-      "avg_home": 1.47,
+      "avg_home": 1.48,
       "avg_draw": 4.43,
-      "avg_away": 7.28,
-      "implied_home": 68,
+      "avg_away": 7.19,
+      "implied_home": 67.6,
       "implied_draw": 22.6,
-      "implied_away": 13.7,
-      "bookmakers_count": 24
+      "implied_away": 13.9,
+      "bookmakers_count": 25
     },
     "8305": {
       "event_id": 8305,
       "home_team": "Iraq",
       "away_team": "Norway",
       "commence_time": "2026-06-16T22:00:00Z",
-      "avg_home": 15.5,
-      "avg_draw": 7.32,
+      "avg_home": 15.75,
+      "avg_draw": 7.28,
       "avg_away": 1.19,
-      "implied_home": 6.5,
+      "implied_home": 6.3,
       "implied_draw": 13.7,
       "implied_away": 84,
-      "bookmakers_count": 24
+      "bookmakers_count": 25
     },
     "8306": {
       "event_id": 8306,
@@ -72,12 +46,12 @@
       "away_team": "Algeria",
       "commence_time": "2026-06-17T01:00:00Z",
       "avg_home": 1.4,
-      "avg_draw": 4.66,
-      "avg_away": 9.01,
+      "avg_draw": 4.64,
+      "avg_away": 8.97,
       "implied_home": 71.4,
-      "implied_draw": 21.5,
+      "implied_draw": 21.6,
       "implied_away": 11.1,
-      "bookmakers_count": 24
+      "bookmakers_count": 25
     },
     "8307": {
       "event_id": 8307,
@@ -85,12 +59,12 @@
       "away_team": "DR Congo",
       "commence_time": "2026-06-17T17:00:00Z",
       "avg_home": 1.29,
-      "avg_draw": 5.72,
-      "avg_away": 11.17,
+      "avg_draw": 5.69,
+      "avg_away": 11.13,
       "implied_home": 77.5,
-      "implied_draw": 17.5,
+      "implied_draw": 17.6,
       "implied_away": 9,
-      "bookmakers_count": 22
+      "bookmakers_count": 23
     },
     "8308": {
       "event_id": 8308,
@@ -99,11 +73,11 @@
       "commence_time": "2026-06-17T20:00:00Z",
       "avg_home": 1.72,
       "avg_draw": 3.79,
-      "avg_away": 5.07,
+      "avg_away": 5.04,
       "implied_home": 58.1,
       "implied_draw": 26.4,
-      "implied_away": 19.7,
-      "bookmakers_count": 24
+      "implied_away": 19.8,
+      "bookmakers_count": 25
     },
     "8309": {
       "event_id": 8309,
@@ -111,25 +85,25 @@
       "away_team": "Panama",
       "commence_time": "2026-06-17T23:00:00Z",
       "avg_home": 2.18,
-      "avg_draw": 3.4,
+      "avg_draw": 3.39,
       "avg_away": 3.45,
       "implied_home": 45.9,
-      "implied_draw": 29.4,
+      "implied_draw": 29.5,
       "implied_away": 29,
-      "bookmakers_count": 24
+      "bookmakers_count": 25
     },
     "8310": {
       "event_id": 8310,
       "home_team": "Uzbekistan",
       "away_team": "Colombia",
       "commence_time": "2026-06-18T02:00:00Z",
-      "avg_home": 9.09,
-      "avg_draw": 4.74,
+      "avg_home": 9.1,
+      "avg_draw": 4.75,
       "avg_away": 1.38,
       "implied_home": 11,
       "implied_draw": 21.1,
       "implied_away": 72.5,
-      "bookmakers_count": 24
+      "bookmakers_count": 25
     },
     "8311": {
       "event_id": 8311,
@@ -142,7 +116,7 @@
       "implied_home": 56.5,
       "implied_draw": 26.5,
       "implied_away": 21.4,
-      "bookmakers_count": 24
+      "bookmakers_count": 25
     },
     "8312": {
       "event_id": 8312,
@@ -151,11 +125,11 @@
       "commence_time": "2026-06-18T19:00:00Z",
       "avg_home": 1.56,
       "avg_draw": 4.1,
-      "avg_away": 6.28,
+      "avg_away": 6.23,
       "implied_home": 64.1,
       "implied_draw": 24.4,
-      "implied_away": 15.9,
-      "bookmakers_count": 24
+      "implied_away": 16.1,
+      "bookmakers_count": 25
     },
     "8313": {
       "event_id": 8313,
@@ -164,24 +138,24 @@
       "commence_time": "2026-06-18T22:00:00Z",
       "avg_home": 1.27,
       "avg_draw": 5.65,
-      "avg_away": 11.74,
+      "avg_away": 11.75,
       "implied_home": 78.7,
       "implied_draw": 17.7,
       "implied_away": 8.5,
-      "bookmakers_count": 24
+      "bookmakers_count": 25
     },
     "8314": {
       "event_id": 8314,
       "home_team": "Mexico",
       "away_team": "South Korea",
       "commence_time": "2026-06-19T01:00:00Z",
-      "avg_home": 1.99,
-      "avg_draw": 3.33,
+      "avg_home": 2,
+      "avg_draw": 3.32,
       "avg_away": 4.1,
-      "implied_home": 50.3,
-      "implied_draw": 30,
+      "implied_home": 50,
+      "implied_draw": 30.1,
       "implied_away": 24.4,
-      "bookmakers_count": 24
+      "bookmakers_count": 25
     },
     "8315": {
       "event_id": 8315,
@@ -190,50 +164,50 @@
       "commence_time": "2026-06-20T03:00:00Z",
       "avg_home": 2.02,
       "avg_draw": 3.38,
-      "avg_away": 3.91,
+      "avg_away": 3.93,
       "implied_home": 49.5,
       "implied_draw": 29.6,
-      "implied_away": 25.6,
-      "bookmakers_count": 24
+      "implied_away": 25.4,
+      "bookmakers_count": 25
     },
     "8316": {
       "event_id": 8316,
       "home_team": "USA",
       "away_team": "Australia",
       "commence_time": "2026-06-19T19:00:00Z",
-      "avg_home": 1.59,
+      "avg_home": 1.6,
       "avg_draw": 4.2,
-      "avg_away": 5.55,
-      "implied_home": 62.9,
+      "avg_away": 5.52,
+      "implied_home": 62.5,
       "implied_draw": 23.8,
-      "implied_away": 18,
-      "bookmakers_count": 24
+      "implied_away": 18.1,
+      "bookmakers_count": 25
     },
     "8317": {
       "event_id": 8317,
       "home_team": "Scotland",
       "away_team": "Morocco",
       "commence_time": "2026-06-19T22:00:00Z",
-      "avg_home": 5.16,
-      "avg_draw": 3.61,
+      "avg_home": 5.2,
+      "avg_draw": 3.62,
       "avg_away": 1.74,
-      "implied_home": 19.4,
-      "implied_draw": 27.7,
+      "implied_home": 19.2,
+      "implied_draw": 27.6,
       "implied_away": 57.5,
-      "bookmakers_count": 24
+      "bookmakers_count": 25
     },
     "8318": {
       "event_id": 8318,
       "home_team": "Brazil",
       "away_team": "Haiti",
       "commence_time": "2026-06-20T01:00:00Z",
-      "avg_home": 1.11,
-      "avg_draw": 10.6,
-      "avg_away": 22.9,
-      "implied_home": 90.1,
-      "implied_draw": 9.4,
-      "implied_away": 4.4,
-      "bookmakers_count": 24
+      "avg_home": 1.1,
+      "avg_draw": 10.84,
+      "avg_away": 23.31,
+      "implied_home": 90.9,
+      "implied_draw": 9.2,
+      "implied_away": 4.3,
+      "bookmakers_count": 25
     },
     "8319": {
       "event_id": 8319,
@@ -241,12 +215,12 @@
       "away_team": "Japan",
       "commence_time": "2026-06-21T04:00:00Z",
       "avg_home": 6.91,
-      "avg_draw": 4.08,
+      "avg_draw": 4.07,
       "avg_away": 1.53,
       "implied_home": 14.5,
-      "implied_draw": 24.5,
+      "implied_draw": 24.6,
       "implied_away": 65.4,
-      "bookmakers_count": 22
+      "bookmakers_count": 25
     },
     "8320": {
       "event_id": 8320,
@@ -255,11 +229,11 @@
       "commence_time": "2026-06-20T17:00:00Z",
       "avg_home": 1.69,
       "avg_draw": 3.97,
-      "avg_away": 4.99,
+      "avg_away": 5,
       "implied_home": 59.2,
       "implied_draw": 25.2,
       "implied_away": 20,
-      "bookmakers_count": 23
+      "bookmakers_count": 24
     },
     "8321": {
       "event_id": 8321,
@@ -267,12 +241,12 @@
       "away_team": "Côte d'Ivoire",
       "commence_time": "2026-06-20T20:00:00Z",
       "avg_home": 1.55,
-      "avg_draw": 4.41,
-      "avg_away": 5.8,
+      "avg_draw": 4.42,
+      "avg_away": 5.79,
       "implied_home": 64.5,
-      "implied_draw": 22.7,
-      "implied_away": 17.2,
-      "bookmakers_count": 24
+      "implied_draw": 22.6,
+      "implied_away": 17.3,
+      "bookmakers_count": 25
     },
     "8322": {
       "event_id": 8322,
@@ -280,12 +254,12 @@
       "away_team": "Curaçao",
       "commence_time": "2026-06-21T00:00:00Z",
       "avg_home": 1.1,
-      "avg_draw": 10.93,
-      "avg_away": 25.04,
+      "avg_draw": 10.69,
+      "avg_away": 25.96,
       "implied_home": 90.9,
-      "implied_draw": 9.1,
-      "implied_away": 4,
-      "bookmakers_count": 22
+      "implied_draw": 9.4,
+      "implied_away": 3.9,
+      "bookmakers_count": 25
     },
     "8323": {
       "event_id": 8323,
@@ -293,25 +267,25 @@
       "away_team": "Saudi Arabia",
       "commence_time": "2026-06-21T16:00:00Z",
       "avg_home": 1.1,
-      "avg_draw": 11.18,
-      "avg_away": 26.92,
+      "avg_draw": 10.41,
+      "avg_away": 24.25,
       "implied_home": 90.9,
-      "implied_draw": 8.9,
-      "implied_away": 3.7,
-      "bookmakers_count": 15
+      "implied_draw": 9.6,
+      "implied_away": 4.1,
+      "bookmakers_count": 21
     },
     "8324": {
       "event_id": 8324,
       "home_team": "Belgium",
       "away_team": "Iran",
       "commence_time": "2026-06-21T19:00:00Z",
-      "avg_home": 1.38,
-      "avg_draw": 4.82,
-      "avg_away": 8.14,
-      "implied_home": 72.5,
-      "implied_draw": 20.7,
-      "implied_away": 12.3,
-      "bookmakers_count": 20
+      "avg_home": 1.39,
+      "avg_draw": 4.81,
+      "avg_away": 8.08,
+      "implied_home": 71.9,
+      "implied_draw": 20.8,
+      "implied_away": 12.4,
+      "bookmakers_count": 21
     },
     "8325": {
       "event_id": 8325,
@@ -319,25 +293,25 @@
       "away_team": "Cabo Verde",
       "commence_time": "2026-06-21T22:00:00Z",
       "avg_home": 1.48,
-      "avg_draw": 4.34,
-      "avg_away": 7.26,
+      "avg_draw": 4.15,
+      "avg_away": 7.12,
       "implied_home": 67.6,
-      "implied_draw": 23,
-      "implied_away": 13.8,
-      "bookmakers_count": 14
+      "implied_draw": 24.1,
+      "implied_away": 14,
+      "bookmakers_count": 21
     },
     "8326": {
       "event_id": 8326,
       "home_team": "New Zealand",
       "away_team": "Egypt",
       "commence_time": "2026-06-22T01:00:00Z",
-      "avg_home": 5.14,
-      "avg_draw": 3.83,
-      "avg_away": 1.67,
-      "implied_home": 19.5,
-      "implied_draw": 26.1,
-      "implied_away": 59.9,
-      "bookmakers_count": 20
+      "avg_home": 5.45,
+      "avg_draw": 3.93,
+      "avg_away": 1.62,
+      "implied_home": 18.3,
+      "implied_draw": 25.4,
+      "implied_away": 61.7,
+      "bookmakers_count": 21
     },
     "8327": {
       "event_id": 8327,
@@ -345,12 +319,12 @@
       "away_team": "Austria",
       "commence_time": "2026-06-22T17:00:00Z",
       "avg_home": 1.61,
-      "avg_draw": 3.88,
-      "avg_away": 5.62,
+      "avg_draw": 3.87,
+      "avg_away": 5.64,
       "implied_home": 62.1,
       "implied_draw": 25.8,
-      "implied_away": 17.8,
-      "bookmakers_count": 22
+      "implied_away": 17.7,
+      "bookmakers_count": 23
     },
     "8328": {
       "event_id": 8328,
@@ -358,38 +332,38 @@
       "away_team": "Iraq",
       "commence_time": "2026-06-22T21:00:00Z",
       "avg_home": 1.11,
-      "avg_draw": 9.13,
-      "avg_away": 25.36,
+      "avg_draw": 9.12,
+      "avg_away": 25.78,
       "implied_home": 90.1,
       "implied_draw": 11,
       "implied_away": 3.9,
-      "bookmakers_count": 22
+      "bookmakers_count": 23
     },
     "8329": {
       "event_id": 8329,
       "home_team": "Norway",
       "away_team": "Senegal",
       "commence_time": "2026-06-23T00:00:00Z",
-      "avg_home": 2.11,
-      "avg_draw": 3.46,
-      "avg_away": 3.39,
-      "implied_home": 47.4,
-      "implied_draw": 28.9,
-      "implied_away": 29.5,
-      "bookmakers_count": 21
+      "avg_home": 2.12,
+      "avg_draw": 3.47,
+      "avg_away": 3.36,
+      "implied_home": 47.2,
+      "implied_draw": 28.8,
+      "implied_away": 29.8,
+      "bookmakers_count": 23
     },
     "8330": {
       "event_id": 8330,
       "home_team": "Jordan",
       "away_team": "Algeria",
       "commence_time": "2026-06-23T03:00:00Z",
-      "avg_home": 6.69,
-      "avg_draw": 4.24,
+      "avg_home": 6.67,
+      "avg_draw": 4.25,
       "avg_away": 1.49,
-      "implied_home": 14.9,
-      "implied_draw": 23.6,
+      "implied_home": 15,
+      "implied_draw": 23.5,
       "implied_away": 67.1,
-      "bookmakers_count": 21
+      "bookmakers_count": 23
     },
     "8331": {
       "event_id": 8331,
@@ -397,12 +371,12 @@
       "away_team": "Uzbekistan",
       "commence_time": "2026-06-23T17:00:00Z",
       "avg_home": 1.24,
-      "avg_draw": 6.2,
-      "avg_away": 11.66,
+      "avg_draw": 6.19,
+      "avg_away": 11.79,
       "implied_home": 80.6,
-      "implied_draw": 16.1,
-      "implied_away": 8.6,
-      "bookmakers_count": 21
+      "implied_draw": 16.2,
+      "implied_away": 8.5,
+      "bookmakers_count": 22
     },
     "8332": {
       "event_id": 8332,
@@ -410,25 +384,25 @@
       "away_team": "Ghana",
       "commence_time": "2026-06-23T20:00:00Z",
       "avg_home": 1.31,
-      "avg_draw": 5.35,
-      "avg_away": 9.62,
+      "avg_draw": 5.34,
+      "avg_away": 9.67,
       "implied_home": 76.3,
       "implied_draw": 18.7,
-      "implied_away": 10.4,
-      "bookmakers_count": 21
+      "implied_away": 10.3,
+      "bookmakers_count": 22
     },
     "8333": {
       "event_id": 8333,
       "home_team": "Panama",
       "away_team": "Croatia",
       "commence_time": "2026-06-23T23:00:00Z",
-      "avg_home": 6.41,
-      "avg_draw": 3.87,
+      "avg_home": 6.44,
+      "avg_draw": 3.88,
       "avg_away": 1.55,
-      "implied_home": 15.6,
+      "implied_home": 15.5,
       "implied_draw": 25.8,
       "implied_away": 64.5,
-      "bookmakers_count": 21
+      "bookmakers_count": 22
     },
     "8334": {
       "event_id": 8334,
@@ -437,11 +411,11 @@
       "commence_time": "2026-06-24T02:00:00Z",
       "avg_home": 1.45,
       "avg_draw": 4.22,
-      "avg_away": 7.53,
+      "avg_away": 7.57,
       "implied_home": 69,
       "implied_draw": 23.7,
-      "implied_away": 13.3,
-      "bookmakers_count": 21
+      "implied_away": 13.2,
+      "bookmakers_count": 22
     },
     "8335": {
       "event_id": 8335,
@@ -450,11 +424,11 @@
       "commence_time": "2026-06-24T19:00:00Z",
       "avg_home": 2.11,
       "avg_draw": 3.32,
-      "avg_away": 3.45,
+      "avg_away": 3.46,
       "implied_home": 47.4,
       "implied_draw": 30.1,
-      "implied_away": 29,
-      "bookmakers_count": 18
+      "implied_away": 28.9,
+      "bookmakers_count": 19
     },
     "8336": {
       "event_id": 8336,
@@ -463,11 +437,11 @@
       "commence_time": "2026-06-24T19:00:00Z",
       "avg_home": 1.54,
       "avg_draw": 3.95,
-      "avg_away": 6.07,
+      "avg_away": 6.09,
       "implied_home": 64.9,
       "implied_draw": 25.3,
-      "implied_away": 16.5,
-      "bookmakers_count": 18
+      "implied_away": 16.4,
+      "bookmakers_count": 19
     },
     "8337": {
       "event_id": 8337,
@@ -475,38 +449,38 @@
       "away_team": "Haiti",
       "commence_time": "2026-06-24T22:00:00Z",
       "avg_home": 1.28,
-      "avg_draw": 5.43,
-      "avg_away": 9.97,
+      "avg_draw": 5.44,
+      "avg_away": 10.1,
       "implied_home": 78.1,
       "implied_draw": 18.4,
-      "implied_away": 10,
-      "bookmakers_count": 18
+      "implied_away": 9.9,
+      "bookmakers_count": 19
     },
     "8338": {
       "event_id": 8338,
       "home_team": "Scotland",
       "away_team": "Brazil",
       "commence_time": "2026-06-24T22:00:00Z",
-      "avg_home": 6.58,
+      "avg_home": 6.62,
       "avg_draw": 4.74,
       "avg_away": 1.42,
-      "implied_home": 15.2,
+      "implied_home": 15.1,
       "implied_draw": 21.1,
       "implied_away": 70.4,
-      "bookmakers_count": 18
+      "bookmakers_count": 19
     },
     "8339": {
       "event_id": 8339,
       "home_team": "South Africa",
       "away_team": "South Korea",
       "commence_time": "2026-06-25T01:00:00Z",
-      "avg_home": 5.58,
-      "avg_draw": 3.9,
+      "avg_home": 5.59,
+      "avg_draw": 3.92,
       "avg_away": 1.58,
       "implied_home": 17.9,
-      "implied_draw": 25.6,
+      "implied_draw": 25.5,
       "implied_away": 63.3,
-      "bookmakers_count": 18
+      "bookmakers_count": 19
     },
     "8340": {
       "event_id": 8340,
@@ -514,103 +488,103 @@
       "away_team": "Mexico",
       "commence_time": "2026-06-25T01:00:00Z",
       "avg_home": 4.52,
-      "avg_draw": 3.47,
-      "avg_away": 1.79,
+      "avg_draw": 3.48,
+      "avg_away": 1.8,
       "implied_home": 22.1,
-      "implied_draw": 28.8,
-      "implied_away": 55.9,
-      "bookmakers_count": 18
+      "implied_draw": 28.7,
+      "implied_away": 55.6,
+      "bookmakers_count": 19
     },
     "8341": {
       "event_id": 8341,
       "home_team": "Curaçao",
       "away_team": "Côte d'Ivoire",
       "commence_time": "2026-06-25T20:00:00Z",
-      "avg_home": 18.16,
+      "avg_home": 18.75,
       "avg_draw": 8.1,
       "avg_away": 1.13,
-      "implied_home": 5.5,
+      "implied_home": 5.3,
       "implied_draw": 12.3,
       "implied_away": 88.5,
-      "bookmakers_count": 18
+      "bookmakers_count": 19
     },
     "8342": {
       "event_id": 8342,
       "home_team": "Ecuador",
       "away_team": "Germany",
       "commence_time": "2026-06-25T20:00:00Z",
-      "avg_home": 4.65,
+      "avg_home": 4.66,
       "avg_draw": 3.7,
       "avg_away": 1.72,
       "implied_home": 21.5,
       "implied_draw": 27,
       "implied_away": 58.1,
-      "bookmakers_count": 18
+      "bookmakers_count": 19
     },
     "8343": {
       "event_id": 8343,
       "home_team": "Japan",
       "away_team": "Sweden",
       "commence_time": "2026-06-25T23:00:00Z",
-      "avg_home": 2.09,
+      "avg_home": 2.1,
       "avg_draw": 3.36,
-      "avg_away": 3.43,
-      "implied_home": 47.8,
+      "avg_away": 3.44,
+      "implied_home": 47.6,
       "implied_draw": 29.8,
-      "implied_away": 29.2,
-      "bookmakers_count": 18
+      "implied_away": 29.1,
+      "bookmakers_count": 19
     },
     "8344": {
       "event_id": 8344,
       "home_team": "Tunisia",
       "away_team": "Netherlands",
       "commence_time": "2026-06-25T23:00:00Z",
-      "avg_home": 8.65,
-      "avg_draw": 5.05,
+      "avg_home": 8.72,
+      "avg_draw": 5.07,
       "avg_away": 1.32,
-      "implied_home": 11.6,
-      "implied_draw": 19.8,
+      "implied_home": 11.5,
+      "implied_draw": 19.7,
       "implied_away": 75.8,
-      "bookmakers_count": 18
+      "bookmakers_count": 19
     },
     "8345": {
       "event_id": 8345,
       "home_team": "Paraguay",
       "away_team": "Australia",
       "commence_time": "2026-06-26T02:00:00Z",
-      "avg_home": 2.14,
-      "avg_draw": 3.23,
-      "avg_away": 3.41,
-      "implied_home": 46.7,
-      "implied_draw": 31,
-      "implied_away": 29.3,
-      "bookmakers_count": 18
+      "avg_home": 2.15,
+      "avg_draw": 3.24,
+      "avg_away": 3.42,
+      "implied_home": 46.5,
+      "implied_draw": 30.9,
+      "implied_away": 29.2,
+      "bookmakers_count": 19
     },
     "8346": {
       "event_id": 8346,
       "home_team": "Türkiye",
       "away_team": "USA",
       "commence_time": "2026-06-26T02:00:00Z",
-      "avg_home": 2.72,
+      "avg_home": 2.73,
       "avg_draw": 3.52,
       "avg_away": 2.39,
-      "implied_home": 36.8,
+      "implied_home": 36.6,
       "implied_draw": 28.4,
       "implied_away": 41.8,
-      "bookmakers_count": 18
+      "bookmakers_count": 19
     },
     "8347": {
       "event_id": 8347,
       "home_team": "Norway",
       "away_team": "France",
       "commence_time": "2026-06-26T19:00:00Z",
-      "avg_home": 4.2,
-      "avg_draw": 3.57,
-      "avg_away": 1.8,
-      "implied_home": 23.8,
-      "implied_draw": 28,
-      "implied_away": 55.6,
-      "bookmakers_count": 17
+      "avg_home": 4.24,
+      "avg_draw": 3.58,
+      "avg_away": 1.81,
+      "implied_home": 23.6,
+      "implied_draw": 27.9,
+      "implied_away": 55.2,
+      "bookmakers_count": 19
     },
     "8348": {
       "event_id": 8348,
@@ -619,63 +593,63 @@
       "commence_time": "2026-06-26T19:00:00Z",
       "avg_home": 1.39,
       "avg_draw": 4.5,
-      "avg_away": 7.76,
+      "avg_away": 7.82,
       "implied_home": 71.9,
       "implied_draw": 22.2,
-      "implied_away": 12.9,
-      "bookmakers_count": 17
+      "implied_away": 12.8,
+      "bookmakers_count": 18
     },
     "8349": {
       "event_id": 8349,
       "home_team": "Cabo Verde",
       "away_team": "Saudi Arabia",
       "commence_time": "2026-06-27T00:00:00Z",
-      "avg_home": 2.43,
-      "avg_draw": 3.63,
-      "avg_away": 2.7,
-      "implied_home": 41.2,
-      "implied_draw": 27.5,
-      "implied_away": 37,
-      "bookmakers_count": 12
+      "avg_home": 2.61,
+      "avg_draw": 3.59,
+      "avg_away": 2.44,
+      "implied_home": 38.3,
+      "implied_draw": 27.9,
+      "implied_away": 41,
+      "bookmakers_count": 18
     },
     "8350": {
       "event_id": 8350,
       "home_team": "Uruguay",
       "away_team": "Spain",
       "commence_time": "2026-06-27T00:00:00Z",
-      "avg_home": 5.99,
-      "avg_draw": 4.15,
-      "avg_away": 1.55,
-      "implied_home": 16.7,
-      "implied_draw": 24.1,
-      "implied_away": 64.5,
-      "bookmakers_count": 12
+      "avg_home": 5.78,
+      "avg_draw": 4.13,
+      "avg_away": 1.53,
+      "implied_home": 17.3,
+      "implied_draw": 24.2,
+      "implied_away": 65.4,
+      "bookmakers_count": 18
     },
     "8351": {
       "event_id": 8351,
       "home_team": "Egypt",
       "away_team": "Iran",
       "commence_time": "2026-06-27T03:00:00Z",
-      "avg_home": 2.17,
-      "avg_draw": 3.01,
-      "avg_away": 3.55,
-      "implied_home": 46.1,
-      "implied_draw": 33.2,
-      "implied_away": 28.2,
-      "bookmakers_count": 16
+      "avg_home": 2.16,
+      "avg_draw": 3.04,
+      "avg_away": 3.62,
+      "implied_home": 46.3,
+      "implied_draw": 32.9,
+      "implied_away": 27.6,
+      "bookmakers_count": 18
     },
     "8352": {
       "event_id": 8352,
       "home_team": "New Zealand",
       "away_team": "Belgium",
       "commence_time": "2026-06-27T03:00:00Z",
-      "avg_home": 10.7,
-      "avg_draw": 5.67,
-      "avg_away": 1.24,
-      "implied_home": 9.3,
-      "implied_draw": 17.6,
-      "implied_away": 80.6,
-      "bookmakers_count": 16
+      "avg_home": 11.33,
+      "avg_draw": 5.92,
+      "avg_away": 1.23,
+      "implied_home": 8.8,
+      "implied_draw": 16.9,
+      "implied_away": 81.3,
+      "bookmakers_count": 18
     },
     "8353": {
       "event_id": 8353,
@@ -683,77 +657,77 @@
       "away_team": "Ghana",
       "commence_time": "2026-06-27T21:00:00Z",
       "avg_home": 1.62,
-      "avg_draw": 3.69,
-      "avg_away": 5.35,
+      "avg_draw": 3.7,
+      "avg_away": 5.38,
       "implied_home": 61.7,
-      "implied_draw": 27.1,
-      "implied_away": 18.7,
-      "bookmakers_count": 15
+      "implied_draw": 27,
+      "implied_away": 18.6,
+      "bookmakers_count": 16
     },
     "8354": {
       "event_id": 8354,
       "home_team": "Panama",
       "away_team": "England",
       "commence_time": "2026-06-27T21:00:00Z",
-      "avg_home": 9.56,
-      "avg_draw": 5.81,
+      "avg_home": 9.7,
+      "avg_draw": 5.83,
       "avg_away": 1.26,
-      "implied_home": 10.5,
+      "implied_home": 10.3,
       "implied_draw": 17.2,
       "implied_away": 79.4,
-      "bookmakers_count": 15
+      "bookmakers_count": 16
     },
     "8355": {
       "event_id": 8355,
       "home_team": "Colombia",
       "away_team": "Portugal",
       "commence_time": "2026-06-27T23:30:00Z",
-      "avg_home": 3.44,
-      "avg_draw": 3.24,
+      "avg_home": 3.46,
+      "avg_draw": 3.26,
       "avg_away": 2.1,
-      "implied_home": 29.1,
-      "implied_draw": 30.9,
+      "implied_home": 28.9,
+      "implied_draw": 30.7,
       "implied_away": 47.6,
-      "bookmakers_count": 15
+      "bookmakers_count": 16
     },
     "8356": {
       "event_id": 8356,
       "home_team": "DR Congo",
       "away_team": "Uzbekistan",
       "commence_time": "2026-06-27T23:30:00Z",
-      "avg_home": 2.28,
-      "avg_draw": 3.2,
-      "avg_away": 3.05,
-      "implied_home": 43.9,
-      "implied_draw": 31.3,
-      "implied_away": 32.8,
-      "bookmakers_count": 15
+      "avg_home": 2.29,
+      "avg_draw": 3.21,
+      "avg_away": 3.06,
+      "implied_home": 43.7,
+      "implied_draw": 31.2,
+      "implied_away": 32.7,
+      "bookmakers_count": 16
     },
     "8357": {
       "event_id": 8357,
       "home_team": "Algeria",
       "away_team": "Austria",
       "commence_time": "2026-06-28T02:00:00Z",
-      "avg_home": 3.53,
+      "avg_home": 3.54,
       "avg_draw": 3.12,
-      "avg_away": 2.13,
-      "implied_home": 28.3,
+      "avg_away": 2.14,
+      "implied_home": 28.2,
       "implied_draw": 32.1,
-      "implied_away": 46.9,
-      "bookmakers_count": 15
+      "implied_away": 46.7,
+      "bookmakers_count": 16
     },
     "8358": {
       "event_id": 8358,
       "home_team": "Jordan",
       "away_team": "Argentina",
       "commence_time": "2026-06-28T02:00:00Z",
-      "avg_home": 13.19,
-      "avg_draw": 6.67,
+      "avg_home": 13.37,
+      "avg_draw": 6.7,
       "avg_away": 1.18,
-      "implied_home": 7.6,
-      "implied_draw": 15,
+      "implied_home": 7.5,
+      "implied_draw": 14.9,
       "implied_away": 84.7,
-      "bookmakers_count": 15
+      "bookmakers_count": 16
     }
   }
 }

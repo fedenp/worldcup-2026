@@ -22,16 +22,22 @@
     "confidence": 0.5692
   },
   "head_to_head": {
-    "total_matches": 1,
+    "total_matches": 2,
     "home_wins": 0,
-    "draws": 0,
+    "draws": 1,
     "away_wins": 1,
-    "home_goals": 0,
-    "away_goals": 1,
-    "avg_total_goals": 1,
+    "home_goals": 1,
+    "away_goals": 2,
+    "avg_total_goals": 1.5,
     "home_win_rate": 0,
-    "away_win_rate": 1,
+    "away_win_rate": 0.5,
     "recent_matches": [
+      {
+        "away": "Uruguay",
+        "date": "2026-06-15T22:00:00+00:00",
+        "home": "Saudi Arabia",
+        "score": "1-1"
+      },
       {
         "away": "Saudi Arabia",
         "date": "2018-06-20T14:00:00+00:00",
@@ -40,5 +46,266 @@
       }
     ]
   },
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 37,
+        "x": 65.3,
+        "y": 40.7,
+        "pos": "F",
+        "name": "F. Viñas",
+        "player_id": 1973
+      },
+      {
+        "n": 13,
+        "x": 70.6,
+        "y": 42.4,
+        "pos": "F",
+        "name": "D. Núñez",
+        "player_id": 8000
+      },
+      {
+        "n": 51,
+        "x": 51.5,
+        "y": 86.5,
+        "pos": "D",
+        "name": "M. Viña",
+        "player_id": 3968
+      },
+      {
+        "n": 33,
+        "x": 71.6,
+        "y": 50.3,
+        "pos": "M",
+        "name": "N. De la Cruz",
+        "player_id": 61
+      },
+      {
+        "n": 111,
+        "x": 51.1,
+        "y": 45.7,
+        "pos": "M",
+        "name": "R. Bentancur",
+        "player_id": 723
+      },
+      {
+        "n": 2,
+        "x": 90.2,
+        "y": 41.8,
+        "pos": "F",
+        "name": "R. Aguirre",
+        "player_id": 10112
+      },
+      {
+        "n": 141,
+        "x": 48.9,
+        "y": 67,
+        "pos": "D",
+        "name": "M. Olivera",
+        "player_id": 1089
+      },
+      {
+        "n": 107,
+        "x": 43.8,
+        "y": 30.1,
+        "pos": "D",
+        "name": "S. Cáceres",
+        "player_id": 10103
+      },
+      {
+        "n": 72,
+        "x": 68.2,
+        "y": 36.1,
+        "pos": "M",
+        "name": "F. Valverde",
+        "player_id": 593
+      },
+      {
+        "n": 87,
+        "x": 49.6,
+        "y": 55.9,
+        "pos": "M",
+        "name": "M. Ugarte",
+        "player_id": 1806
+      },
+      {
+        "n": 43,
+        "x": 68.6,
+        "y": 13,
+        "pos": "M",
+        "name": "A. Canobbio",
+        "player_id": 2908
+      },
+      {
+        "n": 25,
+        "x": 82.2,
+        "y": 84.7,
+        "pos": "M",
+        "name": "B. Rodríguez",
+        "player_id": 10110
+      },
+      {
+        "n": 44,
+        "x": 71.9,
+        "y": 75.4,
+        "pos": "D",
+        "name": "M. Araújo",
+        "player_id": 1215
+      },
+      {
+        "n": 48,
+        "x": 67.7,
+        "y": 81.9,
+        "pos": "D",
+        "name": "J. Sanabria",
+        "player_id": 10229
+      },
+      {
+        "n": 45,
+        "x": 14.1,
+        "y": 50.7,
+        "pos": "G",
+        "name": "F. Muslera",
+        "player_id": 16896
+      },
+      {
+        "n": 86,
+        "x": 57.8,
+        "y": 16.8,
+        "pos": "D",
+        "name": "G. Varela",
+        "player_id": 48
+      }
+    ],
+    "home": [
+      {
+        "n": 51,
+        "x": 58.2,
+        "y": 51.7,
+        "pos": "M",
+        "name": "M. A. Juwayr",
+        "player_id": 8139
+      },
+      {
+        "n": 51,
+        "x": 36.1,
+        "y": 20.6,
+        "pos": "M",
+        "name": "S. Abdulhamid",
+        "player_id": 1418
+      },
+      {
+        "n": 52,
+        "x": 52.3,
+        "y": 53.6,
+        "pos": "F",
+        "name": "F. Al-Buraikan",
+        "player_id": 8122
+      },
+      {
+        "n": 25,
+        "x": 41.1,
+        "y": 71.1,
+        "pos": "M",
+        "name": "N. Al-Dawsari",
+        "player_id": 7991
+      },
+      {
+        "n": 50,
+        "x": 48.3,
+        "y": 25.7,
+        "pos": "M",
+        "name": "M. A. Al-Shamat",
+        "player_id": 8131
+      },
+      {
+        "n": 8,
+        "x": 37.8,
+        "y": 9.5,
+        "pos": "D",
+        "name": "N. Boushal",
+        "player_id": 7882
+      },
+      {
+        "n": 2,
+        "x": 54.1,
+        "y": 73.3,
+        "pos": "M",
+        "name": "A. Al-Hejji",
+        "player_id": 8308
+      },
+      {
+        "n": 56,
+        "x": 54.3,
+        "y": 76.1,
+        "pos": "M",
+        "name": "S. Al-Dawsari",
+        "player_id": 7999
+      },
+      {
+        "n": 1,
+        "x": 23.7,
+        "y": 50.8,
+        "pos": "F",
+        "name": "A. Al-Hamdan",
+        "player_id": 8256
+      },
+      {
+        "n": 51,
+        "x": 33.2,
+        "y": 38.8,
+        "pos": "D",
+        "name": "A. Al-Amri",
+        "player_id": 7886
+      },
+      {
+        "n": 47,
+        "x": 40,
+        "y": 68.9,
+        "pos": "M",
+        "name": "A. Al-Khaibari",
+        "player_id": 7883
+      },
+      {
+        "n": 53,
+        "x": 6.6,
+        "y": 50.6,
+        "pos": "G",
+        "name": "M. Al-Owais",
+        "player_id": 17201
+      },
+      {
+        "n": 9,
+        "x": 7.6,
+        "y": 53.5,
+        "pos": "D",
+        "name": "A. Lajami",
+        "player_id": 8288
+      },
+      {
+        "n": 64,
+        "x": 42.7,
+        "y": 34.9,
+        "pos": "M",
+        "name": "M. Kanno",
+        "player_id": 7998
+      },
+      {
+        "n": 43,
+        "x": 30,
+        "y": 67.5,
+        "pos": "D",
+        "name": "H. Altambakti",
+        "player_id": 8253
+      },
+      {
+        "n": 63,
+        "x": 35.3,
+        "y": 84.2,
+        "pos": "D",
+        "name": "M. Al-Harbi",
+        "player_id": 8252
+      }
+    ]
+  }
 }
