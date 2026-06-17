@@ -6,8 +6,8 @@
     "capacity": 68500
   },
   "weather": {
-    "code": 0,
-    "description": "unknown",
+    "code": 2,
+    "description": "cloudy",
     "wind_speed": 11.8,
     "temperature_c": 24
   },
@@ -22,5 +22,266 @@
     "confidence": 0.5047
   },
   "head_to_head": null,
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 31,
+        "x": 65,
+        "y": 50.3,
+        "pos": "F",
+        "name": "O. A. Fakhouri",
+        "player_id": 14727
+      },
+      {
+        "n": 38,
+        "x": 66.8,
+        "y": 40,
+        "pos": "F",
+        "name": "M. Tamari",
+        "player_id": 2809
+      },
+      {
+        "n": 36,
+        "x": 10.2,
+        "y": 48.7,
+        "pos": "G",
+        "name": "Y. Abu Laila",
+        "player_id": 16700
+      },
+      {
+        "n": 53,
+        "x": 35.9,
+        "y": 29.3,
+        "pos": "D",
+        "name": "A. Nasib",
+        "player_id": 16701
+      },
+      {
+        "n": 42,
+        "x": 53.3,
+        "y": 17.8,
+        "pos": "M",
+        "name": "E. Haddad",
+        "player_id": 55790
+      },
+      {
+        "n": 20,
+        "x": 34.1,
+        "y": 24.9,
+        "pos": "D",
+        "name": "S. A. Rousan",
+        "player_id": 56086
+      },
+      {
+        "n": 71,
+        "x": 39.9,
+        "y": 57.1,
+        "pos": "M",
+        "name": "N. Al Rawabdeh",
+        "player_id": 16705
+      },
+      {
+        "n": 22,
+        "x": 27.2,
+        "y": 76.6,
+        "pos": "D",
+        "name": "S. Obaid",
+        "player_id": 16718
+      },
+      {
+        "n": 17,
+        "x": 51.8,
+        "y": 59.5,
+        "pos": "M",
+        "name": "M. Al-Mardi",
+        "player_id": 16713
+      },
+      {
+        "n": 11,
+        "x": 43.9,
+        "y": 13.6,
+        "pos": "M",
+        "name": "M. A. Daoud",
+        "player_id": 16720
+      },
+      {
+        "n": 3,
+        "x": 76,
+        "y": 33.7,
+        "pos": "M",
+        "name": "A. Al-Azaizah",
+        "player_id": 8821
+      },
+      {
+        "n": 77,
+        "x": 27,
+        "y": 59.2,
+        "pos": "D",
+        "name": "Y. Al-Arab",
+        "player_id": 16702
+      },
+      {
+        "n": 52,
+        "x": 29.7,
+        "y": 77.5,
+        "pos": "D",
+        "name": "M. Abualnadi",
+        "player_id": 16717
+      },
+      {
+        "n": 59,
+        "x": 50.6,
+        "y": 86.2,
+        "pos": "M",
+        "name": "M. A. Taha",
+        "player_id": 16710
+      },
+      {
+        "n": 60,
+        "x": 46.8,
+        "y": 48.7,
+        "pos": "M",
+        "name": "N. Al-Rashdan",
+        "player_id": 16711
+      },
+      {
+        "n": 56,
+        "x": 65.1,
+        "y": 58.8,
+        "pos": "F",
+        "name": "A. Olwan",
+        "player_id": 55283
+      }
+    ],
+    "home": [
+      {
+        "n": 22,
+        "x": 65.1,
+        "y": 54.7,
+        "pos": "F",
+        "name": "M. Arnautović",
+        "player_id": 3065
+      },
+      {
+        "n": 50,
+        "x": 14.3,
+        "y": 55.4,
+        "pos": "G",
+        "name": "A. Schlager",
+        "player_id": 3034
+      },
+      {
+        "n": 31,
+        "x": 70.5,
+        "y": 58,
+        "pos": "F",
+        "name": "S. Kalajdžić",
+        "player_id": 4824
+      },
+      {
+        "n": 34,
+        "x": 51.5,
+        "y": 44.2,
+        "pos": "M",
+        "name": "P. Wanner",
+        "player_id": 3522
+      },
+      {
+        "n": 33,
+        "x": 37.7,
+        "y": 67.5,
+        "pos": "D",
+        "name": "K. Danso",
+        "player_id": 721
+      },
+      {
+        "n": 28,
+        "x": 65.3,
+        "y": 41.1,
+        "pos": "M",
+        "name": "C. Chukwuemeka",
+        "player_id": 2170
+      },
+      {
+        "n": 82,
+        "x": 47.1,
+        "y": 58.9,
+        "pos": "M",
+        "name": "X. Schlager",
+        "player_id": 2892
+      },
+      {
+        "n": 18,
+        "x": 51.3,
+        "y": 19.4,
+        "pos": "M",
+        "name": "P. Wimmer",
+        "player_id": 1375
+      },
+      {
+        "n": 111,
+        "x": 37,
+        "y": 32.2,
+        "pos": "D",
+        "name": "P. Lienhart",
+        "player_id": 1174
+      },
+      {
+        "n": 43,
+        "x": 56.7,
+        "y": 87.3,
+        "pos": "M",
+        "name": "P. Mwene",
+        "player_id": 1198
+      },
+      {
+        "n": 77,
+        "x": 43.3,
+        "y": 68.7,
+        "pos": "D",
+        "name": "D. Alaba",
+        "player_id": 4020
+      },
+      {
+        "n": 99,
+        "x": 49.1,
+        "y": 15.6,
+        "pos": "D",
+        "name": "S. Posch",
+        "player_id": 2832
+      },
+      {
+        "n": 95,
+        "x": 48.6,
+        "y": 44.5,
+        "pos": "M",
+        "name": "N. Seiwald",
+        "player_id": 2893
+      },
+      {
+        "n": 69,
+        "x": 59.1,
+        "y": 67.9,
+        "pos": "D",
+        "name": "K. Laimer",
+        "player_id": 2457
+      },
+      {
+        "n": 67,
+        "x": 63.5,
+        "y": 80.3,
+        "pos": "M",
+        "name": "M. Sabitzer",
+        "player_id": 2161
+      },
+      {
+        "n": 48,
+        "x": 56.9,
+        "y": 28.8,
+        "pos": "M",
+        "name": "R. Schmid",
+        "player_id": 2504
+      }
+    ]
+  }
 }
