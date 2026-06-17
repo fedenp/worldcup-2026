@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T22:07:31.809Z",
+  "updated_at": "2026-06-17T03:32:32.151Z",
   "groups": {
     "Group A": [
       {
@@ -411,7 +411,7 @@
         "gd": 0,
         "pts": 1,
         "xg": 1.5,
-        "form": "LWLDL",
+        "form": "DLWLD",
         "live": false
       },
       {
@@ -427,7 +427,7 @@
         "gd": 0,
         "pts": 1,
         "xg": 1.2,
-        "form": "",
+        "form": "D",
         "live": false
       },
       {
@@ -532,6 +532,22 @@
     "Group I": [
       {
         "position": 1,
+        "team_id": 488,
+        "team_name": "Norway",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "gf": 4,
+        "ga": 1,
+        "gd": 3,
+        "pts": 3,
+        "xg": 2.5,
+        "form": "W",
+        "live": false
+      },
+      {
+        "position": 2,
         "team_id": 485,
         "team_name": "France",
         "played": 1,
@@ -543,43 +559,11 @@
         "gd": 2,
         "pts": 3,
         "xg": 1.9,
-        "form": "LWWDW",
+        "form": "WLWWD",
         "live": false
       },
       {
-        "position": 2,
-        "team_id": 933,
-        "team_name": "Iraq",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "gf": 0,
-        "ga": 0,
-        "gd": 0,
-        "pts": 0,
-        "xg": 0,
-        "form": "",
-        "live": true
-      },
-      {
         "position": 3,
-        "team_id": 488,
-        "team_name": "Norway",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "gf": 0,
-        "ga": 0,
-        "gd": 0,
-        "pts": 0,
-        "xg": 0,
-        "form": "",
-        "live": true
-      },
-      {
-        "position": 4,
         "team_id": 486,
         "team_name": "Senegal",
         "played": 1,
@@ -591,45 +575,45 @@
         "gd": -2,
         "pts": 0,
         "xg": 0.5,
-        "form": "WWLLD",
+        "form": "LWWLL",
+        "live": false
+      },
+      {
+        "position": 4,
+        "team_id": 933,
+        "team_name": "Iraq",
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "gf": 1,
+        "ga": 4,
+        "gd": -3,
+        "pts": 0,
+        "xg": 0.8,
+        "form": "L",
         "live": false
       }
     ],
     "Group J": [
       {
         "position": 1,
-        "team_id": 490,
-        "team_name": "Algeria",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "gf": 0,
-        "ga": 0,
-        "gd": 0,
-        "pts": 0,
-        "xg": 0,
-        "form": "LWLDL",
-        "live": false
-      },
-      {
-        "position": 2,
         "team_id": 489,
         "team_name": "Argentina",
-        "played": 0,
-        "won": 0,
+        "played": 1,
+        "won": 1,
         "drawn": 0,
         "lost": 0,
-        "gf": 0,
+        "gf": 3,
         "ga": 0,
-        "gd": 0,
-        "pts": 0,
-        "xg": 0,
+        "gd": 3,
+        "pts": 3,
+        "xg": 1.2,
         "form": "WWLWL",
         "live": false
       },
       {
-        "position": 3,
+        "position": 2,
         "team_id": 483,
         "team_name": "Austria",
         "played": 0,
@@ -645,7 +629,7 @@
         "live": false
       },
       {
-        "position": 4,
+        "position": 3,
         "team_id": 484,
         "team_name": "Jordan",
         "played": 0,
@@ -658,6 +642,22 @@
         "pts": 0,
         "xg": 0,
         "form": "",
+        "live": false
+      },
+      {
+        "position": 4,
+        "team_id": 490,
+        "team_name": "Algeria",
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "gf": 0,
+        "ga": 3,
+        "gd": -3,
+        "pts": 0,
+        "xg": 0.3,
+        "form": "LWLDL",
         "live": false
       }
     ],

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T22:07:54.192Z",
+  "updated_at": "2026-06-17T03:32:58.442Z",
   "managers": {
     "451": {
       "id": 128,
@@ -401,25 +401,25 @@
       "stats_updated_at": "2026-06-15T23:30:49.277151+00:00"
     },
     "474": {
-      "id": 131,
-      "name": "Sabri Lamouchi",
-      "short_name": "S. Lamouchi",
+      "id": 71,
+      "name": "Hervé Renard",
+      "short_name": "H. Renard",
       "country": "France",
-      "tactical_profile": "balanced",
-      "preferred_formation": "4-3-3",
+      "tactical_profile": "defensive",
+      "preferred_formation": "3-4-2-1",
       "current_team_id": 474,
-      "matches_total": 22,
-      "wins": 11,
-      "draws": 6,
-      "losses": 5,
-      "win_pct": 50,
-      "avg_goals_scored": 1.45,
-      "avg_goals_conceded": 0.86,
-      "avg_possession": 48,
-      "clean_sheet_pct": 59.1,
-      "btts_pct": 27.3,
-      "over_25_pct": 36.4,
-      "stats_updated_at": "2026-06-15T23:30:48.969995+00:00"
+      "matches_total": 2,
+      "wins": 0,
+      "draws": 0,
+      "losses": 2,
+      "win_pct": 0,
+      "avg_goals_scored": 0.5,
+      "avg_goals_conceded": 3,
+      "avg_possession": 50.5,
+      "clean_sheet_pct": 0,
+      "btts_pct": 50,
+      "over_25_pct": 100,
+      "stats_updated_at": "2026-04-14T16:14:39.941159+00:00"
     },
     "475": {
       "id": 116,
