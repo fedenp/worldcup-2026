@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T18:23:48.181Z",
+  "updated_at": "2026-06-18T22:01:48.244Z",
   "groups": {
     "Group A": [
       {
@@ -70,18 +70,18 @@
     "Group B": [
       {
         "position": 1,
-        "team_id": 931,
-        "team_name": "Bosnia & Herzegovina",
-        "played": 1,
-        "won": 0,
+        "team_id": 462,
+        "team_name": "Switzerland",
+        "played": 2,
+        "won": 1,
         "drawn": 1,
         "lost": 0,
-        "gf": 1,
-        "ga": 1,
-        "gd": 0,
-        "pts": 1,
-        "xg": 1,
-        "form": "DWLL",
+        "gf": 5,
+        "ga": 2,
+        "gd": 3,
+        "pts": 4,
+        "xg": 5.2,
+        "form": "DWLWD",
         "live": false
       },
       {
@@ -118,18 +118,18 @@
       },
       {
         "position": 4,
-        "team_id": 462,
-        "team_name": "Switzerland",
-        "played": 1,
+        "team_id": 931,
+        "team_name": "Bosnia & Herzegovina",
+        "played": 2,
         "won": 0,
         "drawn": 1,
-        "lost": 0,
-        "gf": 1,
-        "ga": 1,
-        "gd": 0,
+        "lost": 1,
+        "gf": 2,
+        "ga": 5,
+        "gd": -3,
         "pts": 1,
-        "xg": 3.2,
-        "form": "DWLWD",
+        "xg": 1.2,
+        "form": "DWLL",
         "live": false
       }
     ],
