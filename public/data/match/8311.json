@@ -22,5 +22,250 @@
     "confidence": 0.4485
   },
   "head_to_head": null,
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 51,
+        "x": 47.4,
+        "y": 50.2,
+        "pos": "M",
+        "name": "T. Mbatha",
+        "player_id": 15476
+      },
+      {
+        "n": 22,
+        "x": 70.1,
+        "y": 60.1,
+        "pos": "F",
+        "name": "I. Rayners",
+        "player_id": 14402
+      },
+      {
+        "n": 31,
+        "x": 66.5,
+        "y": 49.4,
+        "pos": "M",
+        "name": "R. Mofokeng",
+        "player_id": 15469
+      },
+      {
+        "n": 135,
+        "x": 47.1,
+        "y": 49.1,
+        "pos": "M",
+        "name": "T. Mokoena",
+        "player_id": 14399
+      },
+      {
+        "n": 88,
+        "x": 48.9,
+        "y": 16.2,
+        "pos": "D",
+        "name": "K. Mudau",
+        "player_id": 14394
+      },
+      {
+        "n": 21,
+        "x": 62.1,
+        "y": 36.7,
+        "pos": "F",
+        "name": "E. Makgopa",
+        "player_id": 15470
+      },
+      {
+        "n": 12,
+        "x": 52.4,
+        "y": 23.1,
+        "pos": "M",
+        "name": "K. Sebelebele",
+        "player_id": 24227
+      },
+      {
+        "n": 26,
+        "x": 49.3,
+        "y": 50,
+        "pos": "M",
+        "name": "J. Adams",
+        "player_id": 14398
+      },
+      {
+        "n": 74,
+        "x": 15.3,
+        "y": 53.1,
+        "pos": "G",
+        "name": "R. Williams",
+        "player_id": 14393
+      },
+      {
+        "n": 45,
+        "x": 65.6,
+        "y": 20.6,
+        "pos": "M",
+        "name": "T. Maseko",
+        "player_id": 15830
+      },
+      {
+        "n": 104,
+        "x": 35,
+        "y": 29.3,
+        "pos": "D",
+        "name": "I. Okon",
+        "player_id": 16737
+      },
+      {
+        "n": 99,
+        "x": 29.7,
+        "y": 67.2,
+        "pos": "D",
+        "name": "M. Mbokazi",
+        "player_id": 12123
+      },
+      {
+        "n": 91,
+        "x": 52.7,
+        "y": 81.3,
+        "pos": "D",
+        "name": "A. Modiba",
+        "player_id": 14397
+      },
+      {
+        "n": 61,
+        "x": 67,
+        "y": 63.6,
+        "pos": "M",
+        "name": "O. Appollis",
+        "player_id": 15468
+      }
+    ],
+    "home": [
+      {
+        "n": 37,
+        "x": 43.3,
+        "y": 61.8,
+        "pos": "M",
+        "name": "V. Darida",
+        "player_id": 53970
+      },
+      {
+        "n": 57,
+        "x": 52.4,
+        "y": 17.6,
+        "pos": "D",
+        "name": "V. Coufal",
+        "player_id": 2377
+      },
+      {
+        "n": 37,
+        "x": 9,
+        "y": 49.2,
+        "pos": "G",
+        "name": "M. Kovář",
+        "player_id": 3502
+      },
+      {
+        "n": 50,
+        "x": 36.5,
+        "y": 27.5,
+        "pos": "D",
+        "name": "T. Holeš",
+        "player_id": 3710
+      },
+      {
+        "n": 33,
+        "x": 61.3,
+        "y": 60.3,
+        "pos": "F",
+        "name": "A. Hložek",
+        "player_id": 5156
+      },
+      {
+        "n": 43,
+        "x": 56.6,
+        "y": 47.8,
+        "pos": "F",
+        "name": "P. Schick",
+        "player_id": 2145
+      },
+      {
+        "n": 31,
+        "x": 59.2,
+        "y": 55.4,
+        "pos": "F",
+        "name": "P. Šulc",
+        "player_id": 1112
+      },
+      {
+        "n": 25,
+        "x": 54.7,
+        "y": 80.1,
+        "pos": "D",
+        "name": "J. Zelený",
+        "player_id": 26388
+      },
+      {
+        "n": 43,
+        "x": 50.1,
+        "y": 62.8,
+        "pos": "M",
+        "name": "M. Sadílek",
+        "player_id": 3703
+      },
+      {
+        "n": 12,
+        "x": 68.5,
+        "y": 44.1,
+        "pos": "F",
+        "name": "L. Provod",
+        "player_id": 3706
+      },
+      {
+        "n": 19,
+        "x": 47.6,
+        "y": 52.9,
+        "pos": "M",
+        "name": "T. Souček",
+        "player_id": 1647
+      },
+      {
+        "n": 40,
+        "x": 43.4,
+        "y": 49.4,
+        "pos": "M",
+        "name": "L. Červ",
+        "player_id": 3224
+      },
+      {
+        "n": 14,
+        "x": 29.4,
+        "y": 27.3,
+        "pos": "D",
+        "name": "D. Zima",
+        "player_id": 3700
+      },
+      {
+        "n": 50,
+        "x": 46.4,
+        "y": 85.5,
+        "pos": "M",
+        "name": "A. Sojka",
+        "player_id": 12264
+      },
+      {
+        "n": 56,
+        "x": 27.3,
+        "y": 41.8,
+        "pos": "D",
+        "name": "R. Hranáč",
+        "player_id": 2378
+      },
+      {
+        "n": 88,
+        "x": 37.2,
+        "y": 74.3,
+        "pos": "D",
+        "name": "L. Krejčí",
+        "player_id": 3904
+      }
+    ]
+  }
 }

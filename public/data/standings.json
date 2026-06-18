@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T14:56:44.377Z",
+  "updated_at": "2026-06-18T18:23:48.181Z",
   "groups": {
     "Group A": [
       {
@@ -38,15 +38,15 @@
         "position": 3,
         "team_id": 930,
         "team_name": "Czechia",
-        "played": 1,
+        "played": 2,
         "won": 0,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 1,
-        "gf": 1,
-        "ga": 2,
+        "gf": 2,
+        "ga": 3,
         "gd": -1,
-        "pts": 0,
-        "xg": 0.8,
+        "pts": 1,
+        "xg": 1.8,
         "form": "L",
         "live": false
       },
@@ -54,15 +54,15 @@
         "position": 4,
         "team_id": 452,
         "team_name": "South Africa",
-        "played": 1,
+        "played": 2,
         "won": 0,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 1,
-        "gf": 0,
-        "ga": 2,
+        "gf": 1,
+        "ga": 3,
         "gd": -2,
-        "pts": 0,
-        "xg": 0.1,
+        "pts": 1,
+        "xg": 1.4,
         "form": "L",
         "live": false
       }
