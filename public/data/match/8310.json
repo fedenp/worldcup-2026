@@ -6,8 +6,8 @@
     "capacity": 87523
   },
   "weather": {
-    "code": 55,
-    "description": null,
+    "code": 2,
+    "description": "cloudy",
     "wind_speed": 4.1,
     "temperature_c": 17
   },
@@ -22,5 +22,258 @@
     "confidence": 0.5022
   },
   "head_to_head": null,
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 19,
+        "x": 65.1,
+        "y": 48.1,
+        "pos": "F",
+        "name": "L. J. Suárez ",
+        "player_id": 1221
+      },
+      {
+        "n": 2,
+        "x": 24.9,
+        "y": 23.9,
+        "pos": "M",
+        "name": "A. Gómez",
+        "player_id": 662
+      },
+      {
+        "n": 92,
+        "x": 52.3,
+        "y": 46.4,
+        "pos": "M",
+        "name": "J. Lerma",
+        "player_id": 428
+      },
+      {
+        "n": 54,
+        "x": 65.2,
+        "y": 73.5,
+        "pos": "M",
+        "name": "L. Díaz",
+        "player_id": 2465
+      },
+      {
+        "n": 15,
+        "x": 65.6,
+        "y": 32.8,
+        "pos": "M",
+        "name": "J. Campaz",
+        "player_id": 16391
+      },
+      {
+        "n": 13,
+        "x": 48.3,
+        "y": 24.1,
+        "pos": "M",
+        "name": "R. Ríos",
+        "player_id": 3788
+      },
+      {
+        "n": 61,
+        "x": 63.9,
+        "y": 63.4,
+        "pos": "M",
+        "name": "J. Arias",
+        "player_id": 530
+      },
+      {
+        "n": 11,
+        "x": 60.6,
+        "y": 37.7,
+        "pos": "F",
+        "name": "C. Hernández",
+        "player_id": 1578
+      },
+      {
+        "n": 54,
+        "x": 9.5,
+        "y": 51.1,
+        "pos": "G",
+        "name": "C. Vargas",
+        "player_id": 10304
+      },
+      {
+        "n": 1,
+        "x": 27,
+        "y": 36.2,
+        "pos": "M",
+        "name": "K. Castaño",
+        "player_id": 16385
+      },
+      {
+        "n": 96,
+        "x": 37.8,
+        "y": 30.3,
+        "pos": "D",
+        "name": "D. Sánchez",
+        "player_id": 3726
+      },
+      {
+        "n": 55,
+        "x": 49.3,
+        "y": 86.7,
+        "pos": "D",
+        "name": "J. Mojica",
+        "player_id": 2641
+      },
+      {
+        "n": 78,
+        "x": 46.3,
+        "y": 13.6,
+        "pos": "M",
+        "name": "D. Muñoz",
+        "player_id": 426
+      },
+      {
+        "n": 68,
+        "x": 56.7,
+        "y": 34.2,
+        "pos": "M",
+        "name": "G. Puerta",
+        "player_id": 16386
+      },
+      {
+        "n": 67,
+        "x": 59,
+        "y": 47.6,
+        "pos": "M",
+        "name": "J. Rodríguez",
+        "player_id": 10128
+      },
+      {
+        "n": 86,
+        "x": 35.9,
+        "y": 62.7,
+        "pos": "D",
+        "name": "J. Lucumí",
+        "player_id": 949
+      }
+    ],
+    "home": [
+      {
+        "n": 10,
+        "x": 49.6,
+        "y": 69.4,
+        "pos": "M",
+        "name": "O. Urunov",
+        "player_id": 55630
+      },
+      {
+        "n": 46,
+        "x": 10,
+        "y": 49.7,
+        "pos": "G",
+        "name": "U. Yusupov",
+        "player_id": 55371
+      },
+      {
+        "n": 34,
+        "x": 60.1,
+        "y": 58.8,
+        "pos": "F",
+        "name": "E. Shomurodov",
+        "player_id": 6643
+      },
+      {
+        "n": 39,
+        "x": 58.8,
+        "y": 33.4,
+        "pos": "M",
+        "name": "A. Fayzullaev",
+        "player_id": 6642
+      },
+      {
+        "n": 14,
+        "x": 47.9,
+        "y": 89,
+        "pos": "D",
+        "name": "S. Nasrullaev",
+        "player_id": 55373
+      },
+      {
+        "n": 47,
+        "x": 44.6,
+        "y": 49.3,
+        "pos": "M",
+        "name": "A. Mozgovoy",
+        "player_id": 55375
+      },
+      {
+        "n": 21,
+        "x": 65.3,
+        "y": 90.5,
+        "pos": "D",
+        "name": "F. Sayfiev",
+        "player_id": 55388
+      },
+      {
+        "n": 30,
+        "x": 51.6,
+        "y": 34.4,
+        "pos": "M",
+        "name": "D. Khamdamov",
+        "player_id": 59376
+      },
+      {
+        "n": 28,
+        "x": 40.5,
+        "y": 80,
+        "pos": "D",
+        "name": "J. Urozov",
+        "player_id": 59373
+      },
+      {
+        "n": 13,
+        "x": 68.9,
+        "y": 58.2,
+        "pos": "M",
+        "name": "Azizbek Amanov",
+        "player_id": 56128
+      },
+      {
+        "n": 51,
+        "x": 32.1,
+        "y": 26.8,
+        "pos": "D",
+        "name": "A. Khusanov",
+        "player_id": 860
+      },
+      {
+        "n": 55,
+        "x": 45.6,
+        "y": 12.4,
+        "pos": "D",
+        "name": "B. Karimov",
+        "player_id": 59413
+      },
+      {
+        "n": 62,
+        "x": 31,
+        "y": 78.1,
+        "pos": "D",
+        "name": "R. Ashurmatov",
+        "player_id": 55387
+      },
+      {
+        "n": 73,
+        "x": 46.3,
+        "y": 62.7,
+        "pos": "M",
+        "name": "O. Shukurov",
+        "player_id": 55629
+      },
+      {
+        "n": 59,
+        "x": 32.4,
+        "y": 45.6,
+        "pos": "M",
+        "name": "A. Abdullaev",
+        "player_id": 55385
+      }
+    ]
+  }
 }

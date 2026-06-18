@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T03:24:47.750Z",
+  "updated_at": "2026-06-18T08:44:07.338Z",
   "groups": {
     "Group A": [
       {
@@ -664,6 +664,22 @@
     "Group K": [
       {
         "position": 1,
+        "team_id": 498,
+        "team_name": "Colombia",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "gf": 3,
+        "ga": 1,
+        "gd": 2,
+        "pts": 3,
+        "xg": 1.6,
+        "form": "WWLWW",
+        "live": false
+      },
+      {
+        "position": 2,
         "team_id": 648,
         "team_name": "DR Congo",
         "played": 1,
@@ -679,7 +695,7 @@
         "live": false
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": 491,
         "team_name": "Portugal",
         "played": 1,
@@ -695,36 +711,20 @@
         "live": false
       },
       {
-        "position": 3,
-        "team_id": 498,
-        "team_name": "Colombia",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "gf": 0,
-        "ga": 0,
-        "gd": 0,
-        "pts": 0,
-        "xg": 0,
-        "form": "WWLWW",
-        "live": true
-      },
-      {
         "position": 4,
         "team_id": 497,
         "team_name": "Uzbekistan",
-        "played": 0,
+        "played": 1,
         "won": 0,
         "drawn": 0,
-        "lost": 0,
-        "gf": 0,
-        "ga": 0,
-        "gd": 0,
+        "lost": 1,
+        "gf": 1,
+        "ga": 3,
+        "gd": -2,
         "pts": 0,
-        "xg": 0,
+        "xg": 1.2,
         "form": "",
-        "live": true
+        "live": false
       }
     ],
     "Group L": [
