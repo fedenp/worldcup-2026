@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-06-18T22:01:48.244Z",
+  "updated_at": "2026-06-19T03:46:50.229Z",
   "groups": {
     "Group A": [
       {
         "position": 1,
         "team_id": 451,
         "team_name": "Mexico",
-        "played": 1,
-        "won": 1,
+        "played": 2,
+        "won": 2,
         "drawn": 0,
         "lost": 0,
-        "gf": 2,
+        "gf": 3,
         "ga": 0,
-        "gd": 2,
-        "pts": 3,
-        "xg": 1.5,
+        "gd": 3,
+        "pts": 6,
+        "xg": 1.9,
         "form": "WWLDL",
         "live": false
       },
@@ -22,15 +22,15 @@
         "position": 2,
         "team_id": 453,
         "team_name": "South Korea",
-        "played": 1,
+        "played": 2,
         "won": 1,
         "drawn": 0,
-        "lost": 0,
+        "lost": 1,
         "gf": 2,
-        "ga": 1,
-        "gd": 1,
+        "ga": 2,
+        "gd": 0,
         "pts": 3,
-        "xg": 1.8,
+        "xg": 2.6,
         "form": "WWLDW",
         "live": false
       },
@@ -47,7 +47,7 @@
         "gd": -1,
         "pts": 1,
         "xg": 1.8,
-        "form": "L",
+        "form": "DL",
         "live": false
       },
       {
@@ -63,13 +63,29 @@
         "gd": -2,
         "pts": 1,
         "xg": 1.4,
-        "form": "L",
+        "form": "DL",
         "live": false
       }
     ],
     "Group B": [
       {
         "position": 1,
+        "team_id": 455,
+        "team_name": "Canada",
+        "played": 2,
+        "won": 1,
+        "drawn": 1,
+        "lost": 0,
+        "gf": 7,
+        "ga": 1,
+        "gd": 6,
+        "pts": 4,
+        "xg": 6.1,
+        "form": "WDLLL",
+        "live": false
+      },
+      {
+        "position": 2,
         "team_id": 462,
         "team_name": "Switzerland",
         "played": 2,
@@ -81,43 +97,11 @@
         "gd": 3,
         "pts": 4,
         "xg": 5.2,
-        "form": "DWLWD",
-        "live": false
-      },
-      {
-        "position": 2,
-        "team_id": 455,
-        "team_name": "Canada",
-        "played": 1,
-        "won": 0,
-        "drawn": 1,
-        "lost": 0,
-        "gf": 1,
-        "ga": 1,
-        "gd": 0,
-        "pts": 1,
-        "xg": 1.2,
-        "form": "DLLL",
+        "form": "WDWLW",
         "live": false
       },
       {
         "position": 3,
-        "team_id": 461,
-        "team_name": "Qatar",
-        "played": 1,
-        "won": 0,
-        "drawn": 1,
-        "lost": 0,
-        "gf": 1,
-        "ga": 1,
-        "gd": 0,
-        "pts": 1,
-        "xg": 0.8,
-        "form": "DLLL",
-        "live": false
-      },
-      {
-        "position": 4,
         "team_id": 931,
         "team_name": "Bosnia & Herzegovina",
         "played": 2,
@@ -129,7 +113,23 @@
         "gd": -3,
         "pts": 1,
         "xg": 1.2,
-        "form": "DWLL",
+        "form": "LDWLL",
+        "live": false
+      },
+      {
+        "position": 4,
+        "team_id": 461,
+        "team_name": "Qatar",
+        "played": 2,
+        "won": 0,
+        "drawn": 1,
+        "lost": 1,
+        "gf": 1,
+        "ga": 7,
+        "gd": -6,
+        "pts": 1,
+        "xg": 0.9,
+        "form": "LDLLL",
         "live": false
       }
     ],
@@ -675,7 +675,7 @@
         "gd": 2,
         "pts": 3,
         "xg": 1.6,
-        "form": "WWLWW",
+        "form": "WWWLW",
         "live": false
       },
       {
@@ -723,7 +723,7 @@
         "gd": -2,
         "pts": 0,
         "xg": 1.2,
-        "form": "",
+        "form": "L",
         "live": false
       }
     ],
