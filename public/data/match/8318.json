@@ -6,8 +6,8 @@
     "capacity": 69176
   },
   "weather": {
-    "code": 3,
-    "description": "rain",
+    "code": 2,
+    "description": "cloudy",
     "wind_speed": 13.6,
     "temperature_c": 25
   },
@@ -22,5 +22,266 @@
     "confidence": 0.5892
   },
   "head_to_head": null,
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 45,
+        "x": 12.7,
+        "y": 45.9,
+        "pos": "G",
+        "name": "J. Placide",
+        "player_id": 26638
+      },
+      {
+        "n": 30,
+        "x": 63.4,
+        "y": 80.1,
+        "pos": "M",
+        "name": "R. Providence",
+        "player_id": 17101
+      },
+      {
+        "n": 26,
+        "x": 59.1,
+        "y": 47.1,
+        "pos": "F",
+        "name": "F. Pierrot",
+        "player_id": 9020
+      },
+      {
+        "n": 29,
+        "x": 45.1,
+        "y": 15,
+        "pos": "D",
+        "name": "C. Arcus",
+        "player_id": 1387
+      },
+      {
+        "n": 13,
+        "x": 64.8,
+        "y": 51.3,
+        "pos": "F",
+        "name": "L. Joseph",
+        "player_id": 3439
+      },
+      {
+        "n": 62,
+        "x": 53.7,
+        "y": 56.6,
+        "pos": "M",
+        "name": "J. Bellegarde",
+        "player_id": 532
+      },
+      {
+        "n": 25,
+        "x": 64.5,
+        "y": 53.8,
+        "pos": "F",
+        "name": "W. Isidor",
+        "player_id": 353
+      },
+      {
+        "n": 17,
+        "x": 70.4,
+        "y": 60.4,
+        "pos": "F",
+        "name": "L. D. Deedson",
+        "player_id": 9717
+      },
+      {
+        "n": 65,
+        "x": 35.2,
+        "y": 46.4,
+        "pos": "D",
+        "name": "R. Adé",
+        "player_id": 17095
+      },
+      {
+        "n": 73,
+        "x": 48.8,
+        "y": 39.1,
+        "pos": "M",
+        "name": "D. Jean Jacques",
+        "player_id": 9069
+      },
+      {
+        "n": 11,
+        "x": 81.7,
+        "y": 76.8,
+        "pos": "F",
+        "name": "D. Etienne",
+        "player_id": 9553
+      },
+      {
+        "n": 76,
+        "x": 48.2,
+        "y": 84.1,
+        "pos": "D",
+        "name": "M. Expérience",
+        "player_id": 17099
+      },
+      {
+        "n": 33,
+        "x": 60.3,
+        "y": 24,
+        "pos": "M",
+        "name": "J. Casimir",
+        "player_id": 2103
+      },
+      {
+        "n": 39,
+        "x": 51,
+        "y": 55.1,
+        "pos": "M",
+        "name": "D. Simon",
+        "player_id": 59655
+      },
+      {
+        "n": 73,
+        "x": 38.2,
+        "y": 17.9,
+        "pos": "D",
+        "name": "J. Duverne",
+        "player_id": 4809
+      },
+      {
+        "n": 71,
+        "x": 35,
+        "y": 70,
+        "pos": "D",
+        "name": "H. Delcroix",
+        "player_id": 8568
+      }
+    ],
+    "home": [
+      {
+        "n": 47,
+        "x": 10.2,
+        "y": 47.8,
+        "pos": "G",
+        "name": "Alisson",
+        "player_id": 322
+      },
+      {
+        "n": 31,
+        "x": 55.3,
+        "y": 19.6,
+        "pos": "M",
+        "name": "Rayan",
+        "player_id": 663
+      },
+      {
+        "n": 47,
+        "x": 58.4,
+        "y": 50.6,
+        "pos": "F",
+        "name": "M. Cunha",
+        "player_id": 4119
+      },
+      {
+        "n": 38,
+        "x": 66,
+        "y": 78.4,
+        "pos": "F",
+        "name": "Vinícius Jr.",
+        "player_id": 595
+      },
+      {
+        "n": 31,
+        "x": 73,
+        "y": 14.5,
+        "pos": "M",
+        "name": "Raphinha",
+        "player_id": 747
+      },
+      {
+        "n": 9,
+        "x": 61.7,
+        "y": 36,
+        "pos": "F",
+        "name": "Endrick",
+        "player_id": 606
+      },
+      {
+        "n": 19,
+        "x": 57.2,
+        "y": 66.4,
+        "pos": "F",
+        "name": "G. Martinelli",
+        "player_id": 452
+      },
+      {
+        "n": 103,
+        "x": 35.1,
+        "y": 67.8,
+        "pos": "D",
+        "name": "G. Magalhães",
+        "player_id": 4072
+      },
+      {
+        "n": 72,
+        "x": 47.8,
+        "y": 72.1,
+        "pos": "M",
+        "name": "L. Paquetá",
+        "player_id": 1642
+      },
+      {
+        "n": 82,
+        "x": 40,
+        "y": 17.9,
+        "pos": "D",
+        "name": "Danilo",
+        "player_id": 49
+      },
+      {
+        "n": 63,
+        "x": 51.1,
+        "y": 90.2,
+        "pos": "D",
+        "name": "D. Santos",
+        "player_id": 16392
+      },
+      {
+        "n": 9,
+        "x": 70.3,
+        "y": 32.7,
+        "pos": "M",
+        "name": "Éderson",
+        "player_id": 1302
+      },
+      {
+        "n": 7,
+        "x": 47.8,
+        "y": 59.7,
+        "pos": "M",
+        "name": "D. Santos",
+        "player_id": 3877
+      },
+      {
+        "n": 104,
+        "x": 30.8,
+        "y": 34,
+        "pos": "D",
+        "name": "Marquinhos",
+        "player_id": 2244
+      },
+      {
+        "n": 54,
+        "x": 47.2,
+        "y": 38.3,
+        "pos": "M",
+        "name": "B. Guimarães",
+        "player_id": 709
+      },
+      {
+        "n": 90,
+        "x": 42,
+        "y": 54,
+        "pos": "M",
+        "name": "Casemiro",
+        "player_id": 1793
+      }
+    ]
+  }
 }

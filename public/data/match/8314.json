@@ -22,16 +22,22 @@
     "confidence": 0.5553
   },
   "head_to_head": {
-    "total_matches": 1,
-    "home_wins": 1,
+    "total_matches": 2,
+    "home_wins": 2,
     "draws": 0,
     "away_wins": 0,
-    "home_goals": 2,
+    "home_goals": 3,
     "away_goals": 1,
-    "avg_total_goals": 3,
+    "avg_total_goals": 2,
     "home_win_rate": 1,
     "away_win_rate": 0,
     "recent_matches": [
+      {
+        "away": "South Korea",
+        "date": "2026-06-19T01:00:00+00:00",
+        "home": "Mexico",
+        "score": "1-0"
+      },
       {
         "away": "Mexico",
         "date": "2018-06-23T14:00:00+00:00",

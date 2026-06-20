@@ -6,8 +6,8 @@
     "capacity": 66829
   },
   "weather": {
-    "code": 2,
-    "description": "cloudy",
+    "code": 1,
+    "description": "clear",
     "wind_speed": 9.2,
     "temperature_c": 25
   },
@@ -21,6 +21,277 @@
     "most_likely_score": "0-1",
     "confidence": 0.4722
   },
-  "head_to_head": null,
-  "average_positions": null
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 0,
+    "away_wins": 1,
+    "home_goals": 0,
+    "away_goals": 1,
+    "avg_total_goals": 1,
+    "home_win_rate": 0,
+    "away_win_rate": 1,
+    "recent_matches": [
+      {
+        "away": "Morocco",
+        "date": "2026-06-19T22:00:00+00:00",
+        "home": "Scotland",
+        "score": "0-1"
+      }
+    ]
+  },
+  "average_positions": {
+    "away": [
+      {
+        "n": 38,
+        "x": 63.4,
+        "y": 54.6,
+        "pos": "M",
+        "name": "I. Saibari",
+        "player_id": 3511
+      },
+      {
+        "n": 50,
+        "x": 9.7,
+        "y": 51.5,
+        "pos": "G",
+        "name": "Bono",
+        "player_id": 7990
+      },
+      {
+        "n": 115,
+        "x": 52.6,
+        "y": 16.4,
+        "pos": "D",
+        "name": "A. Hakimi",
+        "player_id": 4241
+      },
+      {
+        "n": 7,
+        "x": 54.8,
+        "y": 82.2,
+        "pos": "M",
+        "name": "C. Talbi",
+        "player_id": 350
+      },
+      {
+        "n": 66,
+        "x": 59.1,
+        "y": 22.4,
+        "pos": "M",
+        "name": "B. Díaz",
+        "player_id": 598
+      },
+      {
+        "n": 4,
+        "x": 54,
+        "y": 32.1,
+        "pos": "F",
+        "name": "S. Rahimi",
+        "player_id": 15371
+      },
+      {
+        "n": 87,
+        "x": 55,
+        "y": 37.2,
+        "pos": "M",
+        "name": "A. Ounahi",
+        "player_id": 1044
+      },
+      {
+        "n": 12,
+        "x": 65.9,
+        "y": 10.7,
+        "pos": "F",
+        "name": "A. Amaimouni Echghouyab",
+        "player_id": 8503
+      },
+      {
+        "n": 107,
+        "x": 43.2,
+        "y": 50.6,
+        "pos": "M",
+        "name": "N. El Aynaoui",
+        "player_id": 1070
+      },
+      {
+        "n": 80,
+        "x": 46.5,
+        "y": 40.1,
+        "pos": "M",
+        "name": "A. Bouaddi",
+        "player_id": 1451
+      },
+      {
+        "n": 59,
+        "x": 58.7,
+        "y": 71,
+        "pos": "M",
+        "name": "B. E. Khannouss",
+        "player_id": 1619
+      },
+      {
+        "n": 78,
+        "x": 39.7,
+        "y": 83,
+        "pos": "D",
+        "name": "N. Mazraoui",
+        "player_id": 1799
+      },
+      {
+        "n": 8,
+        "x": 58.2,
+        "y": 44.9,
+        "pos": "M",
+        "name": "S. E. Mourabet",
+        "player_id": 1706
+      },
+      {
+        "n": 111,
+        "x": 30.7,
+        "y": 26.4,
+        "pos": "D",
+        "name": "I. Diop",
+        "player_id": 4377
+      },
+      {
+        "n": 81,
+        "x": 30.8,
+        "y": 63.1,
+        "pos": "D",
+        "name": "C. Riad",
+        "player_id": 8593
+      }
+    ],
+    "home": [
+      {
+        "n": 35,
+        "x": 53.9,
+        "y": 79.6,
+        "pos": "D",
+        "name": "K. Tierney",
+        "player_id": 3387
+      },
+      {
+        "n": 48,
+        "x": 45,
+        "y": 13,
+        "pos": "D",
+        "name": "N. Patterson",
+        "player_id": 818
+      },
+      {
+        "n": 15,
+        "x": 50.5,
+        "y": 52.7,
+        "pos": "F",
+        "name": "C. Adams",
+        "player_id": 1843
+      },
+      {
+        "n": 46,
+        "x": 48.4,
+        "y": 42.9,
+        "pos": "M",
+        "name": "R. Christie",
+        "player_id": 3900
+      },
+      {
+        "n": 37,
+        "x": 62.5,
+        "y": 41.5,
+        "pos": "M",
+        "name": "J. McGinn",
+        "player_id": 510
+      },
+      {
+        "n": 49,
+        "x": 11.3,
+        "y": 49,
+        "pos": "G",
+        "name": "A. Gunn",
+        "player_id": 4789
+      },
+      {
+        "n": 20,
+        "x": 67.2,
+        "y": 13.1,
+        "pos": "M",
+        "name": "B. Doak",
+        "player_id": 4027
+      },
+      {
+        "n": 5,
+        "x": 83.7,
+        "y": 64,
+        "pos": "F",
+        "name": "R. Stewart",
+        "player_id": 7003
+      },
+      {
+        "n": 21,
+        "x": 53.2,
+        "y": 53.5,
+        "pos": "M",
+        "name": "K. McLean",
+        "player_id": 6386
+      },
+      {
+        "n": 70,
+        "x": 32.2,
+        "y": 30.3,
+        "pos": "D",
+        "name": "G. Hanley",
+        "player_id": 5890
+      },
+      {
+        "n": 15,
+        "x": 62.7,
+        "y": 57.9,
+        "pos": "F",
+        "name": "L. Dykes",
+        "player_id": 6100
+      },
+      {
+        "n": 59,
+        "x": 51,
+        "y": 59.1,
+        "pos": "M",
+        "name": "S. McTominay",
+        "player_id": 1088
+      },
+      {
+        "n": 7,
+        "x": 49.6,
+        "y": 26.4,
+        "pos": "D",
+        "name": "T. Ralston",
+        "player_id": 3398
+      },
+      {
+        "n": 82,
+        "x": 42.4,
+        "y": 84.5,
+        "pos": "D",
+        "name": "A. Robertson",
+        "player_id": 326
+      },
+      {
+        "n": 97,
+        "x": 43.2,
+        "y": 55.3,
+        "pos": "M",
+        "name": "L. Ferguson",
+        "player_id": 966
+      },
+      {
+        "n": 87,
+        "x": 34,
+        "y": 64.5,
+        "pos": "D",
+        "name": "J. Hendry",
+        "player_id": 8032
+      }
+    ]
+  }
 }
