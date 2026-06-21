@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T17:24:05.681Z",
+  "updated_at": "2026-06-21T21:09:24.283Z",
   "groups": {
     "Group A": [
       {
@@ -402,20 +402,36 @@
         "position": 1,
         "team_id": 481,
         "team_name": "Iran",
-        "played": 1,
+        "played": 2,
         "won": 0,
-        "drawn": 1,
+        "drawn": 2,
         "lost": 0,
         "gf": 2,
         "ga": 2,
         "gd": 0,
-        "pts": 1,
-        "xg": 1.5,
+        "pts": 2,
+        "xg": 2.1,
         "form": "DLWLD",
         "live": false
       },
       {
         "position": 2,
+        "team_id": 477,
+        "team_name": "Belgium",
+        "played": 2,
+        "won": 0,
+        "drawn": 2,
+        "lost": 0,
+        "gf": 1,
+        "ga": 1,
+        "gd": 0,
+        "pts": 2,
+        "xg": 3.1,
+        "form": "DDLWW",
+        "live": false
+      },
+      {
+        "position": 3,
         "team_id": 482,
         "team_name": "New Zealand",
         "played": 1,
@@ -428,22 +444,6 @@
         "pts": 1,
         "xg": 1.2,
         "form": "D",
-        "live": false
-      },
-      {
-        "position": 3,
-        "team_id": 477,
-        "team_name": "Belgium",
-        "played": 1,
-        "won": 0,
-        "drawn": 1,
-        "lost": 0,
-        "gf": 1,
-        "ga": 1,
-        "gd": 0,
-        "pts": 1,
-        "xg": 1.3,
-        "form": "DDLWW",
         "live": false
       },
       {
@@ -466,19 +466,19 @@
     "Group H": [
       {
         "position": 1,
-        "team_id": 479,
-        "team_name": "Saudi Arabia",
-        "played": 1,
-        "won": 0,
+        "team_id": 475,
+        "team_name": "Spain",
+        "played": 2,
+        "won": 1,
         "drawn": 1,
         "lost": 0,
-        "gf": 1,
-        "ga": 1,
-        "gd": 0,
-        "pts": 1,
-        "xg": 1.1,
-        "form": "DLLWW",
-        "live": true
+        "gf": 4,
+        "ga": 0,
+        "gd": 4,
+        "pts": 4,
+        "xg": 5.2,
+        "form": "DLDWD",
+        "live": false
       },
       {
         "position": 2,
@@ -514,19 +514,19 @@
       },
       {
         "position": 4,
-        "team_id": 475,
-        "team_name": "Spain",
-        "played": 1,
+        "team_id": 479,
+        "team_name": "Saudi Arabia",
+        "played": 2,
         "won": 0,
         "drawn": 1,
-        "lost": 0,
-        "gf": 0,
-        "ga": 0,
-        "gd": 0,
+        "lost": 1,
+        "gf": 1,
+        "ga": 5,
+        "gd": -4,
         "pts": 1,
-        "xg": 2.3,
-        "form": "DLDWD",
-        "live": true
+        "xg": 1.2,
+        "form": "DLLWW",
+        "live": false
       }
     ],
     "Group I": [

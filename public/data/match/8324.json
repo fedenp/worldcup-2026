@@ -6,8 +6,8 @@
     "capacity": 70242
   },
   "weather": {
-    "code": 1,
-    "description": "clear",
+    "code": 2,
+    "description": "cloudy",
     "wind_speed": 16.4,
     "temperature_c": 20
   },
@@ -22,5 +22,266 @@
     "confidence": 0.7169
   },
   "head_to_head": null,
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 20,
+        "x": 34,
+        "y": 11.5,
+        "pos": "D",
+        "name": "S. Hardani",
+        "player_id": 16837
+      },
+      {
+        "n": 37,
+        "x": 43.4,
+        "y": 23.9,
+        "pos": "M",
+        "name": "R. Rezaeian",
+        "player_id": 16838
+      },
+      {
+        "n": 40,
+        "x": 31.9,
+        "y": 32.3,
+        "pos": "D",
+        "name": "H. Kanaani",
+        "player_id": 16829
+      },
+      {
+        "n": 24,
+        "x": 40.6,
+        "y": 80.1,
+        "pos": "F",
+        "name": "M. Mohebi",
+        "player_id": 16834
+      },
+      {
+        "n": 26,
+        "x": 29.4,
+        "y": 80.6,
+        "pos": "D",
+        "name": "E. Hajsafi",
+        "player_id": 16836
+      },
+      {
+        "n": 27,
+        "x": 48.1,
+        "y": 23.6,
+        "pos": "F",
+        "name": "A. Jahanbakhsh",
+        "player_id": 7605
+      },
+      {
+        "n": 44,
+        "x": 37.5,
+        "y": 46.3,
+        "pos": "M",
+        "name": "S. Ghoddos",
+        "player_id": 16833
+      },
+      {
+        "n": 8,
+        "x": 59.7,
+        "y": 66.2,
+        "pos": "F",
+        "name": "S. Moghanlou",
+        "player_id": 55325
+      },
+      {
+        "n": 23,
+        "x": 40.1,
+        "y": 90.5,
+        "pos": "D",
+        "name": "M. Mohammadi",
+        "player_id": 16832
+      },
+      {
+        "n": 54,
+        "x": 38.2,
+        "y": 68,
+        "pos": "D",
+        "name": "A. Nemati",
+        "player_id": 16831
+      },
+      {
+        "n": 12,
+        "x": 60.1,
+        "y": 46.1,
+        "pos": "F",
+        "name": "A. Hosseinzadeh",
+        "player_id": 55326
+      },
+      {
+        "n": 69,
+        "x": 25.2,
+        "y": 57.4,
+        "pos": "D",
+        "name": "S. Khalilzadeh",
+        "player_id": 16830
+      },
+      {
+        "n": 31,
+        "x": 52.1,
+        "y": 73.1,
+        "pos": "F",
+        "name": "M. Torabi",
+        "player_id": 53954
+      },
+      {
+        "n": 59,
+        "x": 36.8,
+        "y": 54.6,
+        "pos": "M",
+        "name": "S. Ezatolahi",
+        "player_id": 53951
+      },
+      {
+        "n": 61,
+        "x": 9.1,
+        "y": 46,
+        "pos": "G",
+        "name": "A. Beiranvand",
+        "player_id": 16827
+      },
+      {
+        "n": 57,
+        "x": 52.9,
+        "y": 42.1,
+        "pos": "F",
+        "name": "M. Taremi",
+        "player_id": 3487
+      }
+    ],
+    "home": [
+      {
+        "n": 41,
+        "x": 10.7,
+        "y": 53.1,
+        "pos": "G",
+        "name": "T. Courtois",
+        "player_id": 585
+      },
+      {
+        "n": 31,
+        "x": 76.2,
+        "y": 48.8,
+        "pos": "F",
+        "name": "R. Lukaku",
+        "player_id": 8676
+      },
+      {
+        "n": 37,
+        "x": 73.5,
+        "y": 20.9,
+        "pos": "M",
+        "name": "A. Saelemaekers",
+        "player_id": 1991
+      },
+      {
+        "n": 42,
+        "x": 51,
+        "y": 18.2,
+        "pos": "D",
+        "name": "T. Castagne",
+        "player_id": 834
+      },
+      {
+        "n": 38,
+        "x": 54.3,
+        "y": 54.4,
+        "pos": "M",
+        "name": "H. Vanaken",
+        "player_id": 3542
+      },
+      {
+        "n": 20,
+        "x": 71.3,
+        "y": 16.7,
+        "pos": "M",
+        "name": "D. Lukebakio",
+        "player_id": 3974
+      },
+      {
+        "n": 14,
+        "x": 39.4,
+        "y": 65.6,
+        "pos": "D",
+        "name": "A. Theate",
+        "player_id": 1349
+      },
+      {
+        "n": 89,
+        "x": 55.4,
+        "y": 81.2,
+        "pos": "D",
+        "name": "M. De Cuyper",
+        "player_id": 491
+      },
+      {
+        "n": 10,
+        "x": 78.7,
+        "y": 61.6,
+        "pos": "F",
+        "name": "M. Fernandez",
+        "player_id": 1464
+      },
+      {
+        "n": 68,
+        "x": 58.9,
+        "y": 18.3,
+        "pos": "D",
+        "name": "T. Meunier",
+        "player_id": 1446
+      },
+      {
+        "n": 77,
+        "x": 55.1,
+        "y": 51.5,
+        "pos": "M",
+        "name": "Y. Tielemans",
+        "player_id": 514
+      },
+      {
+        "n": 119,
+        "x": 44.3,
+        "y": 62,
+        "pos": "D",
+        "name": "B. Mechele",
+        "player_id": 3537
+      },
+      {
+        "n": 95,
+        "x": 47.9,
+        "y": 34.8,
+        "pos": "D",
+        "name": "N. Ngoy",
+        "player_id": 1447
+      },
+      {
+        "n": 88,
+        "x": 63.4,
+        "y": 74.1,
+        "pos": "F",
+        "name": "L. Trossard",
+        "player_id": 3461
+      },
+      {
+        "n": 86,
+        "x": 70.5,
+        "y": 54.7,
+        "pos": "M",
+        "name": "K. De Bruyne",
+        "player_id": 4374
+      },
+      {
+        "n": 83,
+        "x": 54.8,
+        "y": 57,
+        "pos": "M",
+        "name": "N. Raskin",
+        "player_id": 3015
+      }
+    ]
+  }
 }
