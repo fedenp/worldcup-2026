@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T21:11:04.887Z",
+  "updated_at": "2026-06-21T03:34:11.517Z",
   "groups": {
     "Group A": [
       {
@@ -147,7 +147,7 @@
         "gd": 3,
         "pts": 4,
         "xg": 2.8,
-        "form": "DLWWW",
+        "form": "WDLWW",
         "live": false
       },
       {
@@ -195,7 +195,7 @@
         "gd": -4,
         "pts": 0,
         "xg": 1.5,
-        "form": "L",
+        "form": "LL",
         "live": false
       }
     ],
@@ -245,7 +245,7 @@
         "gd": -2,
         "pts": 3,
         "xg": 0.8,
-        "form": "L",
+        "form": "WL",
         "live": false
       },
       {
@@ -261,7 +261,7 @@
         "gd": -3,
         "pts": 0,
         "xg": 3.5,
-        "form": "L",
+        "form": "LL",
         "live": false
       }
     ],
@@ -270,64 +270,64 @@
         "position": 1,
         "team_id": 467,
         "team_name": "Germany",
-        "played": 1,
-        "won": 1,
+        "played": 2,
+        "won": 2,
         "drawn": 0,
         "lost": 0,
-        "gf": 7,
-        "ga": 1,
-        "gd": 6,
-        "pts": 3,
-        "xg": 4,
-        "form": "WWDLL",
-        "live": true
+        "gf": 9,
+        "ga": 2,
+        "gd": 7,
+        "pts": 6,
+        "xg": 5.8,
+        "form": "WWWDL",
+        "live": false
       },
       {
         "position": 2,
         "team_id": 471,
         "team_name": "Côte d'Ivoire",
-        "played": 1,
+        "played": 2,
         "won": 1,
         "drawn": 0,
-        "lost": 0,
-        "gf": 1,
-        "ga": 0,
-        "gd": 1,
+        "lost": 1,
+        "gf": 2,
+        "ga": 2,
+        "gd": 0,
         "pts": 3,
-        "xg": 1.7,
-        "form": "WLLW",
-        "live": true
+        "xg": 2.9,
+        "form": "LWLLW",
+        "live": false
       },
       {
         "position": 3,
         "team_id": 472,
         "team_name": "Ecuador",
-        "played": 1,
+        "played": 2,
         "won": 0,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 1,
         "gf": 0,
         "ga": 1,
         "gd": -1,
-        "pts": 0,
-        "xg": 1,
-        "form": "LLDWD",
+        "pts": 1,
+        "xg": 4.2,
+        "form": "DLLDW",
         "live": false
       },
       {
         "position": 4,
         "team_id": 468,
         "team_name": "Curaçao",
-        "played": 1,
+        "played": 2,
         "won": 0,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 1,
         "gf": 1,
         "ga": 7,
         "gd": -6,
-        "pts": 0,
-        "xg": 0.4,
-        "form": "L",
+        "pts": 1,
+        "xg": 0.9,
+        "form": "DL",
         "live": false
       }
     ],
@@ -345,7 +345,7 @@
         "gd": 4,
         "pts": 4,
         "xg": 3.3,
-        "form": "DWDWW",
+        "form": "WDWDW",
         "live": false
       },
       {
@@ -361,7 +361,7 @@
         "gd": 0,
         "pts": 3,
         "xg": 2.4,
-        "form": "WWLW",
+        "form": "LWWLW",
         "live": false
       },
       {

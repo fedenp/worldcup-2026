@@ -21,6 +21,285 @@
     "most_likely_score": "1-1",
     "confidence": 0.5626
   },
-  "head_to_head": null,
-  "average_positions": null
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 1,
+    "draws": 0,
+    "away_wins": 0,
+    "home_goals": 2,
+    "away_goals": 1,
+    "avg_total_goals": 3,
+    "home_win_rate": 1,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Côte d'Ivoire",
+        "date": "2026-06-20T20:00:00+00:00",
+        "home": "Germany",
+        "score": "2-1"
+      }
+    ]
+  },
+  "average_positions": {
+    "away": [
+      {
+        "n": 45,
+        "x": 52.1,
+        "y": 24.1,
+        "pos": "M",
+        "name": "A. Diallo",
+        "player_id": 1792
+      },
+      {
+        "n": 33,
+        "x": 64.1,
+        "y": 58.4,
+        "pos": "F",
+        "name": "A. Bonny",
+        "player_id": 3468
+      },
+      {
+        "n": 11,
+        "x": 45.3,
+        "y": 12.8,
+        "pos": "F",
+        "name": "N. Pépé",
+        "player_id": 1786
+      },
+      {
+        "n": 15,
+        "x": 53.4,
+        "y": 70,
+        "pos": "M",
+        "name": "S. Fofana",
+        "player_id": 4130
+      },
+      {
+        "n": 12,
+        "x": 61.5,
+        "y": 48.9,
+        "pos": "F",
+        "name": "E. Guessand",
+        "player_id": 509
+      },
+      {
+        "n": 15,
+        "x": 58.5,
+        "y": 81.6,
+        "pos": "M",
+        "name": "S. Adingra",
+        "player_id": 358
+      },
+      {
+        "n": 61,
+        "x": 41.2,
+        "y": 50.2,
+        "pos": "M",
+        "name": "I. Sangaré",
+        "player_id": 547
+      },
+      {
+        "n": 17,
+        "x": 46.5,
+        "y": 10.6,
+        "pos": "D",
+        "name": "G. Doué",
+        "player_id": 1702
+      },
+      {
+        "n": 69,
+        "x": 30.4,
+        "y": 31,
+        "pos": "D",
+        "name": "O. Kossounou",
+        "player_id": 1298
+      },
+      {
+        "n": 77,
+        "x": 29.6,
+        "y": 71,
+        "pos": "D",
+        "name": "E. Agbadou",
+        "player_id": 524
+      },
+      {
+        "n": 80,
+        "x": 43.9,
+        "y": 87,
+        "pos": "D",
+        "name": "G. Konan",
+        "player_id": 1886
+      },
+      {
+        "n": 72,
+        "x": 44.1,
+        "y": 13.5,
+        "pos": "D",
+        "name": "W. Singo",
+        "player_id": 4214
+      },
+      {
+        "n": 52,
+        "x": 48.7,
+        "y": 38.5,
+        "pos": "M",
+        "name": "F. Kessié",
+        "player_id": 8117
+      },
+      {
+        "n": 86,
+        "x": 45.6,
+        "y": 58,
+        "pos": "M",
+        "name": "C. I. Oulaï",
+        "player_id": 6614
+      },
+      {
+        "n": 58,
+        "x": 62.9,
+        "y": 71.8,
+        "pos": "F",
+        "name": "Y. Diomande",
+        "player_id": 2895
+      },
+      {
+        "n": 64,
+        "x": 9.3,
+        "y": 46.2,
+        "pos": "G",
+        "name": "Y. Fofana",
+        "player_id": 6738
+      }
+    ],
+    "home": [
+      {
+        "n": 16,
+        "x": 67.4,
+        "y": 54.3,
+        "pos": "F",
+        "name": "D. Undav",
+        "player_id": 1620
+      },
+      {
+        "n": 46,
+        "x": 63.9,
+        "y": 17.2,
+        "pos": "M",
+        "name": "L. Sané",
+        "player_id": 3732
+      },
+      {
+        "n": 39,
+        "x": 38.9,
+        "y": 40.6,
+        "pos": "D",
+        "name": "A. Rüdiger",
+        "player_id": 588
+      },
+      {
+        "n": 51,
+        "x": 65.7,
+        "y": 56.8,
+        "pos": "M",
+        "name": "J. Musiala",
+        "player_id": 8564
+      },
+      {
+        "n": 33,
+        "x": 12.7,
+        "y": 49.5,
+        "pos": "G",
+        "name": "M. Neuer",
+        "player_id": 2456
+      },
+      {
+        "n": 19,
+        "x": 55.9,
+        "y": 49.7,
+        "pos": "M",
+        "name": "N. Amiri",
+        "player_id": 3934
+      },
+      {
+        "n": 24,
+        "x": 63.5,
+        "y": 24.2,
+        "pos": "M",
+        "name": "J. Leweling",
+        "player_id": 1621
+      },
+      {
+        "n": 107,
+        "x": 52.1,
+        "y": 41.7,
+        "pos": "M",
+        "name": "F. Nmecha",
+        "player_id": 2160
+      },
+      {
+        "n": 54,
+        "x": 60.4,
+        "y": 32.7,
+        "pos": "F",
+        "name": "K. Havertz",
+        "player_id": 4941
+      },
+      {
+        "n": 54,
+        "x": 46.2,
+        "y": 66.8,
+        "pos": "D",
+        "name": "N. Schlotterbeck",
+        "player_id": 2158
+      },
+      {
+        "n": 115,
+        "x": 41.9,
+        "y": 56.4,
+        "pos": "D",
+        "name": "J. Tah",
+        "player_id": 2459
+      },
+      {
+        "n": 2,
+        "x": 16.1,
+        "y": 37,
+        "pos": "M",
+        "name": "L. Goretzka",
+        "player_id": 2470
+      },
+      {
+        "n": 81,
+        "x": 53.8,
+        "y": 56,
+        "pos": "M",
+        "name": "A. Pavlović",
+        "player_id": 2462
+      },
+      {
+        "n": 121,
+        "x": 60,
+        "y": 74.2,
+        "pos": "M",
+        "name": "F. Wirtz",
+        "player_id": 330
+      },
+      {
+        "n": 66,
+        "x": 56,
+        "y": 77.5,
+        "pos": "D",
+        "name": "N. Brown",
+        "player_id": 1350
+      },
+      {
+        "n": 97,
+        "x": 51.7,
+        "y": 28.8,
+        "pos": "M",
+        "name": "J. Kimmich",
+        "player_id": 2461
+      }
+    ]
+  }
 }
