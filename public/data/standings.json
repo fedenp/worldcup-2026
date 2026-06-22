@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T16:45:54.490Z",
+  "updated_at": "2026-06-22T21:58:57.005Z",
   "groups": {
     "Group A": [
       {
@@ -560,7 +560,7 @@
         "pts": 3,
         "xg": 1.9,
         "form": "WLWWD",
-        "live": false
+        "live": true
       },
       {
         "position": 3,
@@ -592,7 +592,7 @@
         "pts": 0,
         "xg": 0.8,
         "form": "L",
-        "live": false
+        "live": true
       }
     ],
     "Group J": [
@@ -600,15 +600,15 @@
         "position": 1,
         "team_id": 489,
         "team_name": "Argentina",
-        "played": 1,
-        "won": 1,
+        "played": 2,
+        "won": 2,
         "drawn": 0,
         "lost": 0,
-        "gf": 3,
+        "gf": 5,
         "ga": 0,
-        "gd": 3,
-        "pts": 3,
-        "xg": 1.2,
+        "gd": 5,
+        "pts": 6,
+        "xg": 3.9,
         "form": "WWWLW",
         "live": false
       },
@@ -616,15 +616,15 @@
         "position": 2,
         "team_id": 483,
         "team_name": "Austria",
-        "played": 1,
+        "played": 2,
         "won": 1,
         "drawn": 0,
-        "lost": 0,
+        "lost": 1,
         "gf": 3,
-        "ga": 1,
-        "gd": 2,
+        "ga": 3,
+        "gd": 0,
         "pts": 3,
-        "xg": 1.7,
+        "xg": 2.2,
         "form": "W",
         "live": false
       },
