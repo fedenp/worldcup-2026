@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T21:09:24.283Z",
+  "updated_at": "2026-06-22T03:39:01.683Z",
   "groups": {
     "Group A": [
       {
@@ -361,7 +361,7 @@
         "gd": 4,
         "pts": 4,
         "xg": 2.6,
-        "form": "DWLWL",
+        "form": "WDWLW",
         "live": false
       },
       {
@@ -393,13 +393,29 @@
         "gd": -8,
         "pts": 0,
         "xg": 0.3,
-        "form": "LWLDW",
+        "form": "LLWLD",
         "live": false
       }
     ],
     "Group G": [
       {
         "position": 1,
+        "team_id": 478,
+        "team_name": "Egypt",
+        "played": 2,
+        "won": 1,
+        "drawn": 1,
+        "lost": 0,
+        "gf": 4,
+        "ga": 2,
+        "gd": 2,
+        "pts": 4,
+        "xg": 3,
+        "form": "DLLL",
+        "live": false
+      },
+      {
+        "position": 2,
         "team_id": 481,
         "team_name": "Iran",
         "played": 2,
@@ -411,11 +427,11 @@
         "gd": 0,
         "pts": 2,
         "xg": 2.1,
-        "form": "DLWLD",
+        "form": "DDLWL",
         "live": false
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": 477,
         "team_name": "Belgium",
         "played": 2,
@@ -427,39 +443,23 @@
         "gd": 0,
         "pts": 2,
         "xg": 3.1,
-        "form": "DDLWW",
-        "live": false
-      },
-      {
-        "position": 3,
-        "team_id": 482,
-        "team_name": "New Zealand",
-        "played": 1,
-        "won": 0,
-        "drawn": 1,
-        "lost": 0,
-        "gf": 2,
-        "ga": 2,
-        "gd": 0,
-        "pts": 1,
-        "xg": 1.2,
-        "form": "D",
+        "form": "DDDLW",
         "live": false
       },
       {
         "position": 4,
-        "team_id": 478,
-        "team_name": "Egypt",
-        "played": 1,
+        "team_id": 482,
+        "team_name": "New Zealand",
+        "played": 2,
         "won": 0,
         "drawn": 1,
-        "lost": 0,
-        "gf": 1,
-        "ga": 1,
-        "gd": 0,
+        "lost": 1,
+        "gf": 3,
+        "ga": 5,
+        "gd": -2,
         "pts": 1,
-        "xg": 1.1,
-        "form": "DLLL",
+        "xg": 2.7,
+        "form": "D",
         "live": false
       }
     ],
@@ -477,39 +477,39 @@
         "gd": 4,
         "pts": 4,
         "xg": 5.2,
-        "form": "DLDWD",
+        "form": "WDLDW",
         "live": false
       },
       {
         "position": 2,
         "team_id": 480,
         "team_name": "Uruguay",
-        "played": 1,
+        "played": 2,
         "won": 0,
-        "drawn": 1,
+        "drawn": 2,
         "lost": 0,
-        "gf": 1,
-        "ga": 1,
+        "gf": 3,
+        "ga": 3,
         "gd": 0,
-        "pts": 1,
-        "xg": 1.6,
-        "form": "DWLDW",
+        "pts": 2,
+        "xg": 4,
+        "form": "DDWLD",
         "live": false
       },
       {
         "position": 3,
         "team_id": 476,
         "team_name": "Cabo Verde",
-        "played": 1,
+        "played": 2,
         "won": 0,
-        "drawn": 1,
+        "drawn": 2,
         "lost": 0,
-        "gf": 0,
-        "ga": 0,
+        "gf": 2,
+        "ga": 2,
         "gd": 0,
-        "pts": 1,
-        "xg": 0.3,
-        "form": "D",
+        "pts": 2,
+        "xg": 1.2,
+        "form": "DD",
         "live": false
       },
       {
@@ -525,7 +525,7 @@
         "gd": -4,
         "pts": 1,
         "xg": 1.2,
-        "form": "DLLWW",
+        "form": "LDLLW",
         "live": false
       }
     ],
