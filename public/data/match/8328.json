@@ -6,8 +6,8 @@
     "capacity": 69176
   },
   "weather": {
-    "code": 1,
-    "description": "clear",
+    "code": 2,
+    "description": "cloudy",
     "wind_speed": 10.3,
     "temperature_c": 34
   },
@@ -21,6 +21,24 @@
     "most_likely_score": "1-0",
     "confidence": 0.6542
   },
-  "head_to_head": null,
-  "average_positions": null
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 1,
+    "draws": 0,
+    "away_wins": 0,
+    "home_goals": 3,
+    "away_goals": 0,
+    "avg_total_goals": 3,
+    "home_win_rate": 1,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Iraq",
+        "date": "2026-06-22T21:00:00+00:00",
+        "home": "France",
+        "score": "3-0"
+      }
+    ]
+  },
+  "average_positions": {}
 }

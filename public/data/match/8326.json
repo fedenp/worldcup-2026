@@ -21,7 +21,25 @@
     "most_likely_score": "1-0",
     "confidence": 0.5892
   },
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 0,
+    "away_wins": 1,
+    "home_goals": 1,
+    "away_goals": 3,
+    "avg_total_goals": 4,
+    "home_win_rate": 0,
+    "away_win_rate": 1,
+    "recent_matches": [
+      {
+        "away": "Egypt",
+        "date": "2026-06-22T01:00:00+00:00",
+        "home": "New Zealand",
+        "score": "1-3"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {
