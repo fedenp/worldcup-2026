@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T02:44:16.682Z",
+  "updated_at": "2026-06-23T07:42:57.345Z",
   "groups": {
     "Group A": [
       {
@@ -630,34 +630,34 @@
       },
       {
         "position": 3,
-        "team_id": 484,
-        "team_name": "Jordan",
-        "played": 1,
-        "won": 0,
+        "team_id": 490,
+        "team_name": "Algeria",
+        "played": 2,
+        "won": 1,
         "drawn": 0,
         "lost": 1,
-        "gf": 1,
-        "ga": 3,
+        "gf": 2,
+        "ga": 4,
         "gd": -2,
-        "pts": 0,
-        "xg": 0.5,
-        "form": "L",
+        "pts": 3,
+        "xg": 2.1,
+        "form": "LLWLD",
         "live": false
       },
       {
         "position": 4,
-        "team_id": 490,
-        "team_name": "Algeria",
-        "played": 1,
+        "team_id": 484,
+        "team_name": "Jordan",
+        "played": 2,
         "won": 0,
         "drawn": 0,
-        "lost": 1,
-        "gf": 0,
-        "ga": 3,
+        "lost": 2,
+        "gf": 2,
+        "ga": 5,
         "gd": -3,
         "pts": 0,
-        "xg": 0.3,
-        "form": "LLWLD",
+        "xg": 1.2,
+        "form": "L",
         "live": false
       }
     ],
