@@ -6,8 +6,8 @@
     "capacity": 68740
   },
   "weather": {
-    "code": 3,
-    "description": "rain",
+    "code": 1,
+    "description": "clear",
     "wind_speed": 10.6,
     "temperature_c": 12
   },
@@ -22,5 +22,266 @@
     "confidence": 0.8272
   },
   "head_to_head": null,
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 37,
+        "x": 55.2,
+        "y": 61.2,
+        "pos": "M",
+        "name": "E. Junior",
+        "player_id": 53911
+      },
+      {
+        "n": 60,
+        "x": 34.9,
+        "y": 66.9,
+        "pos": "D",
+        "name": "I. Laye",
+        "player_id": 53910
+      },
+      {
+        "n": 23,
+        "x": 54.5,
+        "y": 66.3,
+        "pos": "F",
+        "name": "H. A. Haydos",
+        "player_id": 53923
+      },
+      {
+        "n": 26,
+        "x": 49.5,
+        "y": 22.2,
+        "pos": "M",
+        "name": "J. G. Abdulsallam",
+        "player_id": 53908
+      },
+      {
+        "n": 38,
+        "x": 9.3,
+        "y": 51.6,
+        "pos": "G",
+        "name": "M. I. Abunada",
+        "player_id": 53904
+      },
+      {
+        "n": 24,
+        "x": 53.3,
+        "y": 23.9,
+        "pos": "M",
+        "name": "A. Al-Ganehi",
+        "player_id": 53927
+      },
+      {
+        "n": 44,
+        "x": 47.7,
+        "y": 42.9,
+        "pos": "M",
+        "name": "A. Hatem",
+        "player_id": 53926
+      },
+      {
+        "n": 65,
+        "x": 65.8,
+        "y": 58.2,
+        "pos": "M",
+        "name": "A. Afif",
+        "player_id": 53913
+      },
+      {
+        "n": 54,
+        "x": 43.7,
+        "y": 85.6,
+        "pos": "D",
+        "name": "S. Al-Brake",
+        "player_id": 53925
+      },
+      {
+        "n": 5,
+        "x": 74.2,
+        "y": 38.3,
+        "pos": "M",
+        "name": "A. Ali",
+        "player_id": 53915
+      },
+      {
+        "n": 7,
+        "x": 72.1,
+        "y": 40.3,
+        "pos": "F",
+        "name": "A. Alaaeldin",
+        "player_id": 53917
+      },
+      {
+        "n": 12,
+        "x": 60.6,
+        "y": 33.3,
+        "pos": "M",
+        "name": "M. N. Almanai",
+        "player_id": 53914
+      },
+      {
+        "n": 83,
+        "x": 33.6,
+        "y": 34.6,
+        "pos": "D",
+        "name": "B. Khoukhi",
+        "player_id": 53907
+      },
+      {
+        "n": 70,
+        "x": 43.1,
+        "y": 21,
+        "pos": "D",
+        "name": "P. Miguel",
+        "player_id": 53906
+      },
+      {
+        "n": 66,
+        "x": 42,
+        "y": 55.5,
+        "pos": "M",
+        "name": "K. Boudiaf",
+        "player_id": 53916
+      },
+      {
+        "n": 68,
+        "x": 40.9,
+        "y": 45.9,
+        "pos": "M",
+        "name": "A. Fathi",
+        "player_id": 53909
+      }
+    ],
+    "home": [
+      {
+        "n": 20,
+        "x": 64,
+        "y": 45.6,
+        "pos": "F",
+        "name": "E. Džeko",
+        "player_id": 1343
+      },
+      {
+        "n": 34,
+        "x": 57.9,
+        "y": 52.4,
+        "pos": "F",
+        "name": "E. Demirović",
+        "player_id": 4516
+      },
+      {
+        "n": 19,
+        "x": 37.4,
+        "y": 25,
+        "pos": "M",
+        "name": "A. Memić",
+        "player_id": 3222
+      },
+      {
+        "n": 9,
+        "x": 59,
+        "y": 48.4,
+        "pos": "M",
+        "name": "E. Mahmić",
+        "player_id": 53958
+      },
+      {
+        "n": 46,
+        "x": 54.8,
+        "y": 53.8,
+        "pos": "M",
+        "name": "I. Šunjić",
+        "player_id": 3604
+      },
+      {
+        "n": 36,
+        "x": 57.5,
+        "y": 12.6,
+        "pos": "D",
+        "name": "A. Malić",
+        "player_id": 2973
+      },
+      {
+        "n": 97,
+        "x": 52.2,
+        "y": 46.8,
+        "pos": "M",
+        "name": "I. Bašić",
+        "player_id": 53960
+      },
+      {
+        "n": 100,
+        "x": 33.9,
+        "y": 72.1,
+        "pos": "D",
+        "name": "S. Radeljić",
+        "player_id": 12458
+      },
+      {
+        "n": 5,
+        "x": 39.5,
+        "y": 88,
+        "pos": "M",
+        "name": "D. Burnić",
+        "player_id": 41783
+      },
+      {
+        "n": 46,
+        "x": 66.6,
+        "y": 17.8,
+        "pos": "F",
+        "name": "E. Bajraktarević",
+        "player_id": 3515
+      },
+      {
+        "n": 65,
+        "x": 64.9,
+        "y": 81.8,
+        "pos": "M",
+        "name": "K. Alajbegović",
+        "player_id": 3046
+      },
+      {
+        "n": 37,
+        "x": 47.4,
+        "y": 69.2,
+        "pos": "M",
+        "name": "B. Tahirović",
+        "player_id": 26812
+      },
+      {
+        "n": 19,
+        "x": 36.2,
+        "y": 30.4,
+        "pos": "D",
+        "name": "D. Hadžikadunić",
+        "player_id": 29274
+      },
+      {
+        "n": 79,
+        "x": 36.8,
+        "y": 31.6,
+        "pos": "D",
+        "name": "N. Katić",
+        "player_id": 27586
+      },
+      {
+        "n": 62,
+        "x": 12.6,
+        "y": 50,
+        "pos": "G",
+        "name": "N. Vasilj",
+        "player_id": 2476
+      },
+      {
+        "n": 87,
+        "x": 46,
+        "y": 85.1,
+        "pos": "D",
+        "name": "S. Kolašinac",
+        "player_id": 1312
+      }
+    ]
+  }
 }
