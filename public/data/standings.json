@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T02:44:50.798Z",
+  "updated_at": "2026-06-24T07:35:51.952Z",
   "groups": {
     "Group A": [
       {
@@ -664,6 +664,22 @@
     "Group K": [
       {
         "position": 1,
+        "team_id": 498,
+        "team_name": "Colombia",
+        "played": 2,
+        "won": 2,
+        "drawn": 0,
+        "lost": 0,
+        "gf": 4,
+        "ga": 1,
+        "gd": 3,
+        "pts": 6,
+        "xg": 2.7,
+        "form": "WWWLW",
+        "live": false
+      },
+      {
+        "position": 2,
         "team_id": 491,
         "team_name": "Portugal",
         "played": 2,
@@ -679,36 +695,20 @@
         "live": false
       },
       {
-        "position": 2,
-        "team_id": 498,
-        "team_name": "Colombia",
-        "played": 1,
-        "won": 1,
-        "drawn": 0,
-        "lost": 0,
-        "gf": 3,
-        "ga": 1,
-        "gd": 2,
-        "pts": 3,
-        "xg": 1.6,
-        "form": "WWWLW",
-        "live": true
-      },
-      {
         "position": 3,
         "team_id": 648,
         "team_name": "DR Congo",
-        "played": 1,
+        "played": 2,
         "won": 0,
         "drawn": 1,
-        "lost": 0,
+        "lost": 1,
         "gf": 1,
-        "ga": 1,
-        "gd": 0,
+        "ga": 2,
+        "gd": -1,
         "pts": 1,
-        "xg": 0.8,
+        "xg": 1.2,
         "form": "D",
-        "live": true
+        "live": false
       },
       {
         "position": 4,
