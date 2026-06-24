@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T21:28:13.714Z",
+  "updated_at": "2026-06-24T02:44:50.798Z",
   "groups": {
     "Group A": [
       {
@@ -641,7 +641,7 @@
         "gd": -2,
         "pts": 3,
         "xg": 2.1,
-        "form": "LLWLD",
+        "form": "WLLWL",
         "live": false
       },
       {
@@ -657,7 +657,7 @@
         "gd": -3,
         "pts": 0,
         "xg": 1.2,
-        "form": "L",
+        "form": "LL",
         "live": false
       }
     ],
@@ -675,7 +675,7 @@
         "gd": 5,
         "pts": 4,
         "xg": 3.1,
-        "form": "DLWWD",
+        "form": "WDLWW",
         "live": false
       },
       {
@@ -692,7 +692,7 @@
         "pts": 3,
         "xg": 1.6,
         "form": "WWWLW",
-        "live": false
+        "live": true
       },
       {
         "position": 3,
@@ -708,7 +708,7 @@
         "pts": 1,
         "xg": 0.8,
         "form": "D",
-        "live": false
+        "live": true
       },
       {
         "position": 4,
@@ -723,7 +723,7 @@
         "gd": -7,
         "pts": 0,
         "xg": 1.4,
-        "form": "L",
+        "form": "LL",
         "live": false
       }
     ],
@@ -732,64 +732,64 @@
         "position": 1,
         "team_id": 493,
         "team_name": "England",
-        "played": 1,
+        "played": 2,
         "won": 1,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 0,
         "gf": 4,
         "ga": 2,
         "gd": 2,
-        "pts": 3,
-        "xg": 2.9,
-        "form": "WWDWL",
-        "live": true
+        "pts": 4,
+        "xg": 4.2,
+        "form": "DWWDW",
+        "live": false
       },
       {
         "position": 2,
         "team_id": 495,
         "team_name": "Ghana",
-        "played": 1,
+        "played": 2,
         "won": 1,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 0,
         "gf": 1,
         "ga": 0,
         "gd": 1,
-        "pts": 3,
-        "xg": 1.2,
-        "form": "WLWLL",
-        "live": true
+        "pts": 4,
+        "xg": 1.5,
+        "form": "DWLWL",
+        "live": false
       },
       {
         "position": 3,
-        "team_id": 496,
-        "team_name": "Panama",
-        "played": 1,
-        "won": 0,
+        "team_id": 494,
+        "team_name": "Croatia",
+        "played": 2,
+        "won": 1,
         "drawn": 0,
         "lost": 1,
-        "gf": 0,
-        "ga": 1,
+        "gf": 3,
+        "ga": 4,
         "gd": -1,
-        "pts": 0,
-        "xg": 0.8,
-        "form": "LLLL",
+        "pts": 3,
+        "xg": 2.4,
+        "form": "WLDWD",
         "live": false
       },
       {
         "position": 4,
-        "team_id": 494,
-        "team_name": "Croatia",
-        "played": 1,
+        "team_id": 496,
+        "team_name": "Panama",
+        "played": 2,
         "won": 0,
         "drawn": 0,
-        "lost": 1,
-        "gf": 2,
-        "ga": 4,
+        "lost": 2,
+        "gf": 0,
+        "ga": 2,
         "gd": -2,
         "pts": 0,
-        "xg": 0.7,
-        "form": "LDWDW",
+        "xg": 1.4,
+        "form": "LLLLL",
         "live": false
       }
     ]
