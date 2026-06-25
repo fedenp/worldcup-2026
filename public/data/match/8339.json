@@ -6,8 +6,8 @@
     "capacity": 53500
   },
   "weather": {
-    "code": 3,
-    "description": "rain",
+    "code": 2,
+    "description": "cloudy",
     "wind_speed": 10.6,
     "temperature_c": 26
   },
@@ -22,5 +22,250 @@
     "confidence": 0.4382
   },
   "head_to_head": null,
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 31,
+        "x": 59.1,
+        "y": 79.7,
+        "pos": "F",
+        "name": "H. Hee-chan",
+        "player_id": 533
+      },
+      {
+        "n": 27,
+        "x": 65.2,
+        "y": 45.8,
+        "pos": "F",
+        "name": "H. Oh",
+        "player_id": 3131
+      },
+      {
+        "n": 31,
+        "x": 55.1,
+        "y": 87.4,
+        "pos": "M",
+        "name": "T. Lee",
+        "player_id": 17047
+      },
+      {
+        "n": 100,
+        "x": 38.2,
+        "y": 52,
+        "pos": "D",
+        "name": "K. Min-jae",
+        "player_id": 2458
+      },
+      {
+        "n": 134,
+        "x": 44,
+        "y": 76.4,
+        "pos": "D",
+        "name": "G. Lee",
+        "player_id": 43953
+      },
+      {
+        "n": 58,
+        "x": 46.9,
+        "y": 40.5,
+        "pos": "M",
+        "name": "J. S. Park",
+        "player_id": 17044
+      },
+      {
+        "n": 45,
+        "x": 44,
+        "y": 57.9,
+        "pos": "M",
+        "name": "S. Paik",
+        "player_id": 6092
+      },
+      {
+        "n": 33,
+        "x": 63.7,
+        "y": 61.3,
+        "pos": "F",
+        "name": "S. Heung-min",
+        "player_id": 9190
+      },
+      {
+        "n": 55,
+        "x": 10.6,
+        "y": 48,
+        "pos": "G",
+        "name": "K. Seung-gyu",
+        "player_id": 17046
+      },
+      {
+        "n": 12,
+        "x": 72.5,
+        "y": 47.1,
+        "pos": "F",
+        "name": "G. Cho",
+        "player_id": 3263
+      },
+      {
+        "n": 95,
+        "x": 62.9,
+        "y": 28.5,
+        "pos": "M",
+        "name": "K. Lee",
+        "player_id": 2250
+      },
+      {
+        "n": 66,
+        "x": 64,
+        "y": 14.7,
+        "pos": "D",
+        "name": "Y. W. Seol",
+        "player_id": 3056
+      },
+      {
+        "n": 103,
+        "x": 45.2,
+        "y": 20.1,
+        "pos": "D",
+        "name": "H. Lee",
+        "player_id": 3259
+      },
+      {
+        "n": 52,
+        "x": 59.1,
+        "y": 82.6,
+        "pos": "M",
+        "name": "J. Castrop",
+        "player_id": 2872
+      },
+      {
+        "n": 94,
+        "x": 51.7,
+        "y": 48.9,
+        "pos": "M",
+        "name": "H. In-beom",
+        "player_id": 4397
+      },
+      {
+        "n": 67,
+        "x": 58,
+        "y": 37.3,
+        "pos": "M",
+        "name": "J. Kim",
+        "player_id": 17043
+      }
+    ],
+    "home": [
+      {
+        "n": 47,
+        "x": 61.6,
+        "y": 24.7,
+        "pos": "M",
+        "name": "T. Maseko",
+        "player_id": 15830
+      },
+      {
+        "n": 46,
+        "x": 53.2,
+        "y": 74.9,
+        "pos": "M",
+        "name": "O. Appollis",
+        "player_id": 15468
+      },
+      {
+        "n": 50,
+        "x": 9.7,
+        "y": 44.7,
+        "pos": "G",
+        "name": "R. Williams",
+        "player_id": 14393
+      },
+      {
+        "n": 45,
+        "x": 51.9,
+        "y": 45,
+        "pos": "F",
+        "name": "E. Makgopa",
+        "player_id": 15470
+      },
+      {
+        "n": 56,
+        "x": 45.5,
+        "y": 38.6,
+        "pos": "M",
+        "name": "T. Mbatha",
+        "player_id": 15476
+      },
+      {
+        "n": 36,
+        "x": 36.9,
+        "y": 83.1,
+        "pos": "D",
+        "name": "A. Modiba",
+        "player_id": 14397
+      },
+      {
+        "n": 13,
+        "x": 44.1,
+        "y": 71.6,
+        "pos": "M",
+        "name": "T. Moremi",
+        "player_id": 15472
+      },
+      {
+        "n": 45,
+        "x": 52.7,
+        "y": 50.4,
+        "pos": "M",
+        "name": "R. Mofokeng",
+        "player_id": 15469
+      },
+      {
+        "n": 10,
+        "x": 37.8,
+        "y": 53.9,
+        "pos": "M",
+        "name": "J. Adams",
+        "player_id": 14398
+      },
+      {
+        "n": 10,
+        "x": 36.7,
+        "y": 28.6,
+        "pos": "F",
+        "name": "I. Rayners",
+        "player_id": 14402
+      },
+      {
+        "n": 53,
+        "x": 28,
+        "y": 63.9,
+        "pos": "D",
+        "name": "M. Mbokazi",
+        "player_id": 12123
+      },
+      {
+        "n": 67,
+        "x": 25.4,
+        "y": 32.7,
+        "pos": "D",
+        "name": "I. Okon",
+        "player_id": 16737
+      },
+      {
+        "n": 85,
+        "x": 40.1,
+        "y": 55.2,
+        "pos": "M",
+        "name": "S. Sithole",
+        "player_id": 1909
+      },
+      {
+        "n": 72,
+        "x": 30.1,
+        "y": 15.1,
+        "pos": "D",
+        "name": "K. Mudau",
+        "player_id": 14394
+      }
+    ]
+  }
 }

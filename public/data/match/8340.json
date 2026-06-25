@@ -6,8 +6,8 @@
     "capacity": 87523
   },
   "weather": {
-    "code": 53,
-    "description": null,
+    "code": 2,
+    "description": "cloudy",
     "wind_speed": 5,
     "temperature_c": 19
   },
@@ -22,5 +22,266 @@
     "confidence": 0.4267
   },
   "head_to_head": null,
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 39,
+        "x": 53.9,
+        "y": 44.1,
+        "pos": "D",
+        "name": "L. Romo",
+        "player_id": 10370
+      },
+      {
+        "n": 34,
+        "x": 10.2,
+        "y": 47.6,
+        "pos": "G",
+        "name": "R. Rangel",
+        "player_id": 10161
+      },
+      {
+        "n": 32,
+        "x": 58,
+        "y": 39.8,
+        "pos": "M",
+        "name": "G. Mora",
+        "player_id": 10424
+      },
+      {
+        "n": 12,
+        "x": 38.3,
+        "y": 48.8,
+        "pos": "M",
+        "name": "O. Vargas",
+        "player_id": 9006
+      },
+      {
+        "n": 34,
+        "x": 53.4,
+        "y": 53.2,
+        "pos": "F",
+        "name": "G. Martínez",
+        "player_id": 10462
+      },
+      {
+        "n": 72,
+        "x": 49.3,
+        "y": 14.9,
+        "pos": "D",
+        "name": "J. Sánchez",
+        "player_id": 10045
+      },
+      {
+        "n": 10,
+        "x": 51.5,
+        "y": 57.4,
+        "pos": "F",
+        "name": "S. Giménez",
+        "player_id": 4328
+      },
+      {
+        "n": 44,
+        "x": 48.1,
+        "y": 83.6,
+        "pos": "D",
+        "name": "M. Chávez",
+        "player_id": 5481
+      },
+      {
+        "n": 12,
+        "x": 29.2,
+        "y": 78.2,
+        "pos": "D",
+        "name": "J. Gallardo",
+        "player_id": 10088
+      },
+      {
+        "n": 54,
+        "x": 58.9,
+        "y": 73.3,
+        "pos": "F",
+        "name": "J. Quiñones",
+        "player_id": 8296
+      },
+      {
+        "n": 20,
+        "x": 52.8,
+        "y": 62,
+        "pos": "M",
+        "name": "Á. Fidalgo",
+        "player_id": 9008
+      },
+      {
+        "n": 9,
+        "x": 6,
+        "y": 47.7,
+        "pos": "G",
+        "name": "G. Ochoa",
+        "player_id": 17093
+      },
+      {
+        "n": 66,
+        "x": 34.5,
+        "y": 39,
+        "pos": "D",
+        "name": "C. Montes",
+        "player_id": 17092
+      },
+      {
+        "n": 56,
+        "x": 42.3,
+        "y": 42.2,
+        "pos": "M",
+        "name": "E. Álvarez",
+        "player_id": 3411
+      },
+      {
+        "n": 75,
+        "x": 56.6,
+        "y": 28.4,
+        "pos": "F",
+        "name": "R. Alvarado",
+        "player_id": 10169
+      },
+      {
+        "n": 70,
+        "x": 29.7,
+        "y": 71.7,
+        "pos": "D",
+        "name": "I. Reyes",
+        "player_id": 10107
+      }
+    ],
+    "home": [
+      {
+        "n": 59,
+        "x": 36,
+        "y": 35.7,
+        "pos": "D",
+        "name": "R. Hranáč",
+        "player_id": 2378
+      },
+      {
+        "n": 30,
+        "x": 53.9,
+        "y": 60.6,
+        "pos": "F",
+        "name": "A. Hložek",
+        "player_id": 5156
+      },
+      {
+        "n": 37,
+        "x": 47.8,
+        "y": 47.5,
+        "pos": "M",
+        "name": "L. Červ",
+        "player_id": 3224
+      },
+      {
+        "n": 45,
+        "x": 56.2,
+        "y": 49.5,
+        "pos": "F",
+        "name": "P. Šulc",
+        "player_id": 1112
+      },
+      {
+        "n": 27,
+        "x": 53,
+        "y": 77.3,
+        "pos": "M",
+        "name": "D. Višinský",
+        "player_id": 3231
+      },
+      {
+        "n": 35,
+        "x": 60.4,
+        "y": 30.3,
+        "pos": "F",
+        "name": "L. Provod",
+        "player_id": 3706
+      },
+      {
+        "n": 4,
+        "x": 62.7,
+        "y": 49.7,
+        "pos": "M",
+        "name": "T. Souček",
+        "player_id": 1647
+      },
+      {
+        "n": 69,
+        "x": 47.7,
+        "y": 75.3,
+        "pos": "M",
+        "name": "D. Doudera",
+        "player_id": 3705
+      },
+      {
+        "n": 51,
+        "x": 9.2,
+        "y": 47.1,
+        "pos": "G",
+        "name": "M. Kovář",
+        "player_id": 3502
+      },
+      {
+        "n": 7,
+        "x": 58.8,
+        "y": 45.6,
+        "pos": "F",
+        "name": "P. Schick",
+        "player_id": 2145
+      },
+      {
+        "n": 4,
+        "x": 56.9,
+        "y": 48.4,
+        "pos": "F",
+        "name": "T. Chorý",
+        "player_id": 3708
+      },
+      {
+        "n": 83,
+        "x": 33.2,
+        "y": 66.3,
+        "pos": "D",
+        "name": "L. Krejčí",
+        "player_id": 3904
+      },
+      {
+        "n": 9,
+        "x": 51.9,
+        "y": 57.2,
+        "pos": "M",
+        "name": "A. Sojka",
+        "player_id": 12264
+      },
+      {
+        "n": 55,
+        "x": 37.7,
+        "y": 18.1,
+        "pos": "D",
+        "name": "T. Holeš",
+        "player_id": 3710
+      },
+      {
+        "n": 70,
+        "x": 56.6,
+        "y": 18.4,
+        "pos": "D",
+        "name": "V. Coufal",
+        "player_id": 2377
+      },
+      {
+        "n": 68,
+        "x": 47.4,
+        "y": 65.8,
+        "pos": "M",
+        "name": "M. Sadílek",
+        "player_id": 3703
+      }
+    ]
+  }
 }
