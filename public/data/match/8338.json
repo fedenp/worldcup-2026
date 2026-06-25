@@ -6,8 +6,8 @@
     "capacity": 65326
   },
   "weather": {
-    "code": 51,
-    "description": null,
+    "code": 2,
+    "description": "cloudy",
     "wind_speed": 13,
     "temperature_c": 33
   },
@@ -21,6 +21,277 @@
     "most_likely_score": "0-1",
     "confidence": 0.5886
   },
-  "head_to_head": null,
-  "average_positions": null
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 0,
+    "away_wins": 1,
+    "home_goals": 0,
+    "away_goals": 3,
+    "avg_total_goals": 3,
+    "home_win_rate": 0,
+    "away_win_rate": 1,
+    "recent_matches": [
+      {
+        "away": "Brazil",
+        "date": "2026-06-24T22:00:00+00:00",
+        "home": "Scotland",
+        "score": "0-3"
+      }
+    ]
+  },
+  "average_positions": {
+    "away": [
+      {
+        "n": 35,
+        "x": 10.4,
+        "y": 51.5,
+        "pos": "G",
+        "name": "Alisson",
+        "player_id": 322
+      },
+      {
+        "n": 43,
+        "x": 55.7,
+        "y": 46.9,
+        "pos": "F",
+        "name": "M. Cunha",
+        "player_id": 4119
+      },
+      {
+        "n": 37,
+        "x": 42.3,
+        "y": 55.1,
+        "pos": "M",
+        "name": "Fabinho",
+        "player_id": 8156
+      },
+      {
+        "n": 21,
+        "x": 49.1,
+        "y": 66.9,
+        "pos": "F",
+        "name": "G. Martinelli",
+        "player_id": 452
+      },
+      {
+        "n": 24,
+        "x": 66.1,
+        "y": 67.3,
+        "pos": "F",
+        "name": "Neymar",
+        "player_id": 215
+      },
+      {
+        "n": 53,
+        "x": 51.2,
+        "y": 90.7,
+        "pos": "D",
+        "name": "D. Santos",
+        "player_id": 16392
+      },
+      {
+        "n": 115,
+        "x": 40.6,
+        "y": 69.1,
+        "pos": "D",
+        "name": "G. Magalhães",
+        "player_id": 4072
+      },
+      {
+        "n": 53,
+        "x": 73.7,
+        "y": 73.8,
+        "pos": "F",
+        "name": "Vinícius Jr.",
+        "player_id": 595
+      },
+      {
+        "n": 14,
+        "x": 43.4,
+        "y": 20.2,
+        "pos": "F",
+        "name": "Endrick",
+        "player_id": 606
+      },
+      {
+        "n": 14,
+        "x": 47.3,
+        "y": 83,
+        "pos": "D",
+        "name": "A. Sandro",
+        "player_id": 51
+      },
+      {
+        "n": 54,
+        "x": 42.6,
+        "y": 50.3,
+        "pos": "M",
+        "name": "Casemiro",
+        "player_id": 1793
+      },
+      {
+        "n": 54,
+        "x": 55.9,
+        "y": 21.6,
+        "pos": "M",
+        "name": "Rayan",
+        "player_id": 663
+      },
+      {
+        "n": 75,
+        "x": 52.2,
+        "y": 42.6,
+        "pos": "M",
+        "name": "B. Guimarães",
+        "player_id": 709
+      },
+      {
+        "n": 94,
+        "x": 44,
+        "y": 22.8,
+        "pos": "D",
+        "name": "Danilo",
+        "player_id": 49
+      },
+      {
+        "n": 97,
+        "x": 39,
+        "y": 39,
+        "pos": "D",
+        "name": "Marquinhos",
+        "player_id": 2244
+      },
+      {
+        "n": 81,
+        "x": 53.7,
+        "y": 74,
+        "pos": "M",
+        "name": "L. Paquetá",
+        "player_id": 1642
+      }
+    ],
+    "home": [
+      {
+        "n": 37,
+        "x": 60.8,
+        "y": 25.3,
+        "pos": "M",
+        "name": "B. Doak",
+        "player_id": 4027
+      },
+      {
+        "n": 42,
+        "x": 59.2,
+        "y": 87,
+        "pos": "D",
+        "name": "K. Tierney",
+        "player_id": 3387
+      },
+      {
+        "n": 36,
+        "x": 61.1,
+        "y": 50.3,
+        "pos": "F",
+        "name": "L. Shankland",
+        "player_id": 5774
+      },
+      {
+        "n": 51,
+        "x": 54.4,
+        "y": 33.7,
+        "pos": "M",
+        "name": "S. McTominay",
+        "player_id": 1088
+      },
+      {
+        "n": 63,
+        "x": 36.1,
+        "y": 37.1,
+        "pos": "D",
+        "name": "J. Hendry",
+        "player_id": 8032
+      },
+      {
+        "n": 51,
+        "x": 45.2,
+        "y": 82.6,
+        "pos": "D",
+        "name": "A. Robertson",
+        "player_id": 326
+      },
+      {
+        "n": 65,
+        "x": 8.8,
+        "y": 51.2,
+        "pos": "G",
+        "name": "A. Gunn",
+        "player_id": 4789
+      },
+      {
+        "n": 128,
+        "x": 49.2,
+        "y": 47.6,
+        "pos": "M",
+        "name": "L. Ferguson",
+        "player_id": 966
+      },
+      {
+        "n": 11,
+        "x": 50.5,
+        "y": 43.6,
+        "pos": "M",
+        "name": "R. Christie",
+        "player_id": 3900
+      },
+      {
+        "n": 6,
+        "x": 45.9,
+        "y": 25.4,
+        "pos": "D",
+        "name": "T. Ralston",
+        "player_id": 3398
+      },
+      {
+        "n": 2,
+        "x": 74.4,
+        "y": 91.5,
+        "pos": "M",
+        "name": "F. Curtis",
+        "player_id": 3029
+      },
+      {
+        "n": 51,
+        "x": 60.7,
+        "y": 64.9,
+        "pos": "M",
+        "name": "J. McGinn",
+        "player_id": 510
+      },
+      {
+        "n": 64,
+        "x": 50.3,
+        "y": 54.6,
+        "pos": "M",
+        "name": "K. McLean",
+        "player_id": 6386
+      },
+      {
+        "n": 84,
+        "x": 40.9,
+        "y": 15.9,
+        "pos": "D",
+        "name": "N. Patterson",
+        "player_id": 818
+      },
+      {
+        "n": 62,
+        "x": 35.6,
+        "y": 68.4,
+        "pos": "D",
+        "name": "S. McKenna",
+        "player_id": 3340
+      }
+    ]
+  }
 }
