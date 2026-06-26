@@ -6,8 +6,8 @@
     "capacity": 66829
   },
   "weather": {
-    "code": 3,
-    "description": "rain",
+    "code": 2,
+    "description": "cloudy",
     "wind_speed": 15.1,
     "temperature_c": 19
   },
@@ -22,5 +22,266 @@
     "confidence": 0.4196
   },
   "head_to_head": null,
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 35,
+        "x": 9.8,
+        "y": 49.3,
+        "pos": "G",
+        "name": "M. Maignan",
+        "player_id": 1987
+      },
+      {
+        "n": 28,
+        "x": 58.3,
+        "y": 43.3,
+        "pos": "M",
+        "name": "R. Cherki",
+        "player_id": 856
+      },
+      {
+        "n": 17,
+        "x": 33.2,
+        "y": 28.1,
+        "pos": "D",
+        "name": "I. Konaté",
+        "player_id": 324
+      },
+      {
+        "n": 69,
+        "x": 58.8,
+        "y": 41.9,
+        "pos": "M",
+        "name": "M. Olise",
+        "player_id": 2467
+      },
+      {
+        "n": 74,
+        "x": 45.9,
+        "y": 85,
+        "pos": "D",
+        "name": "T. Hernández",
+        "player_id": 7994
+      },
+      {
+        "n": 69,
+        "x": 32.6,
+        "y": 64.9,
+        "pos": "D",
+        "name": "M. Lacroix",
+        "player_id": 424
+      },
+      {
+        "n": 19,
+        "x": 50.3,
+        "y": 78.4,
+        "pos": "F",
+        "name": "B. Barcola",
+        "player_id": 2261
+      },
+      {
+        "n": 1,
+        "x": 70.9,
+        "y": 37.6,
+        "pos": "F",
+        "name": "J. Mateta",
+        "player_id": 432
+      },
+      {
+        "n": 48,
+        "x": 73.1,
+        "y": 49,
+        "pos": "F",
+        "name": "K. Mbappé",
+        "player_id": 594
+      },
+      {
+        "n": 106,
+        "x": 49.9,
+        "y": 47.3,
+        "pos": "M",
+        "name": "A. Tchouaméni",
+        "player_id": 591
+      },
+      {
+        "n": 14,
+        "x": 52.4,
+        "y": 13.5,
+        "pos": "D",
+        "name": "M. Gusto",
+        "player_id": 393
+      },
+      {
+        "n": 55,
+        "x": 71.6,
+        "y": 24.8,
+        "pos": "F",
+        "name": "O. Dembélé",
+        "player_id": 2253
+      },
+      {
+        "n": 76,
+        "x": 33.2,
+        "y": 37.7,
+        "pos": "D",
+        "name": "D. Upamecano",
+        "player_id": 3463
+      },
+      {
+        "n": 86,
+        "x": 41.7,
+        "y": 18,
+        "pos": "D",
+        "name": "J. Koundé",
+        "player_id": 739
+      },
+      {
+        "n": 85,
+        "x": 62.7,
+        "y": 65.2,
+        "pos": "F",
+        "name": "D. Doué",
+        "player_id": 4324
+      },
+      {
+        "n": 76,
+        "x": 54.3,
+        "y": 57,
+        "pos": "M",
+        "name": "M. Koné",
+        "player_id": 1064
+      }
+    ],
+    "home": [
+      {
+        "n": 35,
+        "x": 54.6,
+        "y": 28.5,
+        "pos": "M",
+        "name": "K. Thorstvedt",
+        "player_id": 2850
+      },
+      {
+        "n": 49,
+        "x": 62.8,
+        "y": 53.6,
+        "pos": "F",
+        "name": "J. Larsen",
+        "player_id": 531
+      },
+      {
+        "n": 47,
+        "x": 7.7,
+        "y": 49.8,
+        "pos": "G",
+        "name": "E. Selvik",
+        "player_id": 6027
+      },
+      {
+        "n": 33,
+        "x": 34.4,
+        "y": 86,
+        "pos": "D",
+        "name": "F. A. Bjørkan",
+        "player_id": 3671
+      },
+      {
+        "n": 34,
+        "x": 24.7,
+        "y": 29.8,
+        "pos": "D",
+        "name": "H. S. Falchener",
+        "player_id": 16898
+      },
+      {
+        "n": 27,
+        "x": 37.8,
+        "y": 90,
+        "pos": "M",
+        "name": "M. Pedersen",
+        "player_id": 1838
+      },
+      {
+        "n": 30,
+        "x": 50.4,
+        "y": 35.7,
+        "pos": "M",
+        "name": "M. Thorsby",
+        "player_id": 2595
+      },
+      {
+        "n": 10,
+        "x": 38.5,
+        "y": 27.1,
+        "pos": "D",
+        "name": "S. K. Langås",
+        "player_id": 6222
+      },
+      {
+        "n": 80,
+        "x": 42.2,
+        "y": 15.9,
+        "pos": "M",
+        "name": "F. Aursnes",
+        "player_id": 2056
+      },
+      {
+        "n": 80,
+        "x": 50.4,
+        "y": 50.3,
+        "pos": "M",
+        "name": "P. Berg",
+        "player_id": 3673
+      },
+      {
+        "n": 86,
+        "x": 37.6,
+        "y": 65.4,
+        "pos": "D",
+        "name": "L. Østigård",
+        "player_id": 2590
+      },
+      {
+        "n": 4,
+        "x": 54.5,
+        "y": 43.1,
+        "pos": "F",
+        "name": "J. Hauge",
+        "player_id": 3681
+      },
+      {
+        "n": 48,
+        "x": 65,
+        "y": 24.3,
+        "pos": "M",
+        "name": "O. Bobb",
+        "player_id": 3651
+      },
+      {
+        "n": 5,
+        "x": 47.7,
+        "y": 80.8,
+        "pos": "F",
+        "name": "A. Nusa",
+        "player_id": 2897
+      },
+      {
+        "n": 76,
+        "x": 53.6,
+        "y": 63.3,
+        "pos": "M",
+        "name": "T. Aasgaard",
+        "player_id": 3021
+      },
+      {
+        "n": 59,
+        "x": 59.4,
+        "y": 78.8,
+        "pos": "M",
+        "name": "A. Schjelderup",
+        "player_id": 2064
+      }
+    ]
+  }
 }
