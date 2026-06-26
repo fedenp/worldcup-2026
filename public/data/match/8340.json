@@ -21,7 +21,25 @@
     "most_likely_score": "1-1",
     "confidence": 0.4267
   },
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 0,
+    "away_wins": 1,
+    "home_goals": 0,
+    "away_goals": 3,
+    "avg_total_goals": 3,
+    "home_win_rate": 0,
+    "away_win_rate": 1,
+    "recent_matches": [
+      {
+        "away": "Mexico",
+        "date": "2026-06-25T01:00:00+00:00",
+        "home": "Czechia",
+        "score": "0-3"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {

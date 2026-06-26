@@ -6,8 +6,8 @@
     "capacity": 69176
   },
   "weather": {
-    "code": 3,
-    "description": "rain",
+    "code": 1,
+    "description": "clear",
     "wind_speed": 24.1,
     "temperature_c": 32
   },
@@ -21,6 +21,285 @@
     "most_likely_score": "1-1",
     "confidence": 0.5553
   },
-  "head_to_head": null,
-  "average_positions": null
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 0,
+    "away_wins": 1,
+    "home_goals": 0,
+    "away_goals": 2,
+    "avg_total_goals": 2,
+    "home_win_rate": 0,
+    "away_win_rate": 1,
+    "recent_matches": [
+      {
+        "away": "Côte d'Ivoire",
+        "date": "2026-06-25T20:00:00+00:00",
+        "home": "Curaçao",
+        "score": "0-2"
+      }
+    ]
+  },
+  "average_positions": {
+    "away": [
+      {
+        "n": 40,
+        "x": 9.6,
+        "y": 47.8,
+        "pos": "G",
+        "name": "Y. Fofana",
+        "player_id": 6738
+      },
+      {
+        "n": 21,
+        "x": 45.4,
+        "y": 48,
+        "pos": "F",
+        "name": "A. Bonny",
+        "player_id": 3468
+      },
+      {
+        "n": 130,
+        "x": 43.8,
+        "y": 40.5,
+        "pos": "M",
+        "name": "I. Sangaré",
+        "player_id": 547
+      },
+      {
+        "n": 64,
+        "x": 64.3,
+        "y": 83.1,
+        "pos": "F",
+        "name": "Y. Diomande",
+        "player_id": 2895
+      },
+      {
+        "n": 25,
+        "x": 43.9,
+        "y": 54,
+        "pos": "M",
+        "name": "J. M. Seri",
+        "player_id": 15393
+      },
+      {
+        "n": 42,
+        "x": 58.7,
+        "y": 15.9,
+        "pos": "M",
+        "name": "A. Diallo",
+        "player_id": 1792
+      },
+      {
+        "n": 63,
+        "x": 55.7,
+        "y": 54.5,
+        "pos": "M",
+        "name": "F. Kessié",
+        "player_id": 8117
+      },
+      {
+        "n": 26,
+        "x": 57.3,
+        "y": 20.9,
+        "pos": "F",
+        "name": "O. Diakité",
+        "player_id": 7705
+      },
+      {
+        "n": 12,
+        "x": 67.6,
+        "y": 48.4,
+        "pos": "F",
+        "name": "E. Wahi",
+        "player_id": 3527
+      },
+      {
+        "n": 66,
+        "x": 64.2,
+        "y": 31.4,
+        "pos": "F",
+        "name": "N. Pépé",
+        "player_id": 1786
+      },
+      {
+        "n": 21,
+        "x": 65,
+        "y": 66.4,
+        "pos": "M",
+        "name": "B. Touré",
+        "player_id": 2385
+      },
+      {
+        "n": 103,
+        "x": 43.5,
+        "y": 85.1,
+        "pos": "D",
+        "name": "C. Operi",
+        "player_id": 6639
+      },
+      {
+        "n": 91,
+        "x": 48,
+        "y": 15.7,
+        "pos": "D",
+        "name": "G. Doué",
+        "player_id": 1702
+      },
+      {
+        "n": 53,
+        "x": 48.8,
+        "y": 72.1,
+        "pos": "M",
+        "name": "C. I. Oulaï",
+        "player_id": 6614
+      },
+      {
+        "n": 85,
+        "x": 34.9,
+        "y": 65.4,
+        "pos": "D",
+        "name": "O. Diomande",
+        "player_id": 1228
+      },
+      {
+        "n": 71,
+        "x": 36.1,
+        "y": 28.4,
+        "pos": "D",
+        "name": "O. Kossounou",
+        "player_id": 1298
+      }
+    ],
+    "home": [
+      {
+        "n": 22,
+        "x": 10.9,
+        "y": 46.3,
+        "pos": "G",
+        "name": "E. Room",
+        "player_id": 22241
+      },
+      {
+        "n": 32,
+        "x": 49.1,
+        "y": 47.9,
+        "pos": "F",
+        "name": "J. Locadia",
+        "player_id": 22227
+      },
+      {
+        "n": 52,
+        "x": 57.8,
+        "y": 27,
+        "pos": "M",
+        "name": "T. Chong",
+        "player_id": 6073
+      },
+      {
+        "n": 50,
+        "x": 40.2,
+        "y": 30.5,
+        "pos": "D",
+        "name": "J. Gaari",
+        "player_id": 22239
+      },
+      {
+        "n": 49,
+        "x": 36.3,
+        "y": 14.7,
+        "pos": "D",
+        "name": "J. Brenet",
+        "player_id": 5931
+      },
+      {
+        "n": 73,
+        "x": 60,
+        "y": 65.3,
+        "pos": "M",
+        "name": "J. Bacuna",
+        "player_id": 6672
+      },
+      {
+        "n": 67,
+        "x": 28.4,
+        "y": 55.9,
+        "pos": "D",
+        "name": "A. Obispo",
+        "player_id": 3518
+      },
+      {
+        "n": 28,
+        "x": 56.3,
+        "y": 70.3,
+        "pos": "M",
+        "name": "J. Antonisse",
+        "player_id": 11253
+      },
+      {
+        "n": 46,
+        "x": 42,
+        "y": 50.7,
+        "pos": "D",
+        "name": "L. Comenencia",
+        "player_id": 7715
+      },
+      {
+        "n": 5,
+        "x": 80.4,
+        "y": 41.7,
+        "pos": "F",
+        "name": "G. Kastaneer",
+        "player_id": 22229
+      },
+      {
+        "n": 16,
+        "x": 73.3,
+        "y": 14.7,
+        "pos": "M",
+        "name": "T. Noslin",
+        "player_id": 5431
+      },
+      {
+        "n": 7,
+        "x": 32.4,
+        "y": 28.7,
+        "pos": "D",
+        "name": "S. Sambo",
+        "player_id": 5279
+      },
+      {
+        "n": 84,
+        "x": 40.5,
+        "y": 76.1,
+        "pos": "D",
+        "name": "S. Floranus",
+        "player_id": 5328
+      },
+      {
+        "n": 55,
+        "x": 40,
+        "y": 77.4,
+        "pos": "D",
+        "name": "D. Fonville",
+        "player_id": 5451
+      },
+      {
+        "n": 66,
+        "x": 53,
+        "y": 54.7,
+        "pos": "M",
+        "name": "L. Bacuna",
+        "player_id": 22231
+      },
+      {
+        "n": 8,
+        "x": 79.8,
+        "y": 58.7,
+        "pos": "F",
+        "name": "B. Kuwas",
+        "player_id": 5413
+      }
+    ]
+  }
 }
