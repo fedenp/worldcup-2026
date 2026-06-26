@@ -6,8 +6,8 @@
     "capacity": 68500
   },
   "weather": {
-    "code": 0,
-    "description": "unknown",
+    "code": 2,
+    "description": "cloudy",
     "wind_speed": 14.3,
     "temperature_c": 29
   },
@@ -22,5 +22,250 @@
     "confidence": 0.4382
   },
   "head_to_head": null,
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 44,
+        "x": 56.3,
+        "y": 71.7,
+        "pos": "M",
+        "name": "C. Metcalfe",
+        "player_id": 2490
+      },
+      {
+        "n": 37,
+        "x": 8.2,
+        "y": 49,
+        "pos": "G",
+        "name": "P. Beach",
+        "player_id": 58824
+      },
+      {
+        "n": 38,
+        "x": 58.1,
+        "y": 50.9,
+        "pos": "F",
+        "name": "N. Irankunda",
+        "player_id": 6040
+      },
+      {
+        "n": 23,
+        "x": 58,
+        "y": 22.4,
+        "pos": "M",
+        "name": "A. Hrustić",
+        "player_id": 5369
+      },
+      {
+        "n": 116,
+        "x": 44.3,
+        "y": 18.8,
+        "pos": "D",
+        "name": "A. Circati",
+        "player_id": 4264
+      },
+      {
+        "n": 62,
+        "x": 66.5,
+        "y": 27.3,
+        "pos": "M",
+        "name": "C. Volpato",
+        "player_id": 2854
+      },
+      {
+        "n": 55,
+        "x": 49.6,
+        "y": 89.4,
+        "pos": "D",
+        "name": "A. Behich",
+        "player_id": 55294
+      },
+      {
+        "n": 5,
+        "x": 75.6,
+        "y": 46.9,
+        "pos": "F",
+        "name": "T. Yengi",
+        "player_id": 5936
+      },
+      {
+        "n": 3,
+        "x": 53.1,
+        "y": 59.4,
+        "pos": "M",
+        "name": "P. Okon-Engstler",
+        "player_id": 58823
+      },
+      {
+        "n": 108,
+        "x": 31.7,
+        "y": 47,
+        "pos": "D",
+        "name": "H. Souttar",
+        "player_id": 23925
+      },
+      {
+        "n": 105,
+        "x": 61.1,
+        "y": 15.6,
+        "pos": "D",
+        "name": "J. Bos",
+        "player_id": 4396
+      },
+      {
+        "n": 85,
+        "x": 51,
+        "y": 35.7,
+        "pos": "M",
+        "name": "J. Irvine",
+        "player_id": 2484
+      },
+      {
+        "n": 90,
+        "x": 31.9,
+        "y": 75.3,
+        "pos": "D",
+        "name": "L. Herrington",
+        "player_id": 12179
+      },
+      {
+        "n": 81,
+        "x": 52,
+        "y": 52.2,
+        "pos": "M",
+        "name": "A. O'Neill",
+        "player_id": 9142
+      }
+    ],
+    "home": [
+      {
+        "n": 31,
+        "x": 58.9,
+        "y": 56.4,
+        "pos": "F",
+        "name": "G. Ávalos",
+        "player_id": 16919
+      },
+      {
+        "n": 62,
+        "x": 34.1,
+        "y": 47.9,
+        "pos": "D",
+        "name": "G. Gómez",
+        "player_id": 26
+      },
+      {
+        "n": 33,
+        "x": 8.7,
+        "y": 51.9,
+        "pos": "G",
+        "name": "O. Gill",
+        "player_id": 16917
+      },
+      {
+        "n": 35,
+        "x": 33.9,
+        "y": 88.7,
+        "pos": "D",
+        "name": "A. Maidana",
+        "player_id": 16913
+      },
+      {
+        "n": 35,
+        "x": 57.9,
+        "y": 57.7,
+        "pos": "M",
+        "name": "Mauricio",
+        "player_id": 42
+      },
+      {
+        "n": 15,
+        "x": 64.5,
+        "y": 48.9,
+        "pos": "F",
+        "name": "A. Arce",
+        "player_id": 16914
+      },
+      {
+        "n": 6,
+        "x": 35.8,
+        "y": 92,
+        "pos": "D",
+        "name": "J. Alonso",
+        "player_id": 4
+      },
+      {
+        "n": 8,
+        "x": 38,
+        "y": 73.2,
+        "pos": "D",
+        "name": "J. Canale",
+        "player_id": 16912
+      },
+      {
+        "n": 1,
+        "x": 42,
+        "y": 69.9,
+        "pos": "M",
+        "name": "D. Bobadilla",
+        "player_id": 143
+      },
+      {
+        "n": 56,
+        "x": 57.1,
+        "y": 75.6,
+        "pos": "M",
+        "name": "J. Enciso",
+        "player_id": 1710
+      },
+      {
+        "n": 81,
+        "x": 36.6,
+        "y": 73.8,
+        "pos": "D",
+        "name": "O. Alderete",
+        "player_id": 345
+      },
+      {
+        "n": 73,
+        "x": 38.8,
+        "y": 20.3,
+        "pos": "D",
+        "name": "G. Velázquez",
+        "player_id": 16915
+      },
+      {
+        "n": 88,
+        "x": 44.1,
+        "y": 81.2,
+        "pos": "M",
+        "name": "M. Galarza",
+        "player_id": 13574
+      },
+      {
+        "n": 69,
+        "x": 41.8,
+        "y": 12.7,
+        "pos": "D",
+        "name": "J. Cáceres",
+        "player_id": 16918
+      },
+      {
+        "n": 71,
+        "x": 44,
+        "y": 49.4,
+        "pos": "M",
+        "name": "A. Cubas",
+        "player_id": 9106
+      },
+      {
+        "n": 81,
+        "x": 52.8,
+        "y": 56.8,
+        "pos": "M",
+        "name": "D. Gómez",
+        "player_id": 488
+      }
+    ]
+  }
 }
