@@ -21,7 +21,25 @@
     "most_likely_score": "1-1",
     "confidence": 0.4434
   },
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 1,
+    "draws": 0,
+    "away_wins": 0,
+    "home_goals": 5,
+    "away_goals": 0,
+    "avg_total_goals": 5,
+    "home_win_rate": 1,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Iraq",
+        "date": "2026-06-26T19:00:00+00:00",
+        "home": "Senegal",
+        "score": "5-0"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {

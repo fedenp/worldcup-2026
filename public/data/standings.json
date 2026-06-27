@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T21:15:07.057Z",
+  "updated_at": "2026-06-27T02:40:26.641Z",
   "groups": {
     "Group A": [
       {
@@ -213,7 +213,7 @@
         "gd": 4,
         "pts": 6,
         "xg": 4.7,
-        "form": "WWWDD",
+        "form": "LWWWD",
         "live": false
       },
       {
@@ -229,7 +229,7 @@
         "gd": 0,
         "pts": 4,
         "xg": 1.8,
-        "form": "LWWWL",
+        "form": "DLWWW",
         "live": false
       },
       {
@@ -245,7 +245,7 @@
         "gd": -2,
         "pts": 4,
         "xg": 1,
-        "form": "WL",
+        "form": "DWL",
         "live": false
       },
       {
@@ -261,7 +261,7 @@
         "gd": -2,
         "pts": 3,
         "xg": 6.3,
-        "form": "LL",
+        "form": "WLL",
         "live": false
       }
     ],
@@ -468,64 +468,64 @@
         "position": 1,
         "team_id": 475,
         "team_name": "Spain",
-        "played": 2,
-        "won": 1,
+        "played": 3,
+        "won": 2,
         "drawn": 1,
         "lost": 0,
-        "gf": 4,
+        "gf": 5,
         "ga": 0,
-        "gd": 4,
-        "pts": 4,
-        "xg": 5.2,
-        "form": "WDLDW",
+        "gd": 5,
+        "pts": 7,
+        "xg": 6,
+        "form": "WWDLD",
         "live": false
       },
       {
         "position": 2,
-        "team_id": 480,
-        "team_name": "Uruguay",
-        "played": 2,
-        "won": 0,
-        "drawn": 2,
-        "lost": 0,
-        "gf": 3,
-        "ga": 3,
-        "gd": 0,
-        "pts": 2,
-        "xg": 4,
-        "form": "DDWLD",
-        "live": false
-      },
-      {
-        "position": 3,
         "team_id": 476,
         "team_name": "Cabo Verde",
-        "played": 2,
+        "played": 3,
         "won": 0,
-        "drawn": 2,
+        "drawn": 3,
         "lost": 0,
         "gf": 2,
         "ga": 2,
         "gd": 0,
+        "pts": 3,
+        "xg": 2.7,
+        "form": "DDD",
+        "live": false
+      },
+      {
+        "position": 3,
+        "team_id": 480,
+        "team_name": "Uruguay",
+        "played": 3,
+        "won": 0,
+        "drawn": 2,
+        "lost": 1,
+        "gf": 3,
+        "ga": 4,
+        "gd": -1,
         "pts": 2,
-        "xg": 1.2,
-        "form": "DD",
+        "xg": 4.2,
+        "form": "LDDWL",
         "live": false
       },
       {
         "position": 4,
         "team_id": 479,
         "team_name": "Saudi Arabia",
-        "played": 2,
+        "played": 3,
         "won": 0,
-        "drawn": 1,
+        "drawn": 2,
         "lost": 1,
         "gf": 1,
         "ga": 5,
         "gd": -4,
-        "pts": 1,
-        "xg": 1.2,
-        "form": "LDLLW",
+        "pts": 2,
+        "xg": 1.6,
+        "form": "DLDLL",
         "live": false
       }
     ],
@@ -543,7 +543,7 @@
         "gd": 8,
         "pts": 9,
         "xg": 5.6,
-        "form": "WWLWW",
+        "form": "WWWLW",
         "live": false
       },
       {
@@ -559,7 +559,7 @@
         "gd": 1,
         "pts": 6,
         "xg": 6.3,
-        "form": "WW",
+        "form": "LWW",
         "live": false
       },
       {
@@ -575,7 +575,7 @@
         "gd": 2,
         "pts": 3,
         "xg": 5.2,
-        "form": "LLWWL",
+        "form": "WLLWW",
         "live": false
       },
       {
@@ -591,7 +591,7 @@
         "gd": -11,
         "pts": 0,
         "xg": 1.6,
-        "form": "LL",
+        "form": "LLL",
         "live": false
       }
     ],
