@@ -6,8 +6,8 @@
     "capacity": 65326
   },
   "weather": {
-    "code": 2,
-    "description": "cloudy",
+    "code": 1,
+    "description": "clear",
     "wind_speed": 18.8,
     "temperature_c": 31
   },
@@ -21,6 +21,285 @@
     "most_likely_score": "2-1",
     "confidence": 0.5626
   },
-  "head_to_head": null,
-  "average_positions": null
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 1,
+    "away_wins": 0,
+    "home_goals": 0,
+    "away_goals": 0,
+    "avg_total_goals": 0,
+    "home_win_rate": 0,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Portugal",
+        "date": "2026-06-27T23:30:00+00:00",
+        "home": "Colombia",
+        "score": "0-0"
+      }
+    ]
+  },
+  "average_positions": {
+    "away": [
+      {
+        "n": 18,
+        "x": 37.8,
+        "y": 51.3,
+        "pos": "M",
+        "name": "S. Costa",
+        "player_id": 2642
+      },
+      {
+        "n": 1,
+        "x": 64.2,
+        "y": 28.5,
+        "pos": "D",
+        "name": "M. Nunes",
+        "player_id": 844
+      },
+      {
+        "n": 60,
+        "x": 58.5,
+        "y": 61.3,
+        "pos": "M",
+        "name": "B. Fernandes",
+        "player_id": 1794
+      },
+      {
+        "n": 69,
+        "x": 52.9,
+        "y": 85.4,
+        "pos": "D",
+        "name": "N. Mendes",
+        "player_id": 3470
+      },
+      {
+        "n": 43,
+        "x": 66.1,
+        "y": 83,
+        "pos": "F",
+        "name": "J. Félix",
+        "player_id": 7881
+      },
+      {
+        "n": 83,
+        "x": 31.7,
+        "y": 68,
+        "pos": "D",
+        "name": "R. Veiga",
+        "player_id": 1781
+      },
+      {
+        "n": 25,
+        "x": 44.5,
+        "y": 26.1,
+        "pos": "D",
+        "name": "J. Cancelo",
+        "player_id": 8331
+      },
+      {
+        "n": 22,
+        "x": 51.7,
+        "y": 34.9,
+        "pos": "M",
+        "name": "R. Neves",
+        "player_id": 7995
+      },
+      {
+        "n": 41,
+        "x": 61.2,
+        "y": 63.1,
+        "pos": "F",
+        "name": "C. Ronaldo",
+        "player_id": 7880
+      },
+      {
+        "n": 68,
+        "x": 45.4,
+        "y": 58.6,
+        "pos": "M",
+        "name": "Vitinha",
+        "player_id": 2248
+      },
+      {
+        "n": 78,
+        "x": 30.6,
+        "y": 41.8,
+        "pos": "D",
+        "name": "R. Dias",
+        "player_id": 845
+      },
+      {
+        "n": 39,
+        "x": 5.8,
+        "y": 50.7,
+        "pos": "G",
+        "name": "D. Costa",
+        "player_id": 996
+      },
+      {
+        "n": 39,
+        "x": 45.8,
+        "y": 36.6,
+        "pos": "M",
+        "name": "J. Neves",
+        "player_id": 2247
+      },
+      {
+        "n": 22,
+        "x": 58.6,
+        "y": 79,
+        "pos": "F",
+        "name": "R. Leão",
+        "player_id": 1997
+      },
+      {
+        "n": 39,
+        "x": 47.6,
+        "y": 22.7,
+        "pos": "D",
+        "name": "D. Dalot",
+        "player_id": 1795
+      },
+      {
+        "n": 55,
+        "x": 57.6,
+        "y": 18.5,
+        "pos": "M",
+        "name": "P. Neto",
+        "player_id": 394
+      }
+    ],
+    "home": [
+      {
+        "n": 20,
+        "x": 63.8,
+        "y": 38.3,
+        "pos": "F",
+        "name": "J. Córdoba",
+        "player_id": 16388
+      },
+      {
+        "n": 30,
+        "x": 52.1,
+        "y": 28.5,
+        "pos": "M",
+        "name": "R. Ríos",
+        "player_id": 3788
+      },
+      {
+        "n": 4,
+        "x": 80.8,
+        "y": 27.5,
+        "pos": "M",
+        "name": "D. Muñoz",
+        "player_id": 426
+      },
+      {
+        "n": 85,
+        "x": 30.5,
+        "y": 29.1,
+        "pos": "D",
+        "name": "D. Sánchez",
+        "player_id": 3726
+      },
+      {
+        "n": 50,
+        "x": 9.5,
+        "y": 50.4,
+        "pos": "G",
+        "name": "C. Vargas",
+        "player_id": 10304
+      },
+      {
+        "n": 15,
+        "x": 65.8,
+        "y": 52.1,
+        "pos": "M",
+        "name": "J. Quintero",
+        "player_id": 16387
+      },
+      {
+        "n": 41,
+        "x": 54.6,
+        "y": 80.4,
+        "pos": "D",
+        "name": "D. Machado",
+        "player_id": 1420
+      },
+      {
+        "n": 66,
+        "x": 46.6,
+        "y": 9.6,
+        "pos": "D",
+        "name": "S. Arias",
+        "player_id": 94
+      },
+      {
+        "n": 13,
+        "x": 57.6,
+        "y": 40.7,
+        "pos": "M",
+        "name": "K. Castaño",
+        "player_id": 16385
+      },
+      {
+        "n": 50,
+        "x": 51.5,
+        "y": 43.7,
+        "pos": "M",
+        "name": "J. Lerma",
+        "player_id": 428
+      },
+      {
+        "n": 95,
+        "x": 64.3,
+        "y": 48.9,
+        "pos": "M",
+        "name": "J. Rodríguez",
+        "player_id": 10128
+      },
+      {
+        "n": 56,
+        "x": 72.9,
+        "y": 73.3,
+        "pos": "M",
+        "name": "L. Díaz",
+        "player_id": 2465
+      },
+      {
+        "n": 23,
+        "x": 67.9,
+        "y": 50.7,
+        "pos": "F",
+        "name": "L. J. Suárez ",
+        "player_id": 1221
+      },
+      {
+        "n": 85,
+        "x": 56.7,
+        "y": 29.1,
+        "pos": "M",
+        "name": "J. Arias",
+        "player_id": 530
+      },
+      {
+        "n": 40,
+        "x": 37.4,
+        "y": 67,
+        "pos": "D",
+        "name": "J. Lucumí",
+        "player_id": 949
+      },
+      {
+        "n": 94,
+        "x": 52.5,
+        "y": 63.1,
+        "pos": "M",
+        "name": "G. Puerta",
+        "player_id": 16386
+      }
+    ]
+  }
 }

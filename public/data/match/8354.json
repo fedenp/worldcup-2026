@@ -6,8 +6,8 @@
     "capacity": 82500
   },
   "weather": {
-    "code": 0,
-    "description": "unknown",
+    "code": 2,
+    "description": "cloudy",
     "wind_speed": 26,
     "temperature_c": 29
   },
@@ -22,16 +22,22 @@
     "confidence": 0.5022
   },
   "head_to_head": {
-    "total_matches": 1,
+    "total_matches": 2,
     "home_wins": 0,
     "draws": 0,
-    "away_wins": 1,
+    "away_wins": 2,
     "home_goals": 1,
-    "away_goals": 6,
-    "avg_total_goals": 7,
+    "away_goals": 8,
+    "avg_total_goals": 4.5,
     "home_win_rate": 0,
     "away_win_rate": 1,
     "recent_matches": [
+      {
+        "away": "England",
+        "date": "2026-06-27T21:00:00+00:00",
+        "home": "Panama",
+        "score": "0-2"
+      },
       {
         "away": "Panama",
         "date": "2018-06-24T11:00:00+00:00",
@@ -40,5 +46,266 @@
       }
     ]
   },
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 35,
+        "x": 63.3,
+        "y": 56.9,
+        "pos": "F",
+        "name": "H. Kane",
+        "player_id": 2466
+      },
+      {
+        "n": 50,
+        "x": 75.4,
+        "y": 16.7,
+        "pos": "F",
+        "name": "B. Saka",
+        "player_id": 455
+      },
+      {
+        "n": 22,
+        "x": 51.6,
+        "y": 16.4,
+        "pos": "D",
+        "name": "D. Spence",
+        "player_id": 735
+      },
+      {
+        "n": 17,
+        "x": 61.7,
+        "y": 21.5,
+        "pos": "F",
+        "name": "N. Madueke",
+        "player_id": 450
+      },
+      {
+        "n": 18,
+        "x": 48.2,
+        "y": 51.7,
+        "pos": "M",
+        "name": "J. Henderson",
+        "player_id": 474
+      },
+      {
+        "n": 16,
+        "x": 51.8,
+        "y": 58,
+        "pos": "M",
+        "name": "E. Eze",
+        "player_id": 454
+      },
+      {
+        "n": 96,
+        "x": 37.2,
+        "y": 39.9,
+        "pos": "D",
+        "name": "E. Konsa",
+        "player_id": 504
+      },
+      {
+        "n": 110,
+        "x": 51.6,
+        "y": 49.6,
+        "pos": "M",
+        "name": "E. Anderson",
+        "player_id": 548
+      },
+      {
+        "n": 4,
+        "x": 66.8,
+        "y": 45.6,
+        "pos": "F",
+        "name": "O. Watkins",
+        "player_id": 512
+      },
+      {
+        "n": 49,
+        "x": 15.4,
+        "y": 51,
+        "pos": "G",
+        "name": "J. Pickford",
+        "player_id": 803
+      },
+      {
+        "n": 102,
+        "x": 41.7,
+        "y": 67.4,
+        "pos": "D",
+        "name": "M. Guéhi",
+        "player_id": 425
+      },
+      {
+        "n": 56,
+        "x": 63.4,
+        "y": 29.2,
+        "pos": "M",
+        "name": "M. Rogers",
+        "player_id": 511
+      },
+      {
+        "n": 80,
+        "x": 62.2,
+        "y": 54.6,
+        "pos": "M",
+        "name": "J. Bellingham",
+        "player_id": 592
+      },
+      {
+        "n": 69,
+        "x": 46.3,
+        "y": 17.6,
+        "pos": "D",
+        "name": "J. Quansah",
+        "player_id": 2149
+      },
+      {
+        "n": 72,
+        "x": 71.6,
+        "y": 79,
+        "pos": "F",
+        "name": "M. Rashford",
+        "player_id": 750
+      },
+      {
+        "n": 83,
+        "x": 53.1,
+        "y": 80.5,
+        "pos": "D",
+        "name": "N. O’Reilly",
+        "player_id": 847
+      }
+    ],
+    "home": [
+      {
+        "n": 27,
+        "x": 43.6,
+        "y": 49,
+        "pos": "M",
+        "name": "Y. Bárcenas",
+        "player_id": 10252
+      },
+      {
+        "n": 19,
+        "x": 50.9,
+        "y": 53.3,
+        "pos": "F",
+        "name": "T. Rodríguez",
+        "player_id": 54044
+      },
+      {
+        "n": 49,
+        "x": 53.4,
+        "y": 40.8,
+        "pos": "M",
+        "name": "C. Martínez",
+        "player_id": 16741
+      },
+      {
+        "n": 17,
+        "x": 63.5,
+        "y": 42.1,
+        "pos": "F",
+        "name": "J. Fajardo",
+        "player_id": 16745
+      },
+      {
+        "n": 67,
+        "x": 28.6,
+        "y": 78.1,
+        "pos": "D",
+        "name": "A. Andrade",
+        "player_id": 16746
+      },
+      {
+        "n": 48,
+        "x": 41.3,
+        "y": 47.9,
+        "pos": "M",
+        "name": "C. Harvey",
+        "player_id": 9102
+      },
+      {
+        "n": 20,
+        "x": 57.4,
+        "y": 56.5,
+        "pos": "M",
+        "name": "I. Díaz",
+        "player_id": 10127
+      },
+      {
+        "n": 13,
+        "x": 68.5,
+        "y": 14.2,
+        "pos": "M",
+        "name": "A. Londoño",
+        "player_id": 21220
+      },
+      {
+        "n": 68,
+        "x": 22.6,
+        "y": 54.3,
+        "pos": "D",
+        "name": "J. Córdoba",
+        "player_id": 6393
+      },
+      {
+        "n": 49,
+        "x": 28.1,
+        "y": 28.4,
+        "pos": "D",
+        "name": "F. Escobar",
+        "player_id": 54039
+      },
+      {
+        "n": 43,
+        "x": 48.2,
+        "y": 75,
+        "pos": "M",
+        "name": "J. L. Rodríguez",
+        "player_id": 10334
+      },
+      {
+        "n": 63,
+        "x": 8.6,
+        "y": 46.2,
+        "pos": "G",
+        "name": "O. Mosquera",
+        "player_id": 8050
+      },
+      {
+        "n": 6,
+        "x": 66.7,
+        "y": 46.1,
+        "pos": "M",
+        "name": "A. Quintero",
+        "player_id": 54040
+      },
+      {
+        "n": 55,
+        "x": 40.1,
+        "y": 14.7,
+        "pos": "D",
+        "name": "A. Murillo",
+        "player_id": 4082
+      },
+      {
+        "n": 9,
+        "x": 50,
+        "y": 77.8,
+        "pos": "D",
+        "name": "É. Davis",
+        "player_id": 16742
+      },
+      {
+        "n": 48,
+        "x": 36.9,
+        "y": 88.1,
+        "pos": "D",
+        "name": "J. Gutiérrez",
+        "player_id": 16615
+      }
+    ]
+  }
 }

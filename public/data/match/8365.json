@@ -11,7 +11,34 @@
     "wind_speed": 8.7,
     "temperature_c": 16
   },
-  "prediction": null,
-  "head_to_head": null,
+  "prediction": {
+    "prob_home": 63.6,
+    "prob_draw": 19.6,
+    "prob_away": 16.8,
+    "predicted": "H",
+    "xg_home": 0.79,
+    "xg_away": 1.02,
+    "most_likely_score": "0-1",
+    "confidence": 0.6359
+  },
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 1,
+    "away_wins": 0,
+    "home_goals": 0,
+    "away_goals": 0,
+    "avg_total_goals": 0,
+    "home_win_rate": 0,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Ecuador",
+        "date": "2024-07-01T00:00:00+00:00",
+        "home": "Mexico",
+        "score": "0-0"
+      }
+    ]
+  },
   "average_positions": null
 }

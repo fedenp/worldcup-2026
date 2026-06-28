@@ -6,8 +6,8 @@
     "capacity": 71000
   },
   "weather": {
-    "code": 51,
-    "description": null,
+    "code": 2,
+    "description": "cloudy",
     "wind_speed": 8.1,
     "temperature_c": 26
   },
@@ -21,6 +21,285 @@
     "most_likely_score": "1-1",
     "confidence": 0.4816
   },
-  "head_to_head": null,
-  "average_positions": null
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 1,
+    "draws": 0,
+    "away_wins": 0,
+    "home_goals": 3,
+    "away_goals": 1,
+    "avg_total_goals": 4,
+    "home_win_rate": 1,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Uzbekistan",
+        "date": "2026-06-27T23:30:00+00:00",
+        "home": "DR Congo",
+        "score": "3-1"
+      }
+    ]
+  },
+  "average_positions": {
+    "away": [
+      {
+        "n": 19,
+        "x": 67,
+        "y": 65.7,
+        "pos": "M",
+        "name": "J. Iskanderov",
+        "player_id": 55378
+      },
+      {
+        "n": 1,
+        "x": 81.8,
+        "y": 84.6,
+        "pos": "F",
+        "name": "I. Sergeev",
+        "player_id": 55382
+      },
+      {
+        "n": 44,
+        "x": 47.7,
+        "y": 44.3,
+        "pos": "M",
+        "name": "A. Mozgovoy",
+        "player_id": 55375
+      },
+      {
+        "n": 44,
+        "x": 43.4,
+        "y": 54.8,
+        "pos": "M",
+        "name": "O. Shukurov",
+        "player_id": 55629
+      },
+      {
+        "n": 41,
+        "x": 9.7,
+        "y": 47.3,
+        "pos": "G",
+        "name": "A. Nematov",
+        "player_id": 55384
+      },
+      {
+        "n": 70,
+        "x": 50.2,
+        "y": 85.1,
+        "pos": "D",
+        "name": "S. Nasrullaev",
+        "player_id": 55373
+      },
+      {
+        "n": 37,
+        "x": 55.6,
+        "y": 47,
+        "pos": "M",
+        "name": "A. Ganiev",
+        "player_id": 58271
+      },
+      {
+        "n": 89,
+        "x": 53.7,
+        "y": 14.3,
+        "pos": "D",
+        "name": "K. Alizhonov",
+        "player_id": 55372
+      },
+      {
+        "n": 42,
+        "x": 30.1,
+        "y": 75.7,
+        "pos": "D",
+        "name": "J. Urozov",
+        "player_id": 59373
+      },
+      {
+        "n": 66,
+        "x": 27.2,
+        "y": 60.4,
+        "pos": "D",
+        "name": "A. Khusanov",
+        "player_id": 860
+      },
+      {
+        "n": 66,
+        "x": 62,
+        "y": 48.1,
+        "pos": "F",
+        "name": "E. Shomurodov",
+        "player_id": 6643
+      },
+      {
+        "n": 47,
+        "x": 50.1,
+        "y": 35,
+        "pos": "M",
+        "name": "D. Khamdamov",
+        "player_id": 59376
+      },
+      {
+        "n": 15,
+        "x": 58.4,
+        "y": 64.3,
+        "pos": "M",
+        "name": "O. Urunov",
+        "player_id": 55630
+      },
+      {
+        "n": 69,
+        "x": 33.4,
+        "y": 25.3,
+        "pos": "D",
+        "name": "R. Ashurmatov",
+        "player_id": 55387
+      },
+      {
+        "n": 39,
+        "x": 51.2,
+        "y": 56.2,
+        "pos": "M",
+        "name": "A. Fayzullaev",
+        "player_id": 6642
+      },
+      {
+        "n": 29,
+        "x": 50.5,
+        "y": 27.7,
+        "pos": "M",
+        "name": "O. Khamrobekov",
+        "player_id": 55374
+      }
+    ],
+    "home": [
+      {
+        "n": 10,
+        "x": 54.7,
+        "y": 81.8,
+        "pos": "D",
+        "name": "Kayembe",
+        "player_id": 4161
+      },
+      {
+        "n": 23,
+        "x": 58.6,
+        "y": 75.4,
+        "pos": "F",
+        "name": "M. Elia",
+        "player_id": 6729
+      },
+      {
+        "n": 23,
+        "x": 57.3,
+        "y": 23.3,
+        "pos": "M",
+        "name": "T. Bongonda",
+        "player_id": 15419
+      },
+      {
+        "n": 79,
+        "x": 34.5,
+        "y": 61.4,
+        "pos": "D",
+        "name": "A. Tuanzebe",
+        "player_id": 2375
+      },
+      {
+        "n": 34,
+        "x": 66.3,
+        "y": 50.6,
+        "pos": "F",
+        "name": "F. Mayele",
+        "player_id": 14724
+      },
+      {
+        "n": 82,
+        "x": 44.2,
+        "y": 18.2,
+        "pos": "D",
+        "name": "A. Wan-Bissaka",
+        "player_id": 1635
+      },
+      {
+        "n": 68,
+        "x": 68.1,
+        "y": 84.6,
+        "pos": "M",
+        "name": "B. Cipenga",
+        "player_id": 15424
+      },
+      {
+        "n": 18,
+        "x": 66.8,
+        "y": 52.1,
+        "pos": "F",
+        "name": "C. Bakambu",
+        "player_id": 1588
+      },
+      {
+        "n": 54,
+        "x": 56.1,
+        "y": 16.3,
+        "pos": "M",
+        "name": "N. Mbuku",
+        "player_id": 15420
+      },
+      {
+        "n": 22,
+        "x": 41.4,
+        "y": 41.5,
+        "pos": "M",
+        "name": "N. Mukau",
+        "player_id": 1453
+      },
+      {
+        "n": 42,
+        "x": 11.8,
+        "y": 47.1,
+        "pos": "G",
+        "name": "L. Mpasi Nzau",
+        "player_id": 1442
+      },
+      {
+        "n": 77,
+        "x": 49.6,
+        "y": 59,
+        "pos": "M",
+        "name": "N. Sadiki",
+        "player_id": 349
+      },
+      {
+        "n": 79,
+        "x": 36.2,
+        "y": 33.8,
+        "pos": "D",
+        "name": "C. Mbemba",
+        "player_id": 1456
+      },
+      {
+        "n": 48,
+        "x": 67.8,
+        "y": 49.2,
+        "pos": "F",
+        "name": "Y. Wissa",
+        "player_id": 5140
+      },
+      {
+        "n": 108,
+        "x": 43.1,
+        "y": 84.2,
+        "pos": "D",
+        "name": "A. Masuaku",
+        "player_id": 3903
+      },
+      {
+        "n": 70,
+        "x": 53,
+        "y": 54.6,
+        "pos": "M",
+        "name": "S. Moutoussamy",
+        "player_id": 11283
+      }
+    ]
+  }
 }
