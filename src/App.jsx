@@ -7,7 +7,7 @@ import Equipos from './components/Equipos.jsx'
 import PrePartido from './components/PrePartido.jsx'
 import {
   SoccerBall, CalendarBlank, Trophy, ChartLineUp,
-  ChartBar, Globe, Newspaper, Sun, Moon, CaretLeft
+  Globe, Newspaper, Sun, Moon, CaretLeft
 } from '@phosphor-icons/react'
 import './App.css'
 
@@ -16,7 +16,6 @@ const TABS = [
   { id: 'calendario',   Icon: CalendarBlank,  label: 'Calendario' },
   { id: 'bracket',      Icon: Trophy,         label: 'Bracket' },
   { id: 'estadisticas', Icon: ChartLineUp,    label: 'Stats' },
-  { id: 'pronosticos',  Icon: ChartBar,       label: 'Pronóst.' },
   { id: 'equipos',      Icon: Globe,          label: 'Equipos' },
   { id: 'noticias',     Icon: Newspaper,      label: 'Noticias' },
 ]
@@ -118,7 +117,7 @@ export default function App() {
           {!selectedMatch && activeTab === 'bracket'      && <Bracket />}
           {!selectedMatch && activeTab === 'estadisticas' && <Estadisticas />}
           {!selectedMatch && activeTab === 'equipos'      && <Equipos />}
-          {!selectedMatch && !['grupos', 'calendario', 'bracket', 'estadisticas', 'equipos'].includes(activeTab) && (
+          {!selectedMatch && !['grupos', 'calendario', 'bracket', 'estadisticas', 'equipos', 'noticias'].includes(activeTab) && (
             <div className="placeholder">
               <p>Próximamente</p>
             </div>
