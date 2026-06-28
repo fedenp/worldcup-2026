@@ -68,6 +68,7 @@ const FLAGS = {
   'Algeria':             'dz',
   // Others
   'Switzerland':         'ch',
+  'Norway':              'no',
   'Croatia':             'hr',
   'Denmark':             'dk',
   'Austria':             'at',
@@ -99,6 +100,7 @@ const FLAGS = {
   'Togo':                'tg',
   'Benin':               'bj',
   'Cape Verde':          'cv',
+  'Cabo Verde':          'cv',
   'Burkina Faso':        'bf',
   'Sudan':               'sd',
   'Libya':               'ly',
