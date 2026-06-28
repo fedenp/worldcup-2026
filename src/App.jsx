@@ -4,6 +4,7 @@ import Grupos from './components/Grupos.jsx'
 import Bracket from './components/Bracket.jsx'
 import Estadisticas from './components/Estadisticas.jsx'
 import Equipos from './components/Equipos.jsx'
+import Noticias from './components/Noticias.jsx'
 import PrePartido from './components/PrePartido.jsx'
 import {
   SoccerBall, CalendarBlank, Trophy, ChartLineUp,
@@ -117,11 +118,7 @@ export default function App() {
           {!selectedMatch && activeTab === 'bracket'      && <Bracket />}
           {!selectedMatch && activeTab === 'estadisticas' && <Estadisticas />}
           {!selectedMatch && activeTab === 'equipos'      && <Equipos />}
-          {!selectedMatch && !['grupos', 'calendario', 'bracket', 'estadisticas', 'equipos', 'noticias'].includes(activeTab) && (
-            <div className="placeholder">
-              <p>Próximamente</p>
-            </div>
-          )}
+          {!selectedMatch && activeTab === 'noticias'     && <Noticias />}
         </div>
       </div>
 

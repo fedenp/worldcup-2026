@@ -1,0 +1,207 @@
+/* ═══════════════════════════════════════════════════
+   NOTICIAS — feed de cards estilo Google News
+   ═══════════════════════════════════════════════════ */
+
+/* ─── WRAP ─── */
+.nw-wrap {
+  padding: 0 0 32px;
+}
+
+.nw-header {
+  padding: 0 4px 16px;
+}
+
+.nw-title {
+  font-size: 18px;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: var(--ink);
+}
+
+.nw-sub {
+  font-family: 'DM Mono', monospace;
+  font-size: 11px;
+  color: var(--ink3);
+  margin-top: 2px;
+}
+
+/* ─── LOADING ─── */
+.nw-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  color: var(--ink3);
+  font-family: 'DM Mono', monospace;
+  font-size: 13px;
+}
+
+/* ─── FEATURED CARD ─── */
+.nw-featured {
+  display: block;
+  border-radius: 14px;
+  overflow: hidden;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-md);
+  text-decoration: none;
+  color: inherit;
+  margin-bottom: 12px;
+  -webkit-tap-highlight-color: transparent;
+  transition: opacity 0.15s;
+}
+
+.nw-featured:active {
+  opacity: 0.8;
+}
+
+.nw-featured-img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  display: block;
+  background: var(--surface2);
+}
+
+.nw-img-ph {
+  background: var(--surface2);
+}
+
+.nw-featured-body {
+  padding: 14px 14px 16px;
+}
+
+.nw-badge {
+  display: inline-block;
+  font-family: 'DM Mono', monospace;
+  font-size: 9px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--amber);
+  background: var(--amber-dim);
+  border-radius: 4px;
+  padding: 2px 6px;
+  margin-bottom: 8px;
+}
+
+.nw-featured-title {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1.35;
+  margin-bottom: 6px;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.nw-featured-desc {
+  font-size: 12px;
+  color: var(--ink2);
+  line-height: 1.5;
+  margin-bottom: 10px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* ─── LIST ─── */
+.nw-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  background: var(--border);
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+}
+
+/* ─── CARD (list item) ─── */
+.nw-card {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 14px;
+  background: var(--surface);
+  text-decoration: none;
+  color: inherit;
+  -webkit-tap-highlight-color: transparent;
+  transition: background 0.12s;
+}
+
+.nw-card:first-child {
+  border-radius: 14px 14px 0 0;
+}
+
+.nw-card:last-child {
+  border-radius: 0 0 14px 14px;
+}
+
+.nw-card:only-child {
+  border-radius: 14px;
+}
+
+.nw-card:active {
+  background: var(--surface2);
+}
+
+.nw-card-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.nw-card-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ink);
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  margin-bottom: 6px;
+}
+
+.nw-card-meta {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.nw-source {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  color: var(--ink3);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 120px;
+}
+
+.nw-dot {
+  color: var(--ink4);
+  font-size: 10px;
+  flex-shrink: 0;
+}
+
+.nw-time {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  color: var(--ink3);
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+/* ─── THUMBNAIL ─── */
+.nw-thumb {
+  width: 72px;
+  height: 54px;
+  object-fit: cover;
+  border-radius: 8px;
+  flex-shrink: 0;
+  display: block;
+  background: var(--surface2);
+}

@@ -75,11 +75,15 @@ jobs:
         env:
           BSD_API_TOKEN: ${{ secrets.BSD_API_TOKEN }}
 
+      - name: Fetch news from La Nación Deportes RSS
+        run: node scripts/fetch-news.js
+        continue-on-error: true
+
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/data/matches.json public/data/standings.json public/data/match/ public/data/odds.json public/data/managers.json public/data/player-stats.json public/data/squads.json
+          git add public/data/matches.json public/data/standings.json public/data/match/ public/data/odds.json public/data/managers.json public/data/player-stats.json public/data/squads.json public/data/news.json
           git diff --cached --quiet || git commit -m "chore: sync matches + standings + predictions + odds + managers + player-stats + squads [skip ci]"
           git push
 
