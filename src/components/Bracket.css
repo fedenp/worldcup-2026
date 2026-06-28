@@ -1,0 +1,207 @@
+/* ─── BRACKET WRAP ─── */
+.bk-wrap {
+  padding: 0 0 32px;
+}
+
+.bk-header {
+  padding: 0 4px 16px;
+}
+
+.bk-title {
+  font-size: 18px;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: var(--ink);
+}
+
+.bk-sub {
+  font-family: 'DM Mono', monospace;
+  font-size: 11px;
+  color: var(--ink3);
+  margin-top: 2px;
+}
+
+.bk-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  color: var(--ink3);
+  font-family: 'DM Mono', monospace;
+  font-size: 13px;
+}
+
+/* ─── HORIZONTAL SCROLL ─── */
+.bk-scroll {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  overflow-x: auto;
+  overflow-y: visible;
+  padding: 0 4px 16px;
+  -webkit-overflow-scrolling: touch;
+}
+
+.bk-scroll::-webkit-scrollbar { display: none; }
+
+/* ─── ROUND COLUMN ─── */
+.bk-round {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.bk-round-label {
+  font-family: 'DM Mono', monospace;
+  font-size: 9px;
+  font-weight: 500;
+  color: var(--ink3);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  text-align: center;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding-bottom: 6px;
+  white-space: nowrap;
+}
+
+.bk-slots {
+  display: flex;
+  flex-direction: column;
+}
+
+/* ─── SLOT ─── */
+.bk-slot {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ─── CONNECTOR SVG ─── */
+.bk-connector {
+  flex-shrink: 0;
+}
+
+/* ─── MATCH CARD ─── */
+.bk-card {
+  width: 152px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+
+.bk-card--played {
+  border-color: var(--border2);
+}
+
+.bk-card--empty {
+  opacity: 0.4;
+}
+
+.bk-round--final .bk-card {
+  border-color: var(--amber-b);
+  box-shadow: 0 0 0 1px var(--amber-b), var(--shadow-md);
+}
+
+/* ─── TEAM ROW ─── */
+.bk-team {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 8px;
+  min-height: 29px;
+  transition: background 0.15s;
+}
+
+.bk-team--win {
+  background: var(--green-dim);
+}
+
+.bk-team--loss {
+  opacity: 0.45;
+}
+
+.bk-divider {
+  height: 1px;
+  background: var(--border);
+}
+
+/* ─── FLAG ─── */
+.bk-flag {
+  width: 18px;
+  height: 13px;
+  object-fit: cover;
+  border-radius: 2px;
+  flex-shrink: 0;
+}
+
+.bk-flag-ph {
+  display: inline-block;
+  width: 18px;
+  height: 13px;
+  border-radius: 2px;
+  background: var(--surface2);
+  flex-shrink: 0;
+}
+
+/* ─── TEAM NAME ─── */
+.bk-name {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--ink);
+  flex: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.bk-name--tbd {
+  color: var(--ink3);
+  font-weight: 400;
+}
+
+/* ─── SCORE ─── */
+.bk-score {
+  font-family: 'DM Mono', monospace;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--ink);
+  min-width: 12px;
+  text-align: right;
+  flex-shrink: 0;
+}
+
+/* ─── THIRD PLACE ─── */
+.bk-third {
+  margin-top: 24px;
+  padding: 0 4px;
+}
+
+.bk-third-label {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  font-weight: 500;
+  color: var(--ink3);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 8px;
+}
+
+/* ─── DESKTOP ─── */
+@media (min-width: 900px) {
+  .bk-scroll {
+    padding-bottom: 0;
+  }
+
+  .bk-name {
+    font-size: 12px;
+  }
+
+  .bk-round--final .bk-card {
+    width: 164px;
+  }
+}

@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import Calendario from './components/Calendario.jsx'
 import Grupos from './components/Grupos.jsx'
+import Bracket from './components/Bracket.jsx'
 import PrePartido from './components/PrePartido.jsx'
 import {
   SoccerBall, CalendarBlank, Trophy, ChartLineUp,
@@ -110,9 +111,10 @@ export default function App() {
         </header>
 
         <div className="content">
-          {!selectedMatch && activeTab === 'grupos'     && <Grupos />}
-          {!selectedMatch && activeTab === 'calendario' && <Calendario onSelectMatch={openMatch} />}
-          {!selectedMatch && !['grupos', 'calendario'].includes(activeTab) && (
+          {!selectedMatch && activeTab === 'grupos'      && <Grupos />}
+          {!selectedMatch && activeTab === 'calendario'  && <Calendario onSelectMatch={openMatch} />}
+          {!selectedMatch && activeTab === 'bracket'     && <Bracket />}
+          {!selectedMatch && !['grupos', 'calendario', 'bracket'].includes(activeTab) && (
             <div className="placeholder">
               <p>Próximamente</p>
             </div>
