@@ -6,8 +6,8 @@
     "capacity": 76416
   },
   "weather": {
-    "code": 95,
-    "description": null,
+    "code": 2,
+    "description": "cloudy",
     "wind_speed": 7.3,
     "temperature_c": 26
   },
@@ -22,5 +22,250 @@
     "confidence": 0.3552
   },
   "head_to_head": null,
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 40,
+        "x": 54.4,
+        "y": 43.1,
+        "pos": "M",
+        "name": "R. Schmid",
+        "player_id": 2504
+      },
+      {
+        "n": 19,
+        "x": 60.8,
+        "y": 45.8,
+        "pos": "F",
+        "name": "M. Gregoritsch",
+        "player_id": 8530
+      },
+      {
+        "n": 26,
+        "x": 48.6,
+        "y": 39.4,
+        "pos": "M",
+        "name": "P. Wanner",
+        "player_id": 3522
+      },
+      {
+        "n": 28,
+        "x": 41.9,
+        "y": 28.2,
+        "pos": "D",
+        "name": "K. Danso",
+        "player_id": 721
+      },
+      {
+        "n": 58,
+        "x": 57.6,
+        "y": 87.4,
+        "pos": "M",
+        "name": "P. Mwene",
+        "player_id": 1198
+      },
+      {
+        "n": 46,
+        "x": 49.2,
+        "y": 67.4,
+        "pos": "M",
+        "name": "F. Grillitsch",
+        "player_id": 888
+      },
+      {
+        "n": 3,
+        "x": 74.4,
+        "y": 58,
+        "pos": "F",
+        "name": "S. Kalajdžić",
+        "player_id": 4824
+      },
+      {
+        "n": 39,
+        "x": 48.5,
+        "y": 60.7,
+        "pos": "M",
+        "name": "X. Schlager",
+        "player_id": 2892
+      },
+      {
+        "n": 16,
+        "x": 63.6,
+        "y": 50.3,
+        "pos": "F",
+        "name": "M. Arnautović",
+        "player_id": 3065
+      },
+      {
+        "n": 38,
+        "x": 43.9,
+        "y": 37.6,
+        "pos": "M",
+        "name": "N. Seiwald",
+        "player_id": 2893
+      },
+      {
+        "n": 46,
+        "x": 60.4,
+        "y": 82.6,
+        "pos": "M",
+        "name": "M. Sabitzer",
+        "player_id": 2161
+      },
+      {
+        "n": 33,
+        "x": 11.4,
+        "y": 50.4,
+        "pos": "G",
+        "name": "A. Schlager",
+        "player_id": 3034
+      },
+      {
+        "n": 62,
+        "x": 49.4,
+        "y": 14.7,
+        "pos": "D",
+        "name": "S. Posch",
+        "player_id": 2832
+      },
+      {
+        "n": 65,
+        "x": 37.7,
+        "y": 41.2,
+        "pos": "D",
+        "name": "P. Lienhart",
+        "player_id": 1174
+      },
+      {
+        "n": 39,
+        "x": 56,
+        "y": 19.7,
+        "pos": "D",
+        "name": "K. Laimer",
+        "player_id": 2457
+      },
+      {
+        "n": 56,
+        "x": 37.2,
+        "y": 66.4,
+        "pos": "D",
+        "name": "D. Alaba",
+        "player_id": 4020
+      }
+    ],
+    "home": [
+      {
+        "n": 34,
+        "x": 9.3,
+        "y": 52.4,
+        "pos": "G",
+        "name": "O. Benbot",
+        "player_id": 15398
+      },
+      {
+        "n": 48,
+        "x": 51.4,
+        "y": 17.2,
+        "pos": "M",
+        "name": "R. Belghali",
+        "player_id": 2616
+      },
+      {
+        "n": 38,
+        "x": 43,
+        "y": 49.7,
+        "pos": "D",
+        "name": "Z. Belaid",
+        "player_id": 15046
+      },
+      {
+        "n": 20,
+        "x": 66.1,
+        "y": 62.4,
+        "pos": "F",
+        "name": "A. Gouiri",
+        "player_id": 4540
+      },
+      {
+        "n": 60,
+        "x": 50.8,
+        "y": 85.3,
+        "pos": "D",
+        "name": "J. Hadjam",
+        "player_id": 3202
+      },
+      {
+        "n": 132,
+        "x": 43.4,
+        "y": 30.4,
+        "pos": "D",
+        "name": "A. Mandi",
+        "player_id": 1448
+      },
+      {
+        "n": 78,
+        "x": 57.6,
+        "y": 27.7,
+        "pos": "M",
+        "name": "R. Mahrez",
+        "player_id": 8116
+      },
+      {
+        "n": 146,
+        "x": 42,
+        "y": 71.2,
+        "pos": "D",
+        "name": "R. Bensebaini",
+        "player_id": 2169
+      },
+      {
+        "n": 34,
+        "x": 66.6,
+        "y": 93.4,
+        "pos": "D",
+        "name": "R. Aït-Nouri",
+        "player_id": 861
+      },
+      {
+        "n": 25,
+        "x": 57.4,
+        "y": 8.2,
+        "pos": "D",
+        "name": "S. S. Chergui",
+        "player_id": 3823
+      },
+      {
+        "n": 137,
+        "x": 48.1,
+        "y": 60.7,
+        "pos": "M",
+        "name": "N. Bentaleb",
+        "player_id": 1460
+      },
+      {
+        "n": 55,
+        "x": 62.3,
+        "y": 82.8,
+        "pos": "M",
+        "name": "H. Aouar",
+        "player_id": 8230
+      },
+      {
+        "n": 44,
+        "x": 63.2,
+        "y": 51.2,
+        "pos": "F",
+        "name": "I. Maza",
+        "player_id": 2140
+      },
+      {
+        "n": 97,
+        "x": 51.5,
+        "y": 41.2,
+        "pos": "M",
+        "name": "F. Chaïbi",
+        "player_id": 1351
+      }
+    ]
+  }
 }

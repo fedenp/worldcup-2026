@@ -12,6 +12,30 @@
     "temperature_c": 27
   },
   "prediction": null,
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 2,
+    "home_wins": 1,
+    "draws": 1,
+    "away_wins": 0,
+    "home_goals": 3,
+    "away_goals": 2,
+    "avg_total_goals": 2.5,
+    "home_win_rate": 0.5,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Portugal",
+        "date": "2024-11-18T19:45:00+00:00",
+        "home": "Croatia",
+        "score": "1-1"
+      },
+      {
+        "away": "Croatia",
+        "date": "2024-09-05T18:45:00+00:00",
+        "home": "Portugal",
+        "score": "2-1"
+      }
+    ]
+  },
   "average_positions": null
 }
