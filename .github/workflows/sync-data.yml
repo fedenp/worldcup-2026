@@ -69,12 +69,18 @@ jobs:
         env:
           BSD_API_TOKEN: ${{ secrets.BSD_API_TOKEN }}
 
+      - name: Fetch squad rosters (26 players per team)
+        run: node scripts/fetch-squads.js
+        continue-on-error: true
+        env:
+          BSD_API_TOKEN: ${{ secrets.BSD_API_TOKEN }}
+
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/data/matches.json public/data/standings.json public/data/match/ public/data/odds.json public/data/managers.json public/data/player-stats.json
-          git diff --cached --quiet || git commit -m "chore: sync matches + standings + predictions + odds + managers + player-stats [skip ci]"
+          git add public/data/matches.json public/data/standings.json public/data/match/ public/data/odds.json public/data/managers.json public/data/player-stats.json public/data/squads.json
+          git diff --cached --quiet || git commit -m "chore: sync matches + standings + predictions + odds + managers + player-stats + squads [skip ci]"
           git push
 
       - name: Build
