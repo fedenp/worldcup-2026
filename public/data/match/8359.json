@@ -6,8 +6,8 @@
     "capacity": 70242
   },
   "weather": {
-    "code": 0,
-    "description": "unknown",
+    "code": 2,
+    "description": "cloudy",
     "wind_speed": 16,
     "temperature_c": 23
   },
@@ -21,6 +21,269 @@
     "most_likely_score": "0-1",
     "confidence": 0.7169
   },
-  "head_to_head": null,
-  "average_positions": null
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 0,
+    "away_wins": 1,
+    "home_goals": 0,
+    "away_goals": 1,
+    "avg_total_goals": 1,
+    "home_win_rate": 0,
+    "away_win_rate": 1,
+    "recent_matches": [
+      {
+        "away": "Canada",
+        "date": "2026-06-28T19:00:00+00:00",
+        "home": "South Africa",
+        "score": "0-1"
+      }
+    ]
+  },
+  "average_positions": {
+    "away": [
+      {
+        "n": 38,
+        "x": 73.7,
+        "y": 57.4,
+        "pos": "F",
+        "name": "T. Oluwaseyi",
+        "player_id": 1779
+      },
+      {
+        "n": 50,
+        "x": 56.5,
+        "y": 83.9,
+        "pos": "D",
+        "name": "R. Laryea",
+        "player_id": 9548
+      },
+      {
+        "n": 47,
+        "x": 13.8,
+        "y": 53,
+        "pos": "G",
+        "name": "M. Crépeau",
+        "player_id": 9267
+      },
+      {
+        "n": 41,
+        "x": 39.7,
+        "y": 35.3,
+        "pos": "D",
+        "name": "M. Bombito",
+        "player_id": 4514
+      },
+      {
+        "n": 43,
+        "x": 62.1,
+        "y": 41.8,
+        "pos": "F",
+        "name": "J. David",
+        "player_id": 2186
+      },
+      {
+        "n": 43,
+        "x": 59.6,
+        "y": 18,
+        "pos": "M",
+        "name": "T. Buchanan",
+        "player_id": 1769
+      },
+      {
+        "n": 74,
+        "x": 42.6,
+        "y": 71,
+        "pos": "D",
+        "name": "D. Cornelius",
+        "player_id": 4155
+      },
+      {
+        "n": 34,
+        "x": 36.8,
+        "y": 43,
+        "pos": "D",
+        "name": "L. D. Fougerolles",
+        "player_id": 7612
+      },
+      {
+        "n": 27,
+        "x": 57.1,
+        "y": 44.2,
+        "pos": "D",
+        "name": "N. Sigur",
+        "player_id": 16947
+      },
+      {
+        "n": 20,
+        "x": 55.7,
+        "y": 29.5,
+        "pos": "M",
+        "name": "J. Shaffelburg",
+        "player_id": 9296
+      },
+      {
+        "n": 14,
+        "x": 60.8,
+        "y": 62.2,
+        "pos": "F",
+        "name": "P. David",
+        "player_id": 3754
+      },
+      {
+        "n": 67,
+        "x": 51.3,
+        "y": 19.2,
+        "pos": "D",
+        "name": "A. Johnston",
+        "player_id": 4406
+      },
+      {
+        "n": 55,
+        "x": 65.2,
+        "y": 89.3,
+        "pos": "M",
+        "name": "L. Millar",
+        "player_id": 6190
+      },
+      {
+        "n": 29,
+        "x": 71.5,
+        "y": 89.6,
+        "pos": "D",
+        "name": "A. Davies",
+        "player_id": 5170
+      },
+      {
+        "n": 51,
+        "x": 50.8,
+        "y": 38.5,
+        "pos": "M",
+        "name": "N. Saliba",
+        "player_id": 7351
+      },
+      {
+        "n": 78,
+        "x": 53.8,
+        "y": 69.7,
+        "pos": "M",
+        "name": "S. Eustaquio",
+        "player_id": 1011
+      }
+    ],
+    "home": [
+      {
+        "n": 22,
+        "x": 55.9,
+        "y": 55.2,
+        "pos": "M",
+        "name": "R. Mofokeng",
+        "player_id": 15469
+      },
+      {
+        "n": 55,
+        "x": 53.7,
+        "y": 68.6,
+        "pos": "M",
+        "name": "O. Appollis",
+        "player_id": 15468
+      },
+      {
+        "n": 38,
+        "x": 55.8,
+        "y": 39.3,
+        "pos": "F",
+        "name": "E. Makgopa",
+        "player_id": 15470
+      },
+      {
+        "n": 39,
+        "x": 48.2,
+        "y": 47.2,
+        "pos": "M",
+        "name": "T. Mbatha",
+        "player_id": 15476
+      },
+      {
+        "n": 54,
+        "x": 46.3,
+        "y": 21.1,
+        "pos": "M",
+        "name": "T. Maseko",
+        "player_id": 15830
+      },
+      {
+        "n": 65,
+        "x": 48.4,
+        "y": 91.1,
+        "pos": "D",
+        "name": "A. Modiba",
+        "player_id": 14397
+      },
+      {
+        "n": 112,
+        "x": 28.1,
+        "y": 72,
+        "pos": "D",
+        "name": "M. Mbokazi",
+        "player_id": 12123
+      },
+      {
+        "n": 117,
+        "x": 22.9,
+        "y": 28.5,
+        "pos": "D",
+        "name": "I. Okon",
+        "player_id": 16737
+      },
+      {
+        "n": 7,
+        "x": 69.9,
+        "y": 50.4,
+        "pos": "F",
+        "name": "I. Rayners",
+        "player_id": 14402
+      },
+      {
+        "n": 3,
+        "x": 66.6,
+        "y": 77.5,
+        "pos": "M",
+        "name": "T. Moremi",
+        "player_id": 15472
+      },
+      {
+        "n": 93,
+        "x": 37.6,
+        "y": 43.2,
+        "pos": "M",
+        "name": "S. Sithole",
+        "player_id": 1909
+      },
+      {
+        "n": 85,
+        "x": 33.7,
+        "y": 12.7,
+        "pos": "D",
+        "name": "K. Mudau",
+        "player_id": 14394
+      },
+      {
+        "n": 97,
+        "x": 13.1,
+        "y": 49.8,
+        "pos": "G",
+        "name": "R. Williams",
+        "player_id": 14393
+      },
+      {
+        "n": 85,
+        "x": 41.2,
+        "y": 54.9,
+        "pos": "M",
+        "name": "T. Mokoena",
+        "player_id": 14399
+      }
+    ]
+  }
 }
