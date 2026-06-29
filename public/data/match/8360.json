@@ -6,8 +6,8 @@
     "capacity": 72220
   },
   "weather": {
-    "code": 3,
-    "description": "rain",
+    "code": 1,
+    "description": "clear",
     "wind_speed": 10.2,
     "temperature_c": 32
   },
@@ -22,5 +22,250 @@
     "confidence": 0.5553
   },
   "head_to_head": null,
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 64,
+        "x": 8.7,
+        "y": 51.7,
+        "pos": "G",
+        "name": "Z. Suzuki",
+        "player_id": 4055
+      },
+      {
+        "n": 30,
+        "x": 57.5,
+        "y": 82.4,
+        "pos": "M",
+        "name": "K. Nakamura",
+        "player_id": 16971
+      },
+      {
+        "n": 37,
+        "x": 60,
+        "y": 48.8,
+        "pos": "F",
+        "name": "A. Ueda",
+        "player_id": 3369
+      },
+      {
+        "n": 42,
+        "x": 52,
+        "y": 68.1,
+        "pos": "M",
+        "name": "D. Kamada",
+        "player_id": 430
+      },
+      {
+        "n": 35,
+        "x": 53.8,
+        "y": 62.6,
+        "pos": "F",
+        "name": "D. Maeda",
+        "player_id": 3393
+      },
+      {
+        "n": 39,
+        "x": 50.4,
+        "y": 11.5,
+        "pos": "M",
+        "name": "R. Doan",
+        "player_id": 1353
+      },
+      {
+        "n": 45,
+        "x": 48.9,
+        "y": 27.5,
+        "pos": "M",
+        "name": "J. Ito",
+        "player_id": 4564
+      },
+      {
+        "n": 11,
+        "x": 46.1,
+        "y": 15.7,
+        "pos": "D",
+        "name": "Y. Sugawara",
+        "player_id": 2497
+      },
+      {
+        "n": 17,
+        "x": 30.8,
+        "y": 81.4,
+        "pos": "D",
+        "name": "J. Suzuki",
+        "player_id": 3558
+      },
+      {
+        "n": 20,
+        "x": 27.4,
+        "y": 55.7,
+        "pos": "M",
+        "name": "A. Tanaka",
+        "player_id": 367
+      },
+      {
+        "n": 8,
+        "x": 58.6,
+        "y": 39.5,
+        "pos": "F",
+        "name": "S. Machino",
+        "player_id": 2879
+      },
+      {
+        "n": 60,
+        "x": 35.1,
+        "y": 24,
+        "pos": "D",
+        "name": "T. Tomiyasu",
+        "player_id": 8740
+      },
+      {
+        "n": 71,
+        "x": 25.1,
+        "y": 55.9,
+        "pos": "D",
+        "name": "S. Taniguchi",
+        "player_id": 7374
+      },
+      {
+        "n": 51,
+        "x": 43.3,
+        "y": 39.5,
+        "pos": "M",
+        "name": "K. Sano",
+        "player_id": 1196
+      },
+      {
+        "n": 56,
+        "x": 32.2,
+        "y": 83.1,
+        "pos": "D",
+        "name": "H. Itō",
+        "player_id": 2474
+      }
+    ],
+    "home": [
+      {
+        "n": 33,
+        "x": 12.4,
+        "y": 43.4,
+        "pos": "G",
+        "name": "Alisson",
+        "player_id": 322
+      },
+      {
+        "n": 32,
+        "x": 68.9,
+        "y": 56.8,
+        "pos": "F",
+        "name": "M. Cunha",
+        "player_id": 4119
+      },
+      {
+        "n": 21,
+        "x": 68.5,
+        "y": 35.5,
+        "pos": "F",
+        "name": "Endrick",
+        "player_id": 606
+      },
+      {
+        "n": 23,
+        "x": 66.2,
+        "y": 64.6,
+        "pos": "F",
+        "name": "G. Martinelli",
+        "player_id": 452
+      },
+      {
+        "n": 66,
+        "x": 61.9,
+        "y": 71.2,
+        "pos": "M",
+        "name": "L. Paquetá",
+        "player_id": 1642
+      },
+      {
+        "n": 65,
+        "x": 76.8,
+        "y": 80.4,
+        "pos": "F",
+        "name": "Vinícius Jr.",
+        "player_id": 595
+      },
+      {
+        "n": 2,
+        "x": 4,
+        "y": 89.7,
+        "pos": "M",
+        "name": "D. Santos",
+        "player_id": 3877
+      },
+      {
+        "n": 100,
+        "x": 49.2,
+        "y": 52.9,
+        "pos": "M",
+        "name": "Casemiro",
+        "player_id": 1793
+      },
+      {
+        "n": 125,
+        "x": 45.9,
+        "y": 35.6,
+        "pos": "D",
+        "name": "Marquinhos",
+        "player_id": 2244
+      },
+      {
+        "n": 77,
+        "x": 63.7,
+        "y": 44.3,
+        "pos": "M",
+        "name": "B. Guimarães",
+        "player_id": 709
+      },
+      {
+        "n": 4,
+        "x": 63.5,
+        "y": 49,
+        "pos": "M",
+        "name": "Fabinho",
+        "player_id": 8156
+      },
+      {
+        "n": 60,
+        "x": 71.4,
+        "y": 15.1,
+        "pos": "M",
+        "name": "Rayan",
+        "player_id": 663
+      },
+      {
+        "n": 100,
+        "x": 55.7,
+        "y": 86,
+        "pos": "D",
+        "name": "D. Santos",
+        "player_id": 16392
+      },
+      {
+        "n": 154,
+        "x": 47.3,
+        "y": 68.2,
+        "pos": "D",
+        "name": "G. Magalhães",
+        "player_id": 4072
+      },
+      {
+        "n": 97,
+        "x": 56.6,
+        "y": 15.6,
+        "pos": "D",
+        "name": "Danilo",
+        "player_id": 49
+      }
+    ]
+  }
 }
