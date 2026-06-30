@@ -6,8 +6,8 @@
     "capacity": 66829
   },
   "weather": {
-    "code": 51,
-    "description": null,
+    "code": 1,
+    "description": "clear",
     "wind_speed": 16.8,
     "temperature_c": 24
   },
@@ -21,6 +21,293 @@
     "most_likely_score": "1-0",
     "confidence": 0.572
   },
-  "head_to_head": null,
-  "average_positions": null
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 1,
+    "away_wins": 0,
+    "home_goals": 1,
+    "away_goals": 1,
+    "avg_total_goals": 2,
+    "home_win_rate": 0,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Paraguay",
+        "date": "2026-06-29T20:30:00+00:00",
+        "home": "Germany",
+        "score": "1-1"
+      }
+    ]
+  },
+  "average_positions": {
+    "away": [
+      {
+        "n": 24,
+        "x": 46.4,
+        "y": 58.2,
+        "pos": "F",
+        "name": "G. Ávalos",
+        "player_id": 16919
+      },
+      {
+        "n": 25,
+        "x": 57.8,
+        "y": 70.5,
+        "pos": "M",
+        "name": "J. Enciso",
+        "player_id": 1710
+      },
+      {
+        "n": 31,
+        "x": 54.7,
+        "y": 41.3,
+        "pos": "M",
+        "name": "G. Caballero",
+        "player_id": 225
+      },
+      {
+        "n": 39,
+        "x": 34.6,
+        "y": 38.9,
+        "pos": "D",
+        "name": "G. Gómez",
+        "player_id": 26
+      },
+      {
+        "n": 10,
+        "x": 50.6,
+        "y": 46.3,
+        "pos": "M",
+        "name": "B. Ojeda",
+        "player_id": 9383
+      },
+      {
+        "n": 54,
+        "x": 35.6,
+        "y": 58.6,
+        "pos": "M",
+        "name": "A. Cubas",
+        "player_id": 9106
+      },
+      {
+        "n": 15,
+        "x": 51.5,
+        "y": 35,
+        "pos": "F",
+        "name": "A. Sanabria",
+        "player_id": 983
+      },
+      {
+        "n": 40,
+        "x": 55.8,
+        "y": 69.3,
+        "pos": "M",
+        "name": "Mauricio",
+        "player_id": 42
+      },
+      {
+        "n": 50,
+        "x": 19.4,
+        "y": 63.2,
+        "pos": "D",
+        "name": "J. Canale",
+        "player_id": 16912
+      },
+      {
+        "n": 64,
+        "x": 33.1,
+        "y": 79.2,
+        "pos": "D",
+        "name": "J. Alonso",
+        "player_id": 4
+      },
+      {
+        "n": 77,
+        "x": 9.9,
+        "y": 51.3,
+        "pos": "G",
+        "name": "O. Gill",
+        "player_id": 16917
+      },
+      {
+        "n": 13,
+        "x": 33.6,
+        "y": 34.5,
+        "pos": "D",
+        "name": "G. Velázquez",
+        "player_id": 16915
+      },
+      {
+        "n": 78,
+        "x": 35.2,
+        "y": 74.2,
+        "pos": "M",
+        "name": "M. Galarza",
+        "player_id": 13574
+      },
+      {
+        "n": 68,
+        "x": 33.3,
+        "y": 18.1,
+        "pos": "D",
+        "name": "J. Cáceres",
+        "player_id": 16918
+      },
+      {
+        "n": 48,
+        "x": 31.7,
+        "y": 37.2,
+        "pos": "M",
+        "name": "D. Bobadilla",
+        "player_id": 143
+      },
+      {
+        "n": 67,
+        "x": 44.3,
+        "y": 32.5,
+        "pos": "M",
+        "name": "M. Almirón",
+        "player_id": 9678
+      }
+    ],
+    "home": [
+      {
+        "n": 34,
+        "x": 63.8,
+        "y": 28.3,
+        "pos": "M",
+        "name": "F. Nmecha",
+        "player_id": 2160
+      },
+      {
+        "n": 13,
+        "x": 78.2,
+        "y": 66.2,
+        "pos": "F",
+        "name": "D. Undav",
+        "player_id": 1620
+      },
+      {
+        "n": 12,
+        "x": 53.7,
+        "y": 39,
+        "pos": "F",
+        "name": "N. Woltemade",
+        "player_id": 707
+      },
+      {
+        "n": 75,
+        "x": 68.6,
+        "y": 42.7,
+        "pos": "F",
+        "name": "K. Havertz",
+        "player_id": 4941
+      },
+      {
+        "n": 126,
+        "x": 67.2,
+        "y": 74.6,
+        "pos": "M",
+        "name": "F. Wirtz",
+        "player_id": 330
+      },
+      {
+        "n": 97,
+        "x": 54.3,
+        "y": 51.9,
+        "pos": "M",
+        "name": "A. Pavlović",
+        "player_id": 2462
+      },
+      {
+        "n": 152,
+        "x": 47.7,
+        "y": 69,
+        "pos": "D",
+        "name": "A. Rüdiger",
+        "player_id": 588
+      },
+      {
+        "n": 9,
+        "x": 48.2,
+        "y": 70.7,
+        "pos": "D",
+        "name": "M. Thiaw",
+        "player_id": 700
+      },
+      {
+        "n": 199,
+        "x": 57.4,
+        "y": 35.7,
+        "pos": "M",
+        "name": "J. Kimmich",
+        "player_id": 2461
+      },
+      {
+        "n": 91,
+        "x": 56.4,
+        "y": 73.8,
+        "pos": "D",
+        "name": "N. Brown",
+        "player_id": 1350
+      },
+      {
+        "n": 8,
+        "x": 67.3,
+        "y": 69.1,
+        "pos": "M",
+        "name": "N. Amiri",
+        "player_id": 3934
+      },
+      {
+        "n": 61,
+        "x": 66,
+        "y": 29,
+        "pos": "M",
+        "name": "J. Musiala",
+        "player_id": 8564
+      },
+      {
+        "n": 42,
+        "x": 57.3,
+        "y": 44.7,
+        "pos": "M",
+        "name": "L. Goretzka",
+        "player_id": 2470
+      },
+      {
+        "n": 142,
+        "x": 51.8,
+        "y": 42.2,
+        "pos": "D",
+        "name": "J. Tah",
+        "player_id": 2459
+      },
+      {
+        "n": 45,
+        "x": 56.1,
+        "y": 21.2,
+        "pos": "D",
+        "name": "W. Anton",
+        "player_id": 2157
+      },
+      {
+        "n": 88,
+        "x": 71.9,
+        "y": 14.3,
+        "pos": "M",
+        "name": "L. Sané",
+        "player_id": 3732
+      },
+      {
+        "n": 63,
+        "x": 16.1,
+        "y": 47.9,
+        "pos": "G",
+        "name": "M. Neuer",
+        "player_id": 2456
+      }
+    ]
+  }
 }
