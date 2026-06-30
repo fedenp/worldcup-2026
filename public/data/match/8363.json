@@ -6,8 +6,8 @@
     "capacity": 80000
   },
   "weather": {
-    "code": 3,
-    "description": "rain",
+    "code": 2,
+    "description": "cloudy",
     "wind_speed": 17.7,
     "temperature_c": 32
   },
@@ -22,5 +22,250 @@
     "confidence": 0.4384
   },
   "head_to_head": null,
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 34,
+        "x": 48,
+        "y": 51.8,
+        "pos": "F",
+        "name": "E. Haaland",
+        "player_id": 852
+      },
+      {
+        "n": 52,
+        "x": 61.4,
+        "y": 21.6,
+        "pos": "F",
+        "name": "A. Sørloth",
+        "player_id": 774
+      },
+      {
+        "n": 20,
+        "x": 65.3,
+        "y": 12.8,
+        "pos": "M",
+        "name": "O. Bobb",
+        "player_id": 3651
+      },
+      {
+        "n": 26,
+        "x": 56.1,
+        "y": 81.8,
+        "pos": "M",
+        "name": "A. Schjelderup",
+        "player_id": 2064
+      },
+      {
+        "n": 58,
+        "x": 48,
+        "y": 64.7,
+        "pos": "M",
+        "name": "P. Berg",
+        "player_id": 3673
+      },
+      {
+        "n": 44,
+        "x": 59.3,
+        "y": 77.4,
+        "pos": "F",
+        "name": "A. Nusa",
+        "player_id": 2897
+      },
+      {
+        "n": 16,
+        "x": 39.6,
+        "y": 18.3,
+        "pos": "M",
+        "name": "F. Aursnes",
+        "player_id": 2056
+      },
+      {
+        "n": 62,
+        "x": 50.7,
+        "y": 11.1,
+        "pos": "M",
+        "name": "M. Pedersen",
+        "player_id": 1838
+      },
+      {
+        "n": 51,
+        "x": 6.8,
+        "y": 48.9,
+        "pos": "G",
+        "name": "Ø. Nyland",
+        "player_id": 1561
+      },
+      {
+        "n": 71,
+        "x": 32.6,
+        "y": 67.3,
+        "pos": "D",
+        "name": "T. Heggem",
+        "player_id": 957
+      },
+      {
+        "n": 82,
+        "x": 29.3,
+        "y": 37.8,
+        "pos": "D",
+        "name": "K. Ajer",
+        "player_id": 464
+      },
+      {
+        "n": 97,
+        "x": 47.7,
+        "y": 45.9,
+        "pos": "M",
+        "name": "S. Berge",
+        "player_id": 829
+      },
+      {
+        "n": 68,
+        "x": 46.4,
+        "y": 84.3,
+        "pos": "D",
+        "name": "D. M. Wolfe",
+        "player_id": 529
+      },
+      {
+        "n": 99,
+        "x": 57.1,
+        "y": 32.6,
+        "pos": "M",
+        "name": "M. Ødegaard",
+        "player_id": 447
+      }
+    ],
+    "home": [
+      {
+        "n": 25,
+        "x": 68,
+        "y": 50.1,
+        "pos": "F",
+        "name": "A. Bonny",
+        "player_id": 3468
+      },
+      {
+        "n": 23,
+        "x": 11.7,
+        "y": 55,
+        "pos": "G",
+        "name": "Y. Fofana",
+        "player_id": 6738
+      },
+      {
+        "n": 7,
+        "x": 63.6,
+        "y": 37,
+        "pos": "F",
+        "name": "E. Wahi",
+        "player_id": 3527
+      },
+      {
+        "n": 28,
+        "x": 68.6,
+        "y": 49.2,
+        "pos": "M",
+        "name": "A. Diallo",
+        "player_id": 1792
+      },
+      {
+        "n": 5,
+        "x": 40.6,
+        "y": 86,
+        "pos": "M",
+        "name": "B. Touré",
+        "player_id": 2385
+      },
+      {
+        "n": 57,
+        "x": 30.7,
+        "y": 36.1,
+        "pos": "D",
+        "name": "O. Kossounou",
+        "player_id": 1298
+      },
+      {
+        "n": 49,
+        "x": 54.3,
+        "y": 76.7,
+        "pos": "M",
+        "name": "C. I. Oulaï",
+        "player_id": 6614
+      },
+      {
+        "n": 10,
+        "x": 82.7,
+        "y": 18.6,
+        "pos": "F",
+        "name": "O. Diakité",
+        "player_id": 7705
+      },
+      {
+        "n": 67,
+        "x": 58.6,
+        "y": 45.3,
+        "pos": "M",
+        "name": "F. Kessié",
+        "player_id": 8117
+      },
+      {
+        "n": 66,
+        "x": 67.7,
+        "y": 24,
+        "pos": "F",
+        "name": "N. Pépé",
+        "player_id": 1786
+      },
+      {
+        "n": 75,
+        "x": 65.8,
+        "y": 82.9,
+        "pos": "F",
+        "name": "Y. Diomande",
+        "player_id": 2895
+      },
+      {
+        "n": 63,
+        "x": 48,
+        "y": 19.8,
+        "pos": "D",
+        "name": "G. Doué",
+        "player_id": 1702
+      },
+      {
+        "n": 3,
+        "x": 85.6,
+        "y": 61.9,
+        "pos": "F",
+        "name": "E. Guessand",
+        "player_id": 509
+      },
+      {
+        "n": 87,
+        "x": 43.8,
+        "y": 87.1,
+        "pos": "D",
+        "name": "G. Konan",
+        "player_id": 1886
+      },
+      {
+        "n": 79,
+        "x": 40.8,
+        "y": 54.1,
+        "pos": "M",
+        "name": "I. Sangaré",
+        "player_id": 547
+      },
+      {
+        "n": 68,
+        "x": 35,
+        "y": 71.6,
+        "pos": "D",
+        "name": "E. Agbadou",
+        "player_id": 524
+      }
+    ]
+  }
 }
