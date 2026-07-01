@@ -2,17 +2,17 @@ import { useState, useEffect } from 'react'
 import { flagUrl } from '../teamFlags.js'
 import './Bracket.css'
 
-// Match IDs ordered top-to-bottom for each round
-// Ordering derived from BSD's W-reference chain (W73=8359, W74=8360, ...)
-// Pairs ordered so adjacent slots feed the same R16 match (verified against real results):
-// 8359+8362→R16(Canada-Morocco), 8361+8364→R16(Paraguay-France),
-// 8370+8369→R16(Portugal-Spain), 8367+8368→R16(USA-Senegal),
-// 8360+8363→R16(Brazil-Norway), 8365+8366→R16(Mexico-England),
-// 8371+8374→R16(Switz-Colombia), 8373+8372→R16(Argentina-Egypt)
-const R32_IDS = [8359,8362, 8361,8364, 8370,8369, 8367,8368,
-                 8360,8363, 8365,8366, 8371,8374, 8373,8372]
-const R16_IDS = [8375, 8376, 8379, 8380, 8377, 8378, 8381, 8382]
-const QF_IDS  = [8383, 8384, 8385, 8386]
+// Match IDs ordered top-to-bottom per the official bracket (M73→M88)
+// R32 left half: M73 SA-Canada, M74 GER-PAR, M75 NED-MAR, M76 BRA-JPN,
+//                M77 FRA-SWE, M78 CIV-NOR, M79 MEX-ECU, M80 ENG-DRC
+// R32 right half: M81 USA-BIH, M82 BEL-SEN, M83 POR-CRO, M84 ESP-AUT,
+//                 M85 SUI-ALG, M86 ARG-CPV, M87 COL-GHA, M88 AUS-EGY
+const R32_IDS = [8359, 8361, 8362, 8360, 8364, 8363, 8365, 8366,
+                 8368, 8367, 8370, 8369, 8371, 8373, 8374, 8372]
+// R16 slots map to R32 pairs: W89+W90, W91+W92 (left); W93+W94, W95+W96 (right)
+const R16_IDS = [8375, 8376, 8377, 8378, 8380, 8379, 8382, 8381]
+// QF: 8383=W97+W98 (left top), 8385=W97+W98 (left bot), 8384=right top, 8386=right bot
+const QF_IDS  = [8383, 8385, 8384, 8386]
 const SF_IDS  = [8387, 8388]
 const FINAL_ID = 8390
 const THIRD_ID = 8389
