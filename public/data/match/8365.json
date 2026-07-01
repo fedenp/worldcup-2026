@@ -6,8 +6,8 @@
     "capacity": 87523
   },
   "weather": {
-    "code": 3,
-    "description": "rain",
+    "code": 2,
+    "description": "cloudy",
     "wind_speed": 8.7,
     "temperature_c": 16
   },
@@ -40,5 +40,266 @@
       }
     ]
   },
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 10,
+        "x": 79.8,
+        "y": 52.3,
+        "pos": "F",
+        "name": "K. Rodríguez",
+        "player_id": 3755
+      },
+      {
+        "n": 27,
+        "x": 42,
+        "y": 20.3,
+        "pos": "M",
+        "name": "A. Franco",
+        "player_id": 7
+      },
+      {
+        "n": 31,
+        "x": 58.1,
+        "y": 25.8,
+        "pos": "F",
+        "name": "J. Yeboah",
+        "player_id": 16888
+      },
+      {
+        "n": 40,
+        "x": 47.1,
+        "y": 13,
+        "pos": "M",
+        "name": "Á. Preciado",
+        "player_id": 12202
+      },
+      {
+        "n": 19,
+        "x": 59,
+        "y": 65.3,
+        "pos": "F",
+        "name": "E. Valencia",
+        "player_id": 4754
+      },
+      {
+        "n": 24,
+        "x": 27.5,
+        "y": 41.5,
+        "pos": "D",
+        "name": "J. Ordóñez",
+        "player_id": 3536
+      },
+      {
+        "n": 13,
+        "x": 78.9,
+        "y": 44,
+        "pos": "F",
+        "name": "J. Caicedo",
+        "player_id": 16891
+      },
+      {
+        "n": 19,
+        "x": 47.1,
+        "y": 23.3,
+        "pos": "M",
+        "name": "K. Páez",
+        "player_id": 1709
+      },
+      {
+        "n": 85,
+        "x": 49.8,
+        "y": 39.1,
+        "pos": "M",
+        "name": "M. Caicedo",
+        "player_id": 1345
+      },
+      {
+        "n": 34,
+        "x": 56.3,
+        "y": 83.2,
+        "pos": "D",
+        "name": "Y. Medina",
+        "player_id": 3125
+      },
+      {
+        "n": 30,
+        "x": 11.5,
+        "y": 49.3,
+        "pos": "G",
+        "name": "H. Galíndez",
+        "player_id": 16887
+      },
+      {
+        "n": 67,
+        "x": 32.3,
+        "y": 52.4,
+        "pos": "D",
+        "name": "W. Pacho",
+        "player_id": 2245
+      },
+      {
+        "n": 52,
+        "x": 68.5,
+        "y": 84.5,
+        "pos": "M",
+        "name": "N. Angulo",
+        "player_id": 7347
+      },
+      {
+        "n": 99,
+        "x": 48.5,
+        "y": 74.7,
+        "pos": "D",
+        "name": "P. Hincapié",
+        "player_id": 445
+      },
+      {
+        "n": 48,
+        "x": 59,
+        "y": 54.6,
+        "pos": "M",
+        "name": "G. Plata",
+        "player_id": 59
+      },
+      {
+        "n": 91,
+        "x": 51.3,
+        "y": 62.1,
+        "pos": "M",
+        "name": "P. Vite",
+        "player_id": 9854
+      }
+    ],
+    "home": [
+      {
+        "n": 15,
+        "x": 46.1,
+        "y": 32,
+        "pos": "M",
+        "name": "B. Gutiérrez",
+        "player_id": 9355
+      },
+      {
+        "n": 8,
+        "x": 51.8,
+        "y": 67.6,
+        "pos": "M",
+        "name": "O. Vargas",
+        "player_id": 9006
+      },
+      {
+        "n": 37,
+        "x": 50.1,
+        "y": 54.4,
+        "pos": "D",
+        "name": "L. Romo",
+        "player_id": 10370
+      },
+      {
+        "n": 50,
+        "x": 38.2,
+        "y": 12.9,
+        "pos": "D",
+        "name": "J. Sánchez",
+        "player_id": 10045
+      },
+      {
+        "n": 45,
+        "x": 43.8,
+        "y": 86.2,
+        "pos": "D",
+        "name": "J. Gallardo",
+        "player_id": 10088
+      },
+      {
+        "n": 44,
+        "x": 55.8,
+        "y": 76.5,
+        "pos": "F",
+        "name": "J. Quiñones",
+        "player_id": 8296
+      },
+      {
+        "n": 16,
+        "x": 71.5,
+        "y": 52.2,
+        "pos": "F",
+        "name": "S. Giménez",
+        "player_id": 4328
+      },
+      {
+        "n": 48,
+        "x": 63.4,
+        "y": 35.3,
+        "pos": "M",
+        "name": "G. Mora",
+        "player_id": 10424
+      },
+      {
+        "n": 53,
+        "x": 9.5,
+        "y": 48.9,
+        "pos": "G",
+        "name": "R. Rangel",
+        "player_id": 10161
+      },
+      {
+        "n": 8,
+        "x": 34,
+        "y": 37.2,
+        "pos": "D",
+        "name": "I. Reyes",
+        "player_id": 10107
+      },
+      {
+        "n": 48,
+        "x": 51,
+        "y": 28.4,
+        "pos": "F",
+        "name": "R. Alvarado",
+        "player_id": 10169
+      },
+      {
+        "n": 13,
+        "x": 65.6,
+        "y": 80.5,
+        "pos": "M",
+        "name": "O. Pineda",
+        "player_id": 11161
+      },
+      {
+        "n": 48,
+        "x": 50.8,
+        "y": 46.5,
+        "pos": "D",
+        "name": "E. Lira",
+        "player_id": 10043
+      },
+      {
+        "n": 39,
+        "x": 63.2,
+        "y": 53.9,
+        "pos": "F",
+        "name": "R. Jiménez",
+        "player_id": 833
+      },
+      {
+        "n": 55,
+        "x": 32.4,
+        "y": 30.4,
+        "pos": "D",
+        "name": "C. Montes",
+        "player_id": 17092
+      },
+      {
+        "n": 69,
+        "x": 31.3,
+        "y": 64.9,
+        "pos": "D",
+        "name": "J. Vásquez",
+        "player_id": 2591
+      }
+    ]
+  }
 }
