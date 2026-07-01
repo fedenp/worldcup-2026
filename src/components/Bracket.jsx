@@ -4,8 +4,13 @@ import './Bracket.css'
 
 // Match IDs ordered top-to-bottom for each round
 // Ordering derived from BSD's W-reference chain (W73=8359, W74=8360, ...)
-const R32_IDS = [8359,8361, 8360,8363, 8369,8370, 8367,8368,
-                 8362,8364, 8365,8366, 8372,8374, 8371,8373]
+// Pairs ordered so adjacent slots feed the same R16 match (verified against real results):
+// 8359+8362→R16(Canada-Morocco), 8361+8364→R16(Paraguay-France),
+// 8370+8369→R16(Portugal-Spain), 8367+8368→R16(USA-Senegal),
+// 8360+8363→R16(Brazil-Norway), 8365+8366→R16(Mexico-England),
+// 8371+8374→R16(Switz-Colombia), 8373+8372→R16(Argentina-Egypt)
+const R32_IDS = [8359,8362, 8361,8364, 8370,8369, 8367,8368,
+                 8360,8363, 8365,8366, 8371,8374, 8373,8372]
 const R16_IDS = [8375, 8376, 8379, 8380, 8377, 8378, 8381, 8382]
 const QF_IDS  = [8383, 8384, 8385, 8386]
 const SF_IDS  = [8387, 8388]
