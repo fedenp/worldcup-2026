@@ -22,5 +22,250 @@
     "confidence": 0.5576
   },
   "head_to_head": null,
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 35,
+        "x": 35.3,
+        "y": 37.4,
+        "pos": "M",
+        "name": "N. Mukau",
+        "player_id": 1453
+      },
+      {
+        "n": 38,
+        "x": 53.5,
+        "y": 66.3,
+        "pos": "F",
+        "name": "Y. Wissa",
+        "player_id": 5140
+      },
+      {
+        "n": 14,
+        "x": 54.7,
+        "y": 41.1,
+        "pos": "M",
+        "name": "E. Kayembe",
+        "player_id": 6695
+      },
+      {
+        "n": 11,
+        "x": 44.1,
+        "y": 26.6,
+        "pos": "M",
+        "name": "T. Bongonda",
+        "player_id": 15419
+      },
+      {
+        "n": 40,
+        "x": 58.1,
+        "y": 23.5,
+        "pos": "M",
+        "name": "N. Mbuku",
+        "player_id": 15420
+      },
+      {
+        "n": 2,
+        "x": 84.7,
+        "y": 46.2,
+        "pos": "F",
+        "name": "F. Mayele",
+        "player_id": 14724
+      },
+      {
+        "n": 15,
+        "x": 71.1,
+        "y": 64.6,
+        "pos": "F",
+        "name": "M. Elia",
+        "player_id": 6729
+      },
+      {
+        "n": 72,
+        "x": 35,
+        "y": 89.4,
+        "pos": "D",
+        "name": "A. Masuaku",
+        "player_id": 3903
+      },
+      {
+        "n": 7,
+        "x": 43.5,
+        "y": 87.1,
+        "pos": "D",
+        "name": "Kayembe",
+        "player_id": 4161
+      },
+      {
+        "n": 58,
+        "x": 8.5,
+        "y": 51,
+        "pos": "G",
+        "name": "L. Mpasi Nzau",
+        "player_id": 1442
+      },
+      {
+        "n": 65,
+        "x": 30.8,
+        "y": 33.3,
+        "pos": "D",
+        "name": "C. Mbemba",
+        "player_id": 1456
+      },
+      {
+        "n": 61,
+        "x": 53.8,
+        "y": 79,
+        "pos": "M",
+        "name": "B. Cipenga",
+        "player_id": 15424
+      },
+      {
+        "n": 75,
+        "x": 22.2,
+        "y": 69.7,
+        "pos": "D",
+        "name": "A. Tuanzebe",
+        "player_id": 2375
+      },
+      {
+        "n": 58,
+        "x": 44,
+        "y": 49.8,
+        "pos": "M",
+        "name": "S. Moutoussamy",
+        "player_id": 11283
+      },
+      {
+        "n": 62,
+        "x": 40.4,
+        "y": 71.9,
+        "pos": "M",
+        "name": "N. Sadiki",
+        "player_id": 349
+      },
+      {
+        "n": 49,
+        "x": 38.6,
+        "y": 18.6,
+        "pos": "D",
+        "name": "A. Wan-Bissaka",
+        "player_id": 1635
+      }
+    ],
+    "home": [
+      {
+        "n": 34,
+        "x": 65.9,
+        "y": 49.3,
+        "pos": "F",
+        "name": "H. Kane",
+        "player_id": 2466
+      },
+      {
+        "n": 62,
+        "x": 72.1,
+        "y": 15.3,
+        "pos": "F",
+        "name": "N. Madueke",
+        "player_id": 450
+      },
+      {
+        "n": 37,
+        "x": 65,
+        "y": 83.7,
+        "pos": "F",
+        "name": "A. Gordon",
+        "player_id": 711
+      },
+      {
+        "n": 49,
+        "x": 70.3,
+        "y": 86.8,
+        "pos": "F",
+        "name": "M. Rashford",
+        "player_id": 750
+      },
+      {
+        "n": 30,
+        "x": 68.6,
+        "y": 20.7,
+        "pos": "F",
+        "name": "B. Saka",
+        "player_id": 455
+      },
+      {
+        "n": 75,
+        "x": 53,
+        "y": 13.2,
+        "pos": "D",
+        "name": "D. Spence",
+        "player_id": 735
+      },
+      {
+        "n": 42,
+        "x": 16.1,
+        "y": 53.5,
+        "pos": "G",
+        "name": "J. Pickford",
+        "player_id": 803
+      },
+      {
+        "n": 8,
+        "x": 60,
+        "y": 34.7,
+        "pos": "M",
+        "name": "E. Eze",
+        "player_id": 454
+      },
+      {
+        "n": 80,
+        "x": 61.2,
+        "y": 50.4,
+        "pos": "M",
+        "name": "D. Rice",
+        "player_id": 449
+      },
+      {
+        "n": 79,
+        "x": 54,
+        "y": 78,
+        "pos": "D",
+        "name": "N. O’Reilly",
+        "player_id": 847
+      },
+      {
+        "n": 84,
+        "x": 42.1,
+        "y": 66.1,
+        "pos": "D",
+        "name": "M. Guéhi",
+        "player_id": 425
+      },
+      {
+        "n": 108,
+        "x": 52,
+        "y": 42.1,
+        "pos": "M",
+        "name": "E. Anderson",
+        "player_id": 548
+      },
+      {
+        "n": 89,
+        "x": 41.7,
+        "y": 34.2,
+        "pos": "D",
+        "name": "E. Konsa",
+        "player_id": 504
+      },
+      {
+        "n": 62,
+        "x": 61.9,
+        "y": 56,
+        "pos": "M",
+        "name": "J. Bellingham",
+        "player_id": 592
+      }
+    ]
+  }
 }
