@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T21:23:58.891Z",
+  "updated_at": "2026-07-01T02:55:11.427Z",
   "groups": {
     "Group A": [
       {
@@ -16,7 +16,7 @@
         "pts": 9,
         "xg": 3.7,
         "form": "WWWWL",
-        "live": false
+        "live": true
       },
       {
         "position": 2,
@@ -163,7 +163,7 @@
         "gd": 3,
         "pts": 7,
         "xg": 5.8,
-        "form": "WWDWW",
+        "form": "DWWDW",
         "live": false
       },
       {
@@ -295,7 +295,7 @@
         "gd": 2,
         "pts": 6,
         "xg": 4.2,
-        "form": "WLWLL",
+        "form": "LWLWL",
         "live": false
       },
       {
@@ -312,7 +312,7 @@
         "pts": 4,
         "xg": 5.7,
         "form": "WDLLD",
-        "live": false
+        "live": true
       },
       {
         "position": 4,
@@ -345,7 +345,7 @@
         "gd": 6,
         "pts": 7,
         "xg": 4.9,
-        "form": "WWDWD",
+        "form": "DWWDW",
         "live": false
       },
       {
@@ -377,8 +377,8 @@
         "gd": 0,
         "pts": 4,
         "xg": 2.8,
-        "form": "DLWWL",
-        "live": true
+        "form": "LDLWW",
+        "live": false
       },
       {
         "position": 4,
@@ -543,8 +543,8 @@
         "gd": 8,
         "pts": 9,
         "xg": 5.6,
-        "form": "WWWLW",
-        "live": true
+        "form": "WWWWL",
+        "live": false
       },
       {
         "position": 2,
@@ -559,7 +559,7 @@
         "gd": 1,
         "pts": 6,
         "xg": 6.3,
-        "form": "LWW",
+        "form": "WLWW",
         "live": false
       },
       {

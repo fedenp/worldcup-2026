@@ -6,8 +6,8 @@
     "capacity": 82500
   },
   "weather": {
-    "code": 3,
-    "description": "rain",
+    "code": 1,
+    "description": "clear",
     "wind_speed": 20.5,
     "temperature_c": 34
   },
@@ -21,6 +21,285 @@
     "most_likely_score": "1-0",
     "confidence": 0.7958
   },
-  "head_to_head": null,
-  "average_positions": null
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 1,
+    "draws": 0,
+    "away_wins": 0,
+    "home_goals": 3,
+    "away_goals": 0,
+    "avg_total_goals": 3,
+    "home_win_rate": 1,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Sweden",
+        "date": "2026-06-30T21:00:00+00:00",
+        "home": "France",
+        "score": "3-0"
+      }
+    ]
+  },
+  "average_positions": {
+    "away": [
+      {
+        "n": 29,
+        "x": 58.1,
+        "y": 52.8,
+        "pos": "F",
+        "name": "A. Isak",
+        "player_id": 332
+      },
+      {
+        "n": 31,
+        "x": 44.7,
+        "y": 77.9,
+        "pos": "M",
+        "name": "E. Stroud",
+        "player_id": 16077
+      },
+      {
+        "n": 47,
+        "x": 48.1,
+        "y": 20.9,
+        "pos": "M",
+        "name": "D. Svensson",
+        "player_id": 2162
+      },
+      {
+        "n": 11,
+        "x": 65.1,
+        "y": 46.8,
+        "pos": "M",
+        "name": "M. Svanberg",
+        "player_id": 1377
+      },
+      {
+        "n": 22,
+        "x": 52.9,
+        "y": 35.3,
+        "pos": "M",
+        "name": "B. Zeneli",
+        "player_id": 8600
+      },
+      {
+        "n": 31,
+        "x": 58.3,
+        "y": 48.1,
+        "pos": "F",
+        "name": "V. Gyökeres",
+        "player_id": 456
+      },
+      {
+        "n": 21,
+        "x": 62,
+        "y": 86.3,
+        "pos": "M",
+        "name": "T. Ali",
+        "player_id": 4400
+      },
+      {
+        "n": 53,
+        "x": 63,
+        "y": 16.3,
+        "pos": "F",
+        "name": "A. Elanga",
+        "player_id": 710
+      },
+      {
+        "n": 49,
+        "x": 53.1,
+        "y": 31.3,
+        "pos": "M",
+        "name": "L. Bergvall",
+        "player_id": 726
+      },
+      {
+        "n": 41,
+        "x": 47.1,
+        "y": 52.7,
+        "pos": "M",
+        "name": "Y. Ayari",
+        "player_id": 1632
+      },
+      {
+        "n": 6,
+        "x": 70.4,
+        "y": 36.9,
+        "pos": "F",
+        "name": "G. Nilsson",
+        "player_id": 3556
+      },
+      {
+        "n": 61,
+        "x": 33.9,
+        "y": 77.3,
+        "pos": "D",
+        "name": "G. Gudmundsson",
+        "player_id": 370
+      },
+      {
+        "n": 58,
+        "x": 8.4,
+        "y": 48.4,
+        "pos": "G",
+        "name": "J. W. Zetterström",
+        "player_id": 6221
+      },
+      {
+        "n": 63,
+        "x": 30.7,
+        "y": 58.3,
+        "pos": "D",
+        "name": "V. Lindelöf",
+        "player_id": 519
+      },
+      {
+        "n": 15,
+        "x": 57.9,
+        "y": 15.7,
+        "pos": "F",
+        "name": "B. Nygren",
+        "player_id": 3394
+      },
+      {
+        "n": 83,
+        "x": 40.4,
+        "y": 29.9,
+        "pos": "D",
+        "name": "G. Lagerbielke",
+        "player_id": 884
+      }
+    ],
+    "home": [
+      {
+        "n": 58,
+        "x": 59.3,
+        "y": 79.4,
+        "pos": "F",
+        "name": "B. Barcola",
+        "player_id": 2261
+      },
+      {
+        "n": 46,
+        "x": 12.4,
+        "y": 45.6,
+        "pos": "G",
+        "name": "M. Maignan",
+        "player_id": 1987
+      },
+      {
+        "n": 17,
+        "x": 42.9,
+        "y": 79.5,
+        "pos": "D",
+        "name": "T. Hernández",
+        "player_id": 7994
+      },
+      {
+        "n": 53,
+        "x": 70.8,
+        "y": 24.8,
+        "pos": "F",
+        "name": "O. Dembélé",
+        "player_id": 2253
+      },
+      {
+        "n": 16,
+        "x": 47.6,
+        "y": 14.2,
+        "pos": "D",
+        "name": "M. Gusto",
+        "player_id": 393
+      },
+      {
+        "n": 62,
+        "x": 58.3,
+        "y": 21.1,
+        "pos": "D",
+        "name": "J. Koundé",
+        "player_id": 739
+      },
+      {
+        "n": 4,
+        "x": 45.6,
+        "y": 43,
+        "pos": "M",
+        "name": "R. Cherki",
+        "player_id": 856
+      },
+      {
+        "n": 6,
+        "x": 47.1,
+        "y": 71.4,
+        "pos": "F",
+        "name": "J. Mateta",
+        "player_id": 432
+      },
+      {
+        "n": 89,
+        "x": 53.6,
+        "y": 66.9,
+        "pos": "M",
+        "name": "A. Rabiot",
+        "player_id": 1994
+      },
+      {
+        "n": 59,
+        "x": 72.4,
+        "y": 62.3,
+        "pos": "F",
+        "name": "K. Mbappé",
+        "player_id": 594
+      },
+      {
+        "n": 67,
+        "x": 44.5,
+        "y": 86.4,
+        "pos": "D",
+        "name": "L. Digne",
+        "player_id": 513
+      },
+      {
+        "n": 70,
+        "x": 42.3,
+        "y": 33.1,
+        "pos": "D",
+        "name": "D. Upamecano",
+        "player_id": 3463
+      },
+      {
+        "n": 104,
+        "x": 61.6,
+        "y": 48,
+        "pos": "M",
+        "name": "M. Olise",
+        "player_id": 2467
+      },
+      {
+        "n": 13,
+        "x": 59.1,
+        "y": 15,
+        "pos": "F",
+        "name": "D. Doué",
+        "player_id": 4324
+      },
+      {
+        "n": 76,
+        "x": 37.4,
+        "y": 63.1,
+        "pos": "D",
+        "name": "W. Saliba",
+        "player_id": 3460
+      },
+      {
+        "n": 89,
+        "x": 49.3,
+        "y": 51.6,
+        "pos": "M",
+        "name": "A. Tchouaméni",
+        "player_id": 591
+      }
+    ]
+  }
 }

@@ -21,7 +21,25 @@
     "most_likely_score": "1-1",
     "confidence": 0.4384
   },
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 0,
+    "away_wins": 1,
+    "home_goals": 1,
+    "away_goals": 2,
+    "avg_total_goals": 3,
+    "home_win_rate": 0,
+    "away_win_rate": 1,
+    "recent_matches": [
+      {
+        "away": "Norway",
+        "date": "2026-06-30T17:00:00+00:00",
+        "home": "Côte d'Ivoire",
+        "score": "1-2"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {
