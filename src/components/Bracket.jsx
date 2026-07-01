@@ -2,17 +2,24 @@ import { useState, useEffect } from 'react'
 import { flagUrl } from '../teamFlags.js'
 import './Bracket.css'
 
-// Match IDs ordered top-to-bottom per the official bracket (M73→M88)
-// R32 left half: M73 SA-Canada, M74 GER-PAR, M75 NED-MAR, M76 BRA-JPN,
-//                M77 FRA-SWE, M78 CIV-NOR, M79 MEX-ECU, M80 ENG-DRC
-// R32 right half: M81 USA-BIH, M82 BEL-SEN, M83 POR-CRO, M84 ESP-AUT,
-//                 M85 SUI-ALG, M86 ARG-CPV, M87 COL-GHA, M88 AUS-EGY
-const R32_IDS = [8359, 8361, 8362, 8360, 8364, 8363, 8365, 8366,
-                 8368, 8367, 8370, 8369, 8371, 8373, 8374, 8372]
-// R16 slots map to R32 pairs: W89+W90, W91+W92 (left); W93+W94, W95+W96 (right)
-const R16_IDS = [8375, 8376, 8377, 8378, 8380, 8379, 8382, 8381]
-// QF: 8383=W97+W98 (left top), 8385=W97+W98 (left bot), 8384=right top, 8386=right bot
-const QF_IDS  = [8383, 8385, 8384, 8386]
+// R32: adjacent slots feed the same R16 match (verified against real results).
+// The official draw pairs non-sequential bracket slots: M73 with M75, M74 with M77, etc.
+// R16-A(Canada-Morocco):  8359(M73 SA/CAN)  + 8362(M75 NED/MAR)
+// R16-B(Paraguay-France): 8361(M74 GER/PAR) + 8364(M77 FRA/SWE)
+// R16-C(Portugal-Spain):  8370(M83 POR/CRO) + 8369(M84 ESP/AUT)
+// R16-D(USA-Senegal):     8367(M82 BEL/SEN) + 8368(M81 USA/BIH)
+// R16-E(Brazil-Norway):   8360(M76 BRA/JPN) + 8363(M78 CIV/NOR)
+// R16-F(Mexico-England):  8365(M79 MEX/ECU) + 8366(M80 ENG/DRC)
+// R16-G(Arg-Egypt):       8373(M86 ARG/CPV) + 8372(M88 AUS/EGY)
+// R16-H(Switz-Colombia):  8371(M85 SUI/ALG) + 8374(M87 COL/GHA)
+const R32_IDS = [8359,8362, 8361,8364, 8370,8369, 8367,8368,
+                 8360,8363, 8365,8366, 8373,8372, 8371,8374]
+// R16: pairs that feed the same QF must be adjacent.
+// QF8383=W89(8375)+W90(8376), QF8384=W93(8379)+W94(8380) → SF8387
+// QF8385=W91(8377)+W92(8378), QF8386=W95(8381)+W96(8382) → SF8388
+const R16_IDS = [8375, 8376, 8379, 8380, 8377, 8378, 8381, 8382]
+// QF: (8383,8384)→SF8387 via W97+W98; (8385,8386)→SF8388 via W99+W100
+const QF_IDS  = [8383, 8384, 8385, 8386]
 const SF_IDS  = [8387, 8388]
 const FINAL_ID = 8390
 const THIRD_ID = 8389
