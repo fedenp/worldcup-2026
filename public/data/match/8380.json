@@ -12,6 +12,24 @@
     "temperature_c": 31
   },
   "prediction": null,
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 0,
+    "away_wins": 1,
+    "home_goals": 2,
+    "away_goals": 5,
+    "avg_total_goals": 7,
+    "home_win_rate": 0,
+    "away_win_rate": 1,
+    "recent_matches": [
+      {
+        "away": "Belgium",
+        "date": "2026-03-28T19:30:00+00:00",
+        "home": "USA",
+        "score": "2-5"
+      }
+    ]
+  },
   "average_positions": null
 }
