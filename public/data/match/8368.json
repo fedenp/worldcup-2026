@@ -6,8 +6,8 @@
     "capacity": 68500
   },
   "weather": {
-    "code": 0,
-    "description": "unknown",
+    "code": 1,
+    "description": "clear",
     "wind_speed": 18.6,
     "temperature_c": 30
   },
@@ -21,6 +21,269 @@
     "most_likely_score": "1-0",
     "confidence": 0.5892
   },
-  "head_to_head": null,
-  "average_positions": null
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 1,
+    "draws": 0,
+    "away_wins": 0,
+    "home_goals": 2,
+    "away_goals": 0,
+    "avg_total_goals": 2,
+    "home_win_rate": 1,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Bosnia & Herzegovina",
+        "date": "2026-07-02T00:00:00+00:00",
+        "home": "USA",
+        "score": "2-0"
+      }
+    ]
+  },
+  "average_positions": {
+    "away": [
+      {
+        "n": 27,
+        "x": 61.6,
+        "y": 41.1,
+        "pos": "M",
+        "name": "E. Mahmić",
+        "player_id": 53958
+      },
+      {
+        "n": 24,
+        "x": 61.5,
+        "y": 52.8,
+        "pos": "F",
+        "name": "E. Demirović",
+        "player_id": 4516
+      },
+      {
+        "n": 16,
+        "x": 40.4,
+        "y": 25.7,
+        "pos": "M",
+        "name": "A. Gigović",
+        "player_id": 4150
+      },
+      {
+        "n": 46,
+        "x": 12.7,
+        "y": 51.5,
+        "pos": "G",
+        "name": "N. Vasilj",
+        "player_id": 2476
+      },
+      {
+        "n": 46,
+        "x": 48.9,
+        "y": 48.1,
+        "pos": "M",
+        "name": "B. Tahirović",
+        "player_id": 26812
+      },
+      {
+        "n": 24,
+        "x": 49.8,
+        "y": 61.1,
+        "pos": "F",
+        "name": "E. Džeko",
+        "player_id": 1343
+      },
+      {
+        "n": 44,
+        "x": 44.7,
+        "y": 85.8,
+        "pos": "D",
+        "name": "S. Kolašinac",
+        "player_id": 1312
+      },
+      {
+        "n": 29,
+        "x": 67.5,
+        "y": 24.3,
+        "pos": "F",
+        "name": "E. Bajraktarević",
+        "player_id": 3515
+      },
+      {
+        "n": 26,
+        "x": 40.1,
+        "y": 54.9,
+        "pos": "M",
+        "name": "I. Šunjić",
+        "player_id": 3604
+      },
+      {
+        "n": 24,
+        "x": 51.8,
+        "y": 19.9,
+        "pos": "M",
+        "name": "A. Memić",
+        "player_id": 3222
+      },
+      {
+        "n": 3,
+        "x": 54.5,
+        "y": 22.2,
+        "pos": "F",
+        "name": "H. Tabaković",
+        "player_id": 2877
+      },
+      {
+        "n": 55,
+        "x": 35.1,
+        "y": 26.6,
+        "pos": "D",
+        "name": "N. Katić",
+        "player_id": 27586
+      },
+      {
+        "n": 116,
+        "x": 35.2,
+        "y": 42.9,
+        "pos": "D",
+        "name": "T. Muharemović",
+        "player_id": 2846
+      },
+      {
+        "n": 65,
+        "x": 45.8,
+        "y": 29.8,
+        "pos": "D",
+        "name": "A. Dedić",
+        "player_id": 2052
+      },
+      {
+        "n": 59,
+        "x": 57.3,
+        "y": 81.4,
+        "pos": "M",
+        "name": "K. Alajbegović",
+        "player_id": 3046
+      },
+      {
+        "n": 85,
+        "x": 38,
+        "y": 73.7,
+        "pos": "D",
+        "name": "S. Radeljić",
+        "player_id": 12458
+      }
+    ],
+    "home": [
+      {
+        "n": 34,
+        "x": 9,
+        "y": 48.8,
+        "pos": "G",
+        "name": "M. Freese",
+        "player_id": 9116
+      },
+      {
+        "n": 3,
+        "x": 40.3,
+        "y": 4.1,
+        "pos": "M",
+        "name": "G. Reyna",
+        "player_id": 2878
+      },
+      {
+        "n": 22,
+        "x": 73.7,
+        "y": 39.1,
+        "pos": "F",
+        "name": "F. Balogun",
+        "player_id": 2232
+      },
+      {
+        "n": 50,
+        "x": 59.5,
+        "y": 73.5,
+        "pos": "F",
+        "name": "C. Pulišić",
+        "player_id": 3820
+      },
+      {
+        "n": 11,
+        "x": 55.8,
+        "y": 70.9,
+        "pos": "F",
+        "name": "R. Pepi",
+        "player_id": 3513
+      },
+      {
+        "n": 8,
+        "x": 40.7,
+        "y": 29.1,
+        "pos": "M",
+        "name": "S. Berhalter",
+        "player_id": 9104
+      },
+      {
+        "n": 68,
+        "x": 37.9,
+        "y": 69.7,
+        "pos": "D",
+        "name": "T. Ream",
+        "player_id": 9229
+      },
+      {
+        "n": 43,
+        "x": 60,
+        "y": 15.4,
+        "pos": "D",
+        "name": "S. Dest",
+        "player_id": 3503
+      },
+      {
+        "n": 64,
+        "x": 58.3,
+        "y": 28.6,
+        "pos": "M",
+        "name": "W. McKennie",
+        "player_id": 2179
+      },
+      {
+        "n": 68,
+        "x": 36.7,
+        "y": 38.5,
+        "pos": "D",
+        "name": "C. Richards",
+        "player_id": 423
+      },
+      {
+        "n": 61,
+        "x": 47.2,
+        "y": 53.1,
+        "pos": "M",
+        "name": "T. Adams",
+        "player_id": 788
+      },
+      {
+        "n": 80,
+        "x": 49.6,
+        "y": 81.4,
+        "pos": "D",
+        "name": "A. Robinson",
+        "player_id": 4559
+      },
+      {
+        "n": 81,
+        "x": 59.7,
+        "y": 60.8,
+        "pos": "M",
+        "name": "M. Tillman",
+        "player_id": 2143
+      },
+      {
+        "n": 89,
+        "x": 47.7,
+        "y": 18.6,
+        "pos": "D",
+        "name": "A. Freeman",
+        "player_id": 8860
+      }
+    ]
+  }
 }
