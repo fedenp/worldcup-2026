@@ -6,8 +6,8 @@
     "capacity": 54500
   },
   "weather": {
-    "code": 0,
-    "description": "unknown",
+    "code": 2,
+    "description": "cloudy",
     "wind_speed": 10,
     "temperature_c": 18
   },
@@ -22,5 +22,266 @@
     "confidence": 0.5892
   },
   "head_to_head": null,
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 9,
+        "x": 65.9,
+        "y": 92.2,
+        "pos": "M",
+        "name": "A. Boulbina",
+        "player_id": 15396
+      },
+      {
+        "n": 34,
+        "x": 39,
+        "y": 63.6,
+        "pos": "D",
+        "name": "J. Hadjam",
+        "player_id": 3202
+      },
+      {
+        "n": 20,
+        "x": 44.6,
+        "y": 34.5,
+        "pos": "M",
+        "name": "H. Boudaoui",
+        "player_id": 1504
+      },
+      {
+        "n": 21,
+        "x": 60.4,
+        "y": 15.1,
+        "pos": "M",
+        "name": "A. H. Moussa",
+        "player_id": 3368
+      },
+      {
+        "n": 11,
+        "x": 60.3,
+        "y": 62,
+        "pos": "F",
+        "name": "A. Gouiri",
+        "player_id": 4540
+      },
+      {
+        "n": 51,
+        "x": 59.8,
+        "y": 19.9,
+        "pos": "M",
+        "name": "R. Mahrez",
+        "player_id": 8116
+      },
+      {
+        "n": 105,
+        "x": 33.9,
+        "y": 34.5,
+        "pos": "D",
+        "name": "A. Mandi",
+        "player_id": 1448
+      },
+      {
+        "n": 45,
+        "x": 50.7,
+        "y": 34.4,
+        "pos": "M",
+        "name": "R. Zerrouki",
+        "player_id": 5260
+      },
+      {
+        "n": 38,
+        "x": 67.7,
+        "y": 74.4,
+        "pos": "M",
+        "name": "H. Aouar",
+        "player_id": 8230
+      },
+      {
+        "n": 45,
+        "x": 14.8,
+        "y": 48.7,
+        "pos": "G",
+        "name": "L. Zidane",
+        "player_id": 15394
+      },
+      {
+        "n": 81,
+        "x": 42.1,
+        "y": 58.4,
+        "pos": "M",
+        "name": "N. Bentaleb",
+        "player_id": 1460
+      },
+      {
+        "n": 63,
+        "x": 37.3,
+        "y": 14.3,
+        "pos": "M",
+        "name": "R. Belghali",
+        "player_id": 2616
+      },
+      {
+        "n": 55,
+        "x": 55.8,
+        "y": 50.3,
+        "pos": "F",
+        "name": "I. Maza",
+        "player_id": 2140
+      },
+      {
+        "n": 77,
+        "x": 52.1,
+        "y": 72.6,
+        "pos": "M",
+        "name": "F. Chaïbi",
+        "player_id": 1351
+      },
+      {
+        "n": 98,
+        "x": 51.9,
+        "y": 88.2,
+        "pos": "D",
+        "name": "R. Aït-Nouri",
+        "player_id": 861
+      },
+      {
+        "n": 106,
+        "x": 37.5,
+        "y": 70.6,
+        "pos": "D",
+        "name": "R. Bensebaini",
+        "player_id": 2169
+      }
+    ],
+    "home": [
+      {
+        "n": 12,
+        "x": 62.5,
+        "y": 58,
+        "pos": "F",
+        "name": "Z. Amdouni",
+        "player_id": 22868
+      },
+      {
+        "n": 20,
+        "x": 67.5,
+        "y": 79.5,
+        "pos": "F",
+        "name": "N. Okafor",
+        "player_id": 374
+      },
+      {
+        "n": 87,
+        "x": 33.2,
+        "y": 62.2,
+        "pos": "D",
+        "name": "M. Akanji",
+        "player_id": 1679
+      },
+      {
+        "n": 18,
+        "x": 69.7,
+        "y": 55.8,
+        "pos": "M",
+        "name": "F. Rieder",
+        "player_id": 2404
+      },
+      {
+        "n": 5,
+        "x": 35.3,
+        "y": 10.6,
+        "pos": "M",
+        "name": "S. Widmer",
+        "player_id": 1208
+      },
+      {
+        "n": 7,
+        "x": 41.6,
+        "y": 17.9,
+        "pos": "M",
+        "name": "M. Aebischer",
+        "player_id": 1660
+      },
+      {
+        "n": 43,
+        "x": 67,
+        "y": 85.2,
+        "pos": "M",
+        "name": "R. Vargas",
+        "player_id": 3803
+      },
+      {
+        "n": 57,
+        "x": 9.4,
+        "y": 47.2,
+        "pos": "G",
+        "name": "G. Kobel",
+        "player_id": 2155
+      },
+      {
+        "n": 32,
+        "x": 60,
+        "y": 40.4,
+        "pos": "F",
+        "name": "B. Embolo",
+        "player_id": 2811
+      },
+      {
+        "n": 96,
+        "x": 46,
+        "y": 62.8,
+        "pos": "M",
+        "name": "G. Xhaka",
+        "player_id": 348
+      },
+      {
+        "n": 57,
+        "x": 43.7,
+        "y": 40.3,
+        "pos": "M",
+        "name": "R. Freuler",
+        "player_id": 4266
+      },
+      {
+        "n": 82,
+        "x": 30.7,
+        "y": 28.5,
+        "pos": "D",
+        "name": "N. Elvedi",
+        "player_id": 2869
+      },
+      {
+        "n": 75,
+        "x": 43.7,
+        "y": 10.2,
+        "pos": "M",
+        "name": "D. Zakaria",
+        "player_id": 3616
+      },
+      {
+        "n": 75,
+        "x": 45.8,
+        "y": 85.3,
+        "pos": "D",
+        "name": "R. Rodríguez",
+        "player_id": 1582
+      },
+      {
+        "n": 37,
+        "x": 66.6,
+        "y": 66.5,
+        "pos": "M",
+        "name": "J. Manzambi",
+        "player_id": 1178
+      },
+      {
+        "n": 56,
+        "x": 52,
+        "y": 20.1,
+        "pos": "M",
+        "name": "D. Ndoye",
+        "player_id": 551
+      }
+    ]
+  }
 }
