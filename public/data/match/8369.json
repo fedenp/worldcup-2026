@@ -6,8 +6,8 @@
     "capacity": 70242
   },
   "weather": {
-    "code": 3,
-    "description": "rain",
+    "code": 1,
+    "description": "clear",
     "wind_speed": 13.8,
     "temperature_c": 25
   },
@@ -21,7 +21,25 @@
     "most_likely_score": "2-0",
     "confidence": 0.5535
   },
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 1,
+    "draws": 0,
+    "away_wins": 0,
+    "home_goals": 3,
+    "away_goals": 0,
+    "avg_total_goals": 3,
+    "home_win_rate": 1,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Austria",
+        "date": "2026-07-02T19:00:00+00:00",
+        "home": "Spain",
+        "score": "3-0"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {

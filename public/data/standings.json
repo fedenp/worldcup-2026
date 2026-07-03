@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T20:59:28.916Z",
+  "updated_at": "2026-07-03T02:27:30.388Z",
   "groups": {
     "Group A": [
       {
@@ -411,7 +411,7 @@
         "gd": 4,
         "pts": 5,
         "xg": 6.8,
-        "form": "DWDDD",
+        "form": "WWDDD",
         "live": false
       },
       {
@@ -477,7 +477,7 @@
         "gd": 5,
         "pts": 7,
         "xg": 6,
-        "form": "WWDLD",
+        "form": "WWWDL",
         "live": false
       },
       {
@@ -575,7 +575,7 @@
         "gd": 2,
         "pts": 3,
         "xg": 5.2,
-        "form": "DWLLW",
+        "form": "LWLLW",
         "live": false
       },
       {
@@ -625,7 +625,7 @@
         "gd": 0,
         "pts": 4,
         "xg": 3.6,
-        "form": "DLW",
+        "form": "LDLW",
         "live": false
       },
       {
@@ -691,7 +691,7 @@
         "gd": 5,
         "pts": 5,
         "xg": 3.8,
-        "form": "DWDLW",
+        "form": "WDWDL",
         "live": false
       },
       {
@@ -757,7 +757,7 @@
         "gd": 0,
         "pts": 6,
         "xg": 2.8,
-        "form": "WWLDW",
+        "form": "LWWLD",
         "live": false
       },
       {

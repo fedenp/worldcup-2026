@@ -11,7 +11,34 @@
     "wind_speed": 16.4,
     "temperature_c": 37
   },
-  "prediction": null,
-  "head_to_head": null,
+  "prediction": {
+    "prob_home": 48.2,
+    "prob_draw": 24.7,
+    "prob_away": 27.1,
+    "predicted": "H",
+    "xg_home": 0.77,
+    "xg_away": 1.35,
+    "most_likely_score": "0-1",
+    "confidence": 0.4816
+  },
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 1,
+    "away_wins": 0,
+    "home_goals": 3,
+    "away_goals": 3,
+    "avg_total_goals": 6,
+    "home_win_rate": 0,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Spain",
+        "date": "2018-06-15T17:00:00+00:00",
+        "home": "Portugal",
+        "score": "3-3"
+      }
+    ]
+  },
   "average_positions": null
 }

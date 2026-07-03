@@ -6,8 +6,8 @@
     "capacity": 45700
   },
   "weather": {
-    "code": 3,
-    "description": "rain",
+    "code": 2,
+    "description": "cloudy",
     "wind_speed": 2.9,
     "temperature_c": 27
   },
@@ -22,29 +22,276 @@
     "confidence": 0.5047
   },
   "head_to_head": {
-    "total_matches": 2,
+    "total_matches": 1,
     "home_wins": 1,
-    "draws": 1,
+    "draws": 0,
     "away_wins": 0,
-    "home_goals": 3,
-    "away_goals": 2,
-    "avg_total_goals": 2.5,
-    "home_win_rate": 0.5,
+    "home_goals": 2,
+    "away_goals": 1,
+    "avg_total_goals": 3,
+    "home_win_rate": 1,
     "away_win_rate": 0,
     "recent_matches": [
       {
-        "away": "Portugal",
-        "date": "2024-11-18T19:45:00+00:00",
-        "home": "Croatia",
-        "score": "1-1"
-      },
-      {
         "away": "Croatia",
-        "date": "2024-09-05T18:45:00+00:00",
+        "date": "2026-07-02T23:00:00+00:00",
         "home": "Portugal",
         "score": "2-1"
       }
     ]
   },
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 2,
+        "x": 68.1,
+        "y": 80.5,
+        "pos": "F",
+        "name": "A. Kramarić",
+        "player_id": 2387
+      },
+      {
+        "n": 16,
+        "x": 53.9,
+        "y": 64.3,
+        "pos": "F",
+        "name": "A. Budimir",
+        "player_id": 2669
+      },
+      {
+        "n": 8,
+        "x": 50.4,
+        "y": 76,
+        "pos": "D",
+        "name": "J. Gvardiol",
+        "player_id": 846
+      },
+      {
+        "n": 19,
+        "x": 56.6,
+        "y": 48.9,
+        "pos": "M",
+        "name": "M. Pašalić",
+        "player_id": 1309
+      },
+      {
+        "n": 76,
+        "x": 46.5,
+        "y": 51.2,
+        "pos": "M",
+        "name": "L. Modrić",
+        "player_id": 1993
+      },
+      {
+        "n": 78,
+        "x": 24.3,
+        "y": 65.5,
+        "pos": "D",
+        "name": "M. Pongračić",
+        "player_id": 1322
+      },
+      {
+        "n": 62,
+        "x": 35.7,
+        "y": 14.9,
+        "pos": "D",
+        "name": "J. Stanišić",
+        "player_id": 2468
+      },
+      {
+        "n": 33,
+        "x": 63.9,
+        "y": 53.5,
+        "pos": "F",
+        "name": "I. Matanović",
+        "player_id": 1183
+      },
+      {
+        "n": 46,
+        "x": 7.8,
+        "y": 50.3,
+        "pos": "G",
+        "name": "D. Livaković",
+        "player_id": 1053
+      },
+      {
+        "n": 69,
+        "x": 50.6,
+        "y": 35.4,
+        "pos": "M",
+        "name": "P. Sučić",
+        "player_id": 1685
+      },
+      {
+        "n": 58,
+        "x": 45.1,
+        "y": 83.5,
+        "pos": "M",
+        "name": "I. Perišić",
+        "player_id": 3510
+      },
+      {
+        "n": 44,
+        "x": 45.7,
+        "y": 24.1,
+        "pos": "M",
+        "name": "N. Vlašić",
+        "player_id": 1844
+      },
+      {
+        "n": 26,
+        "x": 61.2,
+        "y": 70.9,
+        "pos": "M",
+        "name": "M. Baturina",
+        "player_id": 2833
+      },
+      {
+        "n": 49,
+        "x": 29.4,
+        "y": 32.7,
+        "pos": "D",
+        "name": "J. Šutalo",
+        "player_id": 3767
+      },
+      {
+        "n": 71,
+        "x": 48.6,
+        "y": 67.1,
+        "pos": "M",
+        "name": "M. Kovačić",
+        "player_id": 4350
+      }
+    ],
+    "home": [
+      {
+        "n": 75,
+        "x": 53.1,
+        "y": 46.6,
+        "pos": "M",
+        "name": "J. Neves",
+        "player_id": 2247
+      },
+      {
+        "n": 17,
+        "x": 49.6,
+        "y": 44.7,
+        "pos": "M",
+        "name": "R. Neves",
+        "player_id": 7995
+      },
+      {
+        "n": 27,
+        "x": 38.1,
+        "y": 13.8,
+        "pos": "D",
+        "name": "N. Semedo",
+        "player_id": 3407
+      },
+      {
+        "n": 21,
+        "x": 61.7,
+        "y": 57.2,
+        "pos": "F",
+        "name": "G. Ramos",
+        "player_id": 2256
+      },
+      {
+        "n": 26,
+        "x": 65.3,
+        "y": 68.3,
+        "pos": "F",
+        "name": "C. Ronaldo",
+        "player_id": 7880
+      },
+      {
+        "n": 51,
+        "x": 66.4,
+        "y": 58.7,
+        "pos": "M",
+        "name": "B. Fernandes",
+        "player_id": 1794
+      },
+      {
+        "n": 20,
+        "x": 42.5,
+        "y": 54.7,
+        "pos": "M",
+        "name": "B. Silva",
+        "player_id": 848
+      },
+      {
+        "n": 42,
+        "x": 60,
+        "y": 17.7,
+        "pos": "M",
+        "name": "P. Neto",
+        "player_id": 394
+      },
+      {
+        "n": 61,
+        "x": 55.5,
+        "y": 26.1,
+        "pos": "D",
+        "name": "J. Cancelo",
+        "player_id": 8331
+      },
+      {
+        "n": 16,
+        "x": 53.7,
+        "y": 33.7,
+        "pos": "F",
+        "name": "F. Conceição",
+        "player_id": 2183
+      },
+      {
+        "n": 80,
+        "x": 63.5,
+        "y": 84.6,
+        "pos": "F",
+        "name": "R. Leão",
+        "player_id": 1997
+      },
+      {
+        "n": 28,
+        "x": 7.1,
+        "y": 48.9,
+        "pos": "G",
+        "name": "D. Costa",
+        "player_id": 996
+      },
+      {
+        "n": 98,
+        "x": 54.8,
+        "y": 76.2,
+        "pos": "D",
+        "name": "N. Mendes",
+        "player_id": 3470
+      },
+      {
+        "n": 88,
+        "x": 43.6,
+        "y": 61.8,
+        "pos": "D",
+        "name": "R. Veiga",
+        "player_id": 1781
+      },
+      {
+        "n": 123,
+        "x": 43.9,
+        "y": 34.1,
+        "pos": "D",
+        "name": "R. Dias",
+        "player_id": 845
+      },
+      {
+        "n": 95,
+        "x": 51.3,
+        "y": 54.4,
+        "pos": "M",
+        "name": "Vitinha",
+        "player_id": 2248
+      }
+    ]
+  }
 }
