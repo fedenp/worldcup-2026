@@ -6,8 +6,8 @@
     "capacity": 72220
   },
   "weather": {
-    "code": 1,
-    "description": "clear",
+    "code": 2,
+    "description": "cloudy",
     "wind_speed": 9,
     "temperature_c": 34
   },
@@ -40,5 +40,266 @@
       }
     ]
   },
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 38,
+        "x": 62.3,
+        "y": 38.4,
+        "pos": "F",
+        "name": "S. Rahimi",
+        "player_id": 15371
+      },
+      {
+        "n": 6,
+        "x": 37.3,
+        "y": 70.3,
+        "pos": "M",
+        "name": "I. Saibari",
+        "player_id": 3511
+      },
+      {
+        "n": 34,
+        "x": 50.7,
+        "y": 72.9,
+        "pos": "M",
+        "name": "B. E. Khannouss",
+        "player_id": 1619
+      },
+      {
+        "n": 16,
+        "x": 33.6,
+        "y": 83.8,
+        "pos": "M",
+        "name": "C. Talbi",
+        "player_id": 350
+      },
+      {
+        "n": 65,
+        "x": 11.1,
+        "y": 49,
+        "pos": "G",
+        "name": "Bono",
+        "player_id": 7990
+      },
+      {
+        "n": 5,
+        "x": 21,
+        "y": 38.3,
+        "pos": "D",
+        "name": "M. Saadane",
+        "player_id": 8257
+      },
+      {
+        "n": 4,
+        "x": 42,
+        "y": 22.9,
+        "pos": "M",
+        "name": "S. E. Mourabet",
+        "player_id": 1706
+      },
+      {
+        "n": 20,
+        "x": 37.9,
+        "y": 39.1,
+        "pos": "M",
+        "name": "S. Amrabat",
+        "player_id": 2985
+      },
+      {
+        "n": 105,
+        "x": 44.2,
+        "y": 11.8,
+        "pos": "D",
+        "name": "A. Hakimi",
+        "player_id": 4241
+      },
+      {
+        "n": 85,
+        "x": 35.6,
+        "y": 46.9,
+        "pos": "M",
+        "name": "N. El Aynaoui",
+        "player_id": 1070
+      },
+      {
+        "n": 42,
+        "x": 47.9,
+        "y": 17,
+        "pos": "M",
+        "name": "B. Díaz",
+        "player_id": 598
+      },
+      {
+        "n": 82,
+        "x": 32.3,
+        "y": 85.3,
+        "pos": "D",
+        "name": "N. Mazraoui",
+        "player_id": 1799
+      },
+      {
+        "n": 55,
+        "x": 31.9,
+        "y": 37.7,
+        "pos": "M",
+        "name": "A. Bouaddi",
+        "player_id": 1451
+      },
+      {
+        "n": 98,
+        "x": 27.9,
+        "y": 27.2,
+        "pos": "D",
+        "name": "I. Diop",
+        "player_id": 4377
+      },
+      {
+        "n": 71,
+        "x": 45.9,
+        "y": 37.5,
+        "pos": "M",
+        "name": "A. Ounahi",
+        "player_id": 1044
+      },
+      {
+        "n": 89,
+        "x": 25.1,
+        "y": 66,
+        "pos": "D",
+        "name": "R. Halhal",
+        "player_id": 7757
+      }
+    ],
+    "home": [
+      {
+        "n": 53,
+        "x": 66.6,
+        "y": 48.4,
+        "pos": "F",
+        "name": "J. David",
+        "player_id": 2186
+      },
+      {
+        "n": 51,
+        "x": 52.2,
+        "y": 86,
+        "pos": "D",
+        "name": "R. Laryea",
+        "player_id": 9548
+      },
+      {
+        "n": 20,
+        "x": 65,
+        "y": 79.5,
+        "pos": "M",
+        "name": "J. Shaffelburg",
+        "player_id": 9296
+      },
+      {
+        "n": 9,
+        "x": 75.5,
+        "y": 69.5,
+        "pos": "F",
+        "name": "C. Larin",
+        "player_id": 4164
+      },
+      {
+        "n": 10,
+        "x": 78.2,
+        "y": 37.4,
+        "pos": "F",
+        "name": "P. David",
+        "player_id": 3754
+      },
+      {
+        "n": 10,
+        "x": 51.8,
+        "y": 47.4,
+        "pos": "M",
+        "name": "J. Osorio",
+        "player_id": 9550
+      },
+      {
+        "n": 15,
+        "x": 68.7,
+        "y": 41.2,
+        "pos": "F",
+        "name": "J. Nelson",
+        "player_id": 9128
+      },
+      {
+        "n": 32,
+        "x": 75.1,
+        "y": 56.7,
+        "pos": "F",
+        "name": "T. Oluwaseyi",
+        "player_id": 1779
+      },
+      {
+        "n": 57,
+        "x": 37.7,
+        "y": 39.1,
+        "pos": "D",
+        "name": "M. Bombito",
+        "player_id": 4514
+      },
+      {
+        "n": 34,
+        "x": 19.8,
+        "y": 51.7,
+        "pos": "G",
+        "name": "M. Crépeau",
+        "player_id": 9267
+      },
+      {
+        "n": 53,
+        "x": 54.1,
+        "y": 44.5,
+        "pos": "D",
+        "name": "N. Sigur",
+        "player_id": 16947
+      },
+      {
+        "n": 45,
+        "x": 57.6,
+        "y": 85,
+        "pos": "M",
+        "name": "A. Ahmed",
+        "player_id": 8580
+      },
+      {
+        "n": 99,
+        "x": 62.6,
+        "y": 57.4,
+        "pos": "M",
+        "name": "S. Eustaquio",
+        "player_id": 1011
+      },
+      {
+        "n": 79,
+        "x": 46.7,
+        "y": 62.7,
+        "pos": "D",
+        "name": "L. D. Fougerolles",
+        "player_id": 7612
+      },
+      {
+        "n": 49,
+        "x": 60.3,
+        "y": 26.3,
+        "pos": "M",
+        "name": "T. Buchanan",
+        "player_id": 1769
+      },
+      {
+        "n": 73,
+        "x": 52.6,
+        "y": 15.9,
+        "pos": "D",
+        "name": "A. Johnston",
+        "player_id": 4406
+      }
+    ]
+  }
 }
