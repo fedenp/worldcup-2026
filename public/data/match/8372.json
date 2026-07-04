@@ -21,7 +21,25 @@
     "most_likely_score": "0-0",
     "confidence": 0.5535
   },
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 1,
+    "away_wins": 0,
+    "home_goals": 1,
+    "away_goals": 1,
+    "avg_total_goals": 2,
+    "home_win_rate": 0,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Egypt",
+        "date": "2026-07-03T18:00:00+00:00",
+        "home": "Australia",
+        "score": "1-1"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {
