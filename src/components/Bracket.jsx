@@ -2,21 +2,15 @@ import { useState, useEffect } from 'react'
 import { flagUrl } from '../teamFlags.js'
 import './Bracket.css'
 
-// R32: adjacent slots feed the same R16 match (verified against real results).
-// The official draw pairs non-sequential bracket slots: M73 with M75, M74 with M77, etc.
-// R16-A(Canada-Morocco):  8359(M73 SA/CAN)  + 8362(M75 NED/MAR)
-// R16-B(Paraguay-France): 8361(M74 GER/PAR) + 8364(M77 FRA/SWE)
-// R16-C(Portugal-Spain):  8370(M83 POR/CRO) + 8369(M84 ESP/AUT)
-// R16-D(USA-Senegal):     8367(M82 BEL/SEN) + 8368(M81 USA/BIH)
-// R16-E(Brazil-Norway):   8360(M76 BRA/JPN) + 8363(M78 CIV/NOR)
-// R16-F(Mexico-England):  8365(M79 MEX/ECU) + 8366(M80 ENG/DRC)
-// R16-G(Arg-Egypt):       8373(M86 ARG/CPV) + 8372(M88 AUS/EGY)
-// R16-H(Switz-Colombia):  8371(M85 SUI/ALG) + 8374(M87 COL/GHA)
-const R32_IDS = [8359,8362, 8361,8364, 8370,8369, 8367,8368,
-                 8360,8363, 8365,8366, 8373,8372, 8371,8374]
-// R16: pairs that feed the same QF must be adjacent.
-// QF8383=W89(8375)+W90(8376), QF8384=W93(8379)+W94(8380) → SF8387
-// QF8385=W91(8377)+W92(8378), QF8386=W95(8381)+W96(8382) → SF8388
+// R32: pairs ordered so each consecutive pair feeds the correct R16 match.
+// Left half (→ SF8387): 8359(SA/CAN)+8362(NED/MAR)→8375, 8361(GER/PAR)+8364(FRA/SWE)→8376
+//                       8370(POR/CRO)+8369(ESP/AUT)→8379, 8368(USA/BIH)+8367(BEL/SEN)→8380
+// Right half (→ SF8388): 8360(BRA/JPN)+8363(CIV/NOR)→8377, 8365(MEX/ECU)+8366(ENG/DRC)→8378
+//                        8373(ARG/CPV)+8372(AUS/EGY)→8381, 8371(SUI/ALG)+8374(COL/GHA)→8382
+const R32_IDS = [8359, 8362, 8361, 8364, 8370, 8369, 8368, 8367,
+                 8360, 8363, 8365, 8366, 8373, 8372, 8371, 8374]
+// R16: QF8383=W(8375)+W(8376), QF8384=W(8379)+W(8380) → SF8387
+//      QF8385=W(8377)+W(8378), QF8386=W(8381)+W(8382) → SF8388
 const R16_IDS = [8375, 8376, 8379, 8380, 8377, 8378, 8381, 8382]
 // QF: (8383,8384)→SF8387 via W97+W98; (8385,8386)→SF8388 via W99+W100
 const QF_IDS  = [8383, 8384, 8385, 8386]
