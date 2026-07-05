@@ -21,6 +21,253 @@
     "most_likely_score": "0-1",
     "confidence": 0.5021
   },
-  "head_to_head": null,
-  "average_positions": null
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 0,
+    "away_wins": 1,
+    "home_goals": 0,
+    "away_goals": 1,
+    "avg_total_goals": 1,
+    "home_win_rate": 0,
+    "away_win_rate": 1,
+    "recent_matches": [
+      {
+        "away": "France",
+        "date": "2026-07-04T21:00:00+00:00",
+        "home": "Paraguay",
+        "score": "0-1"
+      }
+    ]
+  },
+  "average_positions": {
+    "away": [
+      {
+        "n": 35,
+        "x": 74.1,
+        "y": 81.8,
+        "pos": "F",
+        "name": "B. Barcola",
+        "player_id": 2261
+      },
+      {
+        "n": 48,
+        "x": 73.9,
+        "y": 64,
+        "pos": "F",
+        "name": "K. Mbappé",
+        "player_id": 594
+      },
+      {
+        "n": 51,
+        "x": 11,
+        "y": 48.7,
+        "pos": "G",
+        "name": "M. Maignan",
+        "player_id": 1987
+      },
+      {
+        "n": 33,
+        "x": 68,
+        "y": 80,
+        "pos": "F",
+        "name": "D. Doué",
+        "player_id": 4324
+      },
+      {
+        "n": 10,
+        "x": 72.6,
+        "y": 14.7,
+        "pos": "M",
+        "name": "R. Cherki",
+        "player_id": 856
+      },
+      {
+        "n": 99,
+        "x": 41.3,
+        "y": 66.7,
+        "pos": "D",
+        "name": "W. Saliba",
+        "player_id": 3460
+      },
+      {
+        "n": 84,
+        "x": 55.6,
+        "y": 20.6,
+        "pos": "D",
+        "name": "J. Koundé",
+        "player_id": 739
+      },
+      {
+        "n": 100,
+        "x": 44.3,
+        "y": 36.3,
+        "pos": "D",
+        "name": "D. Upamecano",
+        "player_id": 3463
+      },
+      {
+        "n": 94,
+        "x": 65.2,
+        "y": 35.9,
+        "pos": "M",
+        "name": "M. Olise",
+        "player_id": 2467
+      },
+      {
+        "n": 69,
+        "x": 75,
+        "y": 26.9,
+        "pos": "F",
+        "name": "O. Dembélé",
+        "player_id": 2253
+      },
+      {
+        "n": 81,
+        "x": 53.9,
+        "y": 67.4,
+        "pos": "M",
+        "name": "A. Rabiot",
+        "player_id": 1994
+      },
+      {
+        "n": 100,
+        "x": 58.8,
+        "y": 42.5,
+        "pos": "M",
+        "name": "M. Koné",
+        "player_id": 1064
+      },
+      {
+        "n": 88,
+        "x": 51.3,
+        "y": 85.8,
+        "pos": "D",
+        "name": "L. Digne",
+        "player_id": 513
+      }
+    ],
+    "home": [
+      {
+        "n": 13,
+        "x": 31,
+        "y": 42.3,
+        "pos": "D",
+        "name": "G. Gómez",
+        "player_id": 26
+      },
+      {
+        "n": 39,
+        "x": 9.1,
+        "y": 47,
+        "pos": "G",
+        "name": "O. Gill",
+        "player_id": 16917
+      },
+      {
+        "n": 21,
+        "x": 56.7,
+        "y": 42.4,
+        "pos": "M",
+        "name": "J. Enciso",
+        "player_id": 1710
+      },
+      {
+        "n": 12,
+        "x": 20.1,
+        "y": 70.9,
+        "pos": "D",
+        "name": "O. Alderete",
+        "player_id": 345
+      },
+      {
+        "n": 46,
+        "x": 39.6,
+        "y": 32.1,
+        "pos": "M",
+        "name": "M. Almirón",
+        "player_id": 9678
+      },
+      {
+        "n": 54,
+        "x": 34.1,
+        "y": 81.5,
+        "pos": "D",
+        "name": "J. Alonso",
+        "player_id": 4
+      },
+      {
+        "n": 10,
+        "x": 55.8,
+        "y": 65.8,
+        "pos": "M",
+        "name": "G. Caballero",
+        "player_id": 225
+      },
+      {
+        "n": 54,
+        "x": 31.9,
+        "y": 19.5,
+        "pos": "D",
+        "name": "J. Cáceres",
+        "player_id": 16918
+      },
+      {
+        "n": 20,
+        "x": 49.4,
+        "y": 46.8,
+        "pos": "M",
+        "name": "Mauricio",
+        "player_id": 42
+      },
+      {
+        "n": 7,
+        "x": 76.5,
+        "y": 56.9,
+        "pos": "F",
+        "name": "G. Ávalos",
+        "player_id": 16919
+      },
+      {
+        "n": 58,
+        "x": 35.9,
+        "y": 71.4,
+        "pos": "M",
+        "name": "M. Galarza",
+        "player_id": 13574
+      },
+      {
+        "n": 52,
+        "x": 35.7,
+        "y": 58.6,
+        "pos": "M",
+        "name": "A. Cubas",
+        "player_id": 9106
+      },
+      {
+        "n": 35,
+        "x": 35.4,
+        "y": 32,
+        "pos": "D",
+        "name": "G. Velázquez",
+        "player_id": 16915
+      },
+      {
+        "n": 50,
+        "x": 45.2,
+        "y": 32.5,
+        "pos": "M",
+        "name": "D. Gómez",
+        "player_id": 488
+      },
+      {
+        "n": 9,
+        "x": 30.5,
+        "y": 80.6,
+        "pos": "D",
+        "name": "J. Canale",
+        "player_id": 16912
+      }
+    ]
+  }
 }

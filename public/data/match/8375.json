@@ -22,16 +22,22 @@
     "confidence": 0.5139
   },
   "head_to_head": {
-    "total_matches": 1,
+    "total_matches": 2,
     "home_wins": 0,
     "draws": 0,
-    "away_wins": 1,
+    "away_wins": 2,
     "home_goals": 1,
-    "away_goals": 2,
+    "away_goals": 5,
     "avg_total_goals": 3,
     "home_win_rate": 0,
     "away_win_rate": 1,
     "recent_matches": [
+      {
+        "away": "Morocco",
+        "date": "2026-07-04T17:00:00+00:00",
+        "home": "Canada",
+        "score": "0-3"
+      },
       {
         "away": "Morocco",
         "date": "2022-12-01T14:00:00+00:00",
