@@ -21,6 +21,269 @@
     "most_likely_score": "1-1",
     "confidence": 0.4447
   },
-  "head_to_head": null,
-  "average_positions": null
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 0,
+    "away_wins": 1,
+    "home_goals": 1,
+    "away_goals": 2,
+    "avg_total_goals": 3,
+    "home_win_rate": 0,
+    "away_win_rate": 1,
+    "recent_matches": [
+      {
+        "away": "Norway",
+        "date": "2026-07-05T20:00:00+00:00",
+        "home": "Brazil",
+        "score": "1-2"
+      }
+    ]
+  },
+  "average_positions": {
+    "away": [
+      {
+        "n": 45,
+        "x": 53.8,
+        "y": 53.4,
+        "pos": "M",
+        "name": "P. Berg",
+        "player_id": 3673
+      },
+      {
+        "n": 36,
+        "x": 56.1,
+        "y": 73.8,
+        "pos": "F",
+        "name": "A. Nusa",
+        "player_id": 2897
+      },
+      {
+        "n": 42,
+        "x": 67.5,
+        "y": 13.1,
+        "pos": "F",
+        "name": "A. Sørloth",
+        "player_id": 774
+      },
+      {
+        "n": 101,
+        "x": 36.1,
+        "y": 33.9,
+        "pos": "D",
+        "name": "K. Ajer",
+        "player_id": 464
+      },
+      {
+        "n": 1,
+        "x": 11.1,
+        "y": 27.8,
+        "pos": "D",
+        "name": "L. Østigård",
+        "player_id": 2590
+      },
+      {
+        "n": 36,
+        "x": 61.2,
+        "y": 49,
+        "pos": "F",
+        "name": "E. Haaland",
+        "player_id": 852
+      },
+      {
+        "n": 42,
+        "x": 59.4,
+        "y": 25.8,
+        "pos": "M",
+        "name": "O. Bobb",
+        "player_id": 3651
+      },
+      {
+        "n": 134,
+        "x": 60.2,
+        "y": 33.8,
+        "pos": "M",
+        "name": "M. Ødegaard",
+        "player_id": 447
+      },
+      {
+        "n": 47,
+        "x": 61.7,
+        "y": 77.8,
+        "pos": "M",
+        "name": "A. Schjelderup",
+        "player_id": 2064
+      },
+      {
+        "n": 23,
+        "x": 42.6,
+        "y": 16.1,
+        "pos": "M",
+        "name": "F. Aursnes",
+        "player_id": 2056
+      },
+      {
+        "n": 134,
+        "x": 48.3,
+        "y": 48.8,
+        "pos": "M",
+        "name": "S. Berge",
+        "player_id": 829
+      },
+      {
+        "n": 59,
+        "x": 11,
+        "y": 51.6,
+        "pos": "G",
+        "name": "Ø. Nyland",
+        "player_id": 1561
+      },
+      {
+        "n": 95,
+        "x": 36.4,
+        "y": 67.4,
+        "pos": "D",
+        "name": "T. Heggem",
+        "player_id": 957
+      },
+      {
+        "n": 82,
+        "x": 55.5,
+        "y": 12.3,
+        "pos": "M",
+        "name": "J. Ryerson",
+        "player_id": 2159
+      },
+      {
+        "n": 67,
+        "x": 50.9,
+        "y": 82.8,
+        "pos": "D",
+        "name": "D. M. Wolfe",
+        "player_id": 529
+      }
+    ],
+    "home": [
+      {
+        "n": 38,
+        "x": 33.8,
+        "y": 39.1,
+        "pos": "D",
+        "name": "Marquinhos",
+        "player_id": 2244
+      },
+      {
+        "n": 9,
+        "x": 70.5,
+        "y": 15,
+        "pos": "M",
+        "name": "Éderson",
+        "player_id": 1302
+      },
+      {
+        "n": 35,
+        "x": 14.8,
+        "y": 48.8,
+        "pos": "G",
+        "name": "Alisson",
+        "player_id": 322
+      },
+      {
+        "n": 27,
+        "x": 65.7,
+        "y": 69.2,
+        "pos": "F",
+        "name": "Neymar",
+        "player_id": 215
+      },
+      {
+        "n": 75,
+        "x": 45.4,
+        "y": 20.4,
+        "pos": "D",
+        "name": "Danilo",
+        "player_id": 49
+      },
+      {
+        "n": 73,
+        "x": 35.6,
+        "y": 82.6,
+        "pos": "D",
+        "name": "D. Santos",
+        "player_id": 16392
+      },
+      {
+        "n": 12,
+        "x": 65.3,
+        "y": 37,
+        "pos": "F",
+        "name": "Endrick",
+        "player_id": 606
+      },
+      {
+        "n": 36,
+        "x": 53.6,
+        "y": 63.1,
+        "pos": "M",
+        "name": "D. Santos",
+        "player_id": 3877
+      },
+      {
+        "n": 29,
+        "x": 60.2,
+        "y": 58.5,
+        "pos": "F",
+        "name": "M. Cunha",
+        "player_id": 4119
+      },
+      {
+        "n": 59,
+        "x": 52.8,
+        "y": 54,
+        "pos": "M",
+        "name": "Casemiro",
+        "player_id": 1793
+      },
+      {
+        "n": 41,
+        "x": 50.5,
+        "y": 59.1,
+        "pos": "F",
+        "name": "G. Martinelli",
+        "player_id": 452
+      },
+      {
+        "n": 36,
+        "x": 60.5,
+        "y": 17.4,
+        "pos": "M",
+        "name": "Rayan",
+        "player_id": 663
+      },
+      {
+        "n": 51,
+        "x": 76.2,
+        "y": 79.4,
+        "pos": "F",
+        "name": "Vinícius Jr.",
+        "player_id": 595
+      },
+      {
+        "n": 42,
+        "x": 56.5,
+        "y": 43.9,
+        "pos": "M",
+        "name": "B. Guimarães",
+        "player_id": 709
+      },
+      {
+        "n": 53,
+        "x": 30.2,
+        "y": 62.1,
+        "pos": "D",
+        "name": "G. Magalhães",
+        "player_id": 4072
+      }
+    ]
+  }
 }
