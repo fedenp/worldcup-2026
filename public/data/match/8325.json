@@ -5,8 +5,285 @@
     "city": "Miami Gardens",
     "capacity": 65326
   },
-  "weather": null,
-  "prediction": null,
-  "head_to_head": null,
-  "average_positions": null
+  "weather": {
+    "code": 1,
+    "description": "clear",
+    "wind_speed": 18.2,
+    "temperature_c": 31
+  },
+  "prediction": {
+    "prob_home": 55.5,
+    "prob_draw": 22.9,
+    "prob_away": 21.6,
+    "predicted": "H",
+    "xg_home": 1.25,
+    "xg_away": 1.05,
+    "most_likely_score": "1-1",
+    "confidence": 0.5553
+  },
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 1,
+    "away_wins": 0,
+    "home_goals": 2,
+    "away_goals": 2,
+    "avg_total_goals": 4,
+    "home_win_rate": 0,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Cabo Verde",
+        "date": "2026-06-21T22:00:00+00:00",
+        "home": "Uruguay",
+        "score": "2-2"
+      }
+    ]
+  },
+  "average_positions": {
+    "away": [
+      {
+        "n": 49,
+        "x": 10,
+        "y": 48.6,
+        "pos": "G",
+        "name": "Vozinha",
+        "player_id": 22095
+      },
+      {
+        "n": 30,
+        "x": 51.6,
+        "y": 51.1,
+        "pos": "F",
+        "name": "G. Tavares",
+        "player_id": 22070
+      },
+      {
+        "n": 21,
+        "x": 39.7,
+        "y": 35.6,
+        "pos": "M",
+        "name": "T. Arcanjo",
+        "player_id": 2701
+      },
+      {
+        "n": 18,
+        "x": 53.7,
+        "y": 80.7,
+        "pos": "M",
+        "name": "G. Rodrigues",
+        "player_id": 22074
+      },
+      {
+        "n": 25,
+        "x": 37.7,
+        "y": 49.2,
+        "pos": "M",
+        "name": "D. Duarte",
+        "player_id": 3314
+      },
+      {
+        "n": 14,
+        "x": 47.2,
+        "y": 71,
+        "pos": "M",
+        "name": "H. Varela",
+        "player_id": 3176
+      },
+      {
+        "n": 45,
+        "x": 37.1,
+        "y": 29,
+        "pos": "M",
+        "name": "R. Mendes",
+        "player_id": 7073
+      },
+      {
+        "n": 53,
+        "x": 30,
+        "y": 16.2,
+        "pos": "D",
+        "name": "S. Moreira",
+        "player_id": 9199
+      },
+      {
+        "n": 55,
+        "x": 38.9,
+        "y": 55.2,
+        "pos": "M",
+        "name": "K. Lenini",
+        "player_id": 22076
+      },
+      {
+        "n": 40,
+        "x": 53.6,
+        "y": 63.9,
+        "pos": "M",
+        "name": "J. Monteiro",
+        "player_id": 5331
+      },
+      {
+        "n": 69,
+        "x": 28.6,
+        "y": 35.2,
+        "pos": "D",
+        "name": "Pico",
+        "player_id": 22089
+      },
+      {
+        "n": 18,
+        "x": 55.6,
+        "y": 55.9,
+        "pos": "M",
+        "name": "L. Duarte",
+        "player_id": 22077
+      },
+      {
+        "n": 24,
+        "x": 59.4,
+        "y": 48.4,
+        "pos": "F",
+        "name": "N. Da Costa",
+        "player_id": 6645
+      },
+      {
+        "n": 16,
+        "x": 38.6,
+        "y": 42.8,
+        "pos": "M",
+        "name": "Y. Semedo",
+        "player_id": 22079
+      },
+      {
+        "n": 67,
+        "x": 43.3,
+        "y": 81.3,
+        "pos": "D",
+        "name": "S. L. Cabral",
+        "player_id": 1235
+      },
+      {
+        "n": 80,
+        "x": 24.1,
+        "y": 63.3,
+        "pos": "D",
+        "name": "Diney",
+        "player_id": 22092
+      }
+    ],
+    "home": [
+      {
+        "n": 26,
+        "x": 68.5,
+        "y": 40.4,
+        "pos": "F",
+        "name": "F. Viñas",
+        "player_id": 1973
+      },
+      {
+        "n": 13,
+        "x": 73.7,
+        "y": 43.9,
+        "pos": "F",
+        "name": "D. Núñez",
+        "player_id": 8000
+      },
+      {
+        "n": 21,
+        "x": 55.8,
+        "y": 49.1,
+        "pos": "M",
+        "name": "N. De la Cruz",
+        "player_id": 61
+      },
+      {
+        "n": 19,
+        "x": 88.1,
+        "y": 82.3,
+        "pos": "M",
+        "name": "B. Rodríguez",
+        "player_id": 10110
+      },
+      {
+        "n": 103,
+        "x": 51.8,
+        "y": 68.1,
+        "pos": "D",
+        "name": "M. Olivera",
+        "player_id": 1089
+      },
+      {
+        "n": 40,
+        "x": 76.4,
+        "y": 66,
+        "pos": "D",
+        "name": "M. Araújo",
+        "player_id": 1215
+      },
+      {
+        "n": 75,
+        "x": 55.9,
+        "y": 49.1,
+        "pos": "M",
+        "name": "M. Ugarte",
+        "player_id": 1806
+      },
+      {
+        "n": 40,
+        "x": 11.2,
+        "y": 51.3,
+        "pos": "G",
+        "name": "F. Muslera",
+        "player_id": 16896
+      },
+      {
+        "n": 83,
+        "x": 46.3,
+        "y": 34.1,
+        "pos": "D",
+        "name": "S. Cáceres",
+        "player_id": 10103
+      },
+      {
+        "n": 75,
+        "x": 57.4,
+        "y": 15.3,
+        "pos": "D",
+        "name": "G. Varela",
+        "player_id": 48
+      },
+      {
+        "n": 72,
+        "x": 65.3,
+        "y": 15.8,
+        "pos": "M",
+        "name": "A. Canobbio",
+        "player_id": 2908
+      },
+      {
+        "n": 71,
+        "x": 62,
+        "y": 87.8,
+        "pos": "D",
+        "name": "J. Sanabria",
+        "player_id": 10229
+      },
+      {
+        "n": 89,
+        "x": 63.6,
+        "y": 60.4,
+        "pos": "M",
+        "name": "F. Valverde",
+        "player_id": 593
+      },
+      {
+        "n": 99,
+        "x": 53.9,
+        "y": 37.7,
+        "pos": "M",
+        "name": "R. Bentancur",
+        "player_id": 723
+      }
+    ]
+  }
 }

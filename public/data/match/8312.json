@@ -5,8 +5,301 @@
     "city": "Inglewood",
     "capacity": 70242
   },
-  "weather": null,
-  "prediction": null,
-  "head_to_head": null,
-  "average_positions": null
+  "weather": {
+    "code": 2,
+    "description": "cloudy",
+    "wind_speed": 16.3,
+    "temperature_c": 21
+  },
+  "prediction": {
+    "prob_home": 65.3,
+    "prob_draw": 17.3,
+    "prob_away": 17.4,
+    "predicted": "H",
+    "xg_home": 1.55,
+    "xg_away": 1.67,
+    "most_likely_score": "1-1",
+    "confidence": 0.6527
+  },
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 1,
+    "draws": 0,
+    "away_wins": 0,
+    "home_goals": 4,
+    "away_goals": 1,
+    "avg_total_goals": 5,
+    "home_win_rate": 1,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Bosnia & Herzegovina",
+        "date": "2026-06-18T19:00:00+00:00",
+        "home": "Switzerland",
+        "score": "4-1"
+      }
+    ]
+  },
+  "average_positions": {
+    "away": [
+      {
+        "n": 29,
+        "x": 44.9,
+        "y": 53.8,
+        "pos": "M",
+        "name": "B. Tahirović",
+        "player_id": 26812
+      },
+      {
+        "n": 16,
+        "x": 55.7,
+        "y": 44.6,
+        "pos": "F",
+        "name": "E. Bajraktarević",
+        "player_id": 3515
+      },
+      {
+        "n": 17,
+        "x": 53.4,
+        "y": 56.6,
+        "pos": "M",
+        "name": "I. Bašić",
+        "player_id": 53960
+      },
+      {
+        "n": 5,
+        "x": 66.7,
+        "y": 59,
+        "pos": "F",
+        "name": "J. Lukić",
+        "player_id": 10686
+      },
+      {
+        "n": 4,
+        "x": 57.5,
+        "y": 69.8,
+        "pos": "M",
+        "name": "A. Hadžiahmetović",
+        "player_id": 6193
+      },
+      {
+        "n": 70,
+        "x": 24.1,
+        "y": 31.6,
+        "pos": "D",
+        "name": "N. Katić",
+        "player_id": 27586
+      },
+      {
+        "n": 3,
+        "x": 75.8,
+        "y": 61.2,
+        "pos": "M",
+        "name": "E. Mahmić",
+        "player_id": 53958
+      },
+      {
+        "n": 75,
+        "x": 29.4,
+        "y": 59.5,
+        "pos": "D",
+        "name": "T. Muharemović",
+        "player_id": 2846
+      },
+      {
+        "n": 27,
+        "x": 58,
+        "y": 54.9,
+        "pos": "F",
+        "name": "E. Demirović",
+        "player_id": 4516
+      },
+      {
+        "n": 63,
+        "x": 34.8,
+        "y": 28.5,
+        "pos": "D",
+        "name": "A. Dedić",
+        "player_id": 2052
+      },
+      {
+        "n": 47,
+        "x": 48.2,
+        "y": 71.7,
+        "pos": "M",
+        "name": "A. Memić",
+        "player_id": 3222
+      },
+      {
+        "n": 41,
+        "x": 47.3,
+        "y": 54.5,
+        "pos": "F",
+        "name": "E. Džeko",
+        "player_id": 1343
+      },
+      {
+        "n": 75,
+        "x": 44.9,
+        "y": 83,
+        "pos": "D",
+        "name": "S. Kolašinac",
+        "player_id": 1312
+      },
+      {
+        "n": 53,
+        "x": 37.3,
+        "y": 52.9,
+        "pos": "M",
+        "name": "I. Šunjić",
+        "player_id": 3604
+      },
+      {
+        "n": 47,
+        "x": 61.8,
+        "y": 80.1,
+        "pos": "M",
+        "name": "K. Alajbegović",
+        "player_id": 3046
+      },
+      {
+        "n": 60,
+        "x": 12.5,
+        "y": 49.5,
+        "pos": "G",
+        "name": "N. Vasilj",
+        "player_id": 2476
+      }
+    ],
+    "home": [
+      {
+        "n": 45,
+        "x": 66.6,
+        "y": 56,
+        "pos": "M",
+        "name": "F. Rieder",
+        "player_id": 2404
+      },
+      {
+        "n": 54,
+        "x": 42.8,
+        "y": 15.2,
+        "pos": "M",
+        "name": "S. Widmer",
+        "player_id": 1208
+      },
+      {
+        "n": 35,
+        "x": 68.6,
+        "y": 52.4,
+        "pos": "F",
+        "name": "B. Embolo",
+        "player_id": 2811
+      },
+      {
+        "n": 25,
+        "x": 70.4,
+        "y": 37.4,
+        "pos": "M",
+        "name": "J. Manzambi",
+        "player_id": 1178
+      },
+      {
+        "n": 16,
+        "x": 79.6,
+        "y": 76.2,
+        "pos": "M",
+        "name": "R. Vargas",
+        "player_id": 3803
+      },
+      {
+        "n": 52,
+        "x": 58.1,
+        "y": 46.9,
+        "pos": "M",
+        "name": "M. Aebischer",
+        "player_id": 1660
+      },
+      {
+        "n": 48,
+        "x": 73.7,
+        "y": 74.9,
+        "pos": "M",
+        "name": "D. Ndoye",
+        "player_id": 551
+      },
+      {
+        "n": 12,
+        "x": 45.7,
+        "y": 12.7,
+        "pos": "D",
+        "name": "L. Jaquez",
+        "player_id": 3119
+      },
+      {
+        "n": 105,
+        "x": 37.8,
+        "y": 61.8,
+        "pos": "D",
+        "name": "M. Akanji",
+        "player_id": 1679
+      },
+      {
+        "n": 12,
+        "x": 52,
+        "y": 51.1,
+        "pos": "M",
+        "name": "D. Sow",
+        "player_id": 1550
+      },
+      {
+        "n": 3,
+        "x": 60.6,
+        "y": 43.9,
+        "pos": "F",
+        "name": "C. Itten",
+        "player_id": 27743
+      },
+      {
+        "n": 49,
+        "x": 11.4,
+        "y": 47.7,
+        "pos": "G",
+        "name": "G. Kobel",
+        "player_id": 2155
+      },
+      {
+        "n": 87,
+        "x": 59.1,
+        "y": 86.1,
+        "pos": "D",
+        "name": "R. Rodríguez",
+        "player_id": 1582
+      },
+      {
+        "n": 90,
+        "x": 37,
+        "y": 32.3,
+        "pos": "D",
+        "name": "N. Elvedi",
+        "player_id": 2869
+      },
+      {
+        "n": 127,
+        "x": 52.2,
+        "y": 58.5,
+        "pos": "M",
+        "name": "G. Xhaka",
+        "player_id": 348
+      },
+      {
+        "n": 95,
+        "x": 51.2,
+        "y": 46,
+        "pos": "M",
+        "name": "R. Freuler",
+        "player_id": 4266
+      }
+    ]
+  }
 }

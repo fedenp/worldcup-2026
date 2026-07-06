@@ -5,9 +5,41 @@
     "city": "Houston",
     "capacity": 72220
   },
-  "weather": null,
-  "prediction": null,
-  "head_to_head": null,
+  "weather": {
+    "code": 1,
+    "description": "clear",
+    "wind_speed": 20.2,
+    "temperature_c": 32
+  },
+  "prediction": {
+    "prob_home": 58.9,
+    "prob_draw": 22,
+    "prob_away": 19,
+    "predicted": "H",
+    "xg_home": 1.5,
+    "xg_away": 1,
+    "most_likely_score": "1-0",
+    "confidence": 0.5892
+  },
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 1,
+    "draws": 0,
+    "away_wins": 0,
+    "home_goals": 5,
+    "away_goals": 1,
+    "avg_total_goals": 6,
+    "home_win_rate": 1,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Sweden",
+        "date": "2026-06-20T17:00:00+00:00",
+        "home": "Netherlands",
+        "score": "5-1"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {

@@ -5,7 +5,12 @@
     "city": "Kansas City",
     "capacity": 76416
   },
-  "weather": null,
+  "weather": {
+    "code": 1,
+    "description": "clear",
+    "wind_speed": 26.3,
+    "temperature_c": 21
+  },
   "prediction": {
     "prob_home": 63.6,
     "prob_draw": 19.6,
@@ -16,6 +21,297 @@
     "most_likely_score": "1-1",
     "confidence": 0.6359
   },
-  "head_to_head": null,
-  "average_positions": null
+  "head_to_head": {
+    "total_matches": 3,
+    "home_wins": 3,
+    "draws": 0,
+    "away_wins": 0,
+    "home_goals": 8,
+    "away_goals": 3,
+    "avg_total_goals": 3.6666666666666665,
+    "home_win_rate": 1,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Algeria",
+        "date": "2026-06-17T01:00:00+00:00",
+        "home": "Argentina",
+        "score": "3-0"
+      },
+      {
+        "away": "Argentina",
+        "date": "2018-06-26T17:00:00+00:00",
+        "home": "Algeria",
+        "score": "1-2"
+      },
+      {
+        "away": "Argentina",
+        "date": "2014-06-25T09:00:00+00:00",
+        "home": "Algeria",
+        "score": "2-3"
+      }
+    ]
+  },
+  "average_positions": {
+    "away": [
+      {
+        "n": 38,
+        "x": 53,
+        "y": 42.9,
+        "pos": "M",
+        "name": "H. Boudaoui",
+        "player_id": 1504
+      },
+      {
+        "n": 27,
+        "x": 66.6,
+        "y": 58.9,
+        "pos": "F",
+        "name": "A. Gouiri",
+        "player_id": 4540
+      },
+      {
+        "n": 37,
+        "x": 67.2,
+        "y": 25.2,
+        "pos": "M",
+        "name": "A. H. Moussa",
+        "player_id": 3368
+      },
+      {
+        "n": 28,
+        "x": 58.6,
+        "y": 21.6,
+        "pos": "M",
+        "name": "R. Mahrez",
+        "player_id": 8116
+      },
+      {
+        "n": 8,
+        "x": 61.5,
+        "y": 49.2,
+        "pos": "F",
+        "name": "M. E. A. Amoura",
+        "player_id": 1376
+      },
+      {
+        "n": 31,
+        "x": 59.1,
+        "y": 63.9,
+        "pos": "M",
+        "name": "H. Aouar",
+        "player_id": 8230
+      },
+      {
+        "n": 112,
+        "x": 39.9,
+        "y": 69.8,
+        "pos": "D",
+        "name": "R. Bensebaini",
+        "player_id": 2169
+      },
+      {
+        "n": 68,
+        "x": 63.7,
+        "y": 74.9,
+        "pos": "M",
+        "name": "F. Chaïbi",
+        "player_id": 1351
+      },
+      {
+        "n": 88,
+        "x": 55.8,
+        "y": 89.7,
+        "pos": "D",
+        "name": "R. Aït-Nouri",
+        "player_id": 861
+      },
+      {
+        "n": 47,
+        "x": 17.7,
+        "y": 50,
+        "pos": "G",
+        "name": "L. Zidane",
+        "player_id": 15394
+      },
+      {
+        "n": 65,
+        "x": 57.6,
+        "y": 61.7,
+        "pos": "F",
+        "name": "I. Maza",
+        "player_id": 2140
+      },
+      {
+        "n": 18,
+        "x": 63,
+        "y": 86.1,
+        "pos": "M",
+        "name": "A. Boulbina",
+        "player_id": 15396
+      },
+      {
+        "n": 24,
+        "x": 56.9,
+        "y": 48.5,
+        "pos": "M",
+        "name": "R. Zerrouki",
+        "player_id": 5260
+      },
+      {
+        "n": 63,
+        "x": 47.3,
+        "y": 62.8,
+        "pos": "M",
+        "name": "N. Bentaleb",
+        "player_id": 1460
+      },
+      {
+        "n": 126,
+        "x": 39.5,
+        "y": 32.5,
+        "pos": "D",
+        "name": "A. Mandi",
+        "player_id": 1448
+      },
+      {
+        "n": 55,
+        "x": 47.9,
+        "y": 14.7,
+        "pos": "M",
+        "name": "R. Belghali",
+        "player_id": 2616
+      }
+    ],
+    "home": [
+      {
+        "n": 29,
+        "x": 54.3,
+        "y": 52.3,
+        "pos": "F",
+        "name": "L. Martínez",
+        "player_id": 1687
+      },
+      {
+        "n": 45,
+        "x": 12.1,
+        "y": 49.7,
+        "pos": "G",
+        "name": "E. Martínez",
+        "player_id": 1629
+      },
+      {
+        "n": 28,
+        "x": 36.7,
+        "y": 12.5,
+        "pos": "D",
+        "name": "G. Montiel",
+        "player_id": 23014
+      },
+      {
+        "n": 40,
+        "x": 30.8,
+        "y": 12,
+        "pos": "D",
+        "name": "N. Molina",
+        "player_id": 761
+      },
+      {
+        "n": 20,
+        "x": 48.4,
+        "y": 78.4,
+        "pos": "M",
+        "name": "N. González",
+        "player_id": 768
+      },
+      {
+        "n": 64,
+        "x": 57,
+        "y": 40.1,
+        "pos": "F",
+        "name": "L. Messi",
+        "player_id": 9063
+      },
+      {
+        "n": 49,
+        "x": 48.9,
+        "y": 67.4,
+        "pos": "M",
+        "name": "T. Almada",
+        "player_id": 773
+      },
+      {
+        "n": 19,
+        "x": 66,
+        "y": 66.4,
+        "pos": "F",
+        "name": "J. Álvarez",
+        "player_id": 770
+      },
+      {
+        "n": 18,
+        "x": 22,
+        "y": 19.9,
+        "pos": "D",
+        "name": "N. Otamendi",
+        "player_id": 2054
+      },
+      {
+        "n": 12,
+        "x": 39.6,
+        "y": 28.4,
+        "pos": "M",
+        "name": "N. Paz",
+        "player_id": 2829
+      },
+      {
+        "n": 94,
+        "x": 46.5,
+        "y": 63.1,
+        "pos": "M",
+        "name": "E. Fernández",
+        "player_id": 387
+      },
+      {
+        "n": 79,
+        "x": 34.1,
+        "y": 64.3,
+        "pos": "D",
+        "name": "L. Martínez",
+        "player_id": 1800
+      },
+      {
+        "n": 85,
+        "x": 34.2,
+        "y": 31.8,
+        "pos": "D",
+        "name": "C. Romero",
+        "player_id": 720
+      },
+      {
+        "n": 85,
+        "x": 44.1,
+        "y": 44.4,
+        "pos": "M",
+        "name": "A. Mac Allister",
+        "player_id": 328
+      },
+      {
+        "n": 78,
+        "x": 44.5,
+        "y": 22.5,
+        "pos": "M",
+        "name": "R. De Paul",
+        "player_id": 9057
+      },
+      {
+        "n": 52,
+        "x": 46.2,
+        "y": 82.5,
+        "pos": "D",
+        "name": "F. Medina",
+        "player_id": 4603
+      }
+    ]
+  }
 }

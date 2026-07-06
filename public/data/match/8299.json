@@ -5,9 +5,41 @@
     "city": "Atlanta",
     "capacity": 71000
   },
-  "weather": null,
-  "prediction": null,
-  "head_to_head": null,
+  "weather": {
+    "code": 3,
+    "description": "rain",
+    "wind_speed": 4.8,
+    "temperature_c": 31
+  },
+  "prediction": {
+    "prob_home": 43.1,
+    "prob_draw": 29,
+    "prob_away": 27.8,
+    "predicted": "H",
+    "xg_home": 1.85,
+    "xg_away": 1.65,
+    "most_likely_score": "1-1",
+    "confidence": 0.4312
+  },
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 1,
+    "away_wins": 0,
+    "home_goals": 0,
+    "away_goals": 0,
+    "avg_total_goals": 0,
+    "home_win_rate": 0,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Cabo Verde",
+        "date": "2026-06-15T16:00:00+00:00",
+        "home": "Spain",
+        "score": "0-0"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {

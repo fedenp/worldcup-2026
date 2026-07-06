@@ -5,8 +5,301 @@
     "city": "Arlington",
     "capacity": 80000
   },
-  "weather": null,
-  "prediction": null,
-  "head_to_head": null,
-  "average_positions": null
+  "weather": {
+    "code": 2,
+    "description": "cloudy",
+    "wind_speed": 18,
+    "temperature_c": 35
+  },
+  "prediction": {
+    "prob_home": 59.1,
+    "prob_draw": 21.8,
+    "prob_away": 19.1,
+    "predicted": "H",
+    "xg_home": 1.67,
+    "xg_away": 0.77,
+    "most_likely_score": "1-0",
+    "confidence": 0.5909
+  },
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 1,
+    "away_wins": 0,
+    "home_goals": 2,
+    "away_goals": 2,
+    "avg_total_goals": 4,
+    "home_win_rate": 0,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Japan",
+        "date": "2026-06-14T20:00:00+00:00",
+        "home": "Netherlands",
+        "score": "2-2"
+      }
+    ]
+  },
+  "average_positions": {
+    "away": [
+      {
+        "n": 37,
+        "x": 10,
+        "y": 47.2,
+        "pos": "G",
+        "name": "Z. Suzuki",
+        "player_id": 4055
+      },
+      {
+        "n": 28,
+        "x": 48.3,
+        "y": 41.6,
+        "pos": "M",
+        "name": "T. Kubo",
+        "player_id": 1748
+      },
+      {
+        "n": 24,
+        "x": 53.8,
+        "y": 66.5,
+        "pos": "F",
+        "name": "D. Maeda",
+        "player_id": 3393
+      },
+      {
+        "n": 33,
+        "x": 53.9,
+        "y": 11,
+        "pos": "M",
+        "name": "R. Doan",
+        "player_id": 1353
+      },
+      {
+        "n": 25,
+        "x": 47.7,
+        "y": 41.1,
+        "pos": "F",
+        "name": "A. Ueda",
+        "player_id": 3369
+      },
+      {
+        "n": 27,
+        "x": 77,
+        "y": 14.1,
+        "pos": "M",
+        "name": "J. Ito",
+        "player_id": 4564
+      },
+      {
+        "n": 27,
+        "x": 48.9,
+        "y": 28.7,
+        "pos": "D",
+        "name": "T. Tomiyasu",
+        "player_id": 8740
+      },
+      {
+        "n": 4,
+        "x": 57.9,
+        "y": 62.6,
+        "pos": "F",
+        "name": "K. Ogawa",
+        "player_id": 5458
+      },
+      {
+        "n": 65,
+        "x": 45.1,
+        "y": 81.6,
+        "pos": "D",
+        "name": "H. Itō",
+        "player_id": 2474
+      },
+      {
+        "n": 19,
+        "x": 57.6,
+        "y": 12.7,
+        "pos": "D",
+        "name": "Y. Sugawara",
+        "player_id": 2497
+      },
+      {
+        "n": 48,
+        "x": 41.9,
+        "y": 18.6,
+        "pos": "D",
+        "name": "T. Watanabe",
+        "player_id": 3363
+      },
+      {
+        "n": 56,
+        "x": 55.9,
+        "y": 84.6,
+        "pos": "M",
+        "name": "K. Nakamura",
+        "player_id": 16971
+      },
+      {
+        "n": 50,
+        "x": 47.9,
+        "y": 41.7,
+        "pos": "M",
+        "name": "K. Sano",
+        "player_id": 1196
+      },
+      {
+        "n": 86,
+        "x": 53.2,
+        "y": 64.9,
+        "pos": "M",
+        "name": "D. Kamada",
+        "player_id": 430
+      },
+      {
+        "n": 3,
+        "x": 24.1,
+        "y": 30.3,
+        "pos": "F",
+        "name": "K. Shiogai",
+        "player_id": 5459
+      },
+      {
+        "n": 65,
+        "x": 35,
+        "y": 49.7,
+        "pos": "D",
+        "name": "S. Taniguchi",
+        "player_id": 7374
+      }
+    ],
+    "home": [
+      {
+        "n": 39,
+        "x": 66.5,
+        "y": 57.8,
+        "pos": "M",
+        "name": "T. Reijnders",
+        "player_id": 850
+      },
+      {
+        "n": 29,
+        "x": 74.2,
+        "y": 53.3,
+        "pos": "F",
+        "name": "D. Malen",
+        "player_id": 515
+      },
+      {
+        "n": 15,
+        "x": 41.6,
+        "y": 84.3,
+        "pos": "D",
+        "name": "N. Aké",
+        "player_id": 857
+      },
+      {
+        "n": 6,
+        "x": 73.4,
+        "y": 55.6,
+        "pos": "M",
+        "name": "T. Koopmeiners",
+        "player_id": 2178
+      },
+      {
+        "n": 15,
+        "x": 54.1,
+        "y": 38.6,
+        "pos": "M",
+        "name": "Q. Timber",
+        "player_id": 3373
+      },
+      {
+        "n": 120,
+        "x": 45.4,
+        "y": 62.4,
+        "pos": "D",
+        "name": "V. van Dijk",
+        "player_id": 325
+      },
+      {
+        "n": 13,
+        "x": 58.2,
+        "y": 63,
+        "pos": "F",
+        "name": "M. Depay",
+        "player_id": 3940
+      },
+      {
+        "n": 2,
+        "x": 56.5,
+        "y": 30.9,
+        "pos": "F",
+        "name": "B. Brobbey",
+        "player_id": 352
+      },
+      {
+        "n": 69,
+        "x": 52.6,
+        "y": 85.1,
+        "pos": "D",
+        "name": "M. van de Ven",
+        "player_id": 736
+      },
+      {
+        "n": 111,
+        "x": 49.1,
+        "y": 34.5,
+        "pos": "D",
+        "name": "J. P. van Hecke",
+        "player_id": 484
+      },
+      {
+        "n": 40,
+        "x": 56.5,
+        "y": 41.4,
+        "pos": "M",
+        "name": "R. Gravenberch",
+        "player_id": 327
+      },
+      {
+        "n": 58,
+        "x": 64.8,
+        "y": 85.6,
+        "pos": "M",
+        "name": "C. Gakpo",
+        "player_id": 331
+      },
+      {
+        "n": 40,
+        "x": 12.7,
+        "y": 46.2,
+        "pos": "G",
+        "name": "B. Verbruggen",
+        "player_id": 482
+      },
+      {
+        "n": 63,
+        "x": 57.3,
+        "y": 16.4,
+        "pos": "M",
+        "name": "D. Dumfries",
+        "player_id": 3981
+      },
+      {
+        "n": 96,
+        "x": 51.4,
+        "y": 58.3,
+        "pos": "M",
+        "name": "F. de Jong",
+        "player_id": 3662
+      },
+      {
+        "n": 43,
+        "x": 66.5,
+        "y": 19.7,
+        "pos": "M",
+        "name": "C. Summerville",
+        "player_id": 4092
+      }
+    ]
+  }
 }

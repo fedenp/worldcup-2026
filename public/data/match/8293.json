@@ -5,8 +5,301 @@
     "city": "East Rutherford",
     "capacity": 82500
   },
-  "weather": null,
-  "prediction": null,
-  "head_to_head": null,
-  "average_positions": null
+  "weather": {
+    "code": 1,
+    "description": "clear",
+    "wind_speed": 14.5,
+    "temperature_c": 24
+  },
+  "prediction": {
+    "prob_home": 51.6,
+    "prob_draw": 26.5,
+    "prob_away": 21.9,
+    "predicted": "H",
+    "xg_home": 1.2,
+    "xg_away": 0.7,
+    "most_likely_score": "1-0",
+    "confidence": 0.5164
+  },
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 1,
+    "away_wins": 0,
+    "home_goals": 1,
+    "away_goals": 1,
+    "avg_total_goals": 2,
+    "home_win_rate": 0,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Morocco",
+        "date": "2026-06-13T22:00:00+00:00",
+        "home": "Brazil",
+        "score": "1-1"
+      }
+    ]
+  },
+  "average_positions": {
+    "away": [
+      {
+        "n": 38,
+        "x": 63.9,
+        "y": 43.9,
+        "pos": "M",
+        "name": "I. Saibari",
+        "player_id": 3511
+      },
+      {
+        "n": 43,
+        "x": 63.3,
+        "y": 27.5,
+        "pos": "M",
+        "name": "B. Díaz",
+        "player_id": 598
+      },
+      {
+        "n": 16,
+        "x": 65.1,
+        "y": 59,
+        "pos": "M",
+        "name": "C. Talbi",
+        "player_id": 350
+      },
+      {
+        "n": 66,
+        "x": 37.2,
+        "y": 80.2,
+        "pos": "D",
+        "name": "N. Mazraoui",
+        "player_id": 1799
+      },
+      {
+        "n": 59,
+        "x": 54.6,
+        "y": 57.5,
+        "pos": "M",
+        "name": "A. Ounahi",
+        "player_id": 1044
+      },
+      {
+        "n": 52,
+        "x": 33.9,
+        "y": 69.3,
+        "pos": "D",
+        "name": "C. Riad",
+        "player_id": 8593
+      },
+      {
+        "n": 60,
+        "x": 37.5,
+        "y": 27,
+        "pos": "D",
+        "name": "I. Diop",
+        "player_id": 4377
+      },
+      {
+        "n": 8,
+        "x": 51.5,
+        "y": 29.5,
+        "pos": "F",
+        "name": "S. Rahimi",
+        "player_id": 15371
+      },
+      {
+        "n": 56,
+        "x": 10.7,
+        "y": 51.5,
+        "pos": "G",
+        "name": "Bono",
+        "player_id": 7990
+      },
+      {
+        "n": 13,
+        "x": 55.4,
+        "y": 85.2,
+        "pos": "D",
+        "name": "A. Salah-Eddine",
+        "player_id": 3506
+      },
+      {
+        "n": 51,
+        "x": 51.6,
+        "y": 74.8,
+        "pos": "M",
+        "name": "B. E. Khannouss",
+        "player_id": 1619
+      },
+      {
+        "n": 13,
+        "x": 74.8,
+        "y": 26.3,
+        "pos": "F",
+        "name": "A. Amaimouni Echghouyab",
+        "player_id": 8503
+      },
+      {
+        "n": 30,
+        "x": 61.6,
+        "y": 40.8,
+        "pos": "M",
+        "name": "S. E. Mourabet",
+        "player_id": 1706
+      },
+      {
+        "n": 81,
+        "x": 49.6,
+        "y": 42.5,
+        "pos": "M",
+        "name": "N. El Aynaoui",
+        "player_id": 1070
+      },
+      {
+        "n": 95,
+        "x": 47.5,
+        "y": 45,
+        "pos": "M",
+        "name": "A. Bouaddi",
+        "player_id": 1451
+      },
+      {
+        "n": 98,
+        "x": 51.7,
+        "y": 16.5,
+        "pos": "D",
+        "name": "A. Hakimi",
+        "player_id": 4241
+      }
+    ],
+    "home": [
+      {
+        "n": 37,
+        "x": 47.9,
+        "y": 11.5,
+        "pos": "D",
+        "name": "R. Ibañez",
+        "player_id": 8113
+      },
+      {
+        "n": 24,
+        "x": 62.1,
+        "y": 51,
+        "pos": "F",
+        "name": "I. Thiago",
+        "player_id": 473
+      },
+      {
+        "n": 38,
+        "x": 12.7,
+        "y": 47.4,
+        "pos": "G",
+        "name": "Alisson",
+        "player_id": 322
+      },
+      {
+        "n": 19,
+        "x": 47.7,
+        "y": 15,
+        "pos": "M",
+        "name": "L. Henrique",
+        "player_id": 16393
+      },
+      {
+        "n": 75,
+        "x": 52.9,
+        "y": 56.5,
+        "pos": "M",
+        "name": "L. Paquetá",
+        "player_id": 1642
+      },
+      {
+        "n": 51,
+        "x": 44.2,
+        "y": 20.9,
+        "pos": "D",
+        "name": "Danilo",
+        "player_id": 49
+      },
+      {
+        "n": 23,
+        "x": 55.2,
+        "y": 67.8,
+        "pos": "F",
+        "name": "M. Cunha",
+        "player_id": 4119
+      },
+      {
+        "n": 64,
+        "x": 52.5,
+        "y": 45.4,
+        "pos": "M",
+        "name": "B. Guimarães",
+        "player_id": 709
+      },
+      {
+        "n": 65,
+        "x": 63.8,
+        "y": 79.8,
+        "pos": "F",
+        "name": "Vinícius Jr.",
+        "player_id": 595
+      },
+      {
+        "n": 42,
+        "x": 46,
+        "y": 49.1,
+        "pos": "M",
+        "name": "Casemiro",
+        "player_id": 1793
+      },
+      {
+        "n": 29,
+        "x": 46.4,
+        "y": 60.9,
+        "pos": "M",
+        "name": "Fabinho",
+        "player_id": 8156
+      },
+      {
+        "n": 59,
+        "x": 63.3,
+        "y": 38.3,
+        "pos": "M",
+        "name": "Raphinha",
+        "player_id": 747
+      },
+      {
+        "n": 106,
+        "x": 32.6,
+        "y": 61.5,
+        "pos": "D",
+        "name": "G. Magalhães",
+        "player_id": 4072
+      },
+      {
+        "n": 6,
+        "x": 63.1,
+        "y": 42.9,
+        "pos": "M",
+        "name": "D. Santos",
+        "player_id": 3877
+      },
+      {
+        "n": 90,
+        "x": 39.8,
+        "y": 84.6,
+        "pos": "D",
+        "name": "D. Santos",
+        "player_id": 16392
+      },
+      {
+        "n": 95,
+        "x": 39.1,
+        "y": 31.8,
+        "pos": "D",
+        "name": "Marquinhos",
+        "player_id": 2244
+      }
+    ]
+  }
 }

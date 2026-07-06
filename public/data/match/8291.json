@@ -40,5 +40,266 @@
       }
     ]
   },
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 30,
+        "x": 78,
+        "y": 88.1,
+        "pos": "M",
+        "name": "B. A. Yılmaz",
+        "player_id": 3734
+      },
+      {
+        "n": 25,
+        "x": 74.3,
+        "y": 47.4,
+        "pos": "F",
+        "name": "K. Aktürkoğlu",
+        "player_id": 3415
+      },
+      {
+        "n": 56,
+        "x": 60.3,
+        "y": 17.7,
+        "pos": "D",
+        "name": "Z. Çelik",
+        "player_id": 1062
+      },
+      {
+        "n": 36,
+        "x": 15.2,
+        "y": 52.5,
+        "pos": "G",
+        "name": "U. Çakır",
+        "player_id": 3724
+      },
+      {
+        "n": 26,
+        "x": 74.8,
+        "y": 20.5,
+        "pos": "M",
+        "name": "Y. Akgün",
+        "player_id": 4435
+      },
+      {
+        "n": 138,
+        "x": 42.8,
+        "y": 72.1,
+        "pos": "D",
+        "name": "A. Bardakcı",
+        "player_id": 3727
+      },
+      {
+        "n": 134,
+        "x": 56.8,
+        "y": 82.5,
+        "pos": "D",
+        "name": "F. Kadıoğlu",
+        "player_id": 486
+      },
+      {
+        "n": 117,
+        "x": 67.4,
+        "y": 39.4,
+        "pos": "M",
+        "name": "A. Güler",
+        "player_id": 597
+      },
+      {
+        "n": 54,
+        "x": 68.5,
+        "y": 53.1,
+        "pos": "M",
+        "name": "O. Kökçü",
+        "player_id": 5835
+      },
+      {
+        "n": 134,
+        "x": 58.5,
+        "y": 58.8,
+        "pos": "M",
+        "name": "H. Çalhanoğlu",
+        "player_id": 1684
+      },
+      {
+        "n": 20,
+        "x": 65.5,
+        "y": 10.2,
+        "pos": "D",
+        "name": "M. Müldür",
+        "player_id": 3420
+      },
+      {
+        "n": 19,
+        "x": 49.9,
+        "y": 54.8,
+        "pos": "M",
+        "name": "S. Özcan",
+        "player_id": 3916
+      },
+      {
+        "n": 3,
+        "x": 78.9,
+        "y": 50,
+        "pos": "F",
+        "name": "D. Gül",
+        "player_id": 3449
+      },
+      {
+        "n": 62,
+        "x": 70.1,
+        "y": 77.2,
+        "pos": "F",
+        "name": "K. Yıldız",
+        "player_id": 2184
+      },
+      {
+        "n": 82,
+        "x": 54.5,
+        "y": 37.2,
+        "pos": "M",
+        "name": "İ. Yüksek",
+        "player_id": 4172
+      },
+      {
+        "n": 87,
+        "x": 45.3,
+        "y": 45.4,
+        "pos": "D",
+        "name": "M. Demiral",
+        "player_id": 8112
+      }
+    ],
+    "home": [
+      {
+        "n": 53,
+        "x": 46.3,
+        "y": 50.9,
+        "pos": "M",
+        "name": "A. O'Neill",
+        "player_id": 9142
+      },
+      {
+        "n": 23,
+        "x": 59.8,
+        "y": 65,
+        "pos": "F",
+        "name": "N. Irankunda",
+        "player_id": 6040
+      },
+      {
+        "n": 22,
+        "x": 70.8,
+        "y": 36.5,
+        "pos": "F",
+        "name": "M. Touré",
+        "player_id": 8991
+      },
+      {
+        "n": 55,
+        "x": 23.7,
+        "y": 71.6,
+        "pos": "D",
+        "name": "C. Burgess",
+        "player_id": 6525
+      },
+      {
+        "n": 49,
+        "x": 51.7,
+        "y": 26,
+        "pos": "M",
+        "name": "C. Metcalfe",
+        "player_id": 2490
+      },
+      {
+        "n": 62,
+        "x": 38.9,
+        "y": 24.7,
+        "pos": "D",
+        "name": "A. Circati",
+        "player_id": 4264
+      },
+      {
+        "n": 9,
+        "x": 40.3,
+        "y": 46.7,
+        "pos": "M",
+        "name": "J. Irvine",
+        "player_id": 2484
+      },
+      {
+        "n": 12,
+        "x": 36.9,
+        "y": 56.6,
+        "pos": "M",
+        "name": "N. Velupillay",
+        "player_id": 55793
+      },
+      {
+        "n": 49,
+        "x": 43.8,
+        "y": 82.9,
+        "pos": "D",
+        "name": "J. Bos",
+        "player_id": 4396
+      },
+      {
+        "n": 60,
+        "x": 40.5,
+        "y": 59,
+        "pos": "M",
+        "name": "P. Okon-Engstler",
+        "player_id": 58823
+      },
+      {
+        "n": 48,
+        "x": 40.5,
+        "y": 17.4,
+        "pos": "M",
+        "name": "J. Italiano",
+        "player_id": 30894
+      },
+      {
+        "n": 21,
+        "x": 62.3,
+        "y": 36.5,
+        "pos": "F",
+        "name": "T. Yengi",
+        "player_id": 5936
+      },
+      {
+        "n": 9,
+        "x": 32.5,
+        "y": 23.8,
+        "pos": "D",
+        "name": "J. Geria",
+        "player_id": 42887
+      },
+      {
+        "n": 54,
+        "x": 25.4,
+        "y": 42,
+        "pos": "D",
+        "name": "H. Souttar",
+        "player_id": 23925
+      },
+      {
+        "n": 15,
+        "x": 19.5,
+        "y": 71.7,
+        "pos": "D",
+        "name": "A. Behich",
+        "player_id": 55294
+      },
+      {
+        "n": 67,
+        "x": 6,
+        "y": 49.5,
+        "pos": "G",
+        "name": "P. Beach",
+        "player_id": 58824
+      }
+    ]
+  }
 }

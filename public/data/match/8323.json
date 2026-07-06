@@ -11,7 +11,16 @@
     "wind_speed": 16.8,
     "temperature_c": 30
   },
-  "prediction": null,
+  "prediction": {
+    "prob_home": 56.3,
+    "prob_draw": 21.9,
+    "prob_away": 21.9,
+    "predicted": "H",
+    "xg_home": 2.33,
+    "xg_away": 1.5,
+    "most_likely_score": "2-1",
+    "confidence": 0.5626
+  },
   "head_to_head": {
     "total_matches": 1,
     "home_wins": 1,
@@ -31,5 +40,258 @@
       }
     ]
   },
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 21,
+        "x": 55.5,
+        "y": 43,
+        "pos": "M",
+        "name": "A. Al-Hejji",
+        "player_id": 8308
+      },
+      {
+        "n": 45,
+        "x": 39.8,
+        "y": 85.1,
+        "pos": "D",
+        "name": "M. Al-Harbi",
+        "player_id": 8252
+      },
+      {
+        "n": 35,
+        "x": 28.1,
+        "y": 30.4,
+        "pos": "D",
+        "name": "A. Al-Amri",
+        "player_id": 7886
+      },
+      {
+        "n": 28,
+        "x": 37.4,
+        "y": 30.4,
+        "pos": "M",
+        "name": "A. Al-Khaibari",
+        "player_id": 7883
+      },
+      {
+        "n": 14,
+        "x": 58.5,
+        "y": 61.4,
+        "pos": "F",
+        "name": "A. Al-Hamdan",
+        "player_id": 8256
+      },
+      {
+        "n": 32,
+        "x": 50.1,
+        "y": 29.6,
+        "pos": "M",
+        "name": "M. Kanno",
+        "player_id": 7998
+      },
+      {
+        "n": 31,
+        "x": 60.2,
+        "y": 19.1,
+        "pos": "M",
+        "name": "M. A. Al-Shamat",
+        "player_id": 8131
+      },
+      {
+        "n": 52,
+        "x": 30.6,
+        "y": 73.2,
+        "pos": "D",
+        "name": "H. Altambakti",
+        "player_id": 8253
+      },
+      {
+        "n": 32,
+        "x": 50.3,
+        "y": 49.2,
+        "pos": "F",
+        "name": "F. Al-Buraikan",
+        "player_id": 8122
+      },
+      {
+        "n": 50,
+        "x": 7.9,
+        "y": 49.6,
+        "pos": "G",
+        "name": "M. Al-Owais",
+        "player_id": 17201
+      },
+      {
+        "n": 74,
+        "x": 43.5,
+        "y": 15,
+        "pos": "M",
+        "name": "S. Abdulhamid",
+        "player_id": 1418
+      },
+      {
+        "n": 64,
+        "x": 48.5,
+        "y": 53,
+        "pos": "M",
+        "name": "N. Al-Dawsari",
+        "player_id": 7991
+      },
+      {
+        "n": 50,
+        "x": 29.9,
+        "y": 48.1,
+        "pos": "D",
+        "name": "A. Lajami",
+        "player_id": 8288
+      },
+      {
+        "n": 29,
+        "x": 49,
+        "y": 24.7,
+        "pos": "M",
+        "name": "M. A. Juwayr",
+        "player_id": 8139
+      },
+      {
+        "n": 50,
+        "x": 52.7,
+        "y": 68.4,
+        "pos": "M",
+        "name": "S. Al-Dawsari",
+        "player_id": 7999
+      }
+    ],
+    "home": [
+      {
+        "n": 22,
+        "x": 58.6,
+        "y": 84.7,
+        "pos": "M",
+        "name": "N. Williams",
+        "player_id": 571
+      },
+      {
+        "n": 50,
+        "x": 11.5,
+        "y": 46,
+        "pos": "G",
+        "name": "U. Simón",
+        "player_id": 562
+      },
+      {
+        "n": 55,
+        "x": 71.3,
+        "y": 19,
+        "pos": "M",
+        "name": "L. Yamal",
+        "player_id": 745
+      },
+      {
+        "n": 32,
+        "x": 72.2,
+        "y": 56.9,
+        "pos": "F",
+        "name": "M. Oyarzabal",
+        "player_id": 3890
+      },
+      {
+        "n": 57,
+        "x": 60.8,
+        "y": 42.3,
+        "pos": "M",
+        "name": "D. Olmo",
+        "player_id": 746
+      },
+      {
+        "n": 103,
+        "x": 55.1,
+        "y": 15.3,
+        "pos": "D",
+        "name": "P. Porro",
+        "player_id": 719
+      },
+      {
+        "n": 93,
+        "x": 61.5,
+        "y": 60.9,
+        "pos": "M",
+        "name": "Pedri",
+        "player_id": 744
+      },
+      {
+        "n": 116,
+        "x": 37.9,
+        "y": 30.3,
+        "pos": "D",
+        "name": "P. Cubarsí",
+        "player_id": 740
+      },
+      {
+        "n": 12,
+        "x": 67.2,
+        "y": 48.8,
+        "pos": "F",
+        "name": "F. Torres",
+        "player_id": 749
+      },
+      {
+        "n": 140,
+        "x": 51.9,
+        "y": 49.3,
+        "pos": "M",
+        "name": "Rodri",
+        "player_id": 4267
+      },
+      {
+        "n": 63,
+        "x": 71.3,
+        "y": 79.5,
+        "pos": "M",
+        "name": "A. Baena",
+        "player_id": 769
+      },
+      {
+        "n": 29,
+        "x": 50.6,
+        "y": 55.7,
+        "pos": "M",
+        "name": "F. Ruiz",
+        "player_id": 2249
+      },
+      {
+        "n": 30,
+        "x": 64.6,
+        "y": 21.8,
+        "pos": "F",
+        "name": "Y. Pino",
+        "player_id": 431
+      },
+      {
+        "n": 25,
+        "x": 59.8,
+        "y": 42.5,
+        "pos": "M",
+        "name": "M. Merino",
+        "player_id": 451
+      },
+      {
+        "n": 85,
+        "x": 55.6,
+        "y": 84.1,
+        "pos": "D",
+        "name": "M. Cucurella",
+        "player_id": 386
+      },
+      {
+        "n": 102,
+        "x": 40.9,
+        "y": 67,
+        "pos": "D",
+        "name": "A. Laporte",
+        "player_id": 565
+      }
+    ]
+  }
 }
