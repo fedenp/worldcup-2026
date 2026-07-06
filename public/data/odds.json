@@ -1,30 +1,17 @@
 {
-  "updated_at": "2026-07-06T02:39:38.701Z",
+  "updated_at": "2026-07-06T08:15:39.355Z",
   "events": {
-    "8378": {
-      "event_id": 8378,
-      "home_team": "Mexico",
-      "away_team": "England",
-      "commence_time": "2026-07-06T01:00:00Z",
-      "avg_home": 6.88,
-      "avg_draw": 2.87,
-      "avg_away": 1.73,
-      "implied_home": 14.5,
-      "implied_draw": 34.8,
-      "implied_away": 57.8,
-      "bookmakers_count": 15
-    },
     "8379": {
       "event_id": 8379,
       "home_team": "Portugal",
       "away_team": "Spain",
       "commence_time": "2026-07-06T19:00:00Z",
-      "avg_home": 4.03,
-      "avg_draw": 3.67,
-      "avg_away": 1.92,
-      "implied_home": 24.8,
-      "implied_draw": 27.2,
-      "implied_away": 52.1,
+      "avg_home": 4.08,
+      "avg_draw": 3.61,
+      "avg_away": 1.93,
+      "implied_home": 24.5,
+      "implied_draw": 27.7,
+      "implied_away": 51.8,
       "bookmakers_count": 24
     },
     "8380": {
@@ -32,12 +19,12 @@
       "home_team": "USA",
       "away_team": "Belgium",
       "commence_time": "2026-07-07T00:00:00Z",
-      "avg_home": 2.68,
+      "avg_home": 2.57,
       "avg_draw": 3.45,
-      "avg_away": 2.65,
-      "implied_home": 37.3,
+      "avg_away": 2.77,
+      "implied_home": 38.9,
       "implied_draw": 29,
-      "implied_away": 37.7,
+      "implied_away": 36.1,
       "bookmakers_count": 24
     },
     "8381": {
@@ -45,12 +32,12 @@
       "home_team": "Argentina",
       "away_team": "Egypt",
       "commence_time": "2026-07-07T16:00:00Z",
-      "avg_home": 1.39,
-      "avg_draw": 4.74,
-      "avg_away": 9.21,
-      "implied_home": 71.9,
-      "implied_draw": 21.1,
-      "implied_away": 10.9,
+      "avg_home": 1.38,
+      "avg_draw": 4.71,
+      "avg_away": 9.29,
+      "implied_home": 72.5,
+      "implied_draw": 21.2,
+      "implied_away": 10.8,
       "bookmakers_count": 24
     },
     "8382": {
@@ -58,12 +45,12 @@
       "home_team": "Switzerland",
       "away_team": "Colombia",
       "commence_time": "2026-07-07T20:00:00Z",
-      "avg_home": 3.57,
-      "avg_draw": 3.1,
-      "avg_away": 2.28,
-      "implied_home": 28,
-      "implied_draw": 32.3,
-      "implied_away": 43.9,
+      "avg_home": 3.5,
+      "avg_draw": 3.08,
+      "avg_away": 2.32,
+      "implied_home": 28.6,
+      "implied_draw": 32.5,
+      "implied_away": 43.1,
       "bookmakers_count": 24
     },
     "8383": {
@@ -72,12 +59,25 @@
       "away_team": "Morocco",
       "commence_time": "2026-07-09T20:00:00Z",
       "avg_home": 1.59,
-      "avg_draw": 3.91,
-      "avg_away": 6.33,
+      "avg_draw": 3.9,
+      "avg_away": 6.32,
       "implied_home": 62.9,
       "implied_draw": 25.6,
       "implied_away": 15.8,
       "bookmakers_count": 24
+    },
+    "8385": {
+      "event_id": 8385,
+      "home_team": "Norway",
+      "away_team": "England",
+      "commence_time": "2026-07-11T21:00:00Z",
+      "avg_home": 3.93,
+      "avg_draw": 3.56,
+      "avg_away": 1.97,
+      "implied_home": 25.4,
+      "implied_draw": 28.1,
+      "implied_away": 50.8,
+      "bookmakers_count": 23
     }
   }
 }

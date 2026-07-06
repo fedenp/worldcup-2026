@@ -5,8 +5,31 @@
     "city": "Seattle",
     "capacity": 68740
   },
-  "weather": null,
+  "weather": {
+    "code": 1,
+    "description": "clear",
+    "wind_speed": 10.6,
+    "temperature_c": 12
+  },
   "prediction": null,
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 1,
+    "draws": 0,
+    "away_wins": 0,
+    "home_goals": 3,
+    "away_goals": 1,
+    "avg_total_goals": 4,
+    "home_win_rate": 1,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Qatar",
+        "date": "2026-06-24T19:00:00+00:00",
+        "home": "Bosnia & Herzegovina",
+        "score": "3-1"
+      }
+    ]
+  },
   "average_positions": null
 }

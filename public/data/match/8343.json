@@ -40,5 +40,266 @@
       }
     ]
   },
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 15,
+        "x": 40.6,
+        "y": 48.8,
+        "pos": "D",
+        "name": "C. Starfelt",
+        "player_id": 1253
+      },
+      {
+        "n": 14,
+        "x": 59.7,
+        "y": 69.7,
+        "pos": "M",
+        "name": "D. Svensson",
+        "player_id": 2162
+      },
+      {
+        "n": 84,
+        "x": 40.5,
+        "y": 26.3,
+        "pos": "D",
+        "name": "G. Lagerbielke",
+        "player_id": 884
+      },
+      {
+        "n": 44,
+        "x": 53.6,
+        "y": 16.6,
+        "pos": "F",
+        "name": "A. Bernhardsson",
+        "player_id": 28070
+      },
+      {
+        "n": 11,
+        "x": 60.7,
+        "y": 76.5,
+        "pos": "M",
+        "name": "K. Sema",
+        "player_id": 4232
+      },
+      {
+        "n": 47,
+        "x": 58.5,
+        "y": 50.4,
+        "pos": "M",
+        "name": "L. Bergvall",
+        "player_id": 726
+      },
+      {
+        "n": 35,
+        "x": 38.6,
+        "y": 48.1,
+        "pos": "D",
+        "name": "I. Hien",
+        "player_id": 1299
+      },
+      {
+        "n": 51,
+        "x": 64.8,
+        "y": 24.8,
+        "pos": "F",
+        "name": "A. Elanga",
+        "player_id": 710
+      },
+      {
+        "n": 39,
+        "x": 60,
+        "y": 74.6,
+        "pos": "M",
+        "name": "E. Stroud",
+        "player_id": 16077
+      },
+      {
+        "n": 10,
+        "x": 51.6,
+        "y": 26.6,
+        "pos": "F",
+        "name": "B. Nygren",
+        "player_id": 3394
+      },
+      {
+        "n": 55,
+        "x": 40.8,
+        "y": 54.4,
+        "pos": "D",
+        "name": "V. Lindelöf",
+        "player_id": 519
+      },
+      {
+        "n": 30,
+        "x": 69.1,
+        "y": 60.1,
+        "pos": "F",
+        "name": "A. Isak",
+        "player_id": 332
+      },
+      {
+        "n": 60,
+        "x": 13.8,
+        "y": 48.8,
+        "pos": "G",
+        "name": "J. W. Zetterström",
+        "player_id": 6221
+      },
+      {
+        "n": 70,
+        "x": 38.3,
+        "y": 76.6,
+        "pos": "D",
+        "name": "G. Gudmundsson",
+        "player_id": 370
+      },
+      {
+        "n": 48,
+        "x": 68.1,
+        "y": 45.4,
+        "pos": "F",
+        "name": "V. Gyökeres",
+        "player_id": 456
+      },
+      {
+        "n": 62,
+        "x": 56.9,
+        "y": 59.6,
+        "pos": "M",
+        "name": "Y. Ayari",
+        "player_id": 1632
+      }
+    ],
+    "home": [
+      {
+        "n": 17,
+        "x": 47,
+        "y": 18.1,
+        "pos": "D",
+        "name": "T. Watanabe",
+        "player_id": 3363
+      },
+      {
+        "n": 11,
+        "x": 41.4,
+        "y": 76.9,
+        "pos": "D",
+        "name": "Y. Nagatomo",
+        "player_id": 43687
+      },
+      {
+        "n": 106,
+        "x": 51.9,
+        "y": 60.9,
+        "pos": "M",
+        "name": "D. Kamada",
+        "player_id": 430
+      },
+      {
+        "n": 10,
+        "x": 68.6,
+        "y": 22.5,
+        "pos": "M",
+        "name": "J. Ito",
+        "player_id": 4564
+      },
+      {
+        "n": 6,
+        "x": 66.9,
+        "y": 53.9,
+        "pos": "F",
+        "name": "K. Ogawa",
+        "player_id": 5458
+      },
+      {
+        "n": 39,
+        "x": 55.2,
+        "y": 70.5,
+        "pos": "F",
+        "name": "D. Maeda",
+        "player_id": 3393
+      },
+      {
+        "n": 41,
+        "x": 33.8,
+        "y": 55.9,
+        "pos": "D",
+        "name": "S. Taniguchi",
+        "player_id": 7374
+      },
+      {
+        "n": 54,
+        "x": 38.3,
+        "y": 24.8,
+        "pos": "D",
+        "name": "A. Seko",
+        "player_id": 1431
+      },
+      {
+        "n": 114,
+        "x": 41,
+        "y": 45.7,
+        "pos": "M",
+        "name": "A. Tanaka",
+        "player_id": 367
+      },
+      {
+        "n": 52,
+        "x": 54.4,
+        "y": 35.7,
+        "pos": "M",
+        "name": "R. Doan",
+        "player_id": 1353
+      },
+      {
+        "n": 24,
+        "x": 54.9,
+        "y": 43.1,
+        "pos": "F",
+        "name": "A. Ueda",
+        "player_id": 3369
+      },
+      {
+        "n": 32,
+        "x": 34.8,
+        "y": 54.7,
+        "pos": "D",
+        "name": "K. Itakura",
+        "player_id": 3770
+      },
+      {
+        "n": 72,
+        "x": 42.4,
+        "y": 17.5,
+        "pos": "D",
+        "name": "Y. Sugawara",
+        "player_id": 2497
+      },
+      {
+        "n": 44,
+        "x": 62.2,
+        "y": 88.2,
+        "pos": "M",
+        "name": "K. Nakamura",
+        "player_id": 16971
+      },
+      {
+        "n": 45,
+        "x": 8.6,
+        "y": 49.8,
+        "pos": "G",
+        "name": "Z. Suzuki",
+        "player_id": 4055
+      },
+      {
+        "n": 72,
+        "x": 37.6,
+        "y": 83.7,
+        "pos": "D",
+        "name": "H. Itō",
+        "player_id": 2474
+      }
+    ]
+  }
 }

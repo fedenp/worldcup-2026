@@ -5,8 +5,31 @@
     "city": "Atlanta",
     "capacity": 71000
   },
-  "weather": null,
+  "weather": {
+    "code": 2,
+    "description": "cloudy",
+    "wind_speed": 16.8,
+    "temperature_c": 30
+  },
   "prediction": null,
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 1,
+    "draws": 0,
+    "away_wins": 0,
+    "home_goals": 4,
+    "away_goals": 0,
+    "avg_total_goals": 4,
+    "home_win_rate": 1,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Saudi Arabia",
+        "date": "2026-06-21T16:00:00+00:00",
+        "home": "Spain",
+        "score": "4-0"
+      }
+    ]
+  },
   "average_positions": null
 }

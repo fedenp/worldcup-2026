@@ -22,5 +22,258 @@
     "confidence": 0.4423
   },
   "head_to_head": null,
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 53,
+        "x": 30.4,
+        "y": 61.2,
+        "pos": "D",
+        "name": "M. Guéhi",
+        "player_id": 425
+      },
+      {
+        "n": 41,
+        "x": 42.5,
+        "y": 44.3,
+        "pos": "M",
+        "name": "D. Rice",
+        "player_id": 449
+      },
+      {
+        "n": 25,
+        "x": 46.2,
+        "y": 15.9,
+        "pos": "F",
+        "name": "B. Saka",
+        "player_id": 455
+      },
+      {
+        "n": 25,
+        "x": 51.3,
+        "y": 47.4,
+        "pos": "F",
+        "name": "H. Kane",
+        "player_id": 2466
+      },
+      {
+        "n": 35,
+        "x": 42.1,
+        "y": 14.3,
+        "pos": "D",
+        "name": "J. Quansah",
+        "player_id": 2149
+      },
+      {
+        "n": 30,
+        "x": 44.1,
+        "y": 85.3,
+        "pos": "D",
+        "name": "N. O’Reilly",
+        "player_id": 847
+      },
+      {
+        "n": 13,
+        "x": 10.9,
+        "y": 38.2,
+        "pos": "D",
+        "name": "J. Stones",
+        "player_id": 854
+      },
+      {
+        "n": 54,
+        "x": 28.5,
+        "y": 33,
+        "pos": "D",
+        "name": "E. Konsa",
+        "player_id": 504
+      },
+      {
+        "n": 16,
+        "x": 24.3,
+        "y": 78,
+        "pos": "D",
+        "name": "D. Spence",
+        "player_id": 735
+      },
+      {
+        "n": 13,
+        "x": 11.8,
+        "y": 64.7,
+        "pos": "D",
+        "name": "D. Burn",
+        "player_id": 701
+      },
+      {
+        "n": 49,
+        "x": 38.4,
+        "y": 56.5,
+        "pos": "M",
+        "name": "E. Anderson",
+        "player_id": 548
+      },
+      {
+        "n": 53,
+        "x": 53.4,
+        "y": 77.8,
+        "pos": "F",
+        "name": "A. Gordon",
+        "player_id": 711
+      },
+      {
+        "n": 4,
+        "x": 73.8,
+        "y": 28.1,
+        "pos": "M",
+        "name": "M. Rogers",
+        "player_id": 511
+      },
+      {
+        "n": 61,
+        "x": 11.2,
+        "y": 50,
+        "pos": "G",
+        "name": "J. Pickford",
+        "player_id": 803
+      },
+      {
+        "n": 62,
+        "x": 49.4,
+        "y": 60.4,
+        "pos": "M",
+        "name": "J. Bellingham",
+        "player_id": 592
+      }
+    ],
+    "home": [
+      {
+        "n": 41,
+        "x": 63.8,
+        "y": 43.4,
+        "pos": "M",
+        "name": "G. Mora",
+        "player_id": 10424
+      },
+      {
+        "n": 49,
+        "x": 61.7,
+        "y": 12.9,
+        "pos": "D",
+        "name": "J. Sánchez",
+        "player_id": 10045
+      },
+      {
+        "n": 44,
+        "x": 72.3,
+        "y": 54.6,
+        "pos": "F",
+        "name": "R. Jiménez",
+        "player_id": 833
+      },
+      {
+        "n": 42,
+        "x": 45.8,
+        "y": 33.2,
+        "pos": "M",
+        "name": "E. Álvarez",
+        "player_id": 3411
+      },
+      {
+        "n": 27,
+        "x": 65.7,
+        "y": 59.3,
+        "pos": "M",
+        "name": "B. Gutiérrez",
+        "player_id": 9355
+      },
+      {
+        "n": 39,
+        "x": 13.4,
+        "y": 44.6,
+        "pos": "G",
+        "name": "R. Rangel",
+        "player_id": 10161
+      },
+      {
+        "n": 4,
+        "x": 85.3,
+        "y": 49.8,
+        "pos": "F",
+        "name": "G. Martínez",
+        "player_id": 10462
+      },
+      {
+        "n": 37,
+        "x": 57.6,
+        "y": 56.2,
+        "pos": "D",
+        "name": "L. Romo",
+        "player_id": 10370
+      },
+      {
+        "n": 6,
+        "x": 68,
+        "y": 37,
+        "pos": "F",
+        "name": "S. Giménez",
+        "player_id": 4328
+      },
+      {
+        "n": 47,
+        "x": 43.6,
+        "y": 38.7,
+        "pos": "D",
+        "name": "C. Montes",
+        "player_id": 17092
+      },
+      {
+        "n": 52,
+        "x": 61.6,
+        "y": 82.4,
+        "pos": "F",
+        "name": "J. Quiñones",
+        "player_id": 8296
+      },
+      {
+        "n": 71,
+        "x": 66.4,
+        "y": 87.8,
+        "pos": "D",
+        "name": "J. Gallardo",
+        "player_id": 10088
+      },
+      {
+        "n": 97,
+        "x": 50,
+        "y": 39.7,
+        "pos": "D",
+        "name": "E. Lira",
+        "player_id": 10043
+      },
+      {
+        "n": 37,
+        "x": 62.9,
+        "y": 60.1,
+        "pos": "M",
+        "name": "Á. Fidalgo",
+        "player_id": 9008
+      },
+      {
+        "n": 96,
+        "x": 70.1,
+        "y": 26.6,
+        "pos": "F",
+        "name": "R. Alvarado",
+        "player_id": 10169
+      },
+      {
+        "n": 82,
+        "x": 42.9,
+        "y": 68.4,
+        "pos": "D",
+        "name": "J. Vásquez",
+        "player_id": 2591
+      }
+    ]
+  }
 }

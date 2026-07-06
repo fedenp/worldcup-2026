@@ -5,12 +5,7 @@
     "city": "Santa Clara",
     "capacity": 68500
   },
-  "weather": {
-    "code": 2,
-    "description": "cloudy",
-    "wind_speed": 14.3,
-    "temperature_c": 29
-  },
+  "weather": null,
   "prediction": {
     "prob_home": 43.8,
     "prob_draw": 25.8,
@@ -21,25 +16,7 @@
     "most_likely_score": "1-1",
     "confidence": 0.4382
   },
-  "head_to_head": {
-    "total_matches": 1,
-    "home_wins": 0,
-    "draws": 1,
-    "away_wins": 0,
-    "home_goals": 0,
-    "away_goals": 0,
-    "avg_total_goals": 0,
-    "home_win_rate": 0,
-    "away_win_rate": 0,
-    "recent_matches": [
-      {
-        "away": "Australia",
-        "date": "2026-06-26T02:00:00+00:00",
-        "home": "Paraguay",
-        "score": "0-0"
-      }
-    ]
-  },
+  "head_to_head": null,
   "average_positions": {
     "away": [
       {

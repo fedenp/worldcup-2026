@@ -6,16 +6,7 @@
     "capacity": 68740
   },
   "weather": null,
-  "prediction": {
-    "prob_home": 79.6,
-    "prob_draw": 11.6,
-    "prob_away": 8.8,
-    "predicted": "H",
-    "xg_home": 1.95,
-    "xg_away": 0.73,
-    "most_likely_score": "1-0",
-    "confidence": 0.796
-  },
+  "prediction": null,
   "head_to_head": null,
   "average_positions": null
 }
