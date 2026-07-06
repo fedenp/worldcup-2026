@@ -40,5 +40,258 @@
       }
     ]
   },
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 50,
+        "x": 43.6,
+        "y": 69.5,
+        "pos": "D",
+        "name": "A. Laporte",
+        "player_id": 565
+      },
+      {
+        "n": 20,
+        "x": 65.2,
+        "y": 57.9,
+        "pos": "F",
+        "name": "F. Torres",
+        "player_id": 749
+      },
+      {
+        "n": 1,
+        "x": 59,
+        "y": 96.8,
+        "pos": "F",
+        "name": "B. Iglesias",
+        "player_id": 1260
+      },
+      {
+        "n": 41,
+        "x": 57.7,
+        "y": 50.4,
+        "pos": "F",
+        "name": "M. Oyarzabal",
+        "player_id": 3890
+      },
+      {
+        "n": 58,
+        "x": 11.6,
+        "y": 47.1,
+        "pos": "G",
+        "name": "U. Simón",
+        "player_id": 562
+      },
+      {
+        "n": 86,
+        "x": 39.5,
+        "y": 30.1,
+        "pos": "D",
+        "name": "P. Cubarsí",
+        "player_id": 740
+      },
+      {
+        "n": 55,
+        "x": 57.4,
+        "y": 44.8,
+        "pos": "M",
+        "name": "D. Olmo",
+        "player_id": 746
+      },
+      {
+        "n": 66,
+        "x": 63.3,
+        "y": 75.4,
+        "pos": "M",
+        "name": "A. Baena",
+        "player_id": 769
+      },
+      {
+        "n": 58,
+        "x": 48,
+        "y": 82,
+        "pos": "D",
+        "name": "M. Cucurella",
+        "player_id": 386
+      },
+      {
+        "n": 9,
+        "x": 47.6,
+        "y": 64,
+        "pos": "M",
+        "name": "F. Ruiz",
+        "player_id": 2249
+      },
+      {
+        "n": 9,
+        "x": 51.9,
+        "y": 49.7,
+        "pos": "M",
+        "name": "M. Merino",
+        "player_id": 451
+      },
+      {
+        "n": 87,
+        "x": 46.5,
+        "y": 15,
+        "pos": "D",
+        "name": "P. Porro",
+        "player_id": 719
+      },
+      {
+        "n": 79,
+        "x": 51.3,
+        "y": 51.5,
+        "pos": "M",
+        "name": "Pedri",
+        "player_id": 744
+      },
+      {
+        "n": 114,
+        "x": 48.5,
+        "y": 46.9,
+        "pos": "M",
+        "name": "Rodri",
+        "player_id": 4267
+      },
+      {
+        "n": 77,
+        "x": 66,
+        "y": 18.1,
+        "pos": "M",
+        "name": "L. Yamal",
+        "player_id": 745
+      }
+    ],
+    "home": [
+      {
+        "n": 45,
+        "x": 47.5,
+        "y": 18.2,
+        "pos": "D",
+        "name": "J. Cancelo",
+        "player_id": 8331
+      },
+      {
+        "n": 22,
+        "x": 61.9,
+        "y": 44.4,
+        "pos": "F",
+        "name": "C. Ronaldo",
+        "player_id": 7880
+      },
+      {
+        "n": 30,
+        "x": 42.4,
+        "y": 86.5,
+        "pos": "D",
+        "name": "N. Semedo",
+        "player_id": 3407
+      },
+      {
+        "n": 17,
+        "x": 50.2,
+        "y": 21.7,
+        "pos": "D",
+        "name": "D. Dalot",
+        "player_id": 1795
+      },
+      {
+        "n": 76,
+        "x": 55.2,
+        "y": 64.8,
+        "pos": "M",
+        "name": "B. Fernandes",
+        "player_id": 1794
+      },
+      {
+        "n": 59,
+        "x": 40.9,
+        "y": 81.9,
+        "pos": "D",
+        "name": "N. Mendes",
+        "player_id": 3470
+      },
+      {
+        "n": 13,
+        "x": 65.8,
+        "y": 19.9,
+        "pos": "F",
+        "name": "F. Conceição",
+        "player_id": 2183
+      },
+      {
+        "n": 17,
+        "x": 54.7,
+        "y": 49.1,
+        "pos": "M",
+        "name": "B. Silva",
+        "player_id": 848
+      },
+      {
+        "n": 51,
+        "x": 50,
+        "y": 68.4,
+        "pos": "M",
+        "name": "J. Neves",
+        "player_id": 2247
+      },
+      {
+        "n": 48,
+        "x": 47.8,
+        "y": 75.6,
+        "pos": "F",
+        "name": "J. Félix",
+        "player_id": 7881
+      },
+      {
+        "n": 18,
+        "x": 69.1,
+        "y": 85.6,
+        "pos": "F",
+        "name": "R. Leão",
+        "player_id": 1997
+      },
+      {
+        "n": 48,
+        "x": 56.1,
+        "y": 22.6,
+        "pos": "M",
+        "name": "P. Neto",
+        "player_id": 394
+      },
+      {
+        "n": 58,
+        "x": 8.8,
+        "y": 50.7,
+        "pos": "G",
+        "name": "D. Costa",
+        "player_id": 996
+      },
+      {
+        "n": 64,
+        "x": 35.7,
+        "y": 29.7,
+        "pos": "D",
+        "name": "R. Dias",
+        "player_id": 845
+      },
+      {
+        "n": 79,
+        "x": 31.2,
+        "y": 61.8,
+        "pos": "D",
+        "name": "R. Veiga",
+        "player_id": 1781
+      },
+      {
+        "n": 61,
+        "x": 48.5,
+        "y": 52.5,
+        "pos": "M",
+        "name": "Vitinha",
+        "player_id": 2248
+      }
+    ]
+  }
 }
