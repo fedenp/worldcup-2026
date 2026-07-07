@@ -6,8 +6,8 @@
     "capacity": 68740
   },
   "weather": {
-    "code": 0,
-    "description": "unknown",
+    "code": 1,
+    "description": "clear",
     "wind_speed": 12.9,
     "temperature_c": 31
   },
@@ -26,19 +26,272 @@
     "home_wins": 0,
     "draws": 0,
     "away_wins": 1,
-    "home_goals": 2,
-    "away_goals": 5,
-    "avg_total_goals": 7,
+    "home_goals": 1,
+    "away_goals": 4,
+    "avg_total_goals": 5,
     "home_win_rate": 0,
     "away_win_rate": 1,
     "recent_matches": [
       {
         "away": "Belgium",
-        "date": "2026-03-28T19:30:00+00:00",
+        "date": "2026-07-07T00:00:00+00:00",
         "home": "USA",
-        "score": "2-5"
+        "score": "1-4"
       }
     ]
   },
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 62,
+        "x": 49.1,
+        "y": 56.1,
+        "pos": "M",
+        "name": "H. Vanaken",
+        "player_id": 3542
+      },
+      {
+        "n": 51,
+        "x": 11.4,
+        "y": 48.7,
+        "pos": "G",
+        "name": "T. Courtois",
+        "player_id": 585
+      },
+      {
+        "n": 11,
+        "x": 66.9,
+        "y": 58.6,
+        "pos": "F",
+        "name": "R. Lukaku",
+        "player_id": 8676
+      },
+      {
+        "n": 48,
+        "x": 65.2,
+        "y": 24.6,
+        "pos": "M",
+        "name": "D. Lukebakio",
+        "player_id": 3974
+      },
+      {
+        "n": 48,
+        "x": 29.9,
+        "y": 65.4,
+        "pos": "D",
+        "name": "B. Mechele",
+        "player_id": 3537
+      },
+      {
+        "n": 19,
+        "x": 45.7,
+        "y": 33.3,
+        "pos": "M",
+        "name": "A. Onana",
+        "player_id": 508
+      },
+      {
+        "n": 39,
+        "x": 66.5,
+        "y": 39.1,
+        "pos": "F",
+        "name": "C. De Ketelaere",
+        "player_id": 1305
+      },
+      {
+        "n": 54,
+        "x": 27.7,
+        "y": 33.3,
+        "pos": "D",
+        "name": "N. Ngoy",
+        "player_id": 1447
+      },
+      {
+        "n": 54,
+        "x": 52.9,
+        "y": 57.3,
+        "pos": "F",
+        "name": "L. Trossard",
+        "player_id": 3461
+      },
+      {
+        "n": 20,
+        "x": 55.4,
+        "y": 76.4,
+        "pos": "M",
+        "name": "J. Doku",
+        "player_id": 853
+      },
+      {
+        "n": 5,
+        "x": 37.4,
+        "y": 45.7,
+        "pos": "M",
+        "name": "A. Witsel",
+        "player_id": 1042
+      },
+      {
+        "n": 5,
+        "x": 36.5,
+        "y": 46.5,
+        "pos": "M",
+        "name": "A. Saelemaekers",
+        "player_id": 1991
+      },
+      {
+        "n": 80,
+        "x": 42.6,
+        "y": 78.2,
+        "pos": "D",
+        "name": "M. De Cuyper",
+        "player_id": 491
+      },
+      {
+        "n": 73,
+        "x": 44.6,
+        "y": 39.7,
+        "pos": "M",
+        "name": "Y. Tielemans",
+        "player_id": 514
+      },
+      {
+        "n": 71,
+        "x": 43.4,
+        "y": 14.3,
+        "pos": "D",
+        "name": "T. Castagne",
+        "player_id": 834
+      },
+      {
+        "n": 72,
+        "x": 46.6,
+        "y": 56,
+        "pos": "M",
+        "name": "N. Raskin",
+        "player_id": 3015
+      }
+    ],
+    "home": [
+      {
+        "n": 7,
+        "x": 51.2,
+        "y": 76.7,
+        "pos": "F",
+        "name": "R. Pepi",
+        "player_id": 3513
+      },
+      {
+        "n": 45,
+        "x": 54.3,
+        "y": 45.7,
+        "pos": "M",
+        "name": "S. Berhalter",
+        "player_id": 9104
+      },
+      {
+        "n": 26,
+        "x": 74.1,
+        "y": 49.6,
+        "pos": "F",
+        "name": "F. Balogun",
+        "player_id": 2232
+      },
+      {
+        "n": 28,
+        "x": 60.4,
+        "y": 15.3,
+        "pos": "D",
+        "name": "S. Dest",
+        "player_id": 3503
+      },
+      {
+        "n": 40,
+        "x": 56.2,
+        "y": 74.2,
+        "pos": "F",
+        "name": "C. Pulišić",
+        "player_id": 3820
+      },
+      {
+        "n": 2,
+        "x": 74.1,
+        "y": 83.2,
+        "pos": "F",
+        "name": "H. Wright",
+        "player_id": 6430
+      },
+      {
+        "n": 93,
+        "x": 51.6,
+        "y": 86.8,
+        "pos": "D",
+        "name": "A. Robinson",
+        "player_id": 4559
+      },
+      {
+        "n": 105,
+        "x": 46.6,
+        "y": 16.3,
+        "pos": "D",
+        "name": "A. Freeman",
+        "player_id": 8860
+      },
+      {
+        "n": 75,
+        "x": 58.2,
+        "y": 62.3,
+        "pos": "M",
+        "name": "M. Tillman",
+        "player_id": 2143
+      },
+      {
+        "n": 40,
+        "x": 56.6,
+        "y": 53.2,
+        "pos": "M",
+        "name": "G. Reyna",
+        "player_id": 2878
+      },
+      {
+        "n": 101,
+        "x": 35.3,
+        "y": 36.7,
+        "pos": "D",
+        "name": "C. Richards",
+        "player_id": 423
+      },
+      {
+        "n": 105,
+        "x": 40.1,
+        "y": 73.6,
+        "pos": "D",
+        "name": "T. Ream",
+        "player_id": 9229
+      },
+      {
+        "n": 62,
+        "x": 59.9,
+        "y": 46.5,
+        "pos": "M",
+        "name": "W. McKennie",
+        "player_id": 2179
+      },
+      {
+        "n": 82,
+        "x": 45,
+        "y": 51.3,
+        "pos": "M",
+        "name": "T. Adams",
+        "player_id": 788
+      },
+      {
+        "n": 43,
+        "x": 10.1,
+        "y": 52.3,
+        "pos": "G",
+        "name": "M. Freese",
+        "player_id": 9116
+      }
+    ]
+  }
 }
