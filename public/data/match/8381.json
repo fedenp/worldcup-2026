@@ -6,8 +6,8 @@
     "capacity": 71000
   },
   "weather": {
-    "code": 1,
-    "description": "clear",
+    "code": 2,
+    "description": "cloudy",
     "wind_speed": 10.6,
     "temperature_c": 34
   },
@@ -22,5 +22,242 @@
     "confidence": 0.6049
   },
   "head_to_head": null,
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 30,
+        "x": 52.6,
+        "y": 18,
+        "pos": "M",
+        "name": "H. Hassan",
+        "player_id": 1971
+      },
+      {
+        "n": 29,
+        "x": 30,
+        "y": 66.9,
+        "pos": "M",
+        "name": "H. Fathy",
+        "player_id": 15354
+      },
+      {
+        "n": 12,
+        "x": 42,
+        "y": 71.1,
+        "pos": "M",
+        "name": "M. Trézéguet",
+        "player_id": 14684
+      },
+      {
+        "n": 39,
+        "x": 52.7,
+        "y": 76,
+        "pos": "M",
+        "name": "E. Ashour",
+        "player_id": 14683
+      },
+      {
+        "n": 4,
+        "x": 33.2,
+        "y": 29.4,
+        "pos": "M",
+        "name": "Zizo",
+        "player_id": 14682
+      },
+      {
+        "n": 9,
+        "x": 47.8,
+        "y": 34.8,
+        "pos": "F",
+        "name": "O. Marmoush",
+        "player_id": 862
+      },
+      {
+        "n": 50,
+        "x": 24.3,
+        "y": 66.6,
+        "pos": "D",
+        "name": "R. Rabia",
+        "player_id": 15355
+      },
+      {
+        "n": 49,
+        "x": 6.8,
+        "y": 49.5,
+        "pos": "G",
+        "name": "M. Shobeir",
+        "player_id": 14675
+      },
+      {
+        "n": 55,
+        "x": 27,
+        "y": 36,
+        "pos": "D",
+        "name": "Y. Ibrahim",
+        "player_id": 14678
+      },
+      {
+        "n": 38,
+        "x": 44.6,
+        "y": 58.4,
+        "pos": "M",
+        "name": "M. Ziko",
+        "player_id": 14729
+      },
+      {
+        "n": 72,
+        "x": 39.5,
+        "y": 16.5,
+        "pos": "D",
+        "name": "M. Hany",
+        "player_id": 14676
+      },
+      {
+        "n": 73,
+        "x": 40.1,
+        "y": 46.2,
+        "pos": "M",
+        "name": "M. Attia",
+        "player_id": 14681
+      },
+      {
+        "n": 51,
+        "x": 52.3,
+        "y": 41.8,
+        "pos": "M",
+        "name": "M. Salah",
+        "player_id": 333
+      },
+      {
+        "n": 74,
+        "x": 38.4,
+        "y": 80.1,
+        "pos": "D",
+        "name": "K. Hafez",
+        "player_id": 14728
+      },
+      {
+        "n": 57,
+        "x": 38.7,
+        "y": 44.3,
+        "pos": "M",
+        "name": "M. Lasheen",
+        "player_id": 14721
+      }
+    ],
+    "home": [
+      {
+        "n": 25,
+        "x": 16.2,
+        "y": 50,
+        "pos": "G",
+        "name": "E. Martínez",
+        "player_id": 1629
+      },
+      {
+        "n": 43,
+        "x": 64,
+        "y": 86.8,
+        "pos": "D",
+        "name": "N. Tagliafico",
+        "player_id": 1107
+      },
+      {
+        "n": 23,
+        "x": 70.2,
+        "y": 86.8,
+        "pos": "M",
+        "name": "N. González",
+        "player_id": 768
+      },
+      {
+        "n": 20,
+        "x": 63,
+        "y": 17.3,
+        "pos": "D",
+        "name": "G. Montiel",
+        "player_id": 23014
+      },
+      {
+        "n": 108,
+        "x": 62.6,
+        "y": 66.4,
+        "pos": "M",
+        "name": "E. Fernández",
+        "player_id": 387
+      },
+      {
+        "n": 15,
+        "x": 77.6,
+        "y": 53.6,
+        "pos": "F",
+        "name": "L. Martínez",
+        "player_id": 1687
+      },
+      {
+        "n": 53,
+        "x": 47,
+        "y": 13.6,
+        "pos": "D",
+        "name": "N. Molina",
+        "player_id": 761
+      },
+      {
+        "n": 64,
+        "x": 62.5,
+        "y": 54.4,
+        "pos": "M",
+        "name": "A. Mac Allister",
+        "player_id": 328
+      },
+      {
+        "n": 54,
+        "x": 62.7,
+        "y": 57.6,
+        "pos": "F",
+        "name": "J. Álvarez",
+        "player_id": 770
+      },
+      {
+        "n": 72,
+        "x": 57.8,
+        "y": 22.9,
+        "pos": "M",
+        "name": "R. De Paul",
+        "player_id": 9057
+      },
+      {
+        "n": 145,
+        "x": 51,
+        "y": 45.6,
+        "pos": "M",
+        "name": "L. Paredes",
+        "player_id": 16872
+      },
+      {
+        "n": 83,
+        "x": 45.9,
+        "y": 70.2,
+        "pos": "D",
+        "name": "L. Martínez",
+        "player_id": 1800
+      },
+      {
+        "n": 94,
+        "x": 72.4,
+        "y": 34.4,
+        "pos": "F",
+        "name": "L. Messi",
+        "player_id": 9063
+      },
+      {
+        "n": 90,
+        "x": 40.2,
+        "y": 40.3,
+        "pos": "D",
+        "name": "C. Romero",
+        "player_id": 720
+      }
+    ]
+  }
 }

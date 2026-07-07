@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T17:54:50.360Z",
+  "updated_at": "2026-07-07T21:18:32.098Z",
   "groups": {
     "Group A": [
       {
@@ -82,7 +82,7 @@
         "pts": 7,
         "xg": 6.4,
         "form": "WWWDW",
-        "live": false
+        "live": true
       },
       {
         "position": 2,
@@ -428,7 +428,7 @@
         "pts": 5,
         "xg": 3.9,
         "form": "DDWDL",
-        "live": true
+        "live": false
       },
       {
         "position": 3,
@@ -610,7 +610,7 @@
         "pts": 9,
         "xg": 6,
         "form": "WWWWW",
-        "live": true
+        "live": false
       },
       {
         "position": 2,
@@ -676,7 +676,7 @@
         "pts": 7,
         "xg": 4.3,
         "form": "WDWWW",
-        "live": false
+        "live": true
       },
       {
         "position": 2,
