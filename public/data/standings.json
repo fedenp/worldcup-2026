@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T02:08:57.816Z",
+  "updated_at": "2026-07-08T06:23:55.334Z",
   "groups": {
     "Group A": [
       {
@@ -81,7 +81,7 @@
         "gd": 4,
         "pts": 7,
         "xg": 6.4,
-        "form": "WWWDW",
+        "form": "DWWWD",
         "live": false
       },
       {
@@ -427,7 +427,7 @@
         "gd": 2,
         "pts": 5,
         "xg": 3.9,
-        "form": "DDWDL",
+        "form": "LDDWD",
         "live": false
       },
       {
@@ -675,7 +675,7 @@
         "gd": 3,
         "pts": 7,
         "xg": 4.3,
-        "form": "WDWWW",
+        "form": "DWDWW",
         "live": false
       },
       {
