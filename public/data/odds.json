@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-07-08T13:50:25.533Z",
+  "updated_at": "2026-07-08T17:24:23.678Z",
   "events": {
     "8383": {
       "event_id": 8383,
       "home_team": "France",
       "away_team": "Morocco",
       "commence_time": "2026-07-09T20:00:00Z",
-      "avg_home": 1.57,
-      "avg_draw": 3.94,
-      "avg_away": 6.54,
-      "implied_home": 63.7,
-      "implied_draw": 25.4,
-      "implied_away": 15.3,
+      "avg_home": 1.58,
+      "avg_draw": 3.95,
+      "avg_away": 6.5,
+      "implied_home": 63.3,
+      "implied_draw": 25.3,
+      "implied_away": 15.4,
       "bookmakers_count": 25
     },
     "8384": {
@@ -19,12 +19,12 @@
       "home_team": "Spain",
       "away_team": "Belgium",
       "commence_time": "2026-07-10T19:00:00Z",
-      "avg_home": 1.62,
-      "avg_draw": 3.99,
-      "avg_away": 5.69,
-      "implied_home": 61.7,
-      "implied_draw": 25.1,
-      "implied_away": 17.6,
+      "avg_home": 1.63,
+      "avg_draw": 4.02,
+      "avg_away": 5.71,
+      "implied_home": 61.3,
+      "implied_draw": 24.9,
+      "implied_away": 17.5,
       "bookmakers_count": 24
     },
     "8385": {
@@ -32,11 +32,11 @@
       "home_team": "Norway",
       "away_team": "England",
       "commence_time": "2026-07-11T21:00:00Z",
-      "avg_home": 4.16,
-      "avg_draw": 3.73,
+      "avg_home": 4.15,
+      "avg_draw": 3.74,
       "avg_away": 1.87,
-      "implied_home": 24,
-      "implied_draw": 26.8,
+      "implied_home": 24.1,
+      "implied_draw": 26.7,
       "implied_away": 53.5,
       "bookmakers_count": 25
     },
@@ -45,12 +45,12 @@
       "home_team": "Argentina",
       "away_team": "Switzerland",
       "commence_time": "2026-07-12T01:00:00Z",
-      "avg_home": 1.72,
-      "avg_draw": 3.56,
-      "avg_away": 5.51,
-      "implied_home": 58.1,
-      "implied_draw": 28.1,
-      "implied_away": 18.1,
+      "avg_home": 1.7,
+      "avg_draw": 3.58,
+      "avg_away": 5.69,
+      "implied_home": 58.8,
+      "implied_draw": 27.9,
+      "implied_away": 17.6,
       "bookmakers_count": 25
     }
   }
