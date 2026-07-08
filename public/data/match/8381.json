@@ -21,7 +21,25 @@
     "most_likely_score": "1-0",
     "confidence": 0.6049
   },
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 1,
+    "draws": 0,
+    "away_wins": 0,
+    "home_goals": 3,
+    "away_goals": 2,
+    "avg_total_goals": 5,
+    "home_win_rate": 1,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Egypt",
+        "date": "2026-07-07T16:00:00+00:00",
+        "home": "Argentina",
+        "score": "3-2"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {
