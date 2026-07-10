@@ -6,8 +6,8 @@
     "capacity": 66829
   },
   "weather": {
-    "code": 3,
-    "description": "rain",
+    "code": 1,
+    "description": "clear",
     "wind_speed": 20.9,
     "temperature_c": 31
   },
@@ -21,6 +21,277 @@
     "most_likely_score": "1-0",
     "confidence": 0.5576
   },
-  "head_to_head": null,
-  "average_positions": null
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 1,
+    "draws": 0,
+    "away_wins": 0,
+    "home_goals": 2,
+    "away_goals": 0,
+    "avg_total_goals": 2,
+    "home_win_rate": 1,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Morocco",
+        "date": "2026-07-09T20:00:00+00:00",
+        "home": "France",
+        "score": "2-0"
+      }
+    ]
+  },
+  "average_positions": {
+    "away": [
+      {
+        "n": 42,
+        "x": 51.1,
+        "y": 47.3,
+        "pos": "M",
+        "name": "B. E. Khannouss",
+        "player_id": 1619
+      },
+      {
+        "n": 67,
+        "x": 28,
+        "y": 65,
+        "pos": "D",
+        "name": "N. Mazraoui",
+        "player_id": 1799
+      },
+      {
+        "n": 48,
+        "x": 53.8,
+        "y": 21.9,
+        "pos": "M",
+        "name": "B. Díaz",
+        "player_id": 598
+      },
+      {
+        "n": 35,
+        "x": 56.1,
+        "y": 79.9,
+        "pos": "M",
+        "name": "C. Talbi",
+        "player_id": 350
+      },
+      {
+        "n": 9,
+        "x": 59.9,
+        "y": 74.3,
+        "pos": "F",
+        "name": "S. Rahimi",
+        "player_id": 15371
+      },
+      {
+        "n": 16,
+        "x": 55.2,
+        "y": 26.6,
+        "pos": "M",
+        "name": "G. Yassine",
+        "player_id": 8630
+      },
+      {
+        "n": 19,
+        "x": 46.6,
+        "y": 88.4,
+        "pos": "D",
+        "name": "Z. E. Ouahdi",
+        "player_id": 3122
+      },
+      {
+        "n": 30,
+        "x": 44.5,
+        "y": 47.2,
+        "pos": "M",
+        "name": "S. Amrabat",
+        "player_id": 2985
+      },
+      {
+        "n": 76,
+        "x": 37,
+        "y": 55,
+        "pos": "M",
+        "name": "N. El Aynaoui",
+        "player_id": 1070
+      },
+      {
+        "n": 90,
+        "x": 49,
+        "y": 20.1,
+        "pos": "D",
+        "name": "A. Hakimi",
+        "player_id": 4241
+      },
+      {
+        "n": 11,
+        "x": 67.6,
+        "y": 81.7,
+        "pos": "M",
+        "name": "A. Sbai",
+        "player_id": 1395
+      },
+      {
+        "n": 56,
+        "x": 41.5,
+        "y": 36.8,
+        "pos": "M",
+        "name": "A. Bouaddi",
+        "player_id": 1451
+      },
+      {
+        "n": 52,
+        "x": 32.9,
+        "y": 77.3,
+        "pos": "D",
+        "name": "A. Salah-Eddine",
+        "player_id": 3506
+      },
+      {
+        "n": 57,
+        "x": 7,
+        "y": 52,
+        "pos": "G",
+        "name": "Bono",
+        "player_id": 7990
+      },
+      {
+        "n": 97,
+        "x": 57.3,
+        "y": 51.2,
+        "pos": "M",
+        "name": "A. Ounahi",
+        "player_id": 1044
+      },
+      {
+        "n": 67,
+        "x": 24.6,
+        "y": 30.2,
+        "pos": "D",
+        "name": "I. Diop",
+        "player_id": 4377
+      }
+    ],
+    "home": [
+      {
+        "n": 27,
+        "x": 10.5,
+        "y": 43.5,
+        "pos": "G",
+        "name": "M. Maignan",
+        "player_id": 1987
+      },
+      {
+        "n": 62,
+        "x": 66.4,
+        "y": 30.1,
+        "pos": "F",
+        "name": "O. Dembélé",
+        "player_id": 2253
+      },
+      {
+        "n": 12,
+        "x": 72.2,
+        "y": 76.9,
+        "pos": "F",
+        "name": "B. Barcola",
+        "player_id": 2261
+      },
+      {
+        "n": 7,
+        "x": 81,
+        "y": 41.7,
+        "pos": "F",
+        "name": "J. Mateta",
+        "player_id": 432
+      },
+      {
+        "n": 60,
+        "x": 49.2,
+        "y": 16,
+        "pos": "D",
+        "name": "J. Koundé",
+        "player_id": 739
+      },
+      {
+        "n": 7,
+        "x": 31.5,
+        "y": 23,
+        "pos": "D",
+        "name": "M. Gusto",
+        "player_id": 393
+      },
+      {
+        "n": 77,
+        "x": 40.3,
+        "y": 31,
+        "pos": "D",
+        "name": "D. Upamecano",
+        "player_id": 3463
+      },
+      {
+        "n": 20,
+        "x": 50.8,
+        "y": 55.9,
+        "pos": "M",
+        "name": "W. Zaïre-Emery",
+        "player_id": 2243
+      },
+      {
+        "n": 84,
+        "x": 57.8,
+        "y": 42.5,
+        "pos": "M",
+        "name": "M. Olise",
+        "player_id": 2467
+      },
+      {
+        "n": 56,
+        "x": 52.8,
+        "y": 38.8,
+        "pos": "M",
+        "name": "M. Koné",
+        "player_id": 1064
+      },
+      {
+        "n": 48,
+        "x": 70.5,
+        "y": 62.4,
+        "pos": "F",
+        "name": "K. Mbappé",
+        "player_id": 594
+      },
+      {
+        "n": 75,
+        "x": 51.9,
+        "y": 59.7,
+        "pos": "M",
+        "name": "A. Rabiot",
+        "player_id": 1994
+      },
+      {
+        "n": 78,
+        "x": 63.9,
+        "y": 75.1,
+        "pos": "F",
+        "name": "D. Doué",
+        "player_id": 4324
+      },
+      {
+        "n": 71,
+        "x": 40.9,
+        "y": 65.2,
+        "pos": "D",
+        "name": "W. Saliba",
+        "player_id": 3460
+      },
+      {
+        "n": 74,
+        "x": 48.6,
+        "y": 85.6,
+        "pos": "D",
+        "name": "L. Digne",
+        "player_id": 513
+      }
+    ]
+  }
 }
