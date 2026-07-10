@@ -6,8 +6,8 @@
     "capacity": 70242
   },
   "weather": {
-    "code": 0,
-    "description": "unknown",
+    "code": 1,
+    "description": "clear",
     "wind_speed": 14.7,
     "temperature_c": 22
   },
@@ -22,5 +22,258 @@
     "confidence": 0.3889
   },
   "head_to_head": null,
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 24,
+        "x": 42.7,
+        "y": 28.7,
+        "pos": "F",
+        "name": "L. Trossard",
+        "player_id": 3461
+      },
+      {
+        "n": 40,
+        "x": 38.7,
+        "y": 82.1,
+        "pos": "D",
+        "name": "M. De Cuyper",
+        "player_id": 491
+      },
+      {
+        "n": 23,
+        "x": 49.5,
+        "y": 39.6,
+        "pos": "M",
+        "name": "H. Vanaken",
+        "player_id": 3542
+      },
+      {
+        "n": 46,
+        "x": 60.6,
+        "y": 52.4,
+        "pos": "F",
+        "name": "C. De Ketelaere",
+        "player_id": 1305
+      },
+      {
+        "n": 9,
+        "x": 71,
+        "y": 44.4,
+        "pos": "F",
+        "name": "R. Lukaku",
+        "player_id": 8676
+      },
+      {
+        "n": 19,
+        "x": 7.1,
+        "y": 51.1,
+        "pos": "G",
+        "name": "S. Lammens",
+        "player_id": 1788
+      },
+      {
+        "n": 19,
+        "x": 25.3,
+        "y": 75.9,
+        "pos": "D",
+        "name": "J. Seys",
+        "player_id": 3538
+      },
+      {
+        "n": 42,
+        "x": 48.3,
+        "y": 11.5,
+        "pos": "D",
+        "name": "T. Castagne",
+        "player_id": 834
+      },
+      {
+        "n": 62,
+        "x": 26.1,
+        "y": 39.3,
+        "pos": "D",
+        "name": "N. Ngoy",
+        "player_id": 1447
+      },
+      {
+        "n": 42,
+        "x": 8.7,
+        "y": 52.1,
+        "pos": "G",
+        "name": "T. Courtois",
+        "player_id": 585
+      },
+      {
+        "n": 14,
+        "x": 40,
+        "y": 41.3,
+        "pos": "M",
+        "name": "A. Witsel",
+        "player_id": 1042
+      },
+      {
+        "n": 47,
+        "x": 46.2,
+        "y": 56.7,
+        "pos": "M",
+        "name": "K. De Bruyne",
+        "player_id": 4374
+      },
+      {
+        "n": 59,
+        "x": 29.2,
+        "y": 67.6,
+        "pos": "D",
+        "name": "B. Mechele",
+        "player_id": 3537
+      },
+      {
+        "n": 61,
+        "x": 56.3,
+        "y": 75.8,
+        "pos": "M",
+        "name": "J. Doku",
+        "player_id": 853
+      },
+      {
+        "n": 6,
+        "x": 68.7,
+        "y": 39.2,
+        "pos": "M",
+        "name": "A. Saelemaekers",
+        "player_id": 1991
+      },
+      {
+        "n": 74,
+        "x": 38.1,
+        "y": 55.6,
+        "pos": "M",
+        "name": "N. Raskin",
+        "player_id": 3015
+      }
+    ],
+    "home": [
+      {
+        "n": 62,
+        "x": 61.2,
+        "y": 38.9,
+        "pos": "M",
+        "name": "D. Olmo",
+        "player_id": 746
+      },
+      {
+        "n": 36,
+        "x": 67.3,
+        "y": 52.2,
+        "pos": "F",
+        "name": "M. Oyarzabal",
+        "player_id": 3890
+      },
+      {
+        "n": 59,
+        "x": 13.8,
+        "y": 52.1,
+        "pos": "G",
+        "name": "U. Simón",
+        "player_id": 562
+      },
+      {
+        "n": 58,
+        "x": 63.1,
+        "y": 62,
+        "pos": "M",
+        "name": "Pedri",
+        "player_id": 744
+      },
+      {
+        "n": 88,
+        "x": 73.1,
+        "y": 24,
+        "pos": "M",
+        "name": "L. Yamal",
+        "player_id": 745
+      },
+      {
+        "n": 18,
+        "x": 68.9,
+        "y": 52.8,
+        "pos": "F",
+        "name": "F. Torres",
+        "player_id": 749
+      },
+      {
+        "n": 113,
+        "x": 54.8,
+        "y": 15.4,
+        "pos": "D",
+        "name": "P. Porro",
+        "player_id": 719
+      },
+      {
+        "n": 122,
+        "x": 52.5,
+        "y": 46.1,
+        "pos": "M",
+        "name": "Rodri",
+        "player_id": 4267
+      },
+      {
+        "n": 52,
+        "x": 57.8,
+        "y": 63.3,
+        "pos": "M",
+        "name": "F. Ruiz",
+        "player_id": 2249
+      },
+      {
+        "n": 13,
+        "x": 67.5,
+        "y": 76.8,
+        "pos": "M",
+        "name": "N. Williams",
+        "player_id": 571
+      },
+      {
+        "n": 115,
+        "x": 39.9,
+        "y": 33.9,
+        "pos": "D",
+        "name": "P. Cubarsí",
+        "player_id": 740
+      },
+      {
+        "n": 49,
+        "x": 69.4,
+        "y": 69.8,
+        "pos": "M",
+        "name": "A. Baena",
+        "player_id": 769
+      },
+      {
+        "n": 12,
+        "x": 53.7,
+        "y": 45.5,
+        "pos": "M",
+        "name": "M. Merino",
+        "player_id": 451
+      },
+      {
+        "n": 85,
+        "x": 38.3,
+        "y": 68.7,
+        "pos": "D",
+        "name": "A. Laporte",
+        "player_id": 565
+      },
+      {
+        "n": 64,
+        "x": 59.9,
+        "y": 86.1,
+        "pos": "D",
+        "name": "M. Cucurella",
+        "player_id": 386
+      }
+    ]
+  }
 }
