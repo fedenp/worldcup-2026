@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T02:07:13.371Z",
+  "updated_at": "2026-07-11T06:09:10.417Z",
   "managers": {
     "451": {
       "id": 128,
@@ -737,25 +737,25 @@
       "stats_updated_at": "2026-07-06T23:31:22.957092+00:00"
     },
     "491": {
-      "id": 123,
-      "name": "Roberto Martínez",
-      "short_name": "R. Martínez",
-      "country": "Spain",
+      "id": 197,
+      "name": "Jorge Jesus",
+      "short_name": "J. Jesus",
+      "country": "Portugal",
       "tactical_profile": "attacking",
-      "preferred_formation": "4-2-3-1",
+      "preferred_formation": "4-4-2",
       "current_team_id": 491,
-      "matches_total": 30,
-      "wins": 17,
-      "draws": 9,
+      "matches_total": 34,
+      "wins": 28,
+      "draws": 2,
       "losses": 4,
-      "win_pct": 56.7,
-      "avg_goals_scored": 2.03,
-      "avg_goals_conceded": 0.87,
-      "avg_possession": 60.44,
-      "clean_sheet_pct": 33.3,
-      "btts_pct": 53.3,
-      "over_25_pct": 56.7,
-      "stats_updated_at": "2026-07-06T23:31:15.820556+00:00"
+      "win_pct": 82.4,
+      "avg_goals_scored": 2.68,
+      "avg_goals_conceded": 0.82,
+      "avg_possession": 58.35,
+      "clean_sheet_pct": 50,
+      "btts_pct": 50,
+      "over_25_pct": 64.7,
+      "stats_updated_at": "2026-07-06T23:30:55.977627+00:00"
     },
     "493": {
       "id": 108,

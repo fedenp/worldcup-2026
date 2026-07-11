@@ -1,28 +1,84 @@
 {
-  "updatedAt": "2026-07-11T02:07:23.857Z",
+  "updatedAt": "2026-07-11T06:09:22.065Z",
   "items": [
+    {
+      "title": "Argentina vs. Suiza, EN VIVO por el Mundial 2026: hora, TV y las formaciones",
+      "description": "El partido se disputará a las 22 horas en el Kansas City Stadium; todos los detalles del encuentro",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/argentina-vs-suiza-en-vivo-por-el-mundial-2026-nid11072026/",
+      "publishedAt": "2026-07-11T06:03:51.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/Y4GYJZ7RSBHDFMQH5FOL5UZJ4I.JPG?auth=de74a8d32df8f3dd30209171f071d4968851f299163f70231e5a8e4a0645030e&smart=true&width=2500&height=1668",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Mundial 2026, en vivo: se definen la segunda semifinal entre Inglaterra vs. Noruega, y Argentina vs. Suiza",
+      "description": "Las últimas noticias de la selección argentina, declaraciones de los jugadores y entrenadores, y reacciones sobre los partidos",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-en-vivo-se-definen-la-segunda-semifinal-entre-inglaterra-vs-noruega-y-argentina-vs-nid11072026/",
+      "publishedAt": "2026-07-11T05:39:20.000Z",
+      "imageUrl": null,
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Con el clima de Qatar, Argentina busca ante Suiza que el equipo también vuelva a parecerse a aquel campeón avasallante",
+      "description": "La selección juega este sábado a las 22 por un lugar en semifinales, envuelta en una atmósfera que recuerda a 2022",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/con-el-clima-de-qatar-argentina-busca-ante-suiza-que-el-equipo-tambien-vuelva-a-parecerse-a-aquel-nid11072026/",
+      "publishedAt": "2026-07-11T05:12:43.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/DVYATM2F2NHZFOGPDXKQOLDZH4.JPG?auth=390742bb6738e08376f28a5a0be1bdf4729d28ea36e3f0274d52b5fc439f1802&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "España semifinalista: Mikel Merino, el Conde de San Sebastián, es un experto en goles in extremis",
+      "description": "El volante de Arsenal anotó por segunda etapa seguida en el Mundial pese a jugar poco; “España tiene un ángel”, titularon en la península",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/espana-semifinalista-mikel-merino-el-conde-de-san-sebastian-es-un-experto-en-goles-in-extremis-nid11072026/",
+      "publishedAt": "2026-07-11T05:07:49.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/GSX4SYUVBZGUBEQQW26GXSJPOI.jpg?auth=acc8221f5da262357cc97c76a8ef5a73986df034576e43d0c16df9c6735a9cf4&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Que los terrenales levanten vuelo: a la selección emocional le llegó la hora de dar un salto",
+      "description": "El cuerpo técnico argentino siempre supo cuándo tocar las piezas; no es cuestión de, ante la mínima duda, meter volantazos",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/que-los-terrenales-levanten-vuelo-a-la-seleccion-emocional-le-llego-la-hora-de-dar-un-salto-nid11072026/",
+      "publishedAt": "2026-07-11T03:45:14.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/GICBYMSOUNBM7I255WZ6CK7IMQ.JPG?auth=32a80ef07883cf77f323402924ea90447bbcfdefdc2744821431eaa6b7f2b28d&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Agenda de TV del sábado: Argentina - Suiza, Inglaterra - Noruega, los Pumas, Top 14, Wimbledon, Tour",
+      "description": "El Mundial, el Nations Championship, rugby local, tenis, ciclismo y NBA en un cargado día deportiva, como para seguir en las pantallas",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/agenda-de-tv-del-sabado-argentina-suiza-inglaterra-noruega-los-pumas-top-14-wimbledon-tour-nid10072026/",
+      "publishedAt": "2026-07-11T03:00:00.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/5UHG7BM4XNCQ5CMJEBSU3JOJLU.jpg?auth=a3dc4a08f0d18f75142e69c1a8b418ae55bc5f265e26145b5f980262b4f6e1aa&smart=true&width=4270&height=2847",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Los Pumas - Gales, por el Nations Championship: hora de reaccionar para los argentinos en San Juan",
+      "description": "Tras la dura derrota contra Escocia, la Argentina juega su segundo partido de la temporada, este sábado a las 16.10; es favorita",
+      "link": "https://www.lanacion.com.ar/deportes/rugby/los-pumas-gales-por-el-nations-championship-hora-de-reaccionar-para-los-argentinos-en-san-juan-nid10072026/",
+      "publishedAt": "2026-07-11T02:52:53.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/YPW52BO32JEF3OMWMNK4YPAKU4.JPG?auth=d7dd05675f59e2feb669f01208df14e34f1aa55a047d4d1f8a45a779be1968ce&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "España le ganó a Bélgica y enfrentará a Francia en la semifinal, mientras argentina se prepara para el partido ante Suiza",
+      "description": "El minuto a minuto de las últimas noticias de la selección argentina, declaraciones de los jugadores y entrenadores, y repercusiones sobre los partidos",
+      "link": "https://www.lanacion.com.ar/deportes/mundial-2026-en-vivo-nid10072026/",
+      "publishedAt": "2026-07-11T02:40:16.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/QGQLPPXSOBAWXFHBGXEVBBQBM4.jpg?auth=6957ae92e5836aaf78022ebb10a6c39a34f496ae039aacbcda4ea90b8d6b9dbb&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Lionel Scaloni: “Para Suiza no deja de ser una preocupación tener enfrente a los jugadores que tenemos”",
+      "description": "El director técnico del seleccionado nacional se refirió al nivel del conjunto europeo y habló sobre el posible 11 que salga a la cancha en el estadio de Kansas City",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/lionel-scaloni-messi-va-a-ser-el-mejor-hasta-que-el-tenga-ganas-pero-llegara-el-momento-en-que-eso-nid10072026/",
+      "publishedAt": "2026-07-11T02:16:19.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/QJJRY75KSBCJDB56SQWXQSC2NU.JPG?auth=d8758776d430a1cf311b816d755296522238ed2a74739dd18bff457c90a6a913&smart=true&width=3588&height=2392",
+      "source": "La Nación Deportes"
+    },
     {
       "title": "Hay que clonar el gol de Enzo a Egipto: Suiza tiene paciencia y va por la izquierda, pero tiene puntos débiles",
       "description": "El análisis del equipo de Murat Yakin, que fue a Estados Unidos a disfrutar del Mundial y ataca con mucha gente",
       "link": "https://www.lanacion.com.ar/deportes/futbol/hay-que-clonar-el-gol-de-enzo-a-egipto-suiza-tiene-paciencia-y-va-por-la-izquierda-pero-tiene-puntos-nid10072026/",
       "publishedAt": "2026-07-11T01:59:30.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/4SEG3LJALFELNMISM35NKH2YCE.jpg?auth=bb5bb265d79ea210e5eaa3fcc6877bc6de42bcca8f8c5279c4eb492399d916c0&smart=true&width=715&height=426",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Lionel Scaloni: “Messi va a ser el mejor hasta que él tenga ganas, pero llegará el momento en que eso se va a terminar”",
-      "description": "El director técnico del seleccionado nacional se refirió al nivel de Suiza y habló sobre el posible equipo que salga a la cancha en el estadio de  Kansas City",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/lionel-scaloni-messi-va-a-ser-el-mejor-hasta-que-el-tenga-ganas-pero-llegara-el-momento-en-que-eso-nid10072026/",
-      "publishedAt": "2026-07-11T01:53:38.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/5O736AN2XNABPAIAQI7SB4KQOY.JPG?auth=9f00547b69a783f01fb1941b85f8b24b67e964997a8641d1c512a3fdbd0551b6&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Mundial 2026, en vivo: la previa del partido contra Suiza y el choque por un lugar en semis entre España y Bélgica",
-      "description": "El minuto a minuto de las últimas noticias de la selección argentina, declaraciones de los jugadores y entrenadores, y repercusiones sobre los partidos",
-      "link": "https://www.lanacion.com.ar/deportes/mundial-2026-en-vivo-nid10072026/",
-      "publishedAt": "2026-07-11T00:37:28.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/QGQLPPXSOBAWXFHBGXEVBBQBM4.jpg?auth=6957ae92e5836aaf78022ebb10a6c39a34f496ae039aacbcda4ea90b8d6b9dbb&smart=true&width=2000&height=1333",
       "source": "La Nación Deportes"
     },
     {
@@ -102,62 +158,6 @@
       "description": "El Millonario se quedó con 9 jugadores por indisciplina y la Academia ganó por 2 a 1 y se consagró campeón",
       "link": "https://www.lanacion.com.ar/deportes/futbol/racing-aprovecho-las-dos-expulsiones-de-river-y-se-quedo-con-el-torneo-proyeccion-nid10072026/",
       "publishedAt": "2026-07-10T22:24:14.000Z",
-      "imageUrl": null,
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Thibaut Courtois se lesionó y salió entre lágrimas: un duro golpe para Bélgica antes de quedar eliminado ante España",
-      "description": "Una molestia física obligó al arquero belga a pedir el cambio; se retiró llorando y fue reemplazado por Senne Lammens, responsable en el gol de Merino que decretó la eliminación de su equipo",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/thibaut-courtois-se-lesiono-y-salio-entre-lagrimas-un-duro-golpe-para-belgica-antes-de-quedar-nid10072026/",
-      "publishedAt": "2026-07-10T22:22:09.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/OUZ7CYHV6FBD5L3I6JB7MWGX6I.jpg?auth=415c480fc8dc8e5eb78057c624cd6864fc9046bd2935d2885802732ad3287d89&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Resultado de España vs. Bélgica: quién ganó el partido del Mundial 2026",
-      "description": "El partido de cuartos de final del Mundial 2026 se disputó en el SoFi Stadium de Los Angeles, Estados Unidos, y definió al rival de Francia en las semifinales",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-espana-vs-belgica-y-por-donde-se-puede-ver-online-nid10072026/",
-      "publishedAt": "2026-07-10T21:26:32.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/LHRSZIDPSVFYHMXPJ5FOFQOPXY.jpg?auth=cea2defcbeba1589adc5b383053510eee4f421e39e57509a233ac5f83e288d04&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Así está el cuadro de semifinales del Mundial 2026",
-      "description": "La llave de los cuatro mejores comienza a configurarse; Francia venció a Marruecos y se verá las caras con España, que dejó en el camino a Bélgica",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/asi-esta-el-cuadro-de-semifinales-del-mundial-2026-nid09072026/",
-      "publishedAt": "2026-07-10T21:23:14.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/SF3DTLNNXNEHXLWNHXLLWROSWE.jpg?auth=2e2deeec4adf73df1400c933b3ba18f9c1e47a5a75896c112b2584dbaf154bae&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Otra vez Suiza: el Mundial volvió a encontrar a Messi en el mismo lugar que hace 12 años",
-      "description": "El astro, figura argentina en Brasil 2014, trabajó para desafiar al tiempo y que el próximo partido nunca sea el último",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/otra-vez-suiza-el-mundial-volvio-a-encontrar-a-messi-en-el-mismo-lugar-que-hace-12-anos-nid10072026/",
-      "publishedAt": "2026-07-10T21:21:25.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/P6SSV25ZEVGL7MW7CQXJDPWQVE.JPG?auth=5cd618aba924a70085ea26c14f45446ba6bbdf771663d854c982ae9fe088c8e9&smart=true&width=2000&height=1331",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Harry Kane, el 9 que juega de todo en Inglaterra y entrenó como arquero para hacer más goles también sabe bromear",
-      "description": "El rol clave del delantero de Bayern Munich en la estructura de Tuchel y en la previa de su duelo con el noruego Haaland, por los cuartos de final del Mundial",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/harry-kane-el-9-que-juega-de-todo-en-inglaterra-y-entreno-como-arquero-para-hacer-mas-goles-tambien-nid10072026/",
-      "publishedAt": "2026-07-10T20:48:06.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/HS5KKB3CUBDO3POEIP3FQ2C3YM.jpg?auth=81c593115884c4b2fe9c09c0da41d407894cd26c4021a0b281880d3e37bac720&smart=true&width=4000&height=3000",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Agenda de TV del sábado: Argentina - Suiza, Inglaterra - Noruega, los Pumas, Top 14, Wimbledon, Tour",
-      "description": "El Mundial, el Nations Championship, rugby local, tenis, ciclismo y NBA en un cargado día deportiva, como para seguir en las pantallas",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/agenda-de-tv-del-sabado-argentina-suiza-inglaterra-noruega-los-pumas-top-14-wimbledon-tour-nid10072026/",
-      "publishedAt": "2026-07-10T20:45:04.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/5UHG7BM4XNCQ5CMJEBSU3JOJLU.jpg?auth=a3dc4a08f0d18f75142e69c1a8b418ae55bc5f265e26145b5f980262b4f6e1aa&smart=true&width=4270&height=2847",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Enzo Fernández reveló la frase que le dijo a Lionel Messi al oído que lo emocionó hasta las lágrimas",
-      "description": "El volante del seleccionado argentino recordó el momento de intimidad compartido con el capitán en el campo de juego tras la clasificación del seleccionado argentino",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/enzo-fernandez-revelo-la-frase-que-le-dijo-a-lionel-messi-al-oido-que-lo-emociono-hasta-las-lagrimas-nid10072026/",
-      "publishedAt": "2026-07-10T20:19:43.000Z",
       "imageUrl": null,
       "source": "La Nación Deportes"
     }
