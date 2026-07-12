@@ -6,8 +6,8 @@
     "capacity": 65326
   },
   "weather": {
-    "code": 2,
-    "description": "cloudy",
+    "code": 1,
+    "description": "clear",
     "wind_speed": 23.5,
     "temperature_c": 33
   },
@@ -21,6 +21,301 @@
     "most_likely_score": "1-1",
     "confidence": 0.5022
   },
-  "head_to_head": null,
-  "average_positions": null
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 0,
+    "away_wins": 1,
+    "home_goals": 1,
+    "away_goals": 2,
+    "avg_total_goals": 3,
+    "home_win_rate": 0,
+    "away_win_rate": 1,
+    "recent_matches": [
+      {
+        "away": "England",
+        "date": "2026-07-11T21:00:00+00:00",
+        "home": "Norway",
+        "score": "1-2"
+      }
+    ]
+  },
+  "average_positions": {
+    "away": [
+      {
+        "n": 49,
+        "x": 54.3,
+        "y": 55.4,
+        "pos": "F",
+        "name": "H. Kane",
+        "player_id": 2466
+      },
+      {
+        "n": 101,
+        "x": 40.7,
+        "y": 66.9,
+        "pos": "D",
+        "name": "M. Guéhi",
+        "player_id": 425
+      },
+      {
+        "n": 43,
+        "x": 58.9,
+        "y": 73.1,
+        "pos": "M",
+        "name": "E. Eze",
+        "player_id": 454
+      },
+      {
+        "n": 52,
+        "x": 55.4,
+        "y": 43.2,
+        "pos": "M",
+        "name": "D. Rice",
+        "player_id": 449
+      },
+      {
+        "n": 57,
+        "x": 49.8,
+        "y": 80.2,
+        "pos": "D",
+        "name": "N. O’Reilly",
+        "player_id": 847
+      },
+      {
+        "n": 34,
+        "x": 69.1,
+        "y": 15.7,
+        "pos": "F",
+        "name": "N. Madueke",
+        "player_id": 450
+      },
+      {
+        "n": 25,
+        "x": 49.1,
+        "y": 69.5,
+        "pos": "M",
+        "name": "M. Rogers",
+        "player_id": 511
+      },
+      {
+        "n": 37,
+        "x": 44.1,
+        "y": 80.3,
+        "pos": "D",
+        "name": "D. Spence",
+        "player_id": 735
+      },
+      {
+        "n": 5,
+        "x": 25.7,
+        "y": 65.2,
+        "pos": "D",
+        "name": "D. Burn",
+        "player_id": 701
+      },
+      {
+        "n": 102,
+        "x": 42.9,
+        "y": 35.3,
+        "pos": "D",
+        "name": "J. Stones",
+        "player_id": 854
+      },
+      {
+        "n": 57,
+        "x": 11.5,
+        "y": 48.8,
+        "pos": "G",
+        "name": "J. Pickford",
+        "player_id": 803
+      },
+      {
+        "n": 52,
+        "x": 48.6,
+        "y": 25.9,
+        "pos": "D",
+        "name": "R. James",
+        "player_id": 400
+      },
+      {
+        "n": 119,
+        "x": 49.2,
+        "y": 56.8,
+        "pos": "M",
+        "name": "E. Anderson",
+        "player_id": 548
+      },
+      {
+        "n": 75,
+        "x": 49.9,
+        "y": 17.6,
+        "pos": "D",
+        "name": "E. Konsa",
+        "player_id": 504
+      },
+      {
+        "n": 71,
+        "x": 54.6,
+        "y": 46.6,
+        "pos": "M",
+        "name": "J. Bellingham",
+        "player_id": 592
+      },
+      {
+        "n": 54,
+        "x": 62.2,
+        "y": 16,
+        "pos": "F",
+        "name": "B. Saka",
+        "player_id": 455
+      },
+      {
+        "n": 58,
+        "x": 65.3,
+        "y": 84.1,
+        "pos": "F",
+        "name": "A. Gordon",
+        "player_id": 711
+      }
+    ],
+    "home": [
+      {
+        "n": 35,
+        "x": 38.9,
+        "y": 17.2,
+        "pos": "M",
+        "name": "J. Ryerson",
+        "player_id": 2159
+      },
+      {
+        "n": 129,
+        "x": 47,
+        "y": 47.9,
+        "pos": "M",
+        "name": "S. Berge",
+        "player_id": 829
+      },
+      {
+        "n": 26,
+        "x": 64.5,
+        "y": 47.9,
+        "pos": "F",
+        "name": "E. Haaland",
+        "player_id": 852
+      },
+      {
+        "n": 43,
+        "x": 69.1,
+        "y": 73.4,
+        "pos": "F",
+        "name": "A. Nusa",
+        "player_id": 2897
+      },
+      {
+        "n": 59,
+        "x": 53.4,
+        "y": 64.1,
+        "pos": "M",
+        "name": "P. Berg",
+        "player_id": 3673
+      },
+      {
+        "n": 39,
+        "x": 58.9,
+        "y": 23.4,
+        "pos": "F",
+        "name": "A. Sørloth",
+        "player_id": 774
+      },
+      {
+        "n": 20,
+        "x": 47.7,
+        "y": 58.9,
+        "pos": "M",
+        "name": "M. Pedersen",
+        "player_id": 1838
+      },
+      {
+        "n": 38,
+        "x": 40.1,
+        "y": 83.3,
+        "pos": "M",
+        "name": "A. Schjelderup",
+        "player_id": 2064
+      },
+      {
+        "n": 60,
+        "x": 10.6,
+        "y": 51.1,
+        "pos": "G",
+        "name": "Ø. Nyland",
+        "player_id": 1561
+      },
+      {
+        "n": 37,
+        "x": 72.8,
+        "y": 19.2,
+        "pos": "M",
+        "name": "O. Bobb",
+        "player_id": 3651
+      },
+      {
+        "n": 55,
+        "x": 30.5,
+        "y": 72.9,
+        "pos": "D",
+        "name": "T. Heggem",
+        "player_id": 957
+      },
+      {
+        "n": 117,
+        "x": 53.7,
+        "y": 36.7,
+        "pos": "M",
+        "name": "M. Ødegaard",
+        "player_id": 447
+      },
+      {
+        "n": 20,
+        "x": 42.2,
+        "y": 59.7,
+        "pos": "D",
+        "name": "L. Østigård",
+        "player_id": 2590
+      },
+      {
+        "n": 67,
+        "x": 51.5,
+        "y": 33.1,
+        "pos": "M",
+        "name": "F. Aursnes",
+        "player_id": 2056
+      },
+      {
+        "n": 85,
+        "x": 31.8,
+        "y": 37.9,
+        "pos": "D",
+        "name": "K. Ajer",
+        "player_id": 464
+      },
+      {
+        "n": 7,
+        "x": 68,
+        "y": 80.2,
+        "pos": "F",
+        "name": "J. Larsen",
+        "player_id": 531
+      },
+      {
+        "n": 45,
+        "x": 37.1,
+        "y": 87,
+        "pos": "D",
+        "name": "D. M. Wolfe",
+        "player_id": 529
+      }
+    ]
+  }
 }
