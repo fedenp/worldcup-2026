@@ -5,7 +5,12 @@
     "city": "Foxborough",
     "capacity": 66829
   },
-  "weather": null,
+  "weather": {
+    "code": 1,
+    "description": "clear",
+    "wind_speed": 9.2,
+    "temperature_c": 25
+  },
   "prediction": {
     "prob_home": 28.5,
     "prob_draw": 24.3,
@@ -16,7 +21,25 @@
     "most_likely_score": "0-1",
     "confidence": 0.4722
   },
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 0,
+    "away_wins": 1,
+    "home_goals": 0,
+    "away_goals": 1,
+    "avg_total_goals": 1,
+    "home_win_rate": 0,
+    "away_win_rate": 1,
+    "recent_matches": [
+      {
+        "away": "Morocco",
+        "date": "2026-06-19T22:00:00+00:00",
+        "home": "Scotland",
+        "score": "0-1"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {

@@ -5,7 +5,12 @@
     "city": "Arlington",
     "capacity": 80000
   },
-  "weather": null,
+  "weather": {
+    "code": 1,
+    "description": "clear",
+    "wind_speed": 29.1,
+    "temperature_c": 35
+  },
   "prediction": {
     "prob_home": 27.5,
     "prob_draw": 26.9,
@@ -16,7 +21,31 @@
     "most_likely_score": "1-1",
     "confidence": 0.4561
   },
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 2,
+    "home_wins": 1,
+    "draws": 0,
+    "away_wins": 1,
+    "home_goals": 5,
+    "away_goals": 4,
+    "avg_total_goals": 4.5,
+    "home_win_rate": 0.5,
+    "away_win_rate": 0.5,
+    "recent_matches": [
+      {
+        "away": "Croatia",
+        "date": "2026-06-17T20:00:00+00:00",
+        "home": "England",
+        "score": "4-2"
+      },
+      {
+        "away": "Croatia",
+        "date": "2018-06-26T17:00:00+00:00",
+        "home": "England",
+        "score": "1-2"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {

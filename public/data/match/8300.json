@@ -5,7 +5,12 @@
     "city": "Seattle",
     "capacity": 68740
   },
-  "weather": null,
+  "weather": {
+    "code": 1,
+    "description": "clear",
+    "wind_speed": 9.6,
+    "temperature_c": 20
+  },
   "prediction": {
     "prob_home": 79.6,
     "prob_draw": 11.6,
@@ -16,7 +21,25 @@
     "most_likely_score": "1-0",
     "confidence": 0.796
   },
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 1,
+    "away_wins": 0,
+    "home_goals": 1,
+    "away_goals": 1,
+    "avg_total_goals": 2,
+    "home_win_rate": 0,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Egypt",
+        "date": "2026-06-15T19:00:00+00:00",
+        "home": "Belgium",
+        "score": "1-1"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {
