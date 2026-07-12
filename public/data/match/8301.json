@@ -5,12 +5,7 @@
     "city": "Miami Gardens",
     "capacity": 65326
   },
-  "weather": {
-    "code": 2,
-    "description": "cloudy",
-    "wind_speed": 19.9,
-    "temperature_c": 32
-  },
+  "weather": null,
   "prediction": {
     "prob_home": 22.5,
     "prob_draw": 20.6,
@@ -21,31 +16,7 @@
     "most_likely_score": "0-1",
     "confidence": 0.5692
   },
-  "head_to_head": {
-    "total_matches": 2,
-    "home_wins": 0,
-    "draws": 1,
-    "away_wins": 1,
-    "home_goals": 1,
-    "away_goals": 2,
-    "avg_total_goals": 1.5,
-    "home_win_rate": 0,
-    "away_win_rate": 0.5,
-    "recent_matches": [
-      {
-        "away": "Uruguay",
-        "date": "2026-06-15T22:00:00+00:00",
-        "home": "Saudi Arabia",
-        "score": "1-1"
-      },
-      {
-        "away": "Saudi Arabia",
-        "date": "2018-06-20T14:00:00+00:00",
-        "home": "Uruguay",
-        "score": "1-0"
-      }
-    ]
-  },
+  "head_to_head": null,
   "average_positions": {
     "away": [
       {
