@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T20:53:13.098Z",
+  "updated_at": "2026-07-14T01:58:00.639Z",
   "managers": {
     "451": {
       "id": 128,
@@ -9,18 +9,18 @@
       "tactical_profile": "balanced",
       "preferred_formation": "4-3-3",
       "current_team_id": 451,
-      "matches_total": 26,
-      "wins": 19,
-      "draws": 4,
+      "matches_total": 21,
+      "wins": 15,
+      "draws": 3,
       "losses": 3,
-      "win_pct": 73.1,
-      "avg_goals_scored": 1.69,
-      "avg_goals_conceded": 0.46,
-      "avg_possession": 54.54,
-      "clean_sheet_pct": 69.2,
-      "btts_pct": 23.1,
-      "over_25_pct": 30.8,
-      "stats_updated_at": "2026-07-06T23:30:53.476130+00:00"
+      "win_pct": 71.4,
+      "avg_goals_scored": 1.67,
+      "avg_goals_conceded": 0.52,
+      "avg_possession": 53,
+      "clean_sheet_pct": 66.7,
+      "btts_pct": 23.8,
+      "over_25_pct": 33.3,
+      "stats_updated_at": "2026-07-13T23:31:13.304470+00:00"
     },
     "452": {
       "id": 87,
@@ -41,7 +41,7 @@
       "clean_sheet_pct": 37.9,
       "btts_pct": 41.4,
       "over_25_pct": 34.5,
-      "stats_updated_at": "2026-07-06T23:30:51.772590+00:00"
+      "stats_updated_at": "2026-07-13T23:31:10.919800+00:00"
     },
     "453": {
       "id": 105,
@@ -62,7 +62,7 @@
       "clean_sheet_pct": 37.9,
       "btts_pct": 44.8,
       "over_25_pct": 51.7,
-      "stats_updated_at": "2026-07-06T23:31:08.907042+00:00"
+      "stats_updated_at": "2026-07-13T23:31:27.886987+00:00"
     },
     "455": {
       "id": 130,
@@ -83,7 +83,7 @@
       "clean_sheet_pct": 45.8,
       "btts_pct": 37.5,
       "over_25_pct": 33.3,
-      "stats_updated_at": "2026-07-06T23:30:54.370571+00:00"
+      "stats_updated_at": "2026-07-13T23:31:14.217760+00:00"
     },
     "457": {
       "id": 122,
@@ -93,18 +93,18 @@
       "tactical_profile": "attacking",
       "preferred_formation": "4-2-3-1",
       "current_team_id": 457,
-      "matches_total": 21,
+      "matches_total": 22,
       "wins": 11,
       "draws": 1,
-      "losses": 9,
-      "win_pct": 52.4,
-      "avg_goals_scored": 1.81,
-      "avg_goals_conceded": 1.38,
-      "avg_possession": 51.88,
-      "clean_sheet_pct": 28.6,
-      "btts_pct": 57.1,
-      "over_25_pct": 61.9,
-      "stats_updated_at": "2026-07-06T23:31:04.771421+00:00"
+      "losses": 10,
+      "win_pct": 50,
+      "avg_goals_scored": 1.77,
+      "avg_goals_conceded": 1.5,
+      "avg_possession": 52.33,
+      "clean_sheet_pct": 27.3,
+      "btts_pct": 59.1,
+      "over_25_pct": 63.6,
+      "stats_updated_at": "2026-07-13T23:31:25.005706+00:00"
     },
     "458": {
       "id": 90,
@@ -125,7 +125,7 @@
       "clean_sheet_pct": 48.3,
       "btts_pct": 34.5,
       "over_25_pct": 34.5,
-      "stats_updated_at": "2026-07-06T23:30:50.306830+00:00"
+      "stats_updated_at": "2026-07-13T23:31:07.917679+00:00"
     },
     "459": {
       "id": 571,
@@ -146,7 +146,7 @@
       "clean_sheet_pct": 55.6,
       "btts_pct": 33.3,
       "over_25_pct": 33.3,
-      "stats_updated_at": "2026-07-06T23:31:21.609081+00:00"
+      "stats_updated_at": "2026-07-13T23:31:39.818667+00:00"
     },
     "461": {
       "id": 570,
@@ -167,7 +167,7 @@
       "clean_sheet_pct": 30,
       "btts_pct": 56.7,
       "over_25_pct": 70,
-      "stats_updated_at": "2026-07-06T23:30:57.145167+00:00"
+      "stats_updated_at": "2026-07-13T23:31:17.561328+00:00"
     },
     "462": {
       "id": 78,
@@ -177,18 +177,18 @@
       "tactical_profile": "attacking",
       "preferred_formation": "4-2-3-1",
       "current_team_id": 462,
-      "matches_total": 25,
+      "matches_total": 27,
       "wins": 10,
-      "draws": 10,
-      "losses": 5,
-      "win_pct": 40,
-      "avg_goals_scored": 1.8,
-      "avg_goals_conceded": 1.16,
-      "avg_possession": 57.56,
-      "clean_sheet_pct": 28,
-      "btts_pct": 64,
-      "over_25_pct": 44,
-      "stats_updated_at": "2026-07-06T23:31:08.864746+00:00"
+      "draws": 11,
+      "losses": 6,
+      "win_pct": 37,
+      "avg_goals_scored": 1.7,
+      "avg_goals_conceded": 1.19,
+      "avg_possession": 55.64,
+      "clean_sheet_pct": 29.6,
+      "btts_pct": 63,
+      "over_25_pct": 44.4,
+      "stats_updated_at": "2026-07-13T23:31:27.852454+00:00"
     },
     "463": {
       "id": 127,
@@ -209,7 +209,7 @@
       "clean_sheet_pct": 32.3,
       "btts_pct": 54.8,
       "over_25_pct": 51.6,
-      "stats_updated_at": "2026-07-06T23:30:35.589730+00:00"
+      "stats_updated_at": "2026-07-13T23:30:45.203775+00:00"
     },
     "464": {
       "id": 89,
@@ -219,18 +219,18 @@
       "tactical_profile": "attacking",
       "preferred_formation": "4-2-3-1",
       "current_team_id": 464,
-      "matches_total": 29,
+      "matches_total": 30,
       "wins": 21,
       "draws": 7,
-      "losses": 1,
-      "win_pct": 72.4,
-      "avg_goals_scored": 2.14,
-      "avg_goals_conceded": 0.45,
-      "avg_possession": 58.87,
-      "clean_sheet_pct": 62.1,
-      "btts_pct": 34.5,
-      "over_25_pct": 41.4,
-      "stats_updated_at": "2026-07-06T23:31:08.353756+00:00"
+      "losses": 2,
+      "win_pct": 70,
+      "avg_goals_scored": 2.07,
+      "avg_goals_conceded": 0.5,
+      "avg_possession": 58.44,
+      "clean_sheet_pct": 60,
+      "btts_pct": 33.3,
+      "over_25_pct": 40,
+      "stats_updated_at": "2026-07-13T23:31:27.454089+00:00"
     },
     "465": {
       "id": 83,
@@ -251,7 +251,7 @@
       "clean_sheet_pct": 34.6,
       "btts_pct": 46.2,
       "over_25_pct": 69.2,
-      "stats_updated_at": "2026-07-06T23:31:18.181123+00:00"
+      "stats_updated_at": "2026-07-13T23:31:36.859235+00:00"
     },
     "466": {
       "id": 95,
@@ -272,7 +272,7 @@
       "clean_sheet_pct": 29.2,
       "btts_pct": 45.8,
       "over_25_pct": 54.2,
-      "stats_updated_at": "2026-07-06T23:31:19.659676+00:00"
+      "stats_updated_at": "2026-07-13T23:31:38.123570+00:00"
     },
     "467": {
       "id": 51,
@@ -293,7 +293,7 @@
       "clean_sheet_pct": 34.5,
       "btts_pct": 58.6,
       "over_25_pct": 65.5,
-      "stats_updated_at": "2026-07-06T23:30:57.205876+00:00"
+      "stats_updated_at": "2026-07-13T23:31:17.621510+00:00"
     },
     "468": {
       "id": 1562,
@@ -314,7 +314,7 @@
       "clean_sheet_pct": 54.2,
       "btts_pct": 41.7,
       "over_25_pct": 54.2,
-      "stats_updated_at": "2026-07-06T23:30:41.175130+00:00"
+      "stats_updated_at": "2026-07-13T23:30:53.620944+00:00"
     },
     "469": {
       "id": 102,
@@ -335,7 +335,7 @@
       "clean_sheet_pct": 26.7,
       "btts_pct": 66.7,
       "over_25_pct": 66.7,
-      "stats_updated_at": "2026-07-06T23:31:16.370829+00:00"
+      "stats_updated_at": "2026-07-13T23:31:35.300357+00:00"
     },
     "470": {
       "id": 109,
@@ -356,7 +356,7 @@
       "clean_sheet_pct": 59.3,
       "btts_pct": 37,
       "over_25_pct": 63,
-      "stats_updated_at": "2026-07-06T23:30:50.558177+00:00"
+      "stats_updated_at": "2026-07-13T23:31:08.461256+00:00"
     },
     "471": {
       "id": 96,
@@ -377,7 +377,7 @@
       "clean_sheet_pct": 62.1,
       "btts_pct": 31,
       "over_25_pct": 44.8,
-      "stats_updated_at": "2026-07-06T23:30:43.644981+00:00"
+      "stats_updated_at": "2026-07-13T23:30:56.470843+00:00"
     },
     "472": {
       "id": 103,
@@ -398,7 +398,7 @@
       "clean_sheet_pct": 53.3,
       "btts_pct": 33.3,
       "over_25_pct": 30,
-      "stats_updated_at": "2026-07-06T23:31:17.930181+00:00"
+      "stats_updated_at": "2026-07-13T23:31:36.656213+00:00"
     },
     "474": {
       "id": 71,
@@ -419,7 +419,7 @@
       "clean_sheet_pct": 83.3,
       "btts_pct": 8.3,
       "over_25_pct": 50,
-      "stats_updated_at": "2026-07-06T23:30:51.183510+00:00"
+      "stats_updated_at": "2026-07-13T23:31:09.647949+00:00"
     },
     "475": {
       "id": 116,
@@ -429,18 +429,18 @@
       "tactical_profile": "attacking",
       "preferred_formation": "4-2-3-1",
       "current_team_id": 475,
-      "matches_total": 32,
-      "wins": 24,
+      "matches_total": 33,
+      "wins": 25,
       "draws": 8,
       "losses": 0,
-      "win_pct": 75,
-      "avg_goals_scored": 2.41,
-      "avg_goals_conceded": 0.72,
-      "avg_possession": 66.2,
-      "clean_sheet_pct": 56.2,
-      "btts_pct": 43.8,
-      "over_25_pct": 68.8,
-      "stats_updated_at": "2026-07-06T23:30:59.967823+00:00"
+      "win_pct": 75.8,
+      "avg_goals_scored": 2.39,
+      "avg_goals_conceded": 0.73,
+      "avg_possession": 66.36,
+      "clean_sheet_pct": 54.5,
+      "btts_pct": 45.5,
+      "over_25_pct": 69.7,
+      "stats_updated_at": "2026-07-13T23:31:20.822606+00:00"
     },
     "476": {
       "id": 1445,
@@ -461,7 +461,7 @@
       "clean_sheet_pct": 66.7,
       "btts_pct": 33.3,
       "over_25_pct": 52.4,
-      "stats_updated_at": "2026-07-06T23:30:35.153861+00:00"
+      "stats_updated_at": "2026-07-13T23:30:44.465861+00:00"
     },
     "477": {
       "id": 129,
@@ -471,18 +471,18 @@
       "tactical_profile": "attacking",
       "preferred_formation": "4-2-3-1",
       "current_team_id": 477,
-      "matches_total": 28,
-      "wins": 13,
+      "matches_total": 30,
+      "wins": 14,
       "draws": 8,
-      "losses": 7,
-      "win_pct": 46.4,
-      "avg_goals_scored": 2.25,
-      "avg_goals_conceded": 1,
-      "avg_possession": 57.78,
-      "clean_sheet_pct": 35.7,
-      "btts_pct": 46.4,
-      "over_25_pct": 50,
-      "stats_updated_at": "2026-07-06T23:31:17.140112+00:00"
+      "losses": 8,
+      "win_pct": 46.7,
+      "avg_goals_scored": 2.27,
+      "avg_goals_conceded": 1.03,
+      "avg_possession": 54.18,
+      "clean_sheet_pct": 33.3,
+      "btts_pct": 50,
+      "over_25_pct": 53.3,
+      "stats_updated_at": "2026-07-13T23:31:35.875933+00:00"
     },
     "478": {
       "id": 117,
@@ -492,18 +492,18 @@
       "tactical_profile": "balanced",
       "preferred_formation": "4-2-3-1",
       "current_team_id": 478,
-      "matches_total": 29,
+      "matches_total": 30,
       "wins": 15,
       "draws": 12,
-      "losses": 2,
-      "win_pct": 51.7,
-      "avg_goals_scored": 1.66,
-      "avg_goals_conceded": 0.69,
-      "avg_possession": 49.73,
-      "clean_sheet_pct": 48.3,
-      "btts_pct": 48.3,
-      "over_25_pct": 41.4,
-      "stats_updated_at": "2026-07-06T23:30:51.618034+00:00"
+      "losses": 3,
+      "win_pct": 50,
+      "avg_goals_scored": 1.67,
+      "avg_goals_conceded": 0.77,
+      "avg_possession": 48.88,
+      "clean_sheet_pct": 46.7,
+      "btts_pct": 50,
+      "over_25_pct": 43.3,
+      "stats_updated_at": "2026-07-13T23:31:10.682071+00:00"
     },
     "479": {
       "id": 188,
@@ -524,7 +524,7 @@
       "clean_sheet_pct": 47.1,
       "btts_pct": 35.3,
       "over_25_pct": 35.3,
-      "stats_updated_at": "2026-07-06T23:30:48.225799+00:00"
+      "stats_updated_at": "2026-07-13T23:31:03.220230+00:00"
     },
     "480": {
       "id": 98,
@@ -545,7 +545,7 @@
       "clean_sheet_pct": 48.3,
       "btts_pct": 34.5,
       "over_25_pct": 34.5,
-      "stats_updated_at": "2026-07-06T23:31:01.112754+00:00"
+      "stats_updated_at": "2026-07-13T23:31:22.019541+00:00"
     },
     "481": {
       "id": 63,
@@ -566,7 +566,7 @@
       "clean_sheet_pct": 44.8,
       "btts_pct": 51.7,
       "over_25_pct": 58.6,
-      "stats_updated_at": "2026-07-06T23:30:30.401281+00:00"
+      "stats_updated_at": "2026-07-13T23:30:36.456629+00:00"
     },
     "482": {
       "id": 578,
@@ -587,7 +587,7 @@
       "clean_sheet_pct": 40,
       "btts_pct": 40,
       "over_25_pct": 90,
-      "stats_updated_at": "2026-07-06T23:30:39.962035+00:00"
+      "stats_updated_at": "2026-07-13T23:30:51.636263+00:00"
     },
     "483": {
       "id": 104,
@@ -608,7 +608,7 @@
       "clean_sheet_pct": 29.6,
       "btts_pct": 51.9,
       "over_25_pct": 51.9,
-      "stats_updated_at": "2026-07-06T23:31:14.095583+00:00"
+      "stats_updated_at": "2026-07-13T23:31:32.825049+00:00"
     },
     "484": {
       "id": 85,
@@ -629,7 +629,7 @@
       "clean_sheet_pct": 30,
       "btts_pct": 53.3,
       "over_25_pct": 60,
-      "stats_updated_at": "2026-07-06T23:30:53.201823+00:00"
+      "stats_updated_at": "2026-07-13T23:31:12.887705+00:00"
     },
     "485": {
       "id": 32,
@@ -639,18 +639,18 @@
       "tactical_profile": "attacking",
       "preferred_formation": "4-2-3-1",
       "current_team_id": 485,
-      "matches_total": 31,
-      "wins": 21,
+      "matches_total": 32,
+      "wins": 22,
       "draws": 5,
       "losses": 5,
-      "win_pct": 67.7,
+      "win_pct": 68.8,
       "avg_goals_scored": 2.03,
-      "avg_goals_conceded": 0.87,
-      "avg_possession": 62,
-      "clean_sheet_pct": 45.2,
-      "btts_pct": 51.6,
-      "over_25_pct": 61.3,
-      "stats_updated_at": "2026-07-06T23:30:41.384800+00:00"
+      "avg_goals_conceded": 0.84,
+      "avg_possession": 60.73,
+      "clean_sheet_pct": 46.9,
+      "btts_pct": 50,
+      "over_25_pct": 59.4,
+      "stats_updated_at": "2026-07-13T23:30:53.792990+00:00"
     },
     "486": {
       "id": 112,
@@ -671,7 +671,7 @@
       "clean_sheet_pct": 58.6,
       "btts_pct": 37.9,
       "over_25_pct": 55.2,
-      "stats_updated_at": "2026-07-06T23:31:11.622772+00:00"
+      "stats_updated_at": "2026-07-13T23:31:30.400620+00:00"
     },
     "488": {
       "id": 77,
@@ -679,20 +679,20 @@
       "short_name": "S. Solbakken",
       "country": "Norway",
       "tactical_profile": "attacking",
-      "preferred_formation": "4-4-2",
+      "preferred_formation": "4-3-3",
       "current_team_id": 488,
-      "matches_total": 23,
+      "matches_total": 24,
       "wins": 17,
       "draws": 3,
-      "losses": 3,
-      "win_pct": 73.9,
-      "avg_goals_scored": 3,
-      "avg_goals_conceded": 1.09,
-      "avg_possession": 51,
-      "clean_sheet_pct": 34.8,
-      "btts_pct": 65.2,
-      "over_25_pct": 82.6,
-      "stats_updated_at": "2026-07-06T23:31:19.274094+00:00"
+      "losses": 4,
+      "win_pct": 70.8,
+      "avg_goals_scored": 2.92,
+      "avg_goals_conceded": 1.12,
+      "avg_possession": 50.73,
+      "clean_sheet_pct": 33.3,
+      "btts_pct": 66.7,
+      "over_25_pct": 83.3,
+      "stats_updated_at": "2026-07-13T23:31:37.772078+00:00"
     },
     "489": {
       "id": 124,
@@ -702,18 +702,18 @@
       "tactical_profile": "attacking",
       "preferred_formation": "4-4-2",
       "current_team_id": 489,
-      "matches_total": 32,
-      "wins": 25,
+      "matches_total": 34,
+      "wins": 27,
       "draws": 3,
       "losses": 4,
-      "win_pct": 78.1,
-      "avg_goals_scored": 1.97,
-      "avg_goals_conceded": 0.47,
-      "avg_possession": 64.38,
-      "clean_sheet_pct": 65.6,
-      "btts_pct": 28.1,
-      "over_25_pct": 40.6,
-      "stats_updated_at": "2026-07-06T23:30:59.513512+00:00"
+      "win_pct": 79.4,
+      "avg_goals_scored": 2.03,
+      "avg_goals_conceded": 0.53,
+      "avg_possession": 63.8,
+      "clean_sheet_pct": 61.8,
+      "btts_pct": 32.4,
+      "over_25_pct": 44.1,
+      "stats_updated_at": "2026-07-13T23:31:20.127137+00:00"
     },
     "490": {
       "id": 97,
@@ -734,7 +734,7 @@
       "clean_sheet_pct": 38.5,
       "btts_pct": 46.2,
       "over_25_pct": 61.5,
-      "stats_updated_at": "2026-07-06T23:31:22.957092+00:00"
+      "stats_updated_at": "2026-07-13T23:31:41.305899+00:00"
     },
     "491": {
       "id": 197,
@@ -744,18 +744,18 @@
       "tactical_profile": "attacking",
       "preferred_formation": "4-4-2",
       "current_team_id": 491,
-      "matches_total": 34,
-      "wins": 28,
+      "matches_total": 35,
+      "wins": 29,
       "draws": 2,
       "losses": 4,
-      "win_pct": 82.4,
-      "avg_goals_scored": 2.68,
-      "avg_goals_conceded": 0.82,
-      "avg_possession": 58.35,
-      "clean_sheet_pct": 50,
-      "btts_pct": 50,
-      "over_25_pct": 64.7,
-      "stats_updated_at": "2026-07-06T23:30:55.977627+00:00"
+      "win_pct": 82.9,
+      "avg_goals_scored": 2.66,
+      "avg_goals_conceded": 0.8,
+      "avg_possession": 58.46,
+      "clean_sheet_pct": 51.4,
+      "btts_pct": 48.6,
+      "over_25_pct": 62.9,
+      "stats_updated_at": "2026-07-13T23:31:16.322662+00:00"
     },
     "493": {
       "id": 108,
@@ -765,18 +765,18 @@
       "tactical_profile": "attacking",
       "preferred_formation": "4-2-3-1",
       "current_team_id": 493,
-      "matches_total": 30,
-      "wins": 22,
+      "matches_total": 31,
+      "wins": 23,
       "draws": 5,
       "losses": 3,
-      "win_pct": 73.3,
-      "avg_goals_scored": 2.07,
-      "avg_goals_conceded": 0.53,
-      "avg_possession": 63.8,
-      "clean_sheet_pct": 60,
-      "btts_pct": 36.7,
-      "over_25_pct": 46.7,
-      "stats_updated_at": "2026-07-06T23:31:21.195396+00:00"
+      "win_pct": 74.2,
+      "avg_goals_scored": 2.06,
+      "avg_goals_conceded": 0.55,
+      "avg_possession": 62.73,
+      "clean_sheet_pct": 58.1,
+      "btts_pct": 38.7,
+      "over_25_pct": 48.4,
+      "stats_updated_at": "2026-07-13T23:31:39.407750+00:00"
     },
     "494": {
       "id": 126,
@@ -797,7 +797,7 @@
       "clean_sheet_pct": 29.6,
       "btts_pct": 55.6,
       "over_25_pct": 63,
-      "stats_updated_at": "2026-07-06T23:31:24.693527+00:00"
+      "stats_updated_at": "2026-07-13T23:31:43.028329+00:00"
     },
     "495": {
       "id": 838,
@@ -818,7 +818,7 @@
       "clean_sheet_pct": 38.1,
       "btts_pct": 47.6,
       "over_25_pct": 52.4,
-      "stats_updated_at": "2026-07-06T23:30:35.879770+00:00"
+      "stats_updated_at": "2026-07-13T23:30:45.565849+00:00"
     },
     "496": {
       "id": 88,
@@ -839,7 +839,7 @@
       "clean_sheet_pct": 28.1,
       "btts_pct": 56.2,
       "over_25_pct": 46.9,
-      "stats_updated_at": "2026-07-06T23:31:20.894380+00:00"
+      "stats_updated_at": "2026-07-13T23:31:39.223147+00:00"
     },
     "497": {
       "id": 575,
@@ -860,7 +860,7 @@
       "clean_sheet_pct": 44.4,
       "btts_pct": 48.1,
       "over_25_pct": 55.6,
-      "stats_updated_at": "2026-07-06T23:30:45.103594+00:00"
+      "stats_updated_at": "2026-07-13T23:30:58.672402+00:00"
     },
     "498": {
       "id": 31,
@@ -870,18 +870,18 @@
       "tactical_profile": "balanced",
       "preferred_formation": "4-3-3",
       "current_team_id": 498,
-      "matches_total": 32,
+      "matches_total": 33,
       "wins": 16,
-      "draws": 9,
+      "draws": 10,
       "losses": 7,
-      "win_pct": 50,
-      "avg_goals_scored": 1.62,
-      "avg_goals_conceded": 0.88,
-      "avg_possession": 59.5,
-      "clean_sheet_pct": 43.8,
-      "btts_pct": 46.9,
-      "over_25_pct": 50,
-      "stats_updated_at": "2026-07-06T23:31:09.296015+00:00"
+      "win_pct": 48.5,
+      "avg_goals_scored": 1.58,
+      "avg_goals_conceded": 0.85,
+      "avg_possession": 58.11,
+      "clean_sheet_pct": 45.5,
+      "btts_pct": 45.5,
+      "over_25_pct": 48.5,
+      "stats_updated_at": "2026-07-13T23:31:28.249247+00:00"
     },
     "648": {
       "id": 583,
@@ -902,7 +902,7 @@
       "clean_sheet_pct": 43.3,
       "btts_pct": 43.3,
       "over_25_pct": 23.3,
-      "stats_updated_at": "2026-07-06T23:31:18.139248+00:00"
+      "stats_updated_at": "2026-07-13T23:31:36.820764+00:00"
     },
     "731": {
       "id": 574,
@@ -923,7 +923,7 @@
       "clean_sheet_pct": 15,
       "btts_pct": 65,
       "over_25_pct": 75,
-      "stats_updated_at": "2026-07-06T23:30:49.278377+00:00"
+      "stats_updated_at": "2026-07-13T23:31:06.087643+00:00"
     },
     "930": {
       "id": 579,
@@ -944,7 +944,7 @@
       "clean_sheet_pct": 29.2,
       "btts_pct": 66.7,
       "over_25_pct": 66.7,
-      "stats_updated_at": "2026-07-06T23:31:08.153791+00:00"
+      "stats_updated_at": "2026-07-13T23:31:27.309077+00:00"
     },
     "931": {
       "id": 580,
@@ -965,7 +965,7 @@
       "clean_sheet_pct": 22.7,
       "btts_pct": 63.6,
       "over_25_pct": 45.5,
-      "stats_updated_at": "2026-07-06T23:31:18.339703+00:00"
+      "stats_updated_at": "2026-07-13T23:31:37.146841+00:00"
     },
     "932": {
       "id": 581,
@@ -986,7 +986,7 @@
       "clean_sheet_pct": 30.8,
       "btts_pct": 53.8,
       "over_25_pct": 69.2,
-      "stats_updated_at": "2026-07-06T23:31:22.732996+00:00"
+      "stats_updated_at": "2026-07-13T23:31:41.083934+00:00"
     },
     "933": {
       "id": 582,
@@ -1007,7 +1007,7 @@
       "clean_sheet_pct": 43.3,
       "btts_pct": 43.3,
       "over_25_pct": 46.7,
-      "stats_updated_at": "2026-07-06T23:30:49.241440+00:00"
+      "stats_updated_at": "2026-07-13T23:31:05.990995+00:00"
     }
   }
 }
