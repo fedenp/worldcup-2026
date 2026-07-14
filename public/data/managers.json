@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T01:58:00.639Z",
+  "updated_at": "2026-07-14T06:06:59.530Z",
   "managers": {
     "451": {
       "id": 128,
@@ -779,25 +779,25 @@
       "stats_updated_at": "2026-07-13T23:31:39.407750+00:00"
     },
     "494": {
-      "id": 126,
-      "name": "Zlatko Dalić",
-      "short_name": "Z. Dalić",
+      "id": 2069,
+      "name": "Slaven Bilić",
+      "short_name": "S. Bilić",
       "country": "Croatia",
-      "tactical_profile": "attacking",
-      "preferred_formation": "4-2-3-1",
+      "tactical_profile": "",
+      "preferred_formation": "",
       "current_team_id": 494,
-      "matches_total": 27,
-      "wins": 14,
-      "draws": 5,
-      "losses": 8,
-      "win_pct": 51.9,
-      "avg_goals_scored": 1.85,
-      "avg_goals_conceded": 1.26,
-      "avg_possession": 53.56,
-      "clean_sheet_pct": 29.6,
-      "btts_pct": 55.6,
-      "over_25_pct": 63,
-      "stats_updated_at": "2026-07-13T23:31:43.028329+00:00"
+      "matches_total": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "win_pct": null,
+      "avg_goals_scored": null,
+      "avg_goals_conceded": null,
+      "avg_possession": null,
+      "clean_sheet_pct": null,
+      "btts_pct": null,
+      "over_25_pct": null,
+      "stats_updated_at": null
     },
     "495": {
       "id": 838,
