@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-07-15T01:54:36.320Z",
+  "updated_at": "2026-07-15T06:11:22.461Z",
   "events": {
     "8388": {
       "event_id": 8388,
       "home_team": "England",
       "away_team": "Argentina",
       "commence_time": "2026-07-15T19:00:00Z",
-      "avg_home": 2.73,
-      "avg_draw": 2.92,
+      "avg_home": 2.72,
+      "avg_draw": 2.94,
       "avg_away": 3.03,
-      "implied_home": 36.6,
-      "implied_draw": 34.2,
+      "implied_home": 36.8,
+      "implied_draw": 34,
       "implied_away": 33,
       "bookmakers_count": 25
     }
