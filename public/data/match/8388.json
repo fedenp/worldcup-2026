@@ -22,16 +22,22 @@
     "confidence": 0.4302
   },
   "head_to_head": {
-    "total_matches": 1,
+    "total_matches": 2,
     "home_wins": 0,
     "draws": 1,
-    "away_wins": 0,
-    "home_goals": 1,
-    "away_goals": 1,
-    "avg_total_goals": 2,
+    "away_wins": 1,
+    "home_goals": 2,
+    "away_goals": 3,
+    "avg_total_goals": 2.5,
     "home_win_rate": 0,
-    "away_win_rate": 0,
+    "away_win_rate": 0.5,
     "recent_matches": [
+      {
+        "away": "Argentina",
+        "date": "2026-07-15T19:00:00+00:00",
+        "home": "England",
+        "score": "1-2"
+      },
       {
         "away": "England",
         "date": "2018-06-16T12:00:00+00:00",
