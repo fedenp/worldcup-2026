@@ -6,8 +6,8 @@
     "capacity": 71000
   },
   "weather": {
-    "code": 3,
-    "description": "rain",
+    "code": 2,
+    "description": "cloudy",
     "wind_speed": 15.3,
     "temperature_c": 34
   },
@@ -40,5 +40,266 @@
       }
     ]
   },
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 39,
+        "x": 11.3,
+        "y": 52.7,
+        "pos": "G",
+        "name": "E. Martínez",
+        "player_id": 1629
+      },
+      {
+        "n": 66,
+        "x": 60.9,
+        "y": 15.6,
+        "pos": "M",
+        "name": "G. Simeone",
+        "player_id": 767
+      },
+      {
+        "n": 30,
+        "x": 62,
+        "y": 83.2,
+        "pos": "M",
+        "name": "N. González",
+        "player_id": 768
+      },
+      {
+        "n": 26,
+        "x": 44.6,
+        "y": 64.6,
+        "pos": "D",
+        "name": "N. Otamendi",
+        "player_id": 2054
+      },
+      {
+        "n": 112,
+        "x": 54.8,
+        "y": 38.8,
+        "pos": "M",
+        "name": "E. Fernández",
+        "player_id": 387
+      },
+      {
+        "n": 35,
+        "x": 56.9,
+        "y": 24.3,
+        "pos": "M",
+        "name": "R. De Paul",
+        "player_id": 9057
+      },
+      {
+        "n": 58,
+        "x": 43.7,
+        "y": 13.5,
+        "pos": "D",
+        "name": "N. Molina",
+        "player_id": 761
+      },
+      {
+        "n": 23,
+        "x": 60.8,
+        "y": 9.2,
+        "pos": "D",
+        "name": "G. Montiel",
+        "player_id": 23014
+      },
+      {
+        "n": 51,
+        "x": 39.6,
+        "y": 65.2,
+        "pos": "D",
+        "name": "L. Martínez",
+        "player_id": 1800
+      },
+      {
+        "n": 59,
+        "x": 52.4,
+        "y": 56.6,
+        "pos": "M",
+        "name": "A. Mac Allister",
+        "player_id": 328
+      },
+      {
+        "n": 83,
+        "x": 47.3,
+        "y": 47,
+        "pos": "M",
+        "name": "L. Paredes",
+        "player_id": 16872
+      },
+      {
+        "n": 98,
+        "x": 67.5,
+        "y": 29,
+        "pos": "F",
+        "name": "L. Messi",
+        "player_id": 9063
+      },
+      {
+        "n": 56,
+        "x": 47.5,
+        "y": 80.4,
+        "pos": "D",
+        "name": "N. Tagliafico",
+        "player_id": 1107
+      },
+      {
+        "n": 84,
+        "x": 34.7,
+        "y": 30.5,
+        "pos": "D",
+        "name": "C. Romero",
+        "player_id": 720
+      },
+      {
+        "n": 59,
+        "x": 58.7,
+        "y": 63.7,
+        "pos": "F",
+        "name": "J. Álvarez",
+        "player_id": 770
+      },
+      {
+        "n": 2,
+        "x": 91.4,
+        "y": 27.6,
+        "pos": "F",
+        "name": "L. Martínez",
+        "player_id": 1687
+      }
+    ],
+    "home": [
+      {
+        "n": 34,
+        "x": 60.8,
+        "y": 76.6,
+        "pos": "F",
+        "name": "A. Gordon",
+        "player_id": 711
+      },
+      {
+        "n": 3,
+        "x": 82.7,
+        "y": 84.8,
+        "pos": "F",
+        "name": "M. Rashford",
+        "player_id": 750
+      },
+      {
+        "n": 51,
+        "x": 15.7,
+        "y": 53,
+        "pos": "G",
+        "name": "J. Pickford",
+        "player_id": 803
+      },
+      {
+        "n": 52,
+        "x": 35.4,
+        "y": 31.6,
+        "pos": "D",
+        "name": "J. Stones",
+        "player_id": 854
+      },
+      {
+        "n": 16,
+        "x": 64.6,
+        "y": 5.8,
+        "pos": "D",
+        "name": "E. Konsa",
+        "player_id": 504
+      },
+      {
+        "n": 69,
+        "x": 32.6,
+        "y": 69.7,
+        "pos": "D",
+        "name": "M. Guéhi",
+        "player_id": 425
+      },
+      {
+        "n": 31,
+        "x": 66.8,
+        "y": 24.1,
+        "pos": "M",
+        "name": "M. Rogers",
+        "player_id": 511
+      },
+      {
+        "n": 36,
+        "x": 48.2,
+        "y": 54,
+        "pos": "F",
+        "name": "H. Kane",
+        "player_id": 2466
+      },
+      {
+        "n": 6,
+        "x": 81.1,
+        "y": 25.7,
+        "pos": "D",
+        "name": "D. Burn",
+        "player_id": 701
+      },
+      {
+        "n": 60,
+        "x": 46.4,
+        "y": 84.5,
+        "pos": "D",
+        "name": "D. Spence",
+        "player_id": 735
+      },
+      {
+        "n": 10,
+        "x": 49.2,
+        "y": 75.1,
+        "pos": "D",
+        "name": "N. O’Reilly",
+        "player_id": 847
+      },
+      {
+        "n": 46,
+        "x": 49.9,
+        "y": 38.1,
+        "pos": "M",
+        "name": "D. Rice",
+        "player_id": 449
+      },
+      {
+        "n": 49,
+        "x": 54.8,
+        "y": 22.4,
+        "pos": "D",
+        "name": "R. James",
+        "player_id": 400
+      },
+      {
+        "n": 1,
+        "x": 70.7,
+        "y": 8.8,
+        "pos": "F",
+        "name": "I. Toney",
+        "player_id": 8120
+      },
+      {
+        "n": 92,
+        "x": 44.1,
+        "y": 53.5,
+        "pos": "M",
+        "name": "E. Anderson",
+        "player_id": 548
+      },
+      {
+        "n": 49,
+        "x": 48.2,
+        "y": 72.2,
+        "pos": "M",
+        "name": "J. Bellingham",
+        "player_id": 592
+      }
+    ]
+  }
 }
