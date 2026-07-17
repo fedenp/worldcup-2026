@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T20:52:31.990Z",
+  "updated_at": "2026-07-17T02:08:19.750Z",
   "events": {
     "8389": {
       "event_id": 8389,
@@ -7,11 +7,11 @@
       "away_team": "England",
       "commence_time": "2026-07-18T21:00:00Z",
       "avg_home": 1.9,
-      "avg_draw": 3.92,
-      "avg_away": 3.83,
+      "avg_draw": 3.9,
+      "avg_away": 3.85,
       "implied_home": 52.6,
-      "implied_draw": 25.5,
-      "implied_away": 26.1,
+      "implied_draw": 25.6,
+      "implied_away": 26,
       "bookmakers_count": 25
     },
     "8390": {
@@ -21,10 +21,10 @@
       "commence_time": "2026-07-19T19:00:00Z",
       "avg_home": 2.3,
       "avg_draw": 3.06,
-      "avg_away": 3.59,
+      "avg_away": 3.61,
       "implied_home": 43.5,
       "implied_draw": 32.7,
-      "implied_away": 27.9,
+      "implied_away": 27.7,
       "bookmakers_count": 25
     }
   }
