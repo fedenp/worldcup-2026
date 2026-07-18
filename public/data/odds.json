@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-07-18T13:02:13.985Z",
+  "updated_at": "2026-07-18T16:51:19.344Z",
   "events": {
     "8389": {
       "event_id": 8389,
       "home_team": "France",
       "away_team": "England",
       "commence_time": "2026-07-18T21:00:00Z",
-      "avg_home": 1.88,
-      "avg_draw": 4.03,
-      "avg_away": 3.84,
-      "implied_home": 53.2,
-      "implied_draw": 24.8,
-      "implied_away": 26,
-      "bookmakers_count": 25
+      "avg_home": 1.86,
+      "avg_draw": 4.08,
+      "avg_away": 3.94,
+      "implied_home": 53.8,
+      "implied_draw": 24.5,
+      "implied_away": 25.4,
+      "bookmakers_count": 24
     },
     "8390": {
       "event_id": 8390,
@@ -20,11 +20,11 @@
       "away_team": "Argentina",
       "commence_time": "2026-07-19T19:00:00Z",
       "avg_home": 2.3,
-      "avg_draw": 3.04,
-      "avg_away": 3.62,
+      "avg_draw": 3.06,
+      "avg_away": 3.6,
       "implied_home": 43.5,
-      "implied_draw": 32.9,
-      "implied_away": 27.6,
+      "implied_draw": 32.7,
+      "implied_away": 27.8,
       "bookmakers_count": 25
     }
   }
