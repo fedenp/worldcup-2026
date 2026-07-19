@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-07-19T16:52:12.763Z",
+  "updated_at": "2026-07-19T20:40:29.330Z",
   "events": {
     "8390": {
       "event_id": 8390,
       "home_team": "Spain",
       "away_team": "Argentina",
-      "commence_time": "2026-07-19T19:00:00Z",
-      "avg_home": 2.32,
-      "avg_draw": 3.05,
-      "avg_away": 3.62,
-      "implied_home": 43.1,
-      "implied_draw": 32.8,
-      "implied_away": 27.6,
-      "bookmakers_count": 25
+      "commence_time": "2026-07-19T19:05:00Z",
+      "avg_home": 2.57,
+      "avg_draw": 1.98,
+      "avg_away": 5.51,
+      "implied_home": 38.9,
+      "implied_draw": 50.5,
+      "implied_away": 18.1,
+      "bookmakers_count": 16
     }
   }
 }
