@@ -6,8 +6,8 @@
     "capacity": 65326
   },
   "weather": {
-    "code": 0,
-    "description": "unknown",
+    "code": 1,
+    "description": "clear",
     "wind_speed": 21.4,
     "temperature_c": 34
   },
@@ -22,5 +22,266 @@
     "confidence": 0.4384
   },
   "head_to_head": null,
-  "average_positions": null
+  "average_positions": {
+    "away": [
+      {
+        "n": 23,
+        "x": 53,
+        "y": 51.9,
+        "pos": "M",
+        "name": "J. Bellingham",
+        "player_id": 592
+      },
+      {
+        "n": 53,
+        "x": 55.7,
+        "y": 34.6,
+        "pos": "F",
+        "name": "B. Saka",
+        "player_id": 455
+      },
+      {
+        "n": 43,
+        "x": 56.8,
+        "y": 53.4,
+        "pos": "F",
+        "name": "I. Toney",
+        "player_id": 8120
+      },
+      {
+        "n": 36,
+        "x": 61.6,
+        "y": 77.9,
+        "pos": "F",
+        "name": "M. Rashford",
+        "player_id": 750
+      },
+      {
+        "n": 55,
+        "x": 10.3,
+        "y": 47.6,
+        "pos": "G",
+        "name": "D. Henderson",
+        "player_id": 422
+      },
+      {
+        "n": 92,
+        "x": 29.3,
+        "y": 66.4,
+        "pos": "D",
+        "name": "M. Guéhi",
+        "player_id": 425
+      },
+      {
+        "n": 17,
+        "x": 32.1,
+        "y": 54.9,
+        "pos": "M",
+        "name": "E. Anderson",
+        "player_id": 548
+      },
+      {
+        "n": 8,
+        "x": 24.4,
+        "y": 21.1,
+        "pos": "D",
+        "name": "R. James",
+        "player_id": 400
+      },
+      {
+        "n": 2,
+        "x": 10.1,
+        "y": 58.7,
+        "pos": "D",
+        "name": "T. Chalobah",
+        "player_id": 383
+      },
+      {
+        "n": 70,
+        "x": 29.6,
+        "y": 34,
+        "pos": "D",
+        "name": "E. Konsa",
+        "player_id": 504
+      },
+      {
+        "n": 68,
+        "x": 44.5,
+        "y": 84,
+        "pos": "D",
+        "name": "D. Spence",
+        "player_id": 735
+      },
+      {
+        "n": 64,
+        "x": 45.7,
+        "y": 42.4,
+        "pos": "M",
+        "name": "M. Rogers",
+        "player_id": 511
+      },
+      {
+        "n": 123,
+        "x": 39.6,
+        "y": 55.8,
+        "pos": "M",
+        "name": "D. Rice",
+        "player_id": 449
+      },
+      {
+        "n": 30,
+        "x": 61,
+        "y": 65.6,
+        "pos": "F",
+        "name": "O. Watkins",
+        "player_id": 512
+      },
+      {
+        "n": 73,
+        "x": 50.2,
+        "y": 63.3,
+        "pos": "M",
+        "name": "E. Eze",
+        "player_id": 454
+      },
+      {
+        "n": 52,
+        "x": 34.2,
+        "y": 19.1,
+        "pos": "D",
+        "name": "J. Quansah",
+        "player_id": 2149
+      }
+    ],
+    "home": [
+      {
+        "n": 33,
+        "x": 41.9,
+        "y": 87,
+        "pos": "D",
+        "name": "T. Hernández",
+        "player_id": 7994
+      },
+      {
+        "n": 32,
+        "x": 55.7,
+        "y": 72.6,
+        "pos": "F",
+        "name": "D. Doué",
+        "player_id": 4324
+      },
+      {
+        "n": 76,
+        "x": 49.8,
+        "y": 45.1,
+        "pos": "M",
+        "name": "W. Zaïre-Emery",
+        "player_id": 2243
+      },
+      {
+        "n": 94,
+        "x": 62.2,
+        "y": 36.2,
+        "pos": "M",
+        "name": "M. Olise",
+        "player_id": 2467
+      },
+      {
+        "n": 39,
+        "x": 69.6,
+        "y": 24.2,
+        "pos": "F",
+        "name": "O. Dembélé",
+        "player_id": 2253
+      },
+      {
+        "n": 32,
+        "x": 42.9,
+        "y": 35.1,
+        "pos": "D",
+        "name": "D. Upamecano",
+        "player_id": 3463
+      },
+      {
+        "n": 32,
+        "x": 35.4,
+        "y": 36.6,
+        "pos": "D",
+        "name": "I. Konaté",
+        "player_id": 324
+      },
+      {
+        "n": 7,
+        "x": 62.8,
+        "y": 19.4,
+        "pos": "D",
+        "name": "J. Koundé",
+        "player_id": 739
+      },
+      {
+        "n": 72,
+        "x": 48.8,
+        "y": 17.5,
+        "pos": "D",
+        "name": "M. Gusto",
+        "player_id": 393
+      },
+      {
+        "n": 32,
+        "x": 51.4,
+        "y": 82.2,
+        "pos": "D",
+        "name": "L. Digne",
+        "player_id": 513
+      },
+      {
+        "n": 29,
+        "x": 64.2,
+        "y": 79.5,
+        "pos": "F",
+        "name": "B. Barcola",
+        "player_id": 2261
+      },
+      {
+        "n": 67,
+        "x": 48.9,
+        "y": 60.7,
+        "pos": "M",
+        "name": "A. Rabiot",
+        "player_id": 1994
+      },
+      {
+        "n": 24,
+        "x": 11.2,
+        "y": 41.4,
+        "pos": "G",
+        "name": "M. Maignan",
+        "player_id": 1987
+      },
+      {
+        "n": 38,
+        "x": 56.3,
+        "y": 44.6,
+        "pos": "M",
+        "name": "R. Cherki",
+        "player_id": 856
+      },
+      {
+        "n": 64,
+        "x": 33.9,
+        "y": 61.8,
+        "pos": "D",
+        "name": "M. Lacroix",
+        "player_id": 424
+      },
+      {
+        "n": 70,
+        "x": 72.9,
+        "y": 59.4,
+        "pos": "F",
+        "name": "K. Mbappé",
+        "player_id": 594
+      }
+    ]
+  }
 }
