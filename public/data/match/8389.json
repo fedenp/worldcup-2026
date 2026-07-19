@@ -21,7 +21,25 @@
     "most_likely_score": "1-1",
     "confidence": 0.4384
   },
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 0,
+    "away_wins": 1,
+    "home_goals": 4,
+    "away_goals": 6,
+    "avg_total_goals": 10,
+    "home_win_rate": 0,
+    "away_win_rate": 1,
+    "recent_matches": [
+      {
+        "away": "England",
+        "date": "2026-07-18T21:00:00+00:00",
+        "home": "France",
+        "score": "4-6"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {

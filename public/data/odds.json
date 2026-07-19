@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T02:08:36.162Z",
+  "updated_at": "2026-07-19T06:26:24.737Z",
   "events": {
     "8390": {
       "event_id": 8390,
@@ -8,10 +8,10 @@
       "commence_time": "2026-07-19T19:00:00Z",
       "avg_home": 2.31,
       "avg_draw": 3.06,
-      "avg_away": 3.59,
+      "avg_away": 3.6,
       "implied_home": 43.3,
       "implied_draw": 32.7,
-      "implied_away": 27.9,
+      "implied_away": 27.8,
       "bookmakers_count": 25
     }
   }

@@ -1,20 +1,100 @@
 {
-  "updatedAt": "2026-07-19T02:09:14.532Z",
+  "updatedAt": "2026-07-19T06:26:50.032Z",
   "items": [
     {
-      "title": "Mundial 2026, en vivo: Inglaterra y Francia definen el tercer puesto y la Argentina se entrenó de cara a España",
+      "title": "Argentina vs. España, EN VIVO por el Mundial 2026: hora, TV y las formaciones",
+      "description": "El partido se disputará a las 16 horas en el New York New Jersey Stadium; todos los detalles del encuentro",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/argentina-vs-espana-en-vivo-por-el-mundial-2026-nid19072026/",
+      "publishedAt": "2026-07-19T06:15:34.000Z",
+      "imageUrl": null,
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Mundial 2026, en vivo: Argentina y España se enfrentan en la final de la Copa del Mundo",
+      "description": "Scaloni se debate entre mantener a Simeone o devolverle la titularidad a De Paul; en una histórica convocatoria en el centro de Nueva York, las calles están colapsadas de argentinos y fanáticos de la albiceleste",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-en-vivo-argentina-y-espana-se-enfrentan-en-la-final-de-la-copa-del-mundo-nid19072026/",
+      "publishedAt": "2026-07-19T06:09:32.000Z",
+      "imageUrl": null,
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "El mensaje de Messi en la previa de la final: “Pase lo que pase, este equipo ya hizo historia”",
+      "description": "El capitán de la selección argentina utilizó su cuenta de Instagram para compartir un mensaje a horas del encuentro decisivo por la Copa del Mundo",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/el-emotivo-posteo-de-messi-en-la-previa-de-la-final-contra-espana-pase-lo-que-pase-este-equipo-ya-nid19072026/",
+      "publishedAt": "2026-07-19T03:58:34.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/UJRA7JXP5NBFXDLW3DKTWF7ATY.png?auth=c1924571fb6fc6b7211209b1a04e84afc8f9ccb76da304965a90b212129e00f3&smart=true&width=959&height=463",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "La selección practicó en Nueva Jersey y miles de hinchas desbordan Times Square en el último banderazo",
       "description": "Scaloni se debate entre mantener a Simeone o devolverle la titularidad a De Paul; en una histórica convocatoria en el centro de Nueva York, las calles están colapsadas de argentinos y fanáticos de la albiceleste",
       "link": "https://www.lanacion.com.ar/deportes/mundial-2026-en-vivo-toda-la-previa-de-la-final-contra-espana-y-las-declaraciones-de-trump-y-scaloni-nid18072026/",
-      "publishedAt": "2026-07-19T02:00:00.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/W5L6UPLQFJDDNFXSSX6R5XMZXQ.jpg?auth=d39bdfe9ee613c108c224055ec8f2b93db1a08e835fec742bb1614d059062c54&smart=true&width=1113&height=742",
+      "publishedAt": "2026-07-19T03:42:39.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/GPNV5TNUI5EFRLKEODAYNQFD4U.jpg?auth=62288b894a76cbefde640e4a2e3854a03352479499162e841dd9ac9da2428aec&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "María Becerra publicó una sugestiva foto en medio de la expectativa por quién cantará el himno",
+      "description": "La artista es una de las posibles artistas designadas para entonar el canto patrio en la previa del encuentro decisivo donde se dirimirá al nuevo ganador de la Copa del Mundo",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/maria-becerra-cantara-el-himno-argentino-en-la-final-del-mundial-ante-espana-nid18072026/",
+      "publishedAt": "2026-07-19T03:17:04.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/43X44CWCNBFVXEAY63QHS66U4M.png?auth=74b0612d14927945c6235df050099aee5cc6dc6a078ca9435bf682d30b41d5ab&smart=true&width=479&height=865",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Argentina vs. España. La mejor delantera enfrenta a la mejor defensa en una batalla táctica entre dos equipos espejados",
+      "description": "",
+      "link": "https://www.lanacion.com.ar/deportes/argentina-vs-espana-la-mejor-delantera-enfrenta-a-la-mejor-defensa-en-una-batalla-tactica-entre-dos-nid19072026/",
+      "publishedAt": "2026-07-19T03:15:11.000Z",
+      "imageUrl": null,
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Frustraciones, llantos y, al fin, la gloria. Estas son las marcas que los 6 mundiales dejaron en el rostro de Messi",
+      "description": "",
+      "link": "https://www.lanacion.com.ar/deportes/frustraciones-llantos-y-al-fin-la-gloria-estas-son-las-marcas-que-los-6-mundiales-dejaron-en-el-nid19072026/",
+      "publishedAt": "2026-07-19T03:14:10.000Z",
+      "imageUrl": "https://especialess3.lanacion.com.ar/strapi/Messi_mundiales_ilus_521cdcbd37.png",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "España: el país de los movimientos separatistas, las dos ciudades en Marruecos y las películas sin subtítulos",
+      "description": "Tiene vínculos sociales, políticos, económicos y jurídicos con la Argentina; fue hogar de Messi por más de 20 años",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/espana-el-pais-de-los-movimientos-separatistas-las-dos-ciudades-en-marruecos-y-las-peliculas-sin-nid19072026/",
+      "publishedAt": "2026-07-19T03:00:00.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/NHHKXFJL6BCI5JQJAVHVJLUFWM.jpg?auth=f17bdf0876888c8d5aa152ababa028d4e5edfe08a550499bcdb87dbd1f1321f4&smart=true&width=2000&height=1279",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Agenda de TV y streaming del domingo: la final Argentina - España, Colapinto, The Open, Tour y tenis",
+      "description": "El desenlace del Mundial, Fórmula 1, golf, ciclismo y ATP Tour en una jornada de gran trascendencia en el deporte",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/agenda-de-tv-y-streaming-del-domingo-la-final-argentina-espana-colapinto-the-open-tour-y-tenis-nid18072026/",
+      "publishedAt": "2026-07-19T02:55:50.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/7JZ7R7IZ6JFOTITEGJTS3LJPAM.jpg?auth=df0bc87235a31f27b30fd1a5fea0b7785239be94654c5680fde1bd3bdd518068&smart=true&width=2000&height=1333",
       "source": "La Nación Deportes"
     },
     {
       "title": "El video de la selección argentina en la previa de la final: “Acá viene el campeón defensor”",
-      "description": "La cuenta oficial de la Scaloneta publicó un video en la red social X donde muestra el recorrido del conjunto nacional  hasta el partido decisivo contra España",
+      "description": "La cuenta oficial de la albiceleste publicó un video en la red social X donde muestra el recorrido del conjunto nacional hasta el partido decisivo contra España",
       "link": "https://www.lanacion.com.ar/deportes/futbol/el-video-de-la-seleccion-argentina-en-la-previa-de-la-final-aca-viene-el-campeon-defensor-nid18072026/",
-      "publishedAt": "2026-07-19T01:57:56.000Z",
+      "publishedAt": "2026-07-19T02:48:43.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/4PAYLXMBQFGYPJ777LSFO5YIJI.JPG?auth=c8d6d302670d41d1f543eeb7ee76cebbc7b8484b66548ae5818813e1601d8b4c&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Kylian Mbappé: “Messi marca todo el tiempo, seguramente hará goles”",
+      "description": "El francés convirtió dos contra Inglaterra y llegó a los 10, dos más que Leo, que tiene la posibilidad de alcanzarlo ante España",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/kylian-mbappe-messi-marca-todo-el-tiempo-seguramente-hara-goles-nid18072026/",
+      "publishedAt": "2026-07-19T02:18:27.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/4AI3L53OZBEZZLMTSWIN5WQNSQ.jpg?auth=2ea420f875cd123b0e9014304b765c7b8daa94627bbe774dd43ef36cd1fa21e7&smart=true&width=2675&height=1755",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "“Primera parte apocalíptica” y “partido demencial”: qué dijo la prensa del 6-4 de Inglaterra y Francia",
+      "description": "En París hablaron de “arrepentimiento”, y en la isla, de dos caras; también, del triplete de Bukayo Saka y el récord de Kylian Mbappé",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/primera-parte-apocaliptica-y-partido-demencial-que-dijo-la-prensa-del-6-4-de-inglaterra-y-francia-nid18072026/",
+      "publishedAt": "2026-07-19T02:16:18.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/QSN6JB3X7REMVP4ATNSSYB7THU.png?auth=f515a236859e73567fce7791eedb02d124a70c7dc0c91c25644f93ebf3fa1fe7&smart=true&width=471&height=314",
       "source": "La Nación Deportes"
     },
     {
@@ -79,86 +159,6 @@
       "link": "https://www.lanacion.com.ar/deportes/futbol/scaloni-piensa-en-dos-cambios-para-jugar-ante-espana-los-regresos-de-de-paul-y-montiel-nid18072026/",
       "publishedAt": "2026-07-19T00:49:03.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/K7PXMBZ75FBO3ICKGHAGMJJSQQ.JPG?auth=6edba0d33c723942e46ce0afe0cefb87d599ef3b48b0cef616c8d33c75da261d&smart=true&width=2048&height=1365",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Inglaterra le ganó 6-4 a Francia con un hat-trick de Saka y terminó tercero en el Mundial, pero Mbappé dejó atrás a Messi",
-      "description": "En el Miami Stadium, se quedó con la medalla del tercer puesto, en un partido con récord de goles, en el que Kylian se convirtió en el máximo anotador en la historia del torneo",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/francia-vs-inglaterra-en-vivo-por-el-mundial-2026-nid18072026/",
-      "publishedAt": "2026-07-19T00:28:17.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/2CG5WYHCDRHETFUBKPMBZU47W4.jpg?auth=2c2e91d1d8bbe25d3d77280c0a456b2b20982d6e22a8fa6bde771c344d491ffa&smart=true&width=8256&height=5504",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Los Pumas vs. Inglaterra: el polémico final en la derrota argentina que pudo ser empate",
-      "description": "En Santiago del Estero se anuló la conquista que pudo terminar con un 31-31, pero se omitió una falta británica",
-      "link": "https://www.lanacion.com.ar/deportes/rugby/los-pumas-vs-inglaterra-el-polemico-final-en-la-derrota-argentina-que-pudo-ser-empate-nid18072026/",
-      "publishedAt": "2026-07-19T00:03:10.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/BRRHDQALXVGT3DHRYGWDM4WIHE.JPG?auth=31f3a6973d74019d57896394075e88012b77d56ea138a8e4daa4e57f4cc91a80&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Resultado de Francia vs. Inglaterra: quién ganó el partido del tercer puesto del Mundial",
-      "description": "Los Tres Leones derrotaron al combinado galo en un encuentro memorable; Bukayo Saka, que no había sumado minutos contra la Argentina en semifinales, convirtió un hat-trick",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/resultado-de-francia-vs-inglaterra-quien-gano-el-partido-del-tercer-puesto-del-mundial-nid18072026/",
-      "publishedAt": "2026-07-19T00:03:03.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/C7UMRMUSVNHN5O2QJF7M5T6WGA.jpg?auth=95c26a2c3e0331c6f6536c02406cb27b47c14b092790ff2715884a169dcf74bb&smart=true&width=5593&height=3729",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Inglaterra le ganó a Francia 6 a 4 en el mejor partido del Mundial y se quedó con el premio consuelo",
-      "description": "El equipo inglés alcanzó el podio, la mejor posición desde 1966: el extraordinario triunfo que tuvo un hat-trick de Saka, va a quedar en la historia; Mbappé pasó a Messi",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/inglaterra-le-gano-a-francia-6-a-4-en-el-mejor-partido-del-mundial-y-se-quedo-con-el-premio-consuelo-nid18072026/",
-      "publishedAt": "2026-07-18T23:54:27.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/2CG5WYHCDRHETFUBKPMBZU47W4.jpg?auth=2c2e91d1d8bbe25d3d77280c0a456b2b20982d6e22a8fa6bde771c344d491ffa&smart=true&width=8256&height=5504",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Los Pumas no pueden con Inglaterra: interrogantes, retroceso en el juego y un fallo erróneo que los privó del empate",
-      "description": "La tarde del homenaje a la conquista del fútbol en México 86, la derrota de la selección de rugby por 31-24 marcó un balance insatisfactorio en el primer tramo del Nations Championship. Un duelo caliente",
-      "link": "https://www.lanacion.com.ar/deportes/rugby/los-pumas-no-pueden-con-inglaterra-interrogantes-retroceso-en-el-juego-y-un-fallo-erroneo-que-los-nid18072026/",
-      "publishedAt": "2026-07-18T23:26:19.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/4Z6NTGHBZZBFTN5XGXIJ2BY7JY.JPG?auth=097bc976d2c9873f10a45f6c8257f33f7e2ca54cfffdf84721f721556128b9bb&smart=true&width=8640&height=5760",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Goleador del Mundial 2026: cómo está la tabla, con Kylian Mbappé y Lionel Messi",
-      "description": "Los dos jugadores pelean por quedarse con la Bota de Oro; el francés convirtió un doblete en el partido por el tercer puesto y el argentino aún tiene por delante la final",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/goleador-del-mundial-2026-como-esta-la-tabla-con-messi-mbappe-kane-y-bellingham-nid18072026/",
-      "publishedAt": "2026-07-18T23:25:48.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/DYO5PMNVIVGN5DCUKLJMSI6IH4.jpg?auth=0342c62d8fdd808fd3feb286814a730b22896acb0f2483e1b6f2094888adc55b&smart=true&width=2000&height=1334",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Histórico banderazo en Times Square: los argentinos armaron una fiesta que desbordó las calles de Nueva York",
-      "description": "La policía tuvo que vallar las adyacencias a la emblemática esquina de Manhattan; los precios de la reventa  promediaron los 20.000 dólares el día previo a la final",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/historico-banderazo-en-times-square-los-argentinos-armaron-una-fiesta-que-desbordo-las-calles-de-nid18072026/",
-      "publishedAt": "2026-07-18T23:23:34.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/MSGLSFTDXVHAJDUYZ7Q53YEEBU.JPG?auth=08167840565a2c7acbf431aeb75f7bd4d696a50a83f8e62beff8d95dbf05e8c2&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Así está la tabla de goleadores del Mundial 2026, con Messi y Mbappé en la cima",
-      "description": "Las estrellas de la selección argentina y de Francia pelean por quedarse con la Bota de Oro, que galardona al máximo artillero; el francés tiene ventaja",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/asi-esta-la-tabla-de-goleadores-del-mundial-2026-con-messi-y-mbappe-en-la-cima-nid18072026/",
-      "publishedAt": "2026-07-18T23:18:12.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/SJPGBXFZBBCRBHKF6FOTLZWBEM.jpg?auth=538d23da708882fc715bfe3bf662bdddcea9eafbc6b5458a68f1e4b7d9ef973d&smart=true&width=2000&height=1334",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Los mejores memes de Francia vs. Inglaterra: en un partido de locos, Mbappé quedó afuera del podio",
-      "description": "La selección inglesa venció 6-4 a la francesa en el partido por el tercer puesto del Mundial; Mbappé hizo un doblete y por el momento es el máximo goleador",
-      "link": "https://www.lanacion.com.ar/deportes/los-mejores-memes-de-francia-vs-inglaterra-por-el-tercer-puesto-del-mundial-nid18072026/",
-      "publishedAt": "2026-07-18T23:14:43.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/RM6GBWVX55CT5B7ZDVWS7SQFGY.png?auth=828124c6f9fc7b4e84b9a3caaa24e71ca0621eae1b0b9953e2e7f5d357be2e3e&smart=true&width=603&height=580",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Newman no sabe qué es relajarse: se desquitó de su único vencedor, SIC, y ya les ganó a todos",
-      "description": "El 26-25 en Boulogne completó una virtual rueda de victorias sobre todos los rivales; cayó una vez en 16 fechas",
-      "link": "https://www.lanacion.com.ar/deportes/rugby/newman-no-sabe-que-es-relajarse-se-desquito-de-su-unico-vencedor-sic-y-ya-les-gano-a-todos-nid18072026/",
-      "publishedAt": "2026-07-18T22:58:18.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/FRTH4A33SVEHFOJZMUADTETRRU.jpg?auth=c90fc5ae1add17b556fc99ad62540475a63471eb6396f233f997e800080f2fbe&smart=true&width=6000&height=4000",
       "source": "La Nación Deportes"
     }
   ]
