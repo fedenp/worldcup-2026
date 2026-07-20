@@ -6,8 +6,8 @@
     "capacity": 82500
   },
   "weather": {
-    "code": 3,
-    "description": "rain",
+    "code": 1,
+    "description": "clear",
     "wind_speed": 24.7,
     "temperature_c": 34
   },
@@ -21,6 +21,301 @@
     "most_likely_score": "1-1",
     "confidence": 0.4302
   },
-  "head_to_head": null,
-  "average_positions": null
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 1,
+    "draws": 0,
+    "away_wins": 0,
+    "home_goals": 1,
+    "away_goals": 0,
+    "avg_total_goals": 1,
+    "home_win_rate": 1,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Argentina",
+        "date": "2026-07-19T19:00:00+00:00",
+        "home": "Spain",
+        "score": "1-0"
+      }
+    ]
+  },
+  "average_positions": {
+    "away": [
+      {
+        "n": 42,
+        "x": 43.9,
+        "y": 24.1,
+        "pos": "M",
+        "name": "R. De Paul",
+        "player_id": 9057
+      },
+      {
+        "n": 40,
+        "x": 31.4,
+        "y": 70.5,
+        "pos": "D",
+        "name": "L. Martínez",
+        "player_id": 1800
+      },
+      {
+        "n": 31,
+        "x": 37.6,
+        "y": 15.1,
+        "pos": "D",
+        "name": "G. Montiel",
+        "player_id": 23014
+      },
+      {
+        "n": 23,
+        "x": 52.3,
+        "y": 77,
+        "pos": "M",
+        "name": "N. González",
+        "player_id": 768
+      },
+      {
+        "n": 38,
+        "x": 54,
+        "y": 34.3,
+        "pos": "M",
+        "name": "G. Simeone",
+        "player_id": 767
+      },
+      {
+        "n": 40,
+        "x": 43.3,
+        "y": 72.9,
+        "pos": "F",
+        "name": "J. Álvarez",
+        "player_id": 770
+      },
+      {
+        "n": 34,
+        "x": 33.9,
+        "y": 77.3,
+        "pos": "D",
+        "name": "F. Medina",
+        "player_id": 4603
+      },
+      {
+        "n": 10,
+        "x": 41.4,
+        "y": 52.2,
+        "pos": "D",
+        "name": "M. Senesi",
+        "player_id": 2370
+      },
+      {
+        "n": 45,
+        "x": 36.2,
+        "y": 44.8,
+        "pos": "D",
+        "name": "N. Otamendi",
+        "player_id": 2054
+      },
+      {
+        "n": 67,
+        "x": 41.1,
+        "y": 48.9,
+        "pos": "M",
+        "name": "L. Paredes",
+        "player_id": 16872
+      },
+      {
+        "n": 58,
+        "x": 35.6,
+        "y": 46,
+        "pos": "M",
+        "name": "E. Fernández",
+        "player_id": 387
+      },
+      {
+        "n": 58,
+        "x": 42.6,
+        "y": 63.9,
+        "pos": "M",
+        "name": "A. Mac Allister",
+        "player_id": 328
+      },
+      {
+        "n": 88,
+        "x": 9.8,
+        "y": 48.4,
+        "pos": "G",
+        "name": "E. Martínez",
+        "player_id": 1629
+      },
+      {
+        "n": 60,
+        "x": 62.2,
+        "y": 35.3,
+        "pos": "F",
+        "name": "L. Messi",
+        "player_id": 9063
+      },
+      {
+        "n": 51,
+        "x": 26.3,
+        "y": 38.3,
+        "pos": "D",
+        "name": "C. Romero",
+        "player_id": 720
+      },
+      {
+        "n": 50,
+        "x": 33.3,
+        "y": 20.5,
+        "pos": "D",
+        "name": "N. Molina",
+        "player_id": 761
+      },
+      {
+        "n": 77,
+        "x": 38.5,
+        "y": 83.8,
+        "pos": "D",
+        "name": "N. Tagliafico",
+        "player_id": 1107
+      }
+    ],
+    "home": [
+      {
+        "n": 30,
+        "x": 59.3,
+        "y": 44,
+        "pos": "F",
+        "name": "M. Oyarzabal",
+        "player_id": 3890
+      },
+      {
+        "n": 147,
+        "x": 50.2,
+        "y": 14.5,
+        "pos": "D",
+        "name": "P. Porro",
+        "player_id": 719
+      },
+      {
+        "n": 111,
+        "x": 40,
+        "y": 68.4,
+        "pos": "D",
+        "name": "A. Laporte",
+        "player_id": 565
+      },
+      {
+        "n": 22,
+        "x": 72.8,
+        "y": 47.6,
+        "pos": "F",
+        "name": "F. Torres",
+        "player_id": 749
+      },
+      {
+        "n": 33,
+        "x": 44.6,
+        "y": 49.4,
+        "pos": "M",
+        "name": "M. Zubimendi",
+        "player_id": 448
+      },
+      {
+        "n": 18,
+        "x": 34.4,
+        "y": 67.6,
+        "pos": "D",
+        "name": "E. García",
+        "player_id": 743
+      },
+      {
+        "n": 47,
+        "x": 72.9,
+        "y": 72,
+        "pos": "M",
+        "name": "A. Baena",
+        "player_id": 769
+      },
+      {
+        "n": 42,
+        "x": 64.4,
+        "y": 45.6,
+        "pos": "M",
+        "name": "D. Olmo",
+        "player_id": 746
+      },
+      {
+        "n": 106,
+        "x": 55.2,
+        "y": 84.3,
+        "pos": "D",
+        "name": "M. Cucurella",
+        "player_id": 386
+      },
+      {
+        "n": 61,
+        "x": 13.3,
+        "y": 52.7,
+        "pos": "G",
+        "name": "U. Simón",
+        "player_id": 562
+      },
+      {
+        "n": 124,
+        "x": 51.2,
+        "y": 45.1,
+        "pos": "M",
+        "name": "Rodri",
+        "player_id": 4267
+      },
+      {
+        "n": 41,
+        "x": 54.6,
+        "y": 39.3,
+        "pos": "M",
+        "name": "M. Merino",
+        "player_id": 451
+      },
+      {
+        "n": 152,
+        "x": 39.1,
+        "y": 30.3,
+        "pos": "D",
+        "name": "P. Cubarsí",
+        "player_id": 740
+      },
+      {
+        "n": 45,
+        "x": 74.4,
+        "y": 77.2,
+        "pos": "M",
+        "name": "N. Williams",
+        "player_id": 571
+      },
+      {
+        "n": 56,
+        "x": 55,
+        "y": 57.4,
+        "pos": "M",
+        "name": "F. Ruiz",
+        "player_id": 2249
+      },
+      {
+        "n": 97,
+        "x": 68,
+        "y": 19.8,
+        "pos": "M",
+        "name": "L. Yamal",
+        "player_id": 745
+      },
+      {
+        "n": 81,
+        "x": 57.2,
+        "y": 58.4,
+        "pos": "M",
+        "name": "Pedri",
+        "player_id": 744
+      }
+    ]
+  }
 }
