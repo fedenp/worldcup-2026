@@ -26,17 +26,17 @@
     "home_wins": 0,
     "draws": 0,
     "away_wins": 1,
-    "home_goals": 1,
-    "away_goals": 4,
-    "avg_total_goals": 5,
+    "home_goals": 2,
+    "away_goals": 5,
+    "avg_total_goals": 7,
     "home_win_rate": 0,
     "away_win_rate": 1,
     "recent_matches": [
       {
         "away": "Belgium",
-        "date": "2026-07-07T00:00:00+00:00",
+        "date": "2026-03-28T19:30:00+00:00",
         "home": "USA",
-        "score": "1-4"
+        "score": "2-5"
       }
     ]
   },
