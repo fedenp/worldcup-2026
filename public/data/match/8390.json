@@ -11,16 +11,7 @@
     "wind_speed": 24.7,
     "temperature_c": 34
   },
-  "prediction": {
-    "prob_home": 34.2,
-    "prob_draw": 22.8,
-    "prob_away": 43,
-    "predicted": "A",
-    "xg_home": 1.06,
-    "xg_away": 1.23,
-    "most_likely_score": "1-1",
-    "confidence": 0.4302
-  },
+  "prediction": null,
   "head_to_head": {
     "total_matches": 1,
     "home_wins": 1,
