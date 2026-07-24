@@ -17,17 +17,17 @@
     "home_wins": 0,
     "draws": 0,
     "away_wins": 1,
-    "home_goals": 4,
-    "away_goals": 5,
-    "avg_total_goals": 9,
+    "home_goals": 0,
+    "away_goals": 2,
+    "avg_total_goals": 2,
     "home_win_rate": 0,
     "away_win_rate": 1,
     "recent_matches": [
       {
-        "away": "France",
-        "date": "2025-06-05T19:00:00+00:00",
-        "home": "Spain",
-        "score": "5-4"
+        "away": "Spain",
+        "date": "2026-07-14T19:00:00+00:00",
+        "home": "France",
+        "score": "0-2"
       }
     ]
   },
