@@ -13,27 +13,21 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 2,
+    "total_matches": 1,
     "home_wins": 0,
     "draws": 1,
-    "away_wins": 1,
-    "home_goals": 3,
-    "away_goals": 4,
-    "avg_total_goals": 3.5,
+    "away_wins": 0,
+    "home_goals": 2,
+    "away_goals": 2,
+    "avg_total_goals": 4,
     "home_win_rate": 0,
-    "away_win_rate": 0.5,
+    "away_win_rate": 0,
     "recent_matches": [
       {
         "away": "Spain",
-        "date": "2026-07-06T19:00:00+00:00",
+        "date": "2025-06-08T19:00:00+00:00",
         "home": "Portugal",
-        "score": "0-1"
-      },
-      {
-        "away": "Spain",
-        "date": "2018-06-15T17:00:00+00:00",
-        "home": "Portugal",
-        "score": "3-3"
+        "score": "2-2"
       }
     ]
   },
