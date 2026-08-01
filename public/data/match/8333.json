@@ -5,9 +5,32 @@
     "city": "Toronto",
     "capacity": 45700
   },
-  "weather": null,
+  "weather": {
+    "code": 1,
+    "description": "clear",
+    "wind_speed": 4.7,
+    "temperature_c": 20
+  },
   "prediction": null,
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 0,
+    "away_wins": 1,
+    "home_goals": 0,
+    "away_goals": 1,
+    "avg_total_goals": 1,
+    "home_win_rate": 0,
+    "away_win_rate": 1,
+    "recent_matches": [
+      {
+        "away": "Croatia",
+        "date": "2026-06-23T23:00:00+00:00",
+        "home": "Panama",
+        "score": "0-1"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {
