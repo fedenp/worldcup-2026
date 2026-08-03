@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T02:14:04.375Z",
+  "updated_at": "2026-08-03T06:55:03.057Z",
   "managers": {
     "451": {
       "id": 128,
@@ -231,27 +231,6 @@
       "btts_pct": 33.3,
       "over_25_pct": 40,
       "stats_updated_at": "2026-07-27T23:31:10.887717+00:00"
-    },
-    "465": {
-      "id": 83,
-      "name": "Sébastien Migné",
-      "short_name": "S. Migné",
-      "country": "France",
-      "tactical_profile": "attacking",
-      "preferred_formation": "4-4-2",
-      "current_team_id": 465,
-      "matches_total": 26,
-      "wins": 13,
-      "draws": 4,
-      "losses": 9,
-      "win_pct": 50,
-      "avg_goals_scored": 2.27,
-      "avg_goals_conceded": 1.31,
-      "avg_possession": 52.83,
-      "clean_sheet_pct": 34.6,
-      "btts_pct": 46.2,
-      "over_25_pct": 69.2,
-      "stats_updated_at": "2026-07-27T23:31:21.832427+00:00"
     },
     "466": {
       "id": 95,
