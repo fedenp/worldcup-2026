@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T02:03:21.039Z",
+  "updated_at": "2026-08-06T06:25:03.135Z",
   "managers": {
     "451": {
       "id": 128,
@@ -380,25 +380,25 @@
       "stats_updated_at": "2026-08-03T23:30:54.685474+00:00"
     },
     "474": {
-      "id": 71,
-      "name": "Hervé Renard",
-      "short_name": "H. Renard",
-      "country": "France",
+      "id": 555,
+      "name": "Moïn Chaabani",
+      "short_name": "M. Chaabani",
+      "country": "Tunisia",
       "tactical_profile": "balanced",
       "preferred_formation": "4-2-3-1",
       "current_team_id": 474,
-      "matches_total": 6,
-      "wins": 4,
-      "draws": 0,
-      "losses": 2,
-      "win_pct": 66.7,
-      "avg_goals_scored": 1.17,
-      "avg_goals_conceded": 1.17,
-      "avg_possession": 39.33,
-      "clean_sheet_pct": 66.7,
-      "btts_pct": 16.7,
-      "over_25_pct": 50,
-      "stats_updated_at": "2026-07-27T23:30:50.803125+00:00"
+      "matches_total": 54,
+      "wins": 32,
+      "draws": 14,
+      "losses": 8,
+      "win_pct": 59.3,
+      "avg_goals_scored": 1.56,
+      "avg_goals_conceded": 0.74,
+      "avg_possession": 56.97,
+      "clean_sheet_pct": 46.3,
+      "btts_pct": 40.7,
+      "over_25_pct": 42.6,
+      "stats_updated_at": "2026-08-03T23:30:46.738376+00:00"
     },
     "475": {
       "id": 116,
