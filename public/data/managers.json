@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T12:54:11.202Z",
+  "updated_at": "2026-08-07T20:35:02.624Z",
   "managers": {
     "451": {
       "id": 128,
@@ -715,6 +715,27 @@
       "over_25_pct": 62.9,
       "stats_updated_at": "2026-08-03T23:30:37.345433+00:00"
     },
+    "493": {
+      "id": 108,
+      "name": "Thomas Tuchel",
+      "short_name": "T. Tuchel",
+      "country": "Germany",
+      "tactical_profile": "attacking",
+      "preferred_formation": "4-2-3-1",
+      "current_team_id": 493,
+      "matches_total": 33,
+      "wins": 24,
+      "draws": 5,
+      "losses": 4,
+      "win_pct": 72.7,
+      "avg_goals_scored": 2.15,
+      "avg_goals_conceded": 0.7,
+      "avg_possession": 58.15,
+      "clean_sheet_pct": 54.5,
+      "btts_pct": 42.4,
+      "over_25_pct": 51.5,
+      "stats_updated_at": "2026-08-03T23:30:57.175148+00:00"
+    },
     "494": {
       "id": 2069,
       "name": "Slaven Bilić",
@@ -756,6 +777,27 @@
       "btts_pct": 47.6,
       "over_25_pct": 52.4,
       "stats_updated_at": "2026-08-03T23:30:18.315751+00:00"
+    },
+    "496": {
+      "id": 88,
+      "name": "Thomas Christiansen",
+      "short_name": "T. Christiansen",
+      "country": "Spain",
+      "tactical_profile": "balanced",
+      "preferred_formation": "5-4-1",
+      "current_team_id": 496,
+      "matches_total": 32,
+      "wins": 16,
+      "draws": 8,
+      "losses": 8,
+      "win_pct": 50,
+      "avg_goals_scored": 1.62,
+      "avg_goals_conceded": 1.25,
+      "avg_possession": 54.04,
+      "clean_sheet_pct": 28.1,
+      "btts_pct": 56.2,
+      "over_25_pct": 46.9,
+      "stats_updated_at": "2026-08-03T23:30:56.925294+00:00"
     },
     "497": {
       "id": 575,
