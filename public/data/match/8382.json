@@ -13,21 +13,27 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 1,
+    "total_matches": 2,
     "home_wins": 0,
     "draws": 1,
-    "away_wins": 0,
+    "away_wins": 1,
     "home_goals": 0,
-    "away_goals": 0,
-    "avg_total_goals": 0,
+    "away_goals": 2,
+    "avg_total_goals": 1,
     "home_win_rate": 0,
-    "away_win_rate": 0,
+    "away_win_rate": 0.5,
     "recent_matches": [
       {
         "away": "Colombia",
         "date": "2026-07-07T20:00:00+00:00",
         "home": "Switzerland",
         "score": "0-0"
+      },
+      {
+        "away": "Colombia",
+        "date": "1994-06-26T20:00:00+00:00",
+        "home": "Switzerland",
+        "score": "0-2"
       }
     ]
   },

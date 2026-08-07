@@ -13,13 +13,13 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 1,
-    "home_wins": 1,
+    "total_matches": 2,
+    "home_wins": 2,
     "draws": 0,
     "away_wins": 0,
-    "home_goals": 4,
+    "home_goals": 7,
     "away_goals": 1,
-    "avg_total_goals": 5,
+    "avg_total_goals": 4,
     "home_win_rate": 1,
     "away_win_rate": 0,
     "recent_matches": [
@@ -28,6 +28,12 @@
         "date": "2026-06-13T01:00:00+00:00",
         "home": "USA",
         "score": "4-1"
+      },
+      {
+        "away": "Paraguay",
+        "date": "1930-07-17T13:45:00+00:00",
+        "home": "USA",
+        "score": "3-0"
       }
     ]
   },

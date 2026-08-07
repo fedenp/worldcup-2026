@@ -13,21 +13,33 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 1,
-    "home_wins": 0,
+    "total_matches": 3,
+    "home_wins": 1,
     "draws": 0,
-    "away_wins": 1,
-    "home_goals": 1,
-    "away_goals": 4,
-    "avg_total_goals": 5,
-    "home_win_rate": 0,
-    "away_win_rate": 1,
+    "away_wins": 2,
+    "home_goals": 5,
+    "away_goals": 6,
+    "avg_total_goals": 3.6666666666666665,
+    "home_win_rate": 0.3333333333333333,
+    "away_win_rate": 0.6666666666666666,
     "recent_matches": [
       {
         "away": "Belgium",
         "date": "2026-07-07T00:00:00+00:00",
         "home": "USA",
         "score": "1-4"
+      },
+      {
+        "away": "USA",
+        "date": "2014-07-01T20:00:00+00:00",
+        "home": "Belgium",
+        "score": "2-1"
+      },
+      {
+        "away": "Belgium",
+        "date": "1930-07-13T14:00:00+00:00",
+        "home": "USA",
+        "score": "3-0"
       }
     ]
   },

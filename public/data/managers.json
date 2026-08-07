@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T00:51:56.112Z",
+  "updated_at": "2026-08-07T05:36:14.306Z",
   "managers": {
     "451": {
       "id": 128,
@@ -420,27 +420,6 @@
       "btts_pct": 42.9,
       "over_25_pct": 65.7,
       "stats_updated_at": "2026-08-03T23:30:40.720167+00:00"
-    },
-    "476": {
-      "id": 1445,
-      "name": "Bubista",
-      "short_name": "Bubista",
-      "country": "Cape Verde",
-      "tactical_profile": "balanced",
-      "preferred_formation": "4-3-3",
-      "current_team_id": 476,
-      "matches_total": 21,
-      "wins": 12,
-      "draws": 7,
-      "losses": 2,
-      "win_pct": 57.1,
-      "avg_goals_scored": 1.62,
-      "avg_goals_conceded": 0.76,
-      "avg_possession": 37,
-      "clean_sheet_pct": 66.7,
-      "btts_pct": 33.3,
-      "over_25_pct": 52.4,
-      "stats_updated_at": "2026-08-03T23:30:17.038715+00:00"
     },
     "477": {
       "id": 3035,

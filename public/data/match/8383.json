@@ -13,11 +13,11 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 1,
-    "home_wins": 1,
+    "total_matches": 2,
+    "home_wins": 2,
     "draws": 0,
     "away_wins": 0,
-    "home_goals": 2,
+    "home_goals": 4,
     "away_goals": 0,
     "avg_total_goals": 2,
     "home_win_rate": 1,
@@ -26,6 +26,12 @@
       {
         "away": "Morocco",
         "date": "2026-07-09T20:00:00+00:00",
+        "home": "France",
+        "score": "2-0"
+      },
+      {
+        "away": "Morocco",
+        "date": "2022-12-14T19:00:00+00:00",
         "home": "France",
         "score": "2-0"
       }

@@ -13,13 +13,13 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 1,
+    "total_matches": 2,
     "home_wins": 0,
     "draws": 0,
-    "away_wins": 1,
+    "away_wins": 2,
     "home_goals": 2,
-    "away_goals": 3,
-    "avg_total_goals": 5,
+    "away_goals": 5,
+    "avg_total_goals": 3.5,
     "home_win_rate": 0,
     "away_win_rate": 1,
     "recent_matches": [
@@ -28,6 +28,12 @@
         "date": "2026-07-06T01:00:00+00:00",
         "home": "Mexico",
         "score": "2-3"
+      },
+      {
+        "away": "Mexico",
+        "date": "1966-07-16T15:00:00+00:00",
+        "home": "England",
+        "score": "2-0"
       }
     ]
   },

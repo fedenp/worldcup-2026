@@ -13,21 +13,27 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 1,
+    "total_matches": 2,
     "home_wins": 1,
     "draws": 0,
-    "away_wins": 0,
-    "home_goals": 1,
-    "away_goals": 0,
-    "avg_total_goals": 1,
-    "home_win_rate": 1,
-    "away_win_rate": 0,
+    "away_wins": 1,
+    "home_goals": 2,
+    "away_goals": 2,
+    "avg_total_goals": 2,
+    "home_win_rate": 0.5,
+    "away_win_rate": 0.5,
     "recent_matches": [
       {
         "away": "Argentina",
         "date": "2026-07-19T19:00:00+00:00",
         "home": "Spain",
         "score": "1-0"
+      },
+      {
+        "away": "Spain",
+        "date": "1966-07-13T15:00:00+00:00",
+        "home": "Argentina",
+        "score": "2-1"
       }
     ]
   },

@@ -13,21 +13,27 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 1,
+    "total_matches": 2,
     "home_wins": 1,
     "draws": 0,
-    "away_wins": 0,
+    "away_wins": 1,
     "home_goals": 3,
-    "away_goals": 0,
+    "away_goals": 3,
     "avg_total_goals": 3,
-    "home_win_rate": 1,
-    "away_win_rate": 0,
+    "home_win_rate": 0.5,
+    "away_win_rate": 0.5,
     "recent_matches": [
       {
+        "away": "France",
+        "date": "2017-06-09T18:45:00+00:00",
+        "home": "Sweden",
+        "score": "2-1"
+      },
+      {
         "away": "Sweden",
-        "date": "2026-06-30T21:00:00+00:00",
+        "date": "2016-11-11T19:45:00+00:00",
         "home": "France",
-        "score": "3-0"
+        "score": "2-1"
       }
     ]
   },

@@ -13,15 +13,15 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 2,
-    "home_wins": 0,
+    "total_matches": 6,
+    "home_wins": 3,
     "draws": 1,
-    "away_wins": 1,
-    "home_goals": 2,
-    "away_goals": 3,
-    "avg_total_goals": 2.5,
-    "home_win_rate": 0,
-    "away_win_rate": 0.5,
+    "away_wins": 2,
+    "home_goals": 9,
+    "away_goals": 7,
+    "avg_total_goals": 2.6666666666666665,
+    "home_win_rate": 0.5,
+    "away_win_rate": 0.3333333333333333,
     "recent_matches": [
       {
         "away": "Argentina",
@@ -31,9 +31,33 @@
       },
       {
         "away": "England",
-        "date": "2018-06-16T12:00:00+00:00",
+        "date": "2002-06-07T11:30:00+00:00",
         "home": "Argentina",
-        "score": "1-1"
+        "score": "0-1"
+      },
+      {
+        "away": "England",
+        "date": "1998-06-30T19:00:00+00:00",
+        "home": "Argentina",
+        "score": "2-2"
+      },
+      {
+        "away": "England",
+        "date": "1986-06-22T14:00:00+00:00",
+        "home": "Argentina",
+        "score": "2-1"
+      },
+      {
+        "away": "Argentina",
+        "date": "1966-07-23T15:00:00+00:00",
+        "home": "England",
+        "score": "1-0"
+      },
+      {
+        "away": "Argentina",
+        "date": "1962-06-02T14:00:00+00:00",
+        "home": "England",
+        "score": "3-1"
       }
     ]
   },

@@ -13,13 +13,13 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 3,
-    "home_wins": 3,
+    "total_matches": 1,
+    "home_wins": 1,
     "draws": 0,
     "away_wins": 0,
-    "home_goals": 8,
-    "away_goals": 3,
-    "avg_total_goals": 3.6666666666666665,
+    "home_goals": 3,
+    "away_goals": 0,
+    "avg_total_goals": 3,
     "home_win_rate": 1,
     "away_win_rate": 0,
     "recent_matches": [
@@ -28,18 +28,6 @@
         "date": "2026-06-17T01:00:00+00:00",
         "home": "Argentina",
         "score": "3-0"
-      },
-      {
-        "away": "Argentina",
-        "date": "2018-06-26T17:00:00+00:00",
-        "home": "Algeria",
-        "score": "1-2"
-      },
-      {
-        "away": "Argentina",
-        "date": "2014-06-25T09:00:00+00:00",
-        "home": "Algeria",
-        "score": "2-3"
       }
     ]
   },

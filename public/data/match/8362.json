@@ -13,14 +13,14 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 1,
-    "home_wins": 0,
+    "total_matches": 2,
+    "home_wins": 1,
     "draws": 1,
     "away_wins": 0,
-    "home_goals": 1,
-    "away_goals": 1,
-    "avg_total_goals": 2,
-    "home_win_rate": 0,
+    "home_goals": 3,
+    "away_goals": 2,
+    "avg_total_goals": 2.5,
+    "home_win_rate": 0.5,
     "away_win_rate": 0,
     "recent_matches": [
       {
@@ -28,6 +28,12 @@
         "date": "2026-06-30T01:00:00+00:00",
         "home": "Netherlands",
         "score": "1-1"
+      },
+      {
+        "away": "Netherlands",
+        "date": "1994-06-29T16:30:00+00:00",
+        "home": "Morocco",
+        "score": "1-2"
       }
     ]
   },

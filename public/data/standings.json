@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T00:51:23.608Z",
+  "updated_at": "2026-08-07T05:35:51.734Z",
   "groups": {
     "Group A": [
       {
@@ -31,7 +31,7 @@
         "gd": -1,
         "pts": 4,
         "xg": 2.6,
-        "form": "LWDL",
+        "form": "LWDLW",
         "live": false
       },
       {
@@ -47,7 +47,7 @@
         "gd": -1,
         "pts": 3,
         "xg": 3.6,
-        "form": "LLWWL",
+        "form": "LLWLW",
         "live": false
       },
       {
@@ -63,7 +63,7 @@
         "gd": -4,
         "pts": 1,
         "xg": 2.3,
-        "form": "LDL",
+        "form": "LDLLL",
         "live": false
       }
     ],
@@ -179,7 +179,7 @@
         "gd": -3,
         "pts": 3,
         "xg": 2.8,
-        "form": "LLWLW",
+        "form": "LLWLD",
         "live": false
       },
       {
@@ -195,7 +195,7 @@
         "gd": -6,
         "pts": 0,
         "xg": 2.1,
-        "form": "LLL",
+        "form": "LLLLL",
         "live": false
       }
     ],
@@ -229,7 +229,7 @@
         "gd": 0,
         "pts": 4,
         "xg": 1.8,
-        "form": "DDLWW",
+        "form": "DDLWL",
         "live": false
       },
       {
@@ -261,7 +261,7 @@
         "gd": -2,
         "pts": 3,
         "xg": 6.3,
-        "form": "WLL",
+        "form": "WLLWL",
         "live": false
       }
     ],
@@ -345,7 +345,7 @@
         "gd": 6,
         "pts": 7,
         "xg": 4.9,
-        "form": "DWWDW",
+        "form": "DWWDD",
         "live": false
       },
       {
@@ -361,7 +361,7 @@
         "gd": 4,
         "pts": 5,
         "xg": 3.9,
-        "form": "LDWDW",
+        "form": "LDWDD",
         "live": false
       },
       {
@@ -377,7 +377,7 @@
         "gd": 0,
         "pts": 4,
         "xg": 2.8,
-        "form": "LDLWW",
+        "form": "LDLWL",
         "live": false
       },
       {
@@ -459,7 +459,7 @@
         "gd": -6,
         "pts": 1,
         "xg": 3,
-        "form": "LLD",
+        "form": "LLDDD",
         "live": false
       }
     ],
@@ -575,7 +575,7 @@
         "gd": 2,
         "pts": 3,
         "xg": 5.2,
-        "form": "LWLLW",
+        "form": "LWLLL",
         "live": false
       },
       {
@@ -591,7 +591,7 @@
         "gd": -11,
         "pts": 0,
         "xg": 1.6,
-        "form": "LLL",
+        "form": "LLLLL",
         "live": false
       }
     ],
@@ -625,7 +625,7 @@
         "gd": 0,
         "pts": 4,
         "xg": 3.6,
-        "form": "LDLW",
+        "form": "LDLWL",
         "live": false
       },
       {
@@ -757,7 +757,7 @@
         "gd": 0,
         "pts": 6,
         "xg": 2.8,
-        "form": "LWWLD",
+        "form": "LWWLW",
         "live": false
       },
       {

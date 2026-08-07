@@ -13,13 +13,13 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 1,
+    "total_matches": 2,
     "home_wins": 0,
     "draws": 0,
-    "away_wins": 1,
+    "away_wins": 2,
     "home_goals": 0,
-    "away_goals": 1,
-    "avg_total_goals": 1,
+    "away_goals": 4,
+    "avg_total_goals": 2,
     "home_win_rate": 0,
     "away_win_rate": 1,
     "recent_matches": [
@@ -28,6 +28,12 @@
         "date": "2026-06-19T22:00:00+00:00",
         "home": "Scotland",
         "score": "0-1"
+      },
+      {
+        "away": "Morocco",
+        "date": "1998-06-23T19:00:00+00:00",
+        "home": "Scotland",
+        "score": "0-3"
       }
     ]
   },

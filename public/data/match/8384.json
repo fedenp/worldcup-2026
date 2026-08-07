@@ -13,11 +13,11 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 1,
-    "home_wins": 1,
+    "total_matches": 4,
+    "home_wins": 4,
     "draws": 0,
     "away_wins": 0,
-    "home_goals": 2,
+    "home_goals": 11,
     "away_goals": 1,
     "avg_total_goals": 3,
     "home_win_rate": 1,
@@ -25,9 +25,27 @@
     "recent_matches": [
       {
         "away": "Belgium",
-        "date": "2026-07-10T19:00:00+00:00",
+        "date": "2009-09-05T20:00:00+00:00",
         "home": "Spain",
-        "score": "2-1"
+        "score": "5-0"
+      },
+      {
+        "away": "Spain",
+        "date": "2008-10-15T18:45:00+00:00",
+        "home": "Belgium",
+        "score": "1-2"
+      },
+      {
+        "away": "Spain",
+        "date": "2005-10-08T18:45:00+00:00",
+        "home": "Belgium",
+        "score": "0-2"
+      },
+      {
+        "away": "Belgium",
+        "date": "2004-10-09T19:45:00+00:00",
+        "home": "Spain",
+        "score": "2-0"
       }
     ]
   },
