@@ -5,9 +5,38 @@
     "city": "Arlington",
     "capacity": 80000
   },
-  "weather": null,
+  "weather": {
+    "code": 1,
+    "description": "clear",
+    "wind_speed": 29.1,
+    "temperature_c": 35
+  },
   "prediction": null,
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 2,
+    "home_wins": 2,
+    "draws": 0,
+    "away_wins": 0,
+    "home_goals": 9,
+    "away_goals": 2,
+    "avg_total_goals": 5.5,
+    "home_win_rate": 1,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Croatia",
+        "date": "2009-09-09T19:00:00+00:00",
+        "home": "England",
+        "score": "5-1"
+      },
+      {
+        "away": "England",
+        "date": "2008-09-10T19:00:00+00:00",
+        "home": "Croatia",
+        "score": "1-4"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {

@@ -5,31 +5,8 @@
     "city": "Kansas City",
     "capacity": 76416
   },
-  "weather": {
-    "code": 1,
-    "description": "clear",
-    "wind_speed": 2.2,
-    "temperature_c": 22
-  },
+  "weather": null,
   "prediction": null,
-  "head_to_head": {
-    "total_matches": 1,
-    "home_wins": 0,
-    "draws": 1,
-    "away_wins": 0,
-    "home_goals": 0,
-    "away_goals": 0,
-    "avg_total_goals": 0,
-    "home_win_rate": 0,
-    "away_win_rate": 0,
-    "recent_matches": [
-      {
-        "away": "Curaçao",
-        "date": "2026-06-21T00:00:00+00:00",
-        "home": "Ecuador",
-        "score": "0-0"
-      }
-    ]
-  },
+  "head_to_head": null,
   "average_positions": null
 }

@@ -5,31 +5,8 @@
     "city": "Vancouver",
     "capacity": 54500
   },
-  "weather": {
-    "code": 2,
-    "description": "cloudy",
-    "wind_speed": 13,
-    "temperature_c": 18
-  },
+  "weather": null,
   "prediction": null,
-  "head_to_head": {
-    "total_matches": 1,
-    "home_wins": 1,
-    "draws": 0,
-    "away_wins": 0,
-    "home_goals": 6,
-    "away_goals": 0,
-    "avg_total_goals": 6,
-    "home_win_rate": 1,
-    "away_win_rate": 0,
-    "recent_matches": [
-      {
-        "away": "Qatar",
-        "date": "2026-06-18T22:00:00+00:00",
-        "home": "Canada",
-        "score": "6-0"
-      }
-    ]
-  },
+  "head_to_head": null,
   "average_positions": null
 }

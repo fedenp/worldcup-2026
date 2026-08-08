@@ -5,37 +5,8 @@
     "city": "Houston",
     "capacity": 72220
   },
-  "weather": {
-    "code": 1,
-    "description": "clear",
-    "wind_speed": 20.2,
-    "temperature_c": 32
-  },
+  "weather": null,
   "prediction": null,
-  "head_to_head": {
-    "total_matches": 2,
-    "home_wins": 1,
-    "draws": 1,
-    "away_wins": 0,
-    "home_goals": 3,
-    "away_goals": 1,
-    "avg_total_goals": 2,
-    "home_win_rate": 0.5,
-    "away_win_rate": 0,
-    "recent_matches": [
-      {
-        "away": "Sweden",
-        "date": "2017-10-10T18:45:00+00:00",
-        "home": "Netherlands",
-        "score": "2-0"
-      },
-      {
-        "away": "Netherlands",
-        "date": "2016-09-06T18:45:00+00:00",
-        "home": "Sweden",
-        "score": "1-1"
-      }
-    ]
-  },
+  "head_to_head": null,
   "average_positions": null
 }
