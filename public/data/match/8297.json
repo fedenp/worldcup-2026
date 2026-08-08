@@ -5,32 +5,9 @@
     "city": "Philadelphia",
     "capacity": 69176
   },
-  "weather": {
-    "code": 1,
-    "description": "clear",
-    "wind_speed": 9.4,
-    "temperature_c": 25
-  },
+  "weather": null,
   "prediction": null,
-  "head_to_head": {
-    "total_matches": 1,
-    "home_wins": 1,
-    "draws": 0,
-    "away_wins": 0,
-    "home_goals": 1,
-    "away_goals": 0,
-    "avg_total_goals": 1,
-    "home_win_rate": 1,
-    "away_win_rate": 0,
-    "recent_matches": [
-      {
-        "away": "Ecuador",
-        "date": "2026-06-14T23:00:00+00:00",
-        "home": "Côte d'Ivoire",
-        "score": "1-0"
-      }
-    ]
-  },
+  "head_to_head": null,
   "average_positions": {
     "away": [
       {
