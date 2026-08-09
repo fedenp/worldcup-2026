@@ -5,9 +5,32 @@
     "city": "Houston",
     "capacity": 72220
   },
-  "weather": null,
+  "weather": {
+    "code": 2,
+    "description": "cloudy",
+    "wind_speed": 6.6,
+    "temperature_c": 34
+  },
   "prediction": null,
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 1,
+    "draws": 0,
+    "away_wins": 0,
+    "home_goals": 5,
+    "away_goals": 0,
+    "avg_total_goals": 5,
+    "home_win_rate": 1,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Uzbekistan",
+        "date": "2026-06-23T17:00:00+00:00",
+        "home": "Portugal",
+        "score": "5-0"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {

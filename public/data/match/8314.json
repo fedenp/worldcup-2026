@@ -5,9 +5,44 @@
     "city": "Guadalajara",
     "capacity": 46355
   },
-  "weather": null,
+  "weather": {
+    "code": 1,
+    "description": "clear",
+    "wind_speed": 2.3,
+    "temperature_c": 24
+  },
   "prediction": null,
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 3,
+    "home_wins": 3,
+    "draws": 0,
+    "away_wins": 0,
+    "home_goals": 6,
+    "away_goals": 2,
+    "avg_total_goals": 2.6666666666666665,
+    "home_win_rate": 1,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "South Korea",
+        "date": "2026-06-19T01:00:00+00:00",
+        "home": "Mexico",
+        "score": "1-0"
+      },
+      {
+        "away": "Mexico",
+        "date": "2018-06-23T15:00:00+00:00",
+        "home": "South Korea",
+        "score": "1-2"
+      },
+      {
+        "away": "Mexico",
+        "date": "1998-06-13T15:30:00+00:00",
+        "home": "South Korea",
+        "score": "1-3"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {

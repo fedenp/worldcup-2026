@@ -5,9 +5,38 @@
     "city": "Mexico City",
     "capacity": 87523
   },
-  "weather": null,
+  "weather": {
+    "code": 2,
+    "description": "cloudy",
+    "wind_speed": 5,
+    "temperature_c": 21
+  },
   "prediction": null,
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 2,
+    "home_wins": 1,
+    "draws": 1,
+    "away_wins": 0,
+    "home_goals": 3,
+    "away_goals": 1,
+    "avg_total_goals": 2,
+    "home_win_rate": 0.5,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "South Africa",
+        "date": "2026-06-11T19:00:00+00:00",
+        "home": "Mexico",
+        "score": "2-0"
+      },
+      {
+        "away": "Mexico",
+        "date": "2010-06-11T14:00:00+00:00",
+        "home": "South Africa",
+        "score": "1-1"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {
