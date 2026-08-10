@@ -1,10 +1,6 @@
 {
   "event_id": 8328,
-  "venue": {
-    "name": "Lincoln Financial Field",
-    "city": "Philadelphia",
-    "capacity": 69176
-  },
+  "venue": null,
   "weather": {
     "code": 2,
     "description": "cloudy",

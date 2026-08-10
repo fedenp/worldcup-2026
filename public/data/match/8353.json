@@ -1,36 +1,9 @@
 {
   "event_id": 8353,
-  "venue": {
-    "name": "Lincoln Financial Field",
-    "city": "Philadelphia",
-    "capacity": 69176
-  },
-  "weather": {
-    "code": 1,
-    "description": "clear",
-    "wind_speed": 18.2,
-    "temperature_c": 29
-  },
+  "venue": null,
+  "weather": null,
   "prediction": null,
-  "head_to_head": {
-    "total_matches": 1,
-    "home_wins": 1,
-    "draws": 0,
-    "away_wins": 0,
-    "home_goals": 2,
-    "away_goals": 1,
-    "avg_total_goals": 3,
-    "home_win_rate": 1,
-    "away_win_rate": 0,
-    "recent_matches": [
-      {
-        "away": "Ghana",
-        "date": "2026-06-27T21:00:00+00:00",
-        "home": "Croatia",
-        "score": "2-1"
-      }
-    ]
-  },
+  "head_to_head": null,
   "average_positions": {
     "away": [
       {

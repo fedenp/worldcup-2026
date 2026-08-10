@@ -1,36 +1,9 @@
 {
   "event_id": 8339,
-  "venue": {
-    "name": "Estadio BBVA",
-    "city": "Monterrey",
-    "capacity": 53500
-  },
-  "weather": {
-    "code": 2,
-    "description": "cloudy",
-    "wind_speed": 10.6,
-    "temperature_c": 26
-  },
+  "venue": null,
+  "weather": null,
   "prediction": null,
-  "head_to_head": {
-    "total_matches": 1,
-    "home_wins": 1,
-    "draws": 0,
-    "away_wins": 0,
-    "home_goals": 1,
-    "away_goals": 0,
-    "avg_total_goals": 1,
-    "home_win_rate": 1,
-    "away_win_rate": 0,
-    "recent_matches": [
-      {
-        "away": "South Korea",
-        "date": "2026-06-25T01:00:00+00:00",
-        "home": "South Africa",
-        "score": "1-0"
-      }
-    ]
-  },
+  "head_to_head": null,
   "average_positions": {
     "away": [
       {

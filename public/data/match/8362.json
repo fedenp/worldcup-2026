@@ -1,10 +1,6 @@
 {
   "event_id": 8362,
-  "venue": {
-    "name": "Estadio BBVA",
-    "city": "Monterrey",
-    "capacity": 53500
-  },
+  "venue": null,
   "weather": {
     "code": 2,
     "description": "cloudy",

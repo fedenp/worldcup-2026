@@ -1,10 +1,6 @@
 {
   "event_id": 8388,
-  "venue": {
-    "name": "Mercedes-Benz Stadium",
-    "city": "Atlanta",
-    "capacity": 71000
-  },
+  "venue": null,
   "weather": {
     "code": 2,
     "description": "cloudy",

@@ -1,42 +1,9 @@
 {
   "event_id": 8375,
-  "venue": {
-    "name": "NRG Stadium",
-    "city": "Houston",
-    "capacity": 72220
-  },
-  "weather": {
-    "code": 2,
-    "description": "cloudy",
-    "wind_speed": 9,
-    "temperature_c": 34
-  },
+  "venue": null,
+  "weather": null,
   "prediction": null,
-  "head_to_head": {
-    "total_matches": 2,
-    "home_wins": 0,
-    "draws": 0,
-    "away_wins": 2,
-    "home_goals": 1,
-    "away_goals": 5,
-    "avg_total_goals": 3,
-    "home_win_rate": 0,
-    "away_win_rate": 1,
-    "recent_matches": [
-      {
-        "away": "Morocco",
-        "date": "2026-07-04T17:00:00+00:00",
-        "home": "Canada",
-        "score": "0-3"
-      },
-      {
-        "away": "Morocco",
-        "date": "2022-12-01T15:00:00+00:00",
-        "home": "Canada",
-        "score": "1-2"
-      }
-    ]
-  },
+  "head_to_head": null,
   "average_positions": {
     "away": [
       {

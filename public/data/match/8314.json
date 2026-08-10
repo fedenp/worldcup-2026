@@ -1,10 +1,6 @@
 {
   "event_id": 8314,
-  "venue": {
-    "name": "Estadio Akron",
-    "city": "Guadalajara",
-    "capacity": 46355
-  },
+  "venue": null,
   "weather": {
     "code": 1,
     "description": "clear",

@@ -1,10 +1,6 @@
 {
   "event_id": 8303,
-  "venue": {
-    "name": "Levi's Stadium",
-    "city": "Santa Clara",
-    "capacity": 68500
-  },
+  "venue": null,
   "weather": {
     "code": 2,
     "description": "cloudy",
