@@ -5,9 +5,32 @@
     "city": "Miami Gardens",
     "capacity": 65326
   },
-  "weather": null,
+  "weather": {
+    "code": 1,
+    "description": "clear",
+    "wind_speed": 18.2,
+    "temperature_c": 31
+  },
   "prediction": null,
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 1,
+    "away_wins": 0,
+    "home_goals": 2,
+    "away_goals": 2,
+    "avg_total_goals": 4,
+    "home_win_rate": 0,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Cabo Verde",
+        "date": "2026-06-21T22:00:00+00:00",
+        "home": "Uruguay",
+        "score": "2-2"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {

@@ -5,9 +5,32 @@
     "city": "Inglewood",
     "capacity": 70242
   },
-  "weather": null,
+  "weather": {
+    "code": 2,
+    "description": "cloudy",
+    "wind_speed": 16.3,
+    "temperature_c": 21
+  },
   "prediction": null,
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 1,
+    "draws": 0,
+    "away_wins": 0,
+    "home_goals": 4,
+    "away_goals": 1,
+    "avg_total_goals": 5,
+    "home_win_rate": 1,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Bosnia & Herzegovina",
+        "date": "2026-06-18T19:00:00+00:00",
+        "home": "Switzerland",
+        "score": "4-1"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {

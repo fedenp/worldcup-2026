@@ -1,9 +1,36 @@
 {
   "event_id": 8351,
-  "venue": null,
-  "weather": null,
+  "venue": {
+    "name": "Lumen Field",
+    "city": "Seattle",
+    "capacity": 68740
+  },
+  "weather": {
+    "code": 2,
+    "description": "cloudy",
+    "wind_speed": 14.5,
+    "temperature_c": 18
+  },
   "prediction": null,
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 1,
+    "away_wins": 0,
+    "home_goals": 1,
+    "away_goals": 1,
+    "avg_total_goals": 2,
+    "home_win_rate": 0,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Iran",
+        "date": "2026-06-27T03:00:00+00:00",
+        "home": "Egypt",
+        "score": "1-1"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {

@@ -5,9 +5,38 @@
     "city": "Inglewood",
     "capacity": 70242
   },
-  "weather": null,
+  "weather": {
+    "code": 1,
+    "description": "clear",
+    "wind_speed": 13.8,
+    "temperature_c": 25
+  },
   "prediction": null,
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 2,
+    "home_wins": 1,
+    "draws": 0,
+    "away_wins": 1,
+    "home_goals": 4,
+    "away_goals": 2,
+    "avg_total_goals": 3,
+    "home_win_rate": 0.5,
+    "away_win_rate": 0.5,
+    "recent_matches": [
+      {
+        "away": "Austria",
+        "date": "2026-07-02T19:00:00+00:00",
+        "home": "Spain",
+        "score": "3-0"
+      },
+      {
+        "away": "Spain",
+        "date": "1978-06-03T15:00:00+00:00",
+        "home": "Austria",
+        "score": "2-1"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {

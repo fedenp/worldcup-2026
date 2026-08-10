@@ -1,9 +1,36 @@
 {
   "event_id": 8316,
-  "venue": null,
-  "weather": null,
+  "venue": {
+    "name": "Lumen Field",
+    "city": "Seattle",
+    "capacity": 68740
+  },
+  "weather": {
+    "code": 1,
+    "description": "clear",
+    "wind_speed": 13.1,
+    "temperature_c": 25
+  },
   "prediction": null,
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 1,
+    "draws": 0,
+    "away_wins": 0,
+    "home_goals": 2,
+    "away_goals": 0,
+    "avg_total_goals": 2,
+    "home_win_rate": 1,
+    "away_win_rate": 0,
+    "recent_matches": [
+      {
+        "away": "Australia",
+        "date": "2026-06-19T19:00:00+00:00",
+        "home": "USA",
+        "score": "2-0"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {

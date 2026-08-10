@@ -1,9 +1,48 @@
 {
   "event_id": 8350,
-  "venue": null,
-  "weather": null,
+  "venue": {
+    "name": "Estadio Akron",
+    "city": "Guadalajara",
+    "capacity": 46355
+  },
+  "weather": {
+    "code": 1,
+    "description": "clear",
+    "wind_speed": 5.6,
+    "temperature_c": 22
+  },
   "prediction": null,
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 3,
+    "home_wins": 0,
+    "draws": 2,
+    "away_wins": 1,
+    "home_goals": 2,
+    "away_goals": 3,
+    "avg_total_goals": 1.6666666666666667,
+    "home_win_rate": 0,
+    "away_win_rate": 0.3333333333333333,
+    "recent_matches": [
+      {
+        "away": "Spain",
+        "date": "2026-06-27T00:00:00+00:00",
+        "home": "Uruguay",
+        "score": "0-1"
+      },
+      {
+        "away": "Spain",
+        "date": "1990-06-13T15:00:00+00:00",
+        "home": "Uruguay",
+        "score": "0-0"
+      },
+      {
+        "away": "Spain",
+        "date": "1950-07-09T14:00:00+00:00",
+        "home": "Uruguay",
+        "score": "2-2"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {

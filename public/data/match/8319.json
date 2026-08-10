@@ -1,9 +1,42 @@
 {
   "event_id": 8319,
-  "venue": null,
-  "weather": null,
+  "venue": {
+    "name": "Estadio BBVA",
+    "city": "Monterrey",
+    "capacity": 53500
+  },
+  "weather": {
+    "code": 2,
+    "description": "cloudy",
+    "wind_speed": 18.2,
+    "temperature_c": 29
+  },
   "prediction": null,
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 2,
+    "home_wins": 0,
+    "draws": 0,
+    "away_wins": 2,
+    "home_goals": 0,
+    "away_goals": 6,
+    "avg_total_goals": 3,
+    "home_win_rate": 0,
+    "away_win_rate": 1,
+    "recent_matches": [
+      {
+        "away": "Japan",
+        "date": "2026-06-21T04:00:00+00:00",
+        "home": "Tunisia",
+        "score": "0-4"
+      },
+      {
+        "away": "Japan",
+        "date": "2002-06-14T06:30:00+00:00",
+        "home": "Tunisia",
+        "score": "0-2"
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {
