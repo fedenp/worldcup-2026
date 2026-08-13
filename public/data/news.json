@@ -1,12 +1,68 @@
 {
-  "updatedAt": "2026-08-13T01:25:23.567Z",
+  "updatedAt": "2026-08-13T05:30:58.072Z",
   "items": [
     {
-      "title": "Messi con Inter Miami vs. León, en vivo por la Leagues Cup: el minuto a minuto del partido",
-      "description": "Como local en el Nu Stadium, se define la clasificación con el argentino arrancando en el banco de suplentes",
+      "title": "Así quedó conformada la final masculina del Masters 1000 de Montreal",
+      "description": "Brandon Nakashima y Ben Shelton superaron sus respectivos compromisos de semifinales y se disputarán el trofeo en la definición de este jueves",
+      "link": "https://www.lanacion.com.ar/deportes/tenis/asi-quedo-conformada-la-final-masculina-del-masters-1000-de-montreal-nid13082026/",
+      "publishedAt": "2026-08-13T04:12:34.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/RKI3THDVZ5AXBONCHRBGRDHJJI.JPG?auth=7eca12b6d212d8474e075c05fe5b3af85e5033465a06d8290da8fc698bbd33e5&smart=true&width=5629&height=4185",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Messi fue ovacionado en su vuelta a las canchas y recibió un abrazo de un rival en plena jugada",
+      "description": "El capitán argentino ingresó en el segundo tiempo y recibió una conmovedora ovación; durante el partido protagonizó dos afectuosos cruces con el defensor colombiano",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/messi-fue-ovacionado-en-su-vuelta-a-las-canchas-y-recibio-un-abrazo-de-un-rival-en-plena-jugada-nid13082026/",
+      "publishedAt": "2026-08-13T04:02:06.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/NSKPMONRSZA2LGT3C5KLSAUZGA.png?auth=69879e9ebf69ae9bea93209111e289045f8bf8a5ff70b72c11649209467be288&smart=true&width=643&height=787",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Así están los cruces de octavos de final de la Copa Libertadores 2026",
+      "description": "Ya se disputaron cinco de los ocho partidos de ida y todos terminaron en empate; Deportes Tolima vs. Independiente del Valle fue postergado",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/asi-estan-los-cruces-de-octavos-de-final-de-la-copa-libertadores-2026-nid11082026/",
+      "publishedAt": "2026-08-13T03:22:42.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/ZFWJLUGH6ZFDZNXQIGGSJMU6DE.JPG?auth=62ef7ed5b4fe70ed84eb88184a4ed0e265d880eb492f0381f2aea068b1eb62e0&smart=true&width=1762&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Así están los cruces de octavos de final de la Copa Sudamericana 2026",
+      "description": "Los partidos de ida comenzaron con triunfo de Boca y un empate entre Bolívar y San Pablo; se postergo el cotejo de River por el terremoto en Colombia",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/asi-estan-los-cruces-de-octavos-de-final-de-la-copa-sudamericana-2026-nid12082026/",
+      "publishedAt": "2026-08-13T02:28:49.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/QZHFPUUOTBFI7FY7S4OTIX3UUY.JPG?auth=d3659b0135c56d3f33595b49867e093375ac2b615b4958042fd190c136deafe1&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "La agenda de TV y streaming del jueves: la final del Masters de Canadá y continúan la Copa Libertadores y Sudamericana",
+      "description": "La actividad deportiva en la continuidad de la semana, disponible a través de las pantallas",
+      "link": "https://www.lanacion.com.ar/deportes/la-agenda-de-tv-y-streaming-del-jueves-la-final-del-masters-de-canada-y-continuan-la-copa-nid12082026/",
+      "publishedAt": "2026-08-13T01:58:05.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/5E7UMAZ625FBLEBZRGMQPBYXVI.jpg?auth=59588ae0b4d883ada560e50a0d89c32da8d153ef061bff0394d61870239e802d&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Así quedó el cuadro de la Copa Argentina 2026, tras la derrota de Independiente",
+      "description": "El Rojo perdió por goleada ante Atlético Tucumán y se despidió del torneo más federal del país en octavos; el Decano ahora se cruzará con Independiente Rivadavia o Aldosivi",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/asi-quedo-el-cuadro-de-la-copa-argentina-2026-tras-la-derrota-de-independiente-nid12082026/",
+      "publishedAt": "2026-08-13T01:56:47.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/YHUKFAEGARCSJPUDFSOOWNC6ME.JPG?auth=3d4154cb8ca405510781bda52b40d1b4c525dda54f80bae7d39612b68773b609&smart=true&width=2000&height=1366",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Messi volvió a jugar tras la muerte de su padre, pero no pudo evitar la eliminación de Inter Miami de la Leagues Cup",
+      "description": "Como local en el Nu Stadium, entró desde el banco, pero perdieron 3-2 ante León",
       "link": "https://www.lanacion.com.ar/deportes/futbol/inter-miami-vs-leon-en-vivo-nid12082026/",
-      "publishedAt": "2026-08-13T01:21:09.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/VOVQSBAIKVHW7KWIPH7OYAEXGY.JPG?auth=297bb788bbc550c8f5a0a5c7762586b938389b2bd559673c3e5f54311309c8b3&smart=true&width=7996&height=5330",
+      "publishedAt": "2026-08-13T01:49:31.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/3VK6SCBBTBDLBKQHWBSWHTACHA.JPG?auth=62ea3b423d8f2f4a67934c82bf8e51161be7586b9b410b859ced79bad398db00&smart=true&width=4641&height=3094",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Tigre, sin peso ofensivo, perdió con City Torque y quedó comprometido en la Copa Sudamericana",
+      "description": "Sin Ignacio Russo ni Pity Martínez, el Matador cayó 1-0 y el miércoles próximo define la eliminatoria en Montevideo",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/tigre-sin-peso-ofensivo-perdio-con-city-torque-y-quedo-comprometido-en-la-copa-sudamericana-nid12082026/",
+      "publishedAt": "2026-08-13T01:31:55.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/CEZQBNNHJVBPXHMYZMMUAVHQLM.jpg?auth=3181c28b43f9f024c1d2ea386f094d3ebc760d33c697060b64595a92cd9ee917&smart=true&width=5525&height=3683",
       "source": "La Nación Deportes"
     },
     {
@@ -31,14 +87,6 @@
       "link": "https://www.lanacion.com.ar/deportes/futbol/independiente-perdio-por-goleada-con-atletico-tucuman-y-quedo-eliminado-de-la-copa-argentina-nid12082026/",
       "publishedAt": "2026-08-13T00:48:09.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/YHUKFAEGARCSJPUDFSOOWNC6ME.JPG?auth=3d4154cb8ca405510781bda52b40d1b4c525dda54f80bae7d39612b68773b609&smart=true&width=2000&height=1366",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Así quedó el cuadro de la Copa Argentina 2026, tras la derrota de Independiente",
-      "description": "El Rojo perdió por goleada ante Atlético Tucumán y se despidió del torneo más federal del país en octavos; el Decano ahora se cruzará con Independiente Rivadavia o Aldosivi",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/asi-quedo-el-cuadro-de-la-copa-argentina-2026-tras-la-derrota-de-independiente-nid12082026/",
-      "publishedAt": "2026-08-13T00:28:09.000Z",
-      "imageUrl": null,
       "source": "La Nación Deportes"
     },
     {
@@ -111,54 +159,6 @@
       "link": "https://www.lanacion.com.ar/deportes/pollo-vignolo-periodista-sobre-la-carta-de-messi-tenia-a-su-papa-en-esta-situacion-y-sin-embargo-le-nid12082026/",
       "publishedAt": "2026-08-12T22:23:52.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/BEMS6OAAPVDPLG53CQOSWD7ZYI.jpg?auth=797b022a0f62d5e12f94fbc065fded1cff037837914563d769cf0a036da10d00&smart=true&width=1333&height=2000",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Mauro Icardi no encuentra club: su contrato es muy alto y quiere jugar en la Champions League",
-      "description": "El delantero se desvinculó de Galatasaray tras cuatro temporadas y no aceptar que le bajaran un 50 por ciento el salario; Lazio es el último que mostró interés",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/mauro-icardi-no-encuentra-club-su-contrato-es-muy-alto-y-quiere-jugar-en-la-champions-league-nid12082026/",
-      "publishedAt": "2026-08-12T22:02:51.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/IVXCVBPESJGAJIBFRHNRZ45FKE.JPG?auth=a31e4f30845e0caa707133c815643aa52d359608ac9dfb5c377f08a175272a4b&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Cuti Romero pasa a Atlético de Madrid y firma un contrato por cinco temporadas",
-      "description": "El defensor del seleccionado argentino deja Tottenham Hotspur tras una larga negociación",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/cuti-romero-pasa-a-atletico-de-madrid-y-firma-un-contrato-por-cinco-temporadas-nid12082026/",
-      "publishedAt": "2026-08-12T21:51:41.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/ZJCQA4OAVZC2RGHYVXVNIFANXI.JPG?auth=ec22bd0ee0521b533c022f9aefd8c017b6aaa7cc067ea84ff768830f92de211a&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "El mensaje de Milei a Messi por la carta del astro ante la muerte de su padre: “¡Fuerza, capitán!\"",
-      "description": "El Presidente le dedicó un posteo al jugador rosarino en sus redes sociales, donde le agradeció por las alegrías que brindó a los argentinos",
-      "link": "https://www.lanacion.com.ar/politica/el-mensaje-de-milei-a-messi-por-la-carta-del-astro-ante-la-muerte-de-su-padre-fuerza-capitan-nid12082026/",
-      "publishedAt": "2026-08-12T21:22:42.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/CW4AOQ7GN5DRXCCILPZ7RMVPOM.png?auth=c1dec933c04eb147608e5cf12965da56714fe5bbce9b6626a90188d17bc1790d&smart=true&width=651&height=813",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "PSG le ganó 2-1 a Aston Villa y se consagró campeón de la Supercopa de Europa",
-      "description": "Kvaratskhelia y Doué marcaron para el conjunto francés en el Red Bull Arena de Salzburgo",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/psg-vs-aston-villa-en-vivo-nid12082026/",
-      "publishedAt": "2026-08-12T21:17:43.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/RVZZH3RUUNBZPEYA37UPVWS6K4.JPG?auth=fc178bc8da7852fff0e00fd784fae6b4ae33e01c6c1b8ebec68245ffc48a8111&smart=true&width=7000&height=4667",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Dejó su trabajo en Rosario y acompañó el sueño de su hijo de ser futbolista: la relación entre Lionel y Jorge Messi",
-      "description": "El papá del astro abandonó su trabajo siderúrgico para acompañar, de cerca, la evolución de su hijo que terminó transformándose en un icónico jugador",
-      "link": "https://www.lanacion.com.ar/deportes/dejo-su-trabajo-en-rosario-y-acompano-el-sueno-de-su-hijo-de-ser-futbolista-la-relacion-entre-lionel-nid12082026/",
-      "publishedAt": "2026-08-12T21:04:32.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/HEDJTVBDIRFGVCYDTITT6EJUEE.jpg?auth=af984f5ae4fc82c6d5f9ff1b12460036dc0149e6e305b56d61f42141ddcb4b46&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Xavi Hernández, nuevo DT de Países Bajos: el español que rompe casi medio siglo de tradición y llega con la escuela holandesa como bandera",
-      "description": "Admirador de Johan Cruyff y Rinus Michels, el exBarcelona volverá a dirigir después de dos años",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/xavi-hernandez-nuevo-dt-de-paises-bajos-el-espanol-que-rompe-casi-medio-siglo-de-tradicion-y-llega-nid12082026/",
-      "publishedAt": "2026-08-12T20:50:16.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/K6QJ56K6AJBU3MQRTBESLSWF7E.jpg?auth=9de86147fcbd8d33e3015462e3d2fc1f2479d6043471bc786e110f438f853071&smart=true&width=5314&height=3542",
       "source": "La Nación Deportes"
     }
   ]
