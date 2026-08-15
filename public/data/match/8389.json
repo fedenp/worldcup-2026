@@ -5,50 +5,9 @@
     "city": "Miami Gardens",
     "capacity": 65326
   },
-  "weather": {
-    "code": 1,
-    "description": "clear",
-    "wind_speed": 21.4,
-    "temperature_c": 34
-  },
+  "weather": null,
   "prediction": null,
-  "head_to_head": {
-    "total_matches": 4,
-    "home_wins": 1,
-    "draws": 0,
-    "away_wins": 3,
-    "home_goals": 7,
-    "away_goals": 12,
-    "avg_total_goals": 4.75,
-    "home_win_rate": 0.25,
-    "away_win_rate": 0.75,
-    "recent_matches": [
-      {
-        "away": "England",
-        "date": "2026-07-18T21:00:00+00:00",
-        "home": "France",
-        "score": "4-6"
-      },
-      {
-        "away": "France",
-        "date": "2022-12-10T19:00:00+00:00",
-        "home": "England",
-        "score": "1-2"
-      },
-      {
-        "away": "France",
-        "date": "1982-06-16T14:00:00+00:00",
-        "home": "England",
-        "score": "3-1"
-      },
-      {
-        "away": "France",
-        "date": "1966-07-20T15:00:00+00:00",
-        "home": "England",
-        "score": "2-0"
-      }
-    ]
-  },
+  "head_to_head": null,
   "average_positions": {
     "away": [
       {
