@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T04:31:26.838Z",
+  "updated_at": "2026-08-19T08:29:54.316Z",
   "managers": {
     "451": {
       "id": 128,
@@ -233,25 +233,25 @@
       "stats_updated_at": "2026-08-17T23:30:39.625422+00:00"
     },
     "466": {
-      "id": 95,
-      "name": "Steve Clarke",
-      "short_name": "S. Clarke",
-      "country": "Scotland",
+      "id": 437,
+      "name": "Sébastien Pocognoli",
+      "short_name": "S. Pocognoli",
+      "country": "Belgium",
       "tactical_profile": "balanced",
-      "preferred_formation": "4-2-3-1",
+      "preferred_formation": "3-4-2-1",
       "current_team_id": 466,
-      "matches_total": 24,
-      "wins": 10,
-      "draws": 3,
-      "losses": 11,
-      "win_pct": 41.7,
-      "avg_goals_scored": 1.33,
-      "avg_goals_conceded": 1.33,
-      "avg_possession": 46.19,
-      "clean_sheet_pct": 29.2,
-      "btts_pct": 45.8,
-      "over_25_pct": 54.2,
-      "stats_updated_at": "2026-08-17T23:30:49.562129+00:00"
+      "matches_total": 47,
+      "wins": 20,
+      "draws": 11,
+      "losses": 16,
+      "win_pct": 42.6,
+      "avg_goals_scored": 1.66,
+      "avg_goals_conceded": 1.66,
+      "avg_possession": 50.96,
+      "clean_sheet_pct": 23.4,
+      "btts_pct": 66,
+      "over_25_pct": 66,
+      "stats_updated_at": "2026-08-17T23:30:48.213130+00:00"
     },
     "467": {
       "id": 51,
