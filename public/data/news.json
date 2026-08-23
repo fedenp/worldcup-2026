@@ -1,11 +1,19 @@
 {
-  "updatedAt": "2026-08-23T00:59:35.206Z",
+  "updatedAt": "2026-08-23T04:31:06.670Z",
   "items": [
     {
-      "title": "Lionel Messi en Inter Miami vs. Toronto, en vivo",
-      "description": "Juegan desde las 20.30 por la MLS; el equipo local viene de una derrota",
+      "title": "Un partido fue demorado por un enfrentamiento entre barrabravas en el campo de juego",
+      "description": "El incidente ocurrió en un cruce entre Independiente Santa Fe y América De Cali; los locales jugarán contra River este miércoles por la Sudamericana",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/un-partido-fue-demorado-por-un-enfrentamiento-entre-barrabravas-en-el-campo-de-juego-nid22082026/",
+      "publishedAt": "2026-08-23T02:22:17.000Z",
+      "imageUrl": null,
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Inter Miami perdió con Toronto por la MLS y Lionel Messi hizo un gol para la estadística",
+      "description": "El equipo visitante hizo historia y ganó por primera vez en Miami",
       "link": "https://www.lanacion.com.ar/deportes/futbol/lionel-messi-en-inter-miami-vs-toronto-en-vivo-nid22082026/",
-      "publishedAt": "2026-08-23T00:52:22.000Z",
+      "publishedAt": "2026-08-23T01:53:25.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/7D25VLJYU5HWHBO7VGJRO3D2WA.JPG?auth=36c2949367e278cde3f389eb92b37e62a05466a43e9be653ca9b206f09c92097&smart=true&width=3240&height=2160",
       "source": "La Nación Deportes"
     },
@@ -151,14 +159,6 @@
       "link": "https://www.lanacion.com.ar/deportes/automovilismo/colapinto-sigue-de-cerca-a-gasly-con-el-alpine-viejo-y-se-ilusiona-con-lo-que-podra-hacer-con-el-nid22082026/",
       "publishedAt": "2026-08-22T19:33:12.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/Y2ASGOVT5ZD2XBWGP5YRYNACGU.JPG?auth=36d2ac53814a61e4e667cccf4c6a18de04e26f9d4720239652f2b1abd4c4ab35&smart=true&width=2500&height=1666",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "San Lorenzo vendió a Orlando Gill al Lille, de Francia, en US$ 3.500.000",
-      "description": "El conjunto azulgrana también se desprendió de Lautaro Montenegro, que continuará su carrera en Emiratos Árabes",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/san-lorenzo-vendio-a-orlando-gill-al-lille-de-francia-nid22082026/",
-      "publishedAt": "2026-08-22T19:21:47.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/BIL7DRSBTVFWLGH2HV2FRHZ7CI.JPG?auth=a4867e76ee2f3f32dfda90b99111c5201052c92b4b3d75fca3eca3e7b3a3f70e&smart=true&width=2000&height=1333",
       "source": "La Nación Deportes"
     }
   ]
