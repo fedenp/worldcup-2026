@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T00:57:20.488Z",
+  "updated_at": "2026-08-24T04:38:55.800Z",
   "managers": {
     "451": {
       "id": 128,
@@ -231,6 +231,27 @@
       "btts_pct": 33.3,
       "over_25_pct": 40,
       "stats_updated_at": "2026-08-17T23:30:39.625422+00:00"
+    },
+    "465": {
+      "id": 3573,
+      "name": "David Badia",
+      "short_name": "D. Badia",
+      "country": "Spain",
+      "tactical_profile": "",
+      "preferred_formation": "",
+      "current_team_id": 465,
+      "matches_total": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "win_pct": null,
+      "avg_goals_scored": null,
+      "avg_goals_conceded": null,
+      "avg_possession": null,
+      "clean_sheet_pct": null,
+      "btts_pct": null,
+      "over_25_pct": null,
+      "stats_updated_at": null
     },
     "466": {
       "id": 437,
