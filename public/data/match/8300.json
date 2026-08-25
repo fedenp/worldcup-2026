@@ -27,7 +27,12 @@
         "away": "Egypt",
         "date": "2026-06-15T19:00:00+00:00",
         "home": "Belgium",
-        "score": "1-1"
+        "score": "1-1",
+        "event_id": 8300,
+        "away_score": 1,
+        "home_score": 1,
+        "away_team_id": 478,
+        "home_team_id": 477
       }
     ]
   },

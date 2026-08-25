@@ -27,7 +27,12 @@
         "away": "Ghana",
         "date": "2026-06-27T21:00:00+00:00",
         "home": "Croatia",
-        "score": "2-1"
+        "score": "2-1",
+        "event_id": 8353,
+        "away_score": 1,
+        "home_score": 2,
+        "away_team_id": 495,
+        "home_team_id": 494
       }
     ]
   },

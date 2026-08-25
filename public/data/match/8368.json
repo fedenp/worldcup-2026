@@ -27,7 +27,12 @@
         "away": "Bosnia & Herzegovina",
         "date": "2026-07-02T00:00:00+00:00",
         "home": "USA",
-        "score": "2-0"
+        "score": "2-0",
+        "event_id": 8368,
+        "away_score": 0,
+        "home_score": 2,
+        "away_team_id": 931,
+        "home_team_id": 457
       }
     ]
   },

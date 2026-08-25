@@ -27,7 +27,12 @@
         "away": "Iraq",
         "date": "2026-06-22T21:00:00+00:00",
         "home": "France",
-        "score": "3-0"
+        "score": "3-0",
+        "event_id": 8328,
+        "away_score": 0,
+        "home_score": 3,
+        "away_team_id": 933,
+        "home_team_id": 485
       }
     ]
   },

@@ -27,7 +27,12 @@
         "away": "Bosnia & Herzegovina",
         "date": "2026-06-12T19:00:00+00:00",
         "home": "Canada",
-        "score": "1-1"
+        "score": "1-1",
+        "event_id": 8289,
+        "away_score": 1,
+        "home_score": 1,
+        "away_team_id": 931,
+        "home_team_id": 455
       }
     ]
   },

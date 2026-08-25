@@ -27,7 +27,12 @@
         "away": "Egypt",
         "date": "2026-07-03T18:00:00+00:00",
         "home": "Australia",
-        "score": "1-1"
+        "score": "1-1",
+        "event_id": 8372,
+        "away_score": 1,
+        "home_score": 1,
+        "away_team_id": 478,
+        "home_team_id": 459
       }
     ]
   },

@@ -27,13 +27,23 @@
         "away": "Morocco",
         "date": "2026-07-09T20:00:00+00:00",
         "home": "France",
-        "score": "2-0"
+        "score": "2-0",
+        "event_id": 8383,
+        "away_score": 0,
+        "home_score": 2,
+        "away_team_id": 464,
+        "home_team_id": 485
       },
       {
         "away": "Morocco",
         "date": "2022-12-14T19:00:00+00:00",
         "home": "France",
-        "score": "2-0"
+        "score": "2-0",
+        "event_id": 317746,
+        "away_score": 0,
+        "home_score": 2,
+        "away_team_id": 464,
+        "home_team_id": 485
       }
     ]
   },

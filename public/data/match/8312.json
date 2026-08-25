@@ -27,7 +27,12 @@
         "away": "Bosnia & Herzegovina",
         "date": "2026-06-18T19:00:00+00:00",
         "home": "Switzerland",
-        "score": "4-1"
+        "score": "4-1",
+        "event_id": 8312,
+        "away_score": 1,
+        "home_score": 4,
+        "away_team_id": 931,
+        "home_team_id": 462
       }
     ]
   },

@@ -27,7 +27,12 @@
         "away": "Iraq",
         "date": "2026-06-26T19:00:00+00:00",
         "home": "Senegal",
-        "score": "5-0"
+        "score": "5-0",
+        "event_id": 8348,
+        "away_score": 0,
+        "home_score": 5,
+        "away_team_id": 933,
+        "home_team_id": 486
       }
     ]
   },

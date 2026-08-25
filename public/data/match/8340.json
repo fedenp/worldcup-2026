@@ -27,7 +27,12 @@
         "away": "Mexico",
         "date": "2026-06-25T01:00:00+00:00",
         "home": "Czechia",
-        "score": "0-3"
+        "score": "0-3",
+        "event_id": 8340,
+        "away_score": 3,
+        "home_score": 0,
+        "away_team_id": 451,
+        "home_team_id": 930
       }
     ]
   },

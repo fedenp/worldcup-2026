@@ -27,7 +27,12 @@
         "away": "Cabo Verde",
         "date": "2026-06-21T22:00:00+00:00",
         "home": "Uruguay",
-        "score": "2-2"
+        "score": "2-2",
+        "event_id": 8325,
+        "away_score": 2,
+        "home_score": 2,
+        "away_team_id": 476,
+        "home_team_id": 480
       }
     ]
   },

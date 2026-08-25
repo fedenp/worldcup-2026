@@ -27,7 +27,12 @@
         "away": "Australia",
         "date": "2026-06-26T02:00:00+00:00",
         "home": "Paraguay",
-        "score": "0-0"
+        "score": "0-0",
+        "event_id": 8345,
+        "away_score": 0,
+        "home_score": 0,
+        "away_team_id": 459,
+        "home_team_id": 458
       }
     ]
   },

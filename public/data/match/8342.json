@@ -27,13 +27,23 @@
         "away": "Germany",
         "date": "2026-06-25T20:00:00+00:00",
         "home": "Ecuador",
-        "score": "2-1"
+        "score": "2-1",
+        "event_id": 8342,
+        "away_score": 1,
+        "home_score": 2,
+        "away_team_id": 467,
+        "home_team_id": 472
       },
       {
         "away": "Germany",
         "date": "2006-06-20T14:00:00+00:00",
         "home": "Ecuador",
-        "score": "0-3"
+        "score": "0-3",
+        "event_id": 491896,
+        "away_score": 3,
+        "home_score": 0,
+        "away_team_id": 467,
+        "home_team_id": 472
       }
     ]
   },

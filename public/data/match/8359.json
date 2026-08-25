@@ -27,7 +27,12 @@
         "away": "Canada",
         "date": "2026-06-28T19:00:00+00:00",
         "home": "South Africa",
-        "score": "0-1"
+        "score": "0-1",
+        "event_id": 8359,
+        "away_score": 1,
+        "home_score": 0,
+        "away_team_id": 455,
+        "home_team_id": 452
       }
     ]
   },

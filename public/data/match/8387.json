@@ -27,13 +27,23 @@
         "away": "Spain",
         "date": "2013-03-26T20:00:00+00:00",
         "home": "France",
-        "score": "0-1"
+        "score": "0-1",
+        "event_id": 404972,
+        "away_score": 1,
+        "home_score": 0,
+        "away_team_id": 475,
+        "home_team_id": 485
       },
       {
         "away": "France",
         "date": "2012-10-16T19:00:00+00:00",
         "home": "Spain",
-        "score": "1-1"
+        "score": "1-1",
+        "event_id": 404926,
+        "away_score": 1,
+        "home_score": 1,
+        "away_team_id": 485,
+        "home_team_id": 475
       }
     ]
   },

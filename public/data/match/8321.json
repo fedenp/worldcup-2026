@@ -27,7 +27,12 @@
         "away": "Côte d'Ivoire",
         "date": "2026-06-20T20:00:00+00:00",
         "home": "Germany",
-        "score": "2-1"
+        "score": "2-1",
+        "event_id": 8321,
+        "away_score": 1,
+        "home_score": 2,
+        "away_team_id": 471,
+        "home_team_id": 467
       }
     ]
   },

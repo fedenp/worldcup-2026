@@ -27,7 +27,12 @@
         "away": "Uzbekistan",
         "date": "2026-06-27T23:30:00+00:00",
         "home": "DR Congo",
-        "score": "3-1"
+        "score": "3-1",
+        "event_id": 8356,
+        "away_score": 1,
+        "home_score": 3,
+        "away_team_id": 497,
+        "home_team_id": 648
       }
     ]
   },

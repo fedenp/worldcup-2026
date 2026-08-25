@@ -27,7 +27,12 @@
         "away": "Belgium",
         "date": "2026-06-27T03:00:00+00:00",
         "home": "New Zealand",
-        "score": "1-5"
+        "score": "1-5",
+        "event_id": 8352,
+        "away_score": 5,
+        "home_score": 1,
+        "away_team_id": 477,
+        "home_team_id": 482
       }
     ]
   },

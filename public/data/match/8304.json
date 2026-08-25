@@ -27,13 +27,23 @@
         "away": "Senegal",
         "date": "2026-06-16T19:00:00+00:00",
         "home": "France",
-        "score": "3-1"
+        "score": "3-1",
+        "event_id": 8304,
+        "away_score": 1,
+        "home_score": 3,
+        "away_team_id": 486,
+        "home_team_id": 485
       },
       {
         "away": "Senegal",
         "date": "2002-05-31T11:30:00+00:00",
         "home": "France",
-        "score": "0-1"
+        "score": "0-1",
+        "event_id": 507401,
+        "away_score": 1,
+        "home_score": 0,
+        "away_team_id": 486,
+        "home_team_id": 485
       }
     ]
   },

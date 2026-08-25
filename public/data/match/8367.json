@@ -27,7 +27,12 @@
         "away": "Senegal",
         "date": "2026-07-01T20:00:00+00:00",
         "home": "Belgium",
-        "score": "3-2"
+        "score": "3-2",
+        "event_id": 8367,
+        "away_score": 2,
+        "home_score": 3,
+        "away_team_id": 486,
+        "home_team_id": 477
       }
     ]
   },

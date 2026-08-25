@@ -27,13 +27,23 @@
         "away": "Sweden",
         "date": "2017-10-10T18:45:00+00:00",
         "home": "Netherlands",
-        "score": "2-0"
+        "score": "2-0",
+        "event_id": 340467,
+        "away_score": 0,
+        "home_score": 2,
+        "away_team_id": 731,
+        "home_team_id": 469
       },
       {
         "away": "Netherlands",
         "date": "2016-09-06T18:45:00+00:00",
         "home": "Sweden",
-        "score": "1-1"
+        "score": "1-1",
+        "event_id": 340224,
+        "away_score": 1,
+        "home_score": 1,
+        "away_team_id": 469,
+        "home_team_id": 731
       }
     ]
   },

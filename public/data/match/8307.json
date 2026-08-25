@@ -27,7 +27,12 @@
         "away": "DR Congo",
         "date": "2026-06-17T17:00:00+00:00",
         "home": "Portugal",
-        "score": "1-1"
+        "score": "1-1",
+        "event_id": 8307,
+        "away_score": 1,
+        "home_score": 1,
+        "away_team_id": 648,
+        "home_team_id": 491
       }
     ]
   },

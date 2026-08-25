@@ -27,13 +27,23 @@
         "away": "Japan",
         "date": "2026-06-21T04:00:00+00:00",
         "home": "Tunisia",
-        "score": "0-4"
+        "score": "0-4",
+        "event_id": 8319,
+        "away_score": 4,
+        "home_score": 0,
+        "away_team_id": 470,
+        "home_team_id": 474
       },
       {
         "away": "Japan",
         "date": "2002-06-14T06:30:00+00:00",
         "home": "Tunisia",
-        "score": "0-2"
+        "score": "0-2",
+        "event_id": 507446,
+        "away_score": 2,
+        "home_score": 0,
+        "away_team_id": 470,
+        "home_team_id": 474
       }
     ]
   },

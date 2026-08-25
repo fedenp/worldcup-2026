@@ -27,13 +27,23 @@
         "away": "Morocco",
         "date": "2026-06-30T01:00:00+00:00",
         "home": "Netherlands",
-        "score": "1-1"
+        "score": "1-1",
+        "event_id": 8362,
+        "away_score": 1,
+        "home_score": 1,
+        "away_team_id": 464,
+        "home_team_id": 469
       },
       {
         "away": "Netherlands",
         "date": "1994-06-29T16:30:00+00:00",
         "home": "Morocco",
-        "score": "1-2"
+        "score": "1-2",
+        "event_id": 532487,
+        "away_score": 2,
+        "home_score": 1,
+        "away_team_id": 469,
+        "home_team_id": 464
       }
     ]
   },

@@ -27,13 +27,23 @@
         "away": "Argentina",
         "date": "2026-07-19T19:00:00+00:00",
         "home": "Spain",
-        "score": "1-0"
+        "score": "1-0",
+        "event_id": 8390,
+        "away_score": 0,
+        "home_score": 1,
+        "away_team_id": 489,
+        "home_team_id": 475
       },
       {
         "away": "Spain",
         "date": "1966-07-13T15:00:00+00:00",
         "home": "Argentina",
-        "score": "2-1"
+        "score": "2-1",
+        "event_id": 579786,
+        "away_score": 1,
+        "home_score": 2,
+        "away_team_id": 475,
+        "home_team_id": 489
       }
     ]
   },

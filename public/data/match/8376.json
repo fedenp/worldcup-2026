@@ -27,19 +27,34 @@
         "away": "France",
         "date": "2026-07-04T21:00:00+00:00",
         "home": "Paraguay",
-        "score": "0-1"
+        "score": "0-1",
+        "event_id": 8376,
+        "away_score": 1,
+        "home_score": 0,
+        "away_team_id": 485,
+        "home_team_id": 458
       },
       {
         "away": "Paraguay",
         "date": "1998-06-28T14:30:00+00:00",
         "home": "France",
-        "score": "1-0"
+        "score": "1-0",
+        "event_id": 520192,
+        "away_score": 0,
+        "home_score": 1,
+        "away_team_id": 458,
+        "home_team_id": 485
       },
       {
         "away": "Paraguay",
         "date": "1958-06-08T18:00:00+00:00",
         "home": "France",
-        "score": "7-3"
+        "score": "7-3",
+        "event_id": 580162,
+        "away_score": 3,
+        "home_score": 7,
+        "away_team_id": 458,
+        "home_team_id": 485
       }
     ]
   },

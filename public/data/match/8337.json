@@ -27,7 +27,12 @@
         "away": "Haiti",
         "date": "2026-06-24T22:00:00+00:00",
         "home": "Morocco",
-        "score": "4-2"
+        "score": "4-2",
+        "event_id": 8337,
+        "away_score": 2,
+        "home_score": 4,
+        "away_team_id": 465,
+        "home_team_id": 464
       }
     ]
   },

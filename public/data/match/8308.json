@@ -27,13 +27,23 @@
         "away": "Croatia",
         "date": "2009-09-09T19:00:00+00:00",
         "home": "England",
-        "score": "5-1"
+        "score": "5-1",
+        "event_id": 460497,
+        "away_score": 1,
+        "home_score": 5,
+        "away_team_id": 494,
+        "home_team_id": 493
       },
       {
         "away": "England",
         "date": "2008-09-10T19:00:00+00:00",
         "home": "Croatia",
-        "score": "1-4"
+        "score": "1-4",
+        "event_id": 460321,
+        "away_score": 4,
+        "home_score": 1,
+        "away_team_id": 493,
+        "home_team_id": 494
       }
     ]
   },

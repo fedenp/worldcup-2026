@@ -27,13 +27,23 @@
         "away": "England",
         "date": "2026-06-27T21:00:00+00:00",
         "home": "Panama",
-        "score": "0-2"
+        "score": "0-2",
+        "event_id": 8354,
+        "away_score": 2,
+        "home_score": 0,
+        "away_team_id": 493,
+        "home_team_id": 496
       },
       {
         "away": "Panama",
         "date": "2018-06-24T12:00:00+00:00",
         "home": "England",
-        "score": "6-1"
+        "score": "6-1",
+        "event_id": 339567,
+        "away_score": 1,
+        "home_score": 6,
+        "away_team_id": 496,
+        "home_team_id": 493
       }
     ]
   },

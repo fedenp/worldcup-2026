@@ -27,31 +27,56 @@
         "away": "Brazil",
         "date": "2026-06-24T22:00:00+00:00",
         "home": "Scotland",
-        "score": "0-3"
+        "score": "0-3",
+        "event_id": 8338,
+        "away_score": 3,
+        "home_score": 0,
+        "away_team_id": 463,
+        "home_team_id": 466
       },
       {
         "away": "Scotland",
         "date": "1998-06-10T15:30:00+00:00",
         "home": "Brazil",
-        "score": "2-1"
+        "score": "2-1",
+        "event_id": 520142,
+        "away_score": 1,
+        "home_score": 2,
+        "away_team_id": 466,
+        "home_team_id": 463
       },
       {
         "away": "Scotland",
         "date": "1990-06-20T19:00:00+00:00",
         "home": "Brazil",
-        "score": "1-0"
+        "score": "1-0",
+        "event_id": 543674,
+        "away_score": 0,
+        "home_score": 1,
+        "away_team_id": 466,
+        "home_team_id": 463
       },
       {
         "away": "Scotland",
         "date": "1982-06-18T19:15:00+00:00",
         "home": "Brazil",
-        "score": "4-1"
+        "score": "4-1",
+        "event_id": 561852,
+        "away_score": 1,
+        "home_score": 4,
+        "away_team_id": 466,
+        "home_team_id": 463
       },
       {
         "away": "Brazil",
         "date": "1974-06-18T18:30:00+00:00",
         "home": "Scotland",
-        "score": "0-0"
+        "score": "0-0",
+        "event_id": 573584,
+        "away_score": 0,
+        "home_score": 0,
+        "away_team_id": 463,
+        "home_team_id": 466
       }
     ]
   },

@@ -27,13 +27,23 @@
         "away": "Saudi Arabia",
         "date": "2026-06-21T16:00:00+00:00",
         "home": "Spain",
-        "score": "4-0"
+        "score": "4-0",
+        "event_id": 8323,
+        "away_score": 0,
+        "home_score": 4,
+        "away_team_id": 479,
+        "home_team_id": 475
       },
       {
         "away": "Spain",
         "date": "2006-06-23T14:00:00+00:00",
         "home": "Saudi Arabia",
-        "score": "0-1"
+        "score": "0-1",
+        "event_id": 491907,
+        "away_score": 1,
+        "home_score": 0,
+        "away_team_id": 475,
+        "home_team_id": 479
       }
     ]
   },

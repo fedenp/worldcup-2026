@@ -27,7 +27,12 @@
         "away": "England",
         "date": "2026-07-11T21:00:00+00:00",
         "home": "Norway",
-        "score": "1-2"
+        "score": "1-2",
+        "event_id": 8385,
+        "away_score": 2,
+        "home_score": 1,
+        "away_team_id": 493,
+        "home_team_id": 488
       }
     ]
   },

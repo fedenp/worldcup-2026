@@ -27,19 +27,34 @@
         "away": "Belgium",
         "date": "2026-07-07T00:00:00+00:00",
         "home": "USA",
-        "score": "1-4"
+        "score": "1-4",
+        "event_id": 8380,
+        "away_score": 4,
+        "home_score": 1,
+        "away_team_id": 477,
+        "home_team_id": 457
       },
       {
         "away": "USA",
         "date": "2014-07-01T20:00:00+00:00",
         "home": "Belgium",
-        "score": "2-1"
+        "score": "2-1",
+        "event_id": 404230,
+        "away_score": 1,
+        "home_score": 2,
+        "away_team_id": 457,
+        "home_team_id": 477
       },
       {
         "away": "Belgium",
         "date": "1930-07-13T14:00:00+00:00",
         "home": "USA",
-        "score": "3-0"
+        "score": "3-0",
+        "event_id": 580279,
+        "away_score": 0,
+        "home_score": 3,
+        "away_team_id": 477,
+        "home_team_id": 457
       }
     ]
   },

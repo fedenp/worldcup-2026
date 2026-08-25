@@ -27,19 +27,34 @@
         "away": "Spain",
         "date": "2026-06-27T00:00:00+00:00",
         "home": "Uruguay",
-        "score": "0-1"
+        "score": "0-1",
+        "event_id": 8350,
+        "away_score": 1,
+        "home_score": 0,
+        "away_team_id": 475,
+        "home_team_id": 480
       },
       {
         "away": "Spain",
         "date": "1990-06-13T15:00:00+00:00",
         "home": "Uruguay",
-        "score": "0-0"
+        "score": "0-0",
+        "event_id": 543655,
+        "away_score": 0,
+        "home_score": 0,
+        "away_team_id": 475,
+        "home_team_id": 480
       },
       {
         "away": "Spain",
         "date": "1950-07-09T14:00:00+00:00",
         "home": "Uruguay",
-        "score": "2-2"
+        "score": "2-2",
+        "event_id": 580227,
+        "away_score": 2,
+        "home_score": 2,
+        "away_team_id": 475,
+        "home_team_id": 480
       }
     ]
   },

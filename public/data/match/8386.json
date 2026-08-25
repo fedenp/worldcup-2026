@@ -27,19 +27,34 @@
         "away": "Switzerland",
         "date": "2026-07-12T01:00:00+00:00",
         "home": "Argentina",
-        "score": "3-1"
+        "score": "3-1",
+        "event_id": 8386,
+        "away_score": 1,
+        "home_score": 3,
+        "away_team_id": 462,
+        "home_team_id": 489
       },
       {
         "away": "Switzerland",
         "date": "2014-07-01T16:00:00+00:00",
         "home": "Argentina",
-        "score": "1-0"
+        "score": "1-0",
+        "event_id": 404229,
+        "away_score": 0,
+        "home_score": 1,
+        "away_team_id": 462,
+        "home_team_id": 489
       },
       {
         "away": "Switzerland",
         "date": "1966-07-19T15:00:00+00:00",
         "home": "Argentina",
-        "score": "2-0"
+        "score": "2-0",
+        "event_id": 579798,
+        "away_score": 0,
+        "home_score": 2,
+        "away_team_id": 462,
+        "home_team_id": 489
       }
     ]
   },

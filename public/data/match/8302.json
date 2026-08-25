@@ -27,7 +27,12 @@
         "away": "New Zealand",
         "date": "2026-06-16T01:00:00+00:00",
         "home": "Iran",
-        "score": "2-2"
+        "score": "2-2",
+        "event_id": 8302,
+        "away_score": 2,
+        "home_score": 2,
+        "away_team_id": 482,
+        "home_team_id": 481
       }
     ]
   },

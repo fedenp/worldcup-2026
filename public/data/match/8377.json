@@ -27,13 +27,23 @@
         "away": "Norway",
         "date": "2026-07-05T20:00:00+00:00",
         "home": "Brazil",
-        "score": "1-2"
+        "score": "1-2",
+        "event_id": 8377,
+        "away_score": 2,
+        "home_score": 1,
+        "away_team_id": 488,
+        "home_team_id": 463
       },
       {
         "away": "Norway",
         "date": "1998-06-23T19:00:00+00:00",
         "home": "Brazil",
-        "score": "1-2"
+        "score": "1-2",
+        "event_id": 520176,
+        "away_score": 2,
+        "home_score": 1,
+        "away_team_id": 488,
+        "home_team_id": 463
       }
     ]
   },

@@ -27,7 +27,12 @@
         "away": "Scotland",
         "date": "2026-06-14T01:00:00+00:00",
         "home": "Haiti",
-        "score": "0-1"
+        "score": "0-1",
+        "event_id": 8294,
+        "away_score": 1,
+        "home_score": 0,
+        "away_team_id": 466,
+        "home_team_id": 465
       }
     ]
   },

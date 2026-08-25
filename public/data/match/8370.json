@@ -27,7 +27,12 @@
         "away": "Croatia",
         "date": "2026-07-02T23:00:00+00:00",
         "home": "Portugal",
-        "score": "2-1"
+        "score": "2-1",
+        "event_id": 8370,
+        "away_score": 1,
+        "home_score": 2,
+        "away_team_id": 494,
+        "home_team_id": 491
       }
     ]
   },
