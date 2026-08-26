@@ -13,59 +13,26 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 4,
-    "home_wins": 4,
+    "total_matches": 1,
+    "home_wins": 1,
     "draws": 0,
     "away_wins": 0,
-    "home_goals": 11,
-    "away_goals": 1,
-    "avg_total_goals": 3,
+    "home_goals": 2,
+    "away_goals": 0,
+    "avg_total_goals": 2,
     "home_win_rate": 1,
     "away_win_rate": 0,
     "recent_matches": [
       {
-        "away": "Belgium",
-        "date": "2009-09-05T20:00:00+00:00",
-        "home": "Spain",
-        "score": "5-0",
-        "event_id": 460459,
-        "away_score": 0,
-        "home_score": 5,
-        "away_team_id": 477,
-        "home_team_id": 475
-      },
-      {
         "away": "Spain",
-        "date": "2008-10-15T18:45:00+00:00",
-        "home": "Belgium",
-        "score": "1-2",
-        "event_id": 460370,
-        "away_score": 2,
-        "home_score": 1,
-        "away_team_id": 475,
-        "home_team_id": 477
-      },
-      {
-        "away": "Spain",
-        "date": "2005-10-08T18:45:00+00:00",
+        "date": "2016-09-01T18:45:00+00:00",
         "home": "Belgium",
         "score": "0-2",
-        "event_id": 492255,
+        "event_id": 361143,
         "away_score": 2,
         "home_score": 0,
         "away_team_id": 475,
         "home_team_id": 477
-      },
-      {
-        "away": "Belgium",
-        "date": "2004-10-09T19:45:00+00:00",
-        "home": "Spain",
-        "score": "2-0",
-        "event_id": 492085,
-        "away_score": 0,
-        "home_score": 2,
-        "away_team_id": 477,
-        "home_team_id": 475
       }
     ]
   },

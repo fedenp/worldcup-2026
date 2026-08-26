@@ -13,37 +13,26 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 2,
+    "total_matches": 1,
     "home_wins": 0,
     "draws": 0,
-    "away_wins": 2,
-    "home_goals": 1,
-    "away_goals": 5,
-    "avg_total_goals": 3,
+    "away_wins": 1,
+    "home_goals": 0,
+    "away_goals": 4,
+    "avg_total_goals": 4,
     "home_win_rate": 0,
     "away_win_rate": 1,
     "recent_matches": [
       {
-        "away": "Morocco",
-        "date": "2026-07-04T17:00:00+00:00",
-        "home": "Canada",
-        "score": "0-3",
-        "event_id": 8375,
-        "away_score": 3,
-        "home_score": 0,
-        "away_team_id": 464,
-        "home_team_id": 455
-      },
-      {
-        "away": "Morocco",
-        "date": "2022-12-01T15:00:00+00:00",
-        "home": "Canada",
-        "score": "1-2",
-        "event_id": 317725,
-        "away_score": 2,
-        "home_score": 1,
-        "away_team_id": 464,
-        "home_team_id": 455
+        "away": "Canada",
+        "date": "2016-10-11T19:00:00+00:00",
+        "home": "Morocco",
+        "score": "4-0",
+        "event_id": 361121,
+        "away_score": 0,
+        "home_score": 4,
+        "away_team_id": 455,
+        "home_team_id": 464
       }
     ]
   },

@@ -24,15 +24,15 @@
     "away_win_rate": 0,
     "recent_matches": [
       {
-        "away": "Czechia",
-        "date": "2026-06-12T02:00:00+00:00",
-        "home": "South Korea",
-        "score": "2-1",
-        "event_id": 8288,
-        "away_score": 1,
-        "home_score": 2,
-        "away_team_id": 930,
-        "home_team_id": 453
+        "away": "South Korea",
+        "date": "2016-06-05T13:10:00+00:00",
+        "home": "Czechia",
+        "score": "1-2",
+        "event_id": 361219,
+        "away_score": 2,
+        "home_score": 1,
+        "away_team_id": 453,
+        "home_team_id": 930
       }
     ]
   },

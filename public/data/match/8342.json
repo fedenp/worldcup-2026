@@ -13,37 +13,26 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 2,
-    "home_wins": 1,
+    "total_matches": 1,
+    "home_wins": 0,
     "draws": 0,
     "away_wins": 1,
     "home_goals": 2,
     "away_goals": 4,
-    "avg_total_goals": 3,
-    "home_win_rate": 0.5,
-    "away_win_rate": 0.5,
+    "avg_total_goals": 6,
+    "home_win_rate": 0,
+    "away_win_rate": 1,
     "recent_matches": [
       {
-        "away": "Germany",
-        "date": "2026-06-25T20:00:00+00:00",
-        "home": "Ecuador",
-        "score": "2-1",
-        "event_id": 8342,
-        "away_score": 1,
-        "home_score": 2,
-        "away_team_id": 467,
-        "home_team_id": 472
-      },
-      {
-        "away": "Germany",
-        "date": "2006-06-20T14:00:00+00:00",
-        "home": "Ecuador",
-        "score": "0-3",
-        "event_id": 491896,
-        "away_score": 3,
-        "home_score": 0,
-        "away_team_id": 467,
-        "home_team_id": 472
+        "away": "Ecuador",
+        "date": "2013-05-29T18:30:00+00:00",
+        "home": "Germany",
+        "score": "4-2",
+        "event_id": 410834,
+        "away_score": 2,
+        "home_score": 4,
+        "away_team_id": 472,
+        "home_team_id": 467
       }
     ]
   },
