@@ -13,16 +13,38 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 4,
-    "home_wins": 4,
-    "draws": 0,
-    "away_wins": 0,
-    "home_goals": 11,
-    "away_goals": 1,
-    "avg_total_goals": 3,
-    "home_win_rate": 1,
-    "away_win_rate": 0,
+    "total_matches": 9,
+    "home_wins": 7,
+    "draws": 1,
+    "away_wins": 1,
+    "home_goals": 19,
+    "away_goals": 6,
+    "avg_total_goals": 2.7777777777777777,
+    "home_win_rate": 0.7777777777777778,
+    "away_win_rate": 0.1111111111111111,
     "recent_matches": [
+      {
+        "away": "Belgium",
+        "date": "2026-07-10T19:00:00+00:00",
+        "home": "Spain",
+        "score": "2-1",
+        "event_id": 8384,
+        "away_score": 1,
+        "home_score": 2,
+        "away_team_id": 477,
+        "home_team_id": 475
+      },
+      {
+        "away": "Spain",
+        "date": "2016-09-01T18:45:00+00:00",
+        "home": "Belgium",
+        "score": "0-2",
+        "event_id": 361143,
+        "away_score": 2,
+        "home_score": 0,
+        "away_team_id": 475,
+        "home_team_id": 477
+      },
       {
         "away": "Belgium",
         "date": "2009-09-05T20:00:00+00:00",
@@ -66,6 +88,39 @@
         "home_score": 2,
         "away_team_id": 477,
         "home_team_id": 475
+      },
+      {
+        "away": "Spain",
+        "date": "1990-06-21T15:00:00+00:00",
+        "home": "Belgium",
+        "score": "1-2",
+        "event_id": 543676,
+        "away_score": 2,
+        "home_score": 1,
+        "away_team_id": 475,
+        "home_team_id": 477
+      },
+      {
+        "away": "Belgium",
+        "date": "1986-06-22T14:00:00+00:00",
+        "home": "Spain",
+        "score": "1-1",
+        "event_id": 553370,
+        "away_score": 1,
+        "home_score": 1,
+        "away_team_id": 477,
+        "home_team_id": 475
+      },
+      {
+        "away": "Spain",
+        "date": "1980-06-15T15:45:00+00:00",
+        "home": "Belgium",
+        "score": "2-1",
+        "event_id": 565486,
+        "away_score": 1,
+        "home_score": 2,
+        "away_team_id": 475,
+        "home_team_id": 477
       }
     ]
   },

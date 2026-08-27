@@ -13,14 +13,14 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 1,
-    "home_wins": 1,
-    "draws": 0,
+    "total_matches": 4,
+    "home_wins": 3,
+    "draws": 1,
     "away_wins": 0,
-    "home_goals": 2,
-    "away_goals": 0,
-    "avg_total_goals": 2,
-    "home_win_rate": 1,
+    "home_goals": 7,
+    "away_goals": 3,
+    "avg_total_goals": 2.5,
+    "home_win_rate": 0.75,
     "away_win_rate": 0,
     "recent_matches": [
       {
@@ -33,6 +33,39 @@
         "home_score": 2,
         "away_team_id": 931,
         "home_team_id": 457
+      },
+      {
+        "away": "Bosnia & Herzegovina",
+        "date": "2021-12-19T01:00:00+00:00",
+        "home": "USA",
+        "score": "1-0",
+        "event_id": 267131,
+        "away_score": 0,
+        "home_score": 1,
+        "away_team_id": 931,
+        "home_team_id": 457
+      },
+      {
+        "away": "Bosnia & Herzegovina",
+        "date": "2018-01-29T02:30:00+00:00",
+        "home": "USA",
+        "score": "0-0",
+        "event_id": 301233,
+        "away_score": 0,
+        "home_score": 0,
+        "away_team_id": 931,
+        "home_team_id": 457
+      },
+      {
+        "away": "USA",
+        "date": "2013-08-14T18:30:00+00:00",
+        "home": "Bosnia & Herzegovina",
+        "score": "3-4",
+        "event_id": 410731,
+        "away_score": 4,
+        "home_score": 3,
+        "away_team_id": 457,
+        "home_team_id": 931
       }
     ]
   },

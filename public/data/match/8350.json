@@ -13,15 +13,15 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 3,
+    "total_matches": 4,
     "home_wins": 0,
     "draws": 2,
-    "away_wins": 1,
-    "home_goals": 2,
-    "away_goals": 3,
-    "avg_total_goals": 1.6666666666666667,
+    "away_wins": 2,
+    "home_goals": 3,
+    "away_goals": 6,
+    "avg_total_goals": 2.25,
     "home_win_rate": 0,
-    "away_win_rate": 0.3333333333333333,
+    "away_win_rate": 0.5,
     "recent_matches": [
       {
         "away": "Spain",
@@ -33,6 +33,17 @@
         "home_score": 0,
         "away_team_id": 475,
         "home_team_id": 480
+      },
+      {
+        "away": "Uruguay",
+        "date": "2013-02-06T18:00:00+00:00",
+        "home": "Spain",
+        "score": "3-1",
+        "event_id": 410854,
+        "away_score": 1,
+        "home_score": 3,
+        "away_team_id": 480,
+        "home_team_id": 475
       },
       {
         "away": "Spain",

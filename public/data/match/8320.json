@@ -13,16 +13,27 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 2,
-    "home_wins": 1,
-    "draws": 1,
+    "total_matches": 6,
+    "home_wins": 3,
+    "draws": 3,
     "away_wins": 0,
-    "home_goals": 3,
-    "away_goals": 1,
-    "avg_total_goals": 2,
+    "home_goals": 11,
+    "away_goals": 3,
+    "avg_total_goals": 2.3333333333333335,
     "home_win_rate": 0.5,
     "away_win_rate": 0,
     "recent_matches": [
+      {
+        "away": "Sweden",
+        "date": "2026-06-20T17:00:00+00:00",
+        "home": "Netherlands",
+        "score": "5-1",
+        "event_id": 8320,
+        "away_score": 1,
+        "home_score": 5,
+        "away_team_id": 731,
+        "home_team_id": 469
+      },
       {
         "away": "Sweden",
         "date": "2017-10-10T18:45:00+00:00",
@@ -44,6 +55,39 @@
         "home_score": 1,
         "away_team_id": 469,
         "home_team_id": 731
+      },
+      {
+        "away": "Sweden",
+        "date": "2008-11-19T19:45:00+00:00",
+        "home": "Netherlands",
+        "score": "3-1",
+        "event_id": 476870,
+        "away_score": 1,
+        "home_score": 3,
+        "away_team_id": 731,
+        "home_team_id": 469
+      },
+      {
+        "away": "Sweden",
+        "date": "2004-06-26T18:45:00+00:00",
+        "home": "Netherlands",
+        "score": "0-0",
+        "event_id": 499682,
+        "away_score": 0,
+        "home_score": 0,
+        "away_team_id": 731,
+        "home_team_id": 469
+      },
+      {
+        "away": "Sweden",
+        "date": "1974-06-19T15:00:00+00:00",
+        "home": "Netherlands",
+        "score": "0-0",
+        "event_id": 573587,
+        "away_score": 0,
+        "home_score": 0,
+        "away_team_id": 731,
+        "home_team_id": 469
       }
     ]
   },

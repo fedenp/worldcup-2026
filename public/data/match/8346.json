@@ -13,15 +13,15 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 1,
-    "home_wins": 1,
+    "total_matches": 4,
+    "home_wins": 2,
     "draws": 0,
-    "away_wins": 0,
-    "home_goals": 3,
-    "away_goals": 2,
-    "avg_total_goals": 5,
-    "home_win_rate": 1,
-    "away_win_rate": 0,
+    "away_wins": 2,
+    "home_goals": 7,
+    "away_goals": 7,
+    "avg_total_goals": 3.5,
+    "home_win_rate": 0.5,
+    "away_win_rate": 0.5,
     "recent_matches": [
       {
         "away": "USA",
@@ -33,6 +33,39 @@
         "home_score": 3,
         "away_team_id": 457,
         "home_team_id": 932
+      },
+      {
+        "away": "Türkiye",
+        "date": "2025-06-07T19:30:00+00:00",
+        "home": "USA",
+        "score": "1-2",
+        "event_id": 226943,
+        "away_score": 2,
+        "home_score": 1,
+        "away_team_id": 932,
+        "home_team_id": 457
+      },
+      {
+        "away": "Türkiye",
+        "date": "2014-06-01T18:00:00+00:00",
+        "home": "USA",
+        "score": "2-1",
+        "event_id": 395450,
+        "away_score": 1,
+        "home_score": 2,
+        "away_team_id": 932,
+        "home_team_id": 457
+      },
+      {
+        "away": "Türkiye",
+        "date": "2010-05-29T18:00:00+00:00",
+        "home": "USA",
+        "score": "2-1",
+        "event_id": 452114,
+        "away_score": 1,
+        "home_score": 2,
+        "away_team_id": 932,
+        "home_team_id": 457
       }
     ]
   },

@@ -13,13 +13,13 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 2,
-    "home_wins": 2,
+    "total_matches": 4,
+    "home_wins": 4,
     "draws": 0,
     "away_wins": 0,
-    "home_goals": 5,
-    "away_goals": 0,
-    "avg_total_goals": 2.5,
+    "home_goals": 13,
+    "away_goals": 2,
+    "avg_total_goals": 3.75,
     "home_win_rate": 1,
     "away_win_rate": 0,
     "recent_matches": [
@@ -31,6 +31,28 @@
         "event_id": 8323,
         "away_score": 0,
         "home_score": 4,
+        "away_team_id": 479,
+        "home_team_id": 475
+      },
+      {
+        "away": "Saudi Arabia",
+        "date": "2012-09-07T20:00:00+00:00",
+        "home": "Spain",
+        "score": "5-0",
+        "event_id": 424987,
+        "away_score": 0,
+        "home_score": 5,
+        "away_team_id": 479,
+        "home_team_id": 475
+      },
+      {
+        "away": "Saudi Arabia",
+        "date": "2010-05-29T16:00:00+00:00",
+        "home": "Spain",
+        "score": "3-2",
+        "event_id": 452110,
+        "away_score": 2,
+        "home_score": 3,
         "away_team_id": 479,
         "home_team_id": 475
       },

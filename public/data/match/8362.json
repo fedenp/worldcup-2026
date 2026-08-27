@@ -13,14 +13,14 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 2,
-    "home_wins": 1,
+    "total_matches": 3,
+    "home_wins": 2,
     "draws": 1,
     "away_wins": 0,
-    "home_goals": 3,
-    "away_goals": 2,
-    "avg_total_goals": 2.5,
-    "home_win_rate": 0.5,
+    "home_goals": 5,
+    "away_goals": 3,
+    "avg_total_goals": 2.6666666666666665,
+    "home_win_rate": 0.6666666666666666,
     "away_win_rate": 0,
     "recent_matches": [
       {
@@ -33,6 +33,17 @@
         "home_score": 1,
         "away_team_id": 464,
         "home_team_id": 469
+      },
+      {
+        "away": "Netherlands",
+        "date": "2017-05-31T17:30:00+00:00",
+        "home": "Morocco",
+        "score": "1-2",
+        "event_id": 346248,
+        "away_score": 2,
+        "home_score": 1,
+        "away_team_id": 469,
+        "home_team_id": 464
       },
       {
         "away": "Netherlands",

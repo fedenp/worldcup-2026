@@ -13,16 +13,82 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 2,
-    "home_wins": 0,
-    "draws": 1,
-    "away_wins": 1,
-    "home_goals": 1,
-    "away_goals": 2,
-    "avg_total_goals": 1.5,
-    "home_win_rate": 0,
+    "total_matches": 14,
+    "home_wins": 5,
+    "draws": 2,
+    "away_wins": 7,
+    "home_goals": 17,
+    "away_goals": 21,
+    "avg_total_goals": 2.7142857142857144,
+    "home_win_rate": 0.35714285714285715,
     "away_win_rate": 0.5,
     "recent_matches": [
+      {
+        "away": "Spain",
+        "date": "2026-07-14T19:00:00+00:00",
+        "home": "France",
+        "score": "0-2",
+        "event_id": 8387,
+        "away_score": 2,
+        "home_score": 0,
+        "away_team_id": 475,
+        "home_team_id": 485
+      },
+      {
+        "away": "France",
+        "date": "2025-06-05T19:00:00+00:00",
+        "home": "Spain",
+        "score": "5-4",
+        "event_id": 209072,
+        "away_score": 4,
+        "home_score": 5,
+        "away_team_id": 485,
+        "home_team_id": 475
+      },
+      {
+        "away": "France",
+        "date": "2024-07-09T19:00:00+00:00",
+        "home": "Spain",
+        "score": "2-1",
+        "event_id": 209243,
+        "away_score": 1,
+        "home_score": 2,
+        "away_team_id": 485,
+        "home_team_id": 475
+      },
+      {
+        "away": "France",
+        "date": "2021-10-10T18:45:00+00:00",
+        "home": "Spain",
+        "score": "1-2",
+        "event_id": 284959,
+        "away_score": 2,
+        "home_score": 1,
+        "away_team_id": 485,
+        "home_team_id": 475
+      },
+      {
+        "away": "Spain",
+        "date": "2017-03-28T19:00:00+00:00",
+        "home": "France",
+        "score": "0-2",
+        "event_id": 346243,
+        "away_score": 2,
+        "home_score": 0,
+        "away_team_id": 475,
+        "home_team_id": 485
+      },
+      {
+        "away": "Spain",
+        "date": "2014-09-04T19:00:00+00:00",
+        "home": "France",
+        "score": "1-0",
+        "event_id": 395351,
+        "away_score": 0,
+        "home_score": 1,
+        "away_team_id": 475,
+        "home_team_id": 485
+      },
       {
         "away": "Spain",
         "date": "2013-03-26T20:00:00+00:00",
@@ -44,6 +110,28 @@
         "home_score": 1,
         "away_team_id": 485,
         "home_team_id": 475
+      },
+      {
+        "away": "France",
+        "date": "2012-06-23T18:45:00+00:00",
+        "home": "Spain",
+        "score": "2-0",
+        "event_id": 433337,
+        "away_score": 0,
+        "home_score": 2,
+        "away_team_id": 485,
+        "home_team_id": 475
+      },
+      {
+        "away": "Spain",
+        "date": "2010-03-03T20:00:00+00:00",
+        "home": "France",
+        "score": "0-2",
+        "event_id": 452170,
+        "away_score": 2,
+        "home_score": 0,
+        "away_team_id": 475,
+        "home_team_id": 485
       }
     ]
   },

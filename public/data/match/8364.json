@@ -13,16 +13,49 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 2,
-    "home_wins": 1,
-    "draws": 0,
-    "away_wins": 1,
-    "home_goals": 3,
-    "away_goals": 3,
-    "avg_total_goals": 3,
-    "home_win_rate": 0.5,
-    "away_win_rate": 0.5,
+    "total_matches": 9,
+    "home_wins": 6,
+    "draws": 1,
+    "away_wins": 2,
+    "home_goals": 16,
+    "away_goals": 10,
+    "avg_total_goals": 2.888888888888889,
+    "home_win_rate": 0.6666666666666666,
+    "away_win_rate": 0.2222222222222222,
     "recent_matches": [
+      {
+        "away": "Sweden",
+        "date": "2026-06-30T21:00:00+00:00",
+        "home": "France",
+        "score": "3-0",
+        "event_id": 8364,
+        "away_score": 0,
+        "home_score": 3,
+        "away_team_id": 731,
+        "home_team_id": 485
+      },
+      {
+        "away": "Sweden",
+        "date": "2020-11-17T19:45:00+00:00",
+        "home": "France",
+        "score": "4-2",
+        "event_id": 284930,
+        "away_score": 2,
+        "home_score": 4,
+        "away_team_id": 731,
+        "home_team_id": 485
+      },
+      {
+        "away": "France",
+        "date": "2020-09-05T18:45:00+00:00",
+        "home": "Sweden",
+        "score": "0-1",
+        "event_id": 284820,
+        "away_score": 1,
+        "home_score": 0,
+        "away_team_id": 485,
+        "home_team_id": 731
+      },
       {
         "away": "France",
         "date": "2017-06-09T18:45:00+00:00",
@@ -44,6 +77,50 @@
         "home_score": 2,
         "away_team_id": 731,
         "home_team_id": 485
+      },
+      {
+        "away": "Sweden",
+        "date": "2014-11-18T20:00:00+00:00",
+        "home": "France",
+        "score": "1-0",
+        "event_id": 395284,
+        "away_score": 0,
+        "home_score": 1,
+        "away_team_id": 731,
+        "home_team_id": 485
+      },
+      {
+        "away": "France",
+        "date": "2012-06-19T18:45:00+00:00",
+        "home": "Sweden",
+        "score": "2-0",
+        "event_id": 433334,
+        "away_score": 0,
+        "home_score": 2,
+        "away_team_id": 485,
+        "home_team_id": 731
+      },
+      {
+        "away": "France",
+        "date": "2008-08-20T19:00:00+00:00",
+        "home": "Sweden",
+        "score": "2-3",
+        "event_id": 476944,
+        "away_score": 3,
+        "home_score": 2,
+        "away_team_id": 485,
+        "home_team_id": 731
+      },
+      {
+        "away": "France",
+        "date": "1992-06-10T18:15:00+00:00",
+        "home": "Sweden",
+        "score": "1-1",
+        "event_id": 538491,
+        "away_score": 1,
+        "home_score": 1,
+        "away_team_id": 485,
+        "home_team_id": 731
       }
     ]
   },

@@ -13,15 +13,15 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 3,
+    "total_matches": 6,
     "home_wins": 1,
     "draws": 0,
-    "away_wins": 2,
-    "home_goals": 5,
-    "away_goals": 6,
-    "avg_total_goals": 3.6666666666666665,
-    "home_win_rate": 0.3333333333333333,
-    "away_win_rate": 0.6666666666666666,
+    "away_wins": 5,
+    "home_goals": 9,
+    "away_goals": 16,
+    "avg_total_goals": 4.166666666666667,
+    "home_win_rate": 0.16666666666666666,
+    "away_win_rate": 0.8333333333333334,
     "recent_matches": [
       {
         "away": "Belgium",
@@ -35,6 +35,17 @@
         "home_team_id": 457
       },
       {
+        "away": "Belgium",
+        "date": "2026-03-28T19:30:00+00:00",
+        "home": "USA",
+        "score": "2-5",
+        "event_id": 9054,
+        "away_score": 5,
+        "home_score": 2,
+        "away_team_id": 477,
+        "home_team_id": 457
+      },
+      {
         "away": "USA",
         "date": "2014-07-01T20:00:00+00:00",
         "home": "Belgium",
@@ -42,6 +53,28 @@
         "event_id": 404230,
         "away_score": 1,
         "home_score": 2,
+        "away_team_id": 457,
+        "home_team_id": 477
+      },
+      {
+        "away": "Belgium",
+        "date": "2013-05-30T00:00:00+00:00",
+        "home": "USA",
+        "score": "2-4",
+        "event_id": 410836,
+        "away_score": 4,
+        "home_score": 2,
+        "away_team_id": 477,
+        "home_team_id": 457
+      },
+      {
+        "away": "USA",
+        "date": "2011-09-06T18:45:00+00:00",
+        "home": "Belgium",
+        "score": "1-0",
+        "event_id": 438807,
+        "away_score": 0,
+        "home_score": 1,
         "away_team_id": 457,
         "home_team_id": 477
       },

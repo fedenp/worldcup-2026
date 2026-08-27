@@ -13,14 +13,14 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 1,
+    "total_matches": 2,
     "home_wins": 1,
-    "draws": 0,
+    "draws": 1,
     "away_wins": 0,
-    "home_goals": 2,
-    "away_goals": 1,
-    "avg_total_goals": 3,
-    "home_win_rate": 1,
+    "home_goals": 4,
+    "away_goals": 3,
+    "avg_total_goals": 3.5,
+    "home_win_rate": 0.5,
     "away_win_rate": 0,
     "recent_matches": [
       {
@@ -30,6 +30,17 @@
         "score": "2-1",
         "event_id": 8321,
         "away_score": 1,
+        "home_score": 2,
+        "away_team_id": 471,
+        "home_team_id": 467
+      },
+      {
+        "away": "Côte d'Ivoire",
+        "date": "2009-11-18T19:45:00+00:00",
+        "home": "Germany",
+        "score": "2-2",
+        "event_id": 465571,
+        "away_score": 2,
         "home_score": 2,
         "away_team_id": 471,
         "home_team_id": 467

@@ -13,13 +13,13 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 1,
-    "home_wins": 1,
+    "total_matches": 2,
+    "home_wins": 2,
     "draws": 0,
     "away_wins": 0,
-    "home_goals": 6,
+    "home_goals": 8,
     "away_goals": 0,
-    "avg_total_goals": 6,
+    "avg_total_goals": 4,
     "home_win_rate": 1,
     "away_win_rate": 0,
     "recent_matches": [
@@ -31,6 +31,17 @@
         "event_id": 8313,
         "away_score": 0,
         "home_score": 6,
+        "away_team_id": 461,
+        "home_team_id": 455
+      },
+      {
+        "away": "Qatar",
+        "date": "2022-09-23T17:00:00+00:00",
+        "home": "Canada",
+        "score": "2-0",
+        "event_id": 254186,
+        "away_score": 0,
+        "home_score": 2,
         "away_team_id": 461,
         "home_team_id": 455
       }

@@ -13,13 +13,13 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 1,
-    "home_wins": 1,
+    "total_matches": 2,
+    "home_wins": 2,
     "draws": 0,
     "away_wins": 0,
-    "home_goals": 3,
-    "away_goals": 0,
-    "avg_total_goals": 3,
+    "home_goals": 10,
+    "away_goals": 1,
+    "avg_total_goals": 5.5,
     "home_win_rate": 1,
     "away_win_rate": 0,
     "recent_matches": [
@@ -31,6 +31,17 @@
         "event_id": 8318,
         "away_score": 0,
         "home_score": 3,
+        "away_team_id": 465,
+        "home_team_id": 463
+      },
+      {
+        "away": "Haiti",
+        "date": "2016-06-08T23:30:00+00:00",
+        "home": "Brazil",
+        "score": "7-1",
+        "event_id": 358249,
+        "away_score": 1,
+        "home_score": 7,
         "away_team_id": 465,
         "home_team_id": 463
       }

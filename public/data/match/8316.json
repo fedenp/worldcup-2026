@@ -13,13 +13,13 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 1,
-    "home_wins": 1,
+    "total_matches": 3,
+    "home_wins": 3,
     "draws": 0,
     "away_wins": 0,
-    "home_goals": 2,
-    "away_goals": 0,
-    "avg_total_goals": 2,
+    "home_goals": 7,
+    "away_goals": 2,
+    "avg_total_goals": 3,
     "home_win_rate": 1,
     "away_win_rate": 0,
     "recent_matches": [
@@ -31,6 +31,28 @@
         "event_id": 8316,
         "away_score": 0,
         "home_score": 2,
+        "away_team_id": 459,
+        "home_team_id": 457
+      },
+      {
+        "away": "Australia",
+        "date": "2025-10-15T01:00:00+00:00",
+        "home": "USA",
+        "score": "2-1",
+        "event_id": 226857,
+        "away_score": 1,
+        "home_score": 2,
+        "away_team_id": 459,
+        "home_team_id": 457
+      },
+      {
+        "away": "Australia",
+        "date": "2010-06-05T12:30:00+00:00",
+        "home": "USA",
+        "score": "3-1",
+        "event_id": 452087,
+        "away_score": 1,
+        "home_score": 3,
         "away_team_id": 459,
         "home_team_id": 457
       }

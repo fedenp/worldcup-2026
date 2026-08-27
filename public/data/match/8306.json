@@ -13,13 +13,13 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 1,
-    "home_wins": 1,
+    "total_matches": 2,
+    "home_wins": 2,
     "draws": 0,
     "away_wins": 0,
-    "home_goals": 3,
-    "away_goals": 0,
-    "avg_total_goals": 3,
+    "home_goals": 7,
+    "away_goals": 3,
+    "avg_total_goals": 5,
     "home_win_rate": 1,
     "away_win_rate": 0,
     "recent_matches": [
@@ -33,6 +33,17 @@
         "home_score": 3,
         "away_team_id": 490,
         "home_team_id": 489
+      },
+      {
+        "away": "Argentina",
+        "date": "2007-06-05T18:00:00+00:00",
+        "home": "Algeria",
+        "score": "3-4",
+        "event_id": 485486,
+        "away_score": 4,
+        "home_score": 3,
+        "away_team_id": 489,
+        "home_team_id": 490
       }
     ]
   },

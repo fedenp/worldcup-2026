@@ -13,14 +13,14 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 3,
-    "home_wins": 3,
-    "draws": 0,
+    "total_matches": 6,
+    "home_wins": 5,
+    "draws": 1,
     "away_wins": 0,
-    "home_goals": 6,
-    "away_goals": 2,
-    "avg_total_goals": 2.6666666666666665,
-    "home_win_rate": 1,
+    "home_goals": 15,
+    "away_goals": 6,
+    "avg_total_goals": 3.5,
+    "home_win_rate": 0.8333333333333334,
     "away_win_rate": 0,
     "recent_matches": [
       {
@@ -35,6 +35,28 @@
         "home_team_id": 451
       },
       {
+        "away": "South Korea",
+        "date": "2025-09-10T01:30:00+00:00",
+        "home": "Mexico",
+        "score": "2-2",
+        "event_id": 226883,
+        "away_score": 2,
+        "home_score": 2,
+        "away_team_id": 453,
+        "home_team_id": 451
+      },
+      {
+        "away": "South Korea",
+        "date": "2020-11-14T20:00:00+00:00",
+        "home": "Mexico",
+        "score": "3-2",
+        "event_id": 279230,
+        "away_score": 2,
+        "home_score": 3,
+        "away_team_id": 453,
+        "home_team_id": 451
+      },
+      {
         "away": "Mexico",
         "date": "2018-06-23T15:00:00+00:00",
         "home": "South Korea",
@@ -44,6 +66,17 @@
         "home_score": 1,
         "away_team_id": 451,
         "home_team_id": 453
+      },
+      {
+        "away": "South Korea",
+        "date": "2014-01-30T02:00:00+00:00",
+        "home": "Mexico",
+        "score": "4-0",
+        "event_id": 395566,
+        "away_score": 0,
+        "home_score": 4,
+        "away_team_id": 453,
+        "home_team_id": 451
       },
       {
         "away": "Mexico",

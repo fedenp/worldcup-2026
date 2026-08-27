@@ -13,15 +13,15 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 2,
-    "home_wins": 1,
+    "total_matches": 3,
+    "home_wins": 2,
     "draws": 0,
     "away_wins": 1,
-    "home_goals": 4,
-    "away_goals": 2,
-    "avg_total_goals": 3,
-    "home_win_rate": 0.5,
-    "away_win_rate": 0.5,
+    "home_goals": 9,
+    "away_goals": 3,
+    "avg_total_goals": 4,
+    "home_win_rate": 0.6666666666666666,
+    "away_win_rate": 0.3333333333333333,
     "recent_matches": [
       {
         "away": "Austria",
@@ -33,6 +33,17 @@
         "home_score": 3,
         "away_team_id": 483,
         "home_team_id": 475
+      },
+      {
+        "away": "Spain",
+        "date": "2009-11-18T19:45:00+00:00",
+        "home": "Austria",
+        "score": "1-5",
+        "event_id": 465572,
+        "away_score": 5,
+        "home_score": 1,
+        "away_team_id": 475,
+        "home_team_id": 483
       },
       {
         "away": "Spain",

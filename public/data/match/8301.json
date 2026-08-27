@@ -13,15 +13,15 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 2,
+    "total_matches": 3,
     "home_wins": 0,
-    "draws": 1,
+    "draws": 2,
     "away_wins": 1,
-    "home_goals": 1,
-    "away_goals": 2,
-    "avg_total_goals": 1.5,
+    "home_goals": 2,
+    "away_goals": 3,
+    "avg_total_goals": 1.6666666666666667,
     "home_win_rate": 0,
-    "away_win_rate": 0.5,
+    "away_win_rate": 0.3333333333333333,
     "recent_matches": [
       {
         "away": "Uruguay",
@@ -44,6 +44,17 @@
         "home_score": 1,
         "away_team_id": 479,
         "home_team_id": 480
+      },
+      {
+        "away": "Uruguay",
+        "date": "2014-10-10T17:15:00+00:00",
+        "home": "Saudi Arabia",
+        "score": "1-1",
+        "event_id": 395330,
+        "away_score": 1,
+        "home_score": 1,
+        "away_team_id": 480,
+        "home_team_id": 479
       }
     ]
   },

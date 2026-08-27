@@ -13,15 +13,15 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 5,
+    "total_matches": 6,
     "home_wins": 0,
     "draws": 1,
-    "away_wins": 4,
+    "away_wins": 5,
     "home_goals": 2,
-    "away_goals": 10,
-    "avg_total_goals": 2.4,
+    "away_goals": 12,
+    "avg_total_goals": 2.3333333333333335,
     "home_win_rate": 0,
-    "away_win_rate": 0.8,
+    "away_win_rate": 0.8333333333333334,
     "recent_matches": [
       {
         "away": "Brazil",
@@ -30,6 +30,17 @@
         "score": "0-3",
         "event_id": 8338,
         "away_score": 3,
+        "home_score": 0,
+        "away_team_id": 463,
+        "home_team_id": 466
+      },
+      {
+        "away": "Brazil",
+        "date": "2011-03-27T13:00:00+00:00",
+        "home": "Scotland",
+        "score": "0-2",
+        "event_id": 438913,
+        "away_score": 2,
         "home_score": 0,
         "away_team_id": 463,
         "home_team_id": 466

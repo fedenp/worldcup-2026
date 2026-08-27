@@ -13,14 +13,14 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 1,
+    "total_matches": 2,
     "home_wins": 1,
-    "draws": 0,
+    "draws": 1,
     "away_wins": 0,
-    "home_goals": 3,
-    "away_goals": 1,
-    "avg_total_goals": 4,
-    "home_win_rate": 1,
+    "home_goals": 4,
+    "away_goals": 2,
+    "avg_total_goals": 3,
+    "home_win_rate": 0.5,
     "away_win_rate": 0,
     "recent_matches": [
       {
@@ -31,6 +31,17 @@
         "event_id": 8336,
         "away_score": 1,
         "home_score": 3,
+        "away_team_id": 461,
+        "home_team_id": 931
+      },
+      {
+        "away": "Qatar",
+        "date": "2010-08-10T18:15:00+00:00",
+        "home": "Bosnia & Herzegovina",
+        "score": "1-1",
+        "event_id": 452099,
+        "away_score": 1,
+        "home_score": 1,
         "away_team_id": 461,
         "home_team_id": 931
       }

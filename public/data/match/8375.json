@@ -13,13 +13,13 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 2,
+    "total_matches": 3,
     "home_wins": 0,
     "draws": 0,
-    "away_wins": 2,
+    "away_wins": 3,
     "home_goals": 1,
-    "away_goals": 5,
-    "avg_total_goals": 3,
+    "away_goals": 9,
+    "avg_total_goals": 3.3333333333333335,
     "home_win_rate": 0,
     "away_win_rate": 1,
     "recent_matches": [
@@ -44,6 +44,17 @@
         "home_score": 1,
         "away_team_id": 464,
         "home_team_id": 455
+      },
+      {
+        "away": "Canada",
+        "date": "2016-10-11T19:00:00+00:00",
+        "home": "Morocco",
+        "score": "4-0",
+        "event_id": 361121,
+        "away_score": 0,
+        "home_score": 4,
+        "away_team_id": 455,
+        "home_team_id": 464
       }
     ]
   },

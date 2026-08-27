@@ -13,14 +13,14 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 1,
-    "home_wins": 0,
+    "total_matches": 2,
+    "home_wins": 1,
     "draws": 1,
     "away_wins": 0,
-    "home_goals": 1,
+    "home_goals": 2,
     "away_goals": 1,
-    "avg_total_goals": 2,
-    "home_win_rate": 0,
+    "avg_total_goals": 1.5,
+    "home_win_rate": 0.5,
     "away_win_rate": 0,
     "recent_matches": [
       {
@@ -33,6 +33,17 @@
         "home_score": 1,
         "away_team_id": 462,
         "home_team_id": 461
+      },
+      {
+        "away": "Qatar",
+        "date": "2018-11-14T18:00:00+00:00",
+        "home": "Switzerland",
+        "score": "0-1",
+        "event_id": 300954,
+        "away_score": 1,
+        "home_score": 0,
+        "away_team_id": 461,
+        "home_team_id": 462
       }
     ]
   },
