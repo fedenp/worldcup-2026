@@ -13,26 +13,48 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 1,
+    "total_matches": 3,
     "home_wins": 0,
-    "draws": 0,
+    "draws": 2,
     "away_wins": 1,
-    "home_goals": 1,
+    "home_goals": 2,
     "away_goals": 3,
-    "avg_total_goals": 4,
+    "avg_total_goals": 1.6666666666666667,
     "home_win_rate": 0,
-    "away_win_rate": 1,
+    "away_win_rate": 0.3333333333333333,
     "recent_matches": [
       {
-        "away": "Uruguay",
-        "date": "2013-02-06T18:00:00+00:00",
-        "home": "Spain",
-        "score": "3-1",
-        "event_id": 410854,
+        "away": "Spain",
+        "date": "2026-06-27T00:00:00+00:00",
+        "home": "Uruguay",
+        "score": "0-1",
+        "event_id": 8350,
         "away_score": 1,
-        "home_score": 3,
-        "away_team_id": 480,
-        "home_team_id": 475
+        "home_score": 0,
+        "away_team_id": 475,
+        "home_team_id": 480
+      },
+      {
+        "away": "Spain",
+        "date": "1990-06-13T15:00:00+00:00",
+        "home": "Uruguay",
+        "score": "0-0",
+        "event_id": 543655,
+        "away_score": 0,
+        "home_score": 0,
+        "away_team_id": 475,
+        "home_team_id": 480
+      },
+      {
+        "away": "Spain",
+        "date": "1950-07-09T14:00:00+00:00",
+        "home": "Uruguay",
+        "score": "2-2",
+        "event_id": 580227,
+        "away_score": 2,
+        "home_score": 2,
+        "away_team_id": 475,
+        "home_team_id": 480
       }
     ]
   },

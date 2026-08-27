@@ -15,24 +15,24 @@
   "head_to_head": {
     "total_matches": 1,
     "home_wins": 0,
-    "draws": 0,
-    "away_wins": 1,
-    "home_goals": 0,
-    "away_goals": 3,
-    "avg_total_goals": 3,
+    "draws": 1,
+    "away_wins": 0,
+    "home_goals": 1,
+    "away_goals": 1,
+    "avg_total_goals": 2,
     "home_win_rate": 0,
-    "away_win_rate": 1,
+    "away_win_rate": 0,
     "recent_matches": [
       {
-        "away": "Australia",
-        "date": "2010-11-17T17:30:00+00:00",
-        "home": "Egypt",
-        "score": "3-0",
-        "event_id": 451928,
-        "away_score": 0,
-        "home_score": 3,
-        "away_team_id": 459,
-        "home_team_id": 478
+        "away": "Egypt",
+        "date": "2026-07-03T18:00:00+00:00",
+        "home": "Australia",
+        "score": "1-1",
+        "event_id": 8372,
+        "away_score": 1,
+        "home_score": 1,
+        "away_team_id": 478,
+        "home_team_id": 459
       }
     ]
   },

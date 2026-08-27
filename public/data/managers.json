@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T22:39:48.594Z",
+  "updated_at": "2026-08-27T06:47:46.744Z",
   "managers": {
     "451": {
       "id": 128,
@@ -840,6 +840,27 @@
       "btts_pct": 45.5,
       "over_25_pct": 48.5,
       "stats_updated_at": "2026-08-24T23:30:42.339207+00:00"
+    },
+    "648": {
+      "id": 583,
+      "name": "Sebastien Desabre",
+      "short_name": "S. Desabre",
+      "country": "France",
+      "tactical_profile": "defensive",
+      "preferred_formation": "4-3-3",
+      "current_team_id": 648,
+      "matches_total": 30,
+      "wins": 13,
+      "draws": 10,
+      "losses": 7,
+      "win_pct": 43.3,
+      "avg_goals_scored": 1.2,
+      "avg_goals_conceded": 0.7,
+      "avg_possession": 41.55,
+      "clean_sheet_pct": 43.3,
+      "btts_pct": 43.3,
+      "over_25_pct": 23.3,
+      "stats_updated_at": "2026-08-24T23:30:49.830875+00:00"
     },
     "731": {
       "id": 574,

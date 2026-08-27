@@ -14,25 +14,25 @@
   "prediction": null,
   "head_to_head": {
     "total_matches": 1,
-    "home_wins": 1,
-    "draws": 0,
+    "home_wins": 0,
+    "draws": 1,
     "away_wins": 0,
     "home_goals": 1,
-    "away_goals": 0,
-    "avg_total_goals": 1,
-    "home_win_rate": 1,
+    "away_goals": 1,
+    "avg_total_goals": 2,
+    "home_win_rate": 0,
     "away_win_rate": 0,
     "recent_matches": [
       {
-        "away": "Qatar",
-        "date": "2018-11-14T18:00:00+00:00",
-        "home": "Switzerland",
-        "score": "0-1",
-        "event_id": 300954,
+        "away": "Switzerland",
+        "date": "2026-06-13T19:00:00+00:00",
+        "home": "Qatar",
+        "score": "1-1",
+        "event_id": 8292,
         "away_score": 1,
-        "home_score": 0,
-        "away_team_id": 461,
-        "home_team_id": 462
+        "home_score": 1,
+        "away_team_id": 462,
+        "home_team_id": 461
       }
     ]
   },

@@ -17,20 +17,20 @@
     "home_wins": 0,
     "draws": 1,
     "away_wins": 0,
-    "home_goals": 1,
-    "away_goals": 1,
-    "avg_total_goals": 2,
+    "home_goals": 0,
+    "away_goals": 0,
+    "avg_total_goals": 0,
     "home_win_rate": 0,
     "away_win_rate": 0,
     "recent_matches": [
       {
         "away": "Ghana",
-        "date": "2011-03-29T19:00:00+00:00",
+        "date": "2026-06-23T20:00:00+00:00",
         "home": "England",
-        "score": "1-1",
-        "event_id": 438929,
-        "away_score": 1,
-        "home_score": 1,
+        "score": "0-0",
+        "event_id": 8332,
+        "away_score": 0,
+        "home_score": 0,
         "away_team_id": 495,
         "home_team_id": 493
       }
