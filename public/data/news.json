@@ -1,4 +1,165 @@
 {
-  "updatedAt": "2026-08-27T18:51:57.145Z",
-  "items": []
+  "updatedAt": "2026-08-28T04:01:53.435Z",
+  "items": [
+    {
+      "title": "La deuda por Ignacio Piatti: un problema muy complejo en la crisis económica de San Lorenzo",
+      "description": "El club le adeuda más de dos millones de dólares al exfutbolista, al que la Justicia le dio la razón",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/la-deuda-por-ignacio-piatti-un-problema-muy-complejo-en-la-crisis-economica-de-san-lorenzo-nid28082026/",
+      "publishedAt": "2026-08-28T03:44:23.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/OSY3JMGQWBEZPDFCC4BTF6BJXQ.jpg?auth=f3d411cd720f982447c0fc040bdac7fdfe22be5bbdd4f573e7f3f0051040df30&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "La agenda de la TV del viernes: Boca juega por el Clausura y los Leones buscan la final del Mundial",
+      "description": "La actividad deportiva en el fin de la semana, disponible a través de las pantallas",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-viernes-boca-juega-por-el-clausura-y-los-leones-buscan-la-final-del-mundial-nid27082026/",
+      "publishedAt": "2026-08-28T03:10:00.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/H5V5Z7BTFFA6PLVIRH2USXS36Q.jpg?auth=11247e84479a956ca4081bdbe87e6a474a10f2e3ffb5913ef57dd77ade7eeaa2&smart=true&width=2000&height=1334",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Estudiantes de La Plata le ganó a Barracas Central y pasó a los cuartos de final de la Copa Argentina",
+      "description": "En Florencio Varela y con un par de polémicas, el club presidido por Juan Sebastián Verón venció al de Chiqui Tapia; Platense, que venció por penales a Instituto, será su próximo rival",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/estudiantes-de-la-plata-y-barracas-central-se-enfrentan-por-la-copa-argentina-nid27082026/",
+      "publishedAt": "2026-08-28T02:54:13.000Z",
+      "imageUrl": null,
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Argentina derrotó a Puerto Rico por las eliminatorias FIBA y se acerca al Mundial de Qatar 2027",
+      "description": "Los de Prigioni se acomodan en la tercera posición y restan cinco partidos para lograr la clasificación a la copa del mundo",
+      "link": "https://www.lanacion.com.ar/deportes/basquetbol/argentina-derroto-a-puerto-rico-por-las-eliminatorias-fiba-y-se-acerca-al-mundial-de-qatar-2027-nid27082026/",
+      "publishedAt": "2026-08-28T00:51:27.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/MGRYGM7JI5FKRKZIMQ57WQ6I6U.jpg?auth=9ec6f956fa853f125900c9c35955b524a166eb360172e1a64c92f3edefcdbd59&smart=true&width=1884&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Final del Mundial de hockey 2026: cuándo juegan las Leonas vs. Países Bajos",
+      "description": "El seleccionado argentino se metió en una nueva definición de la Copa del Mundo y enfrentará ni más ni menos que al tricampeón vigente, el equipo neerlandés",
+      "link": "https://www.lanacion.com.ar/deportes/hockey/final-del-mundial-de-hockey-2026-cuando-juegan-las-leonas-vs-paises-bajos-nid27082026/",
+      "publishedAt": "2026-08-27T23:42:13.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/ZVNHDQBOBNBMNEJAFARGP25SFY.jpg?auth=bf064040acda0022d4655b7aeb6f4e33324acbfffe7c438643c192d367cb875d&smart=true&width=1200&height=800",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Resultado de las Leonas vs. Australia: quién ganó el partido del Mundial de hockey y pasó a la final",
+      "description": "La selección argentina derrotó a las Hockeyroos por la mínima diferencia y se disputará mano a mano el trofeo con Países Bajos, que sacó a Bélgica",
+      "link": "https://www.lanacion.com.ar/deportes/hockey/resultado-de-las-leonas-vs-australia-quien-gano-el-partido-del-mundial-de-hockey-y-paso-a-la-final-nid27082026/",
+      "publishedAt": "2026-08-27T23:41:56.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/NM2663YQARHEZDD6IKZMCNJDB4.JPG?auth=aa07b5ff2d896c9299cc39f213e67d69707024c3a0227dc97818eaeb0b9b9735&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Las Leonas: “el gol de todas” y el afecto hasta de los desconocidos para llegar a una nueva final de un Mundial de hockey",
+      "description": "Tras superar a Australia por 1 a 0, el equipo de Fernando Ferrara definirá el título en Países Bajos ante el seleccionado local",
+      "link": "https://www.lanacion.com.ar/deportes/hockey/las-leonas-el-gol-de-todas-y-el-afecto-hasta-de-los-desconocidos-para-llegar-a-una-nueva-final-de-un-nid27082026/",
+      "publishedAt": "2026-08-27T23:31:30.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/K6SFBB4HLVBDDBM7XRTE36MWMY.JPG?auth=ed0d420d61d90c06f2d9f60b77b6dfa937ed1a3ab426f0f1b2bae5c574d91937&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "La promesa de Boca Juniors que se volvió viral en las redes a pura gambeta",
+      "description": "Alma Almaraz compartió un video en su cuenta de Instagram que dio que hablar por sus habilidades y fue viral; quién es la joya de solo 16 años",
+      "link": "https://www.lanacion.com.ar/deportes/la-promesa-de-boca-juniors-que-se-volvio-viral-en-las-redes-a-pura-gambeta-nid27082026/",
+      "publishedAt": "2026-08-27T23:21:38.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/QE4HBICPBNAJBO24WU3J7VALQM.jpg?auth=c29919ccb15586248bd0a51c2ca625d180068cdb159cca57afbd8df96b8f8932&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "El tiempo vuela: las fotos que muestran cómo crecieron los dos pares de mellizos de Roger Federer",
+      "description": "Myla Rose, Charlene Riva, Leo y Lenny dijeron presente en el regreso de su padre durante el US Open y el mundo se sorprendió al advertir que ya no son niños pequeños; mira las imágenes",
+      "link": "https://www.lanacion.com.ar/deportes/el-tiempo-vuela-las-fotos-que-muestran-como-crecieron-los-dos-pares-de-mellizos-de-roger-federer-nid27082026/",
+      "publishedAt": "2026-08-27T23:19:27.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/HLY7VMEIG5GTJECLPRJ7XMP6QI.JPG?auth=900739ae7112646b8a76e5c237101857697b43371f07ed97a90656a99612f8bb&smart=true&width=8660&height=5773",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "River no para de perder: un plantel millonario, un DT por 4 meses, los buenos modales y... el ídolo en silencio",
+      "description": "Se acrecientan las urgencias, entre la formal despedida de Coudet y el arribo interino de Ponzio; de tantos nombres a futuro, hasta aparece Scaloni",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/river-no-para-de-perder-un-plantel-millonario-un-dt-por-4-meses-los-buenos-modales-y-el-idolo-en-nid27082026/",
+      "publishedAt": "2026-08-27T22:55:03.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/4XRYL3UN2REMNMX4U7V3UH4ELI.jpg?auth=9cca8003f0e0c147f386b130e329c183ed785b9b4ce4a667e4f729ab569d4b5a&smart=true&width=2000&height=1334",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Alivio para Argentina: la FIFA permitirá cumplir en amistosos las sanciones a Paredes, Molina y Almada",
+      "description": "El volante y el lateral limpiarán gran parte de su sanción este año; Thiago, en el próximo llamado",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/alivio-para-argentina-la-fifa-permitira-cumplir-en-amistosos-las-sanciones-a-paredes-molina-y-almada-nid27082026/",
+      "publishedAt": "2026-08-27T21:22:00.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/DDBYNNBPNVEOXBTZVVRZCE75TI.jpg?auth=cec18caacab9cbc540ac4134eafebe4326ff8b592f88a851566d7eac67d38292&smart=true&width=2000&height=1334",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Las Leonas vencieron 1 a 0 Australia y se clasificaron a la final del Mundial de hockey sobre césped",
+      "description": "Este sábado, el equipo de Fernando Ferrara se enfrentará ante Países Bajos desde las 11; la Argentina busca el tercer título",
+      "link": "https://www.lanacion.com.ar/deportes/hockey/las-leonas-vs-australia-por-el-mundial-de-hockey-sobre-cesped-en-vivo-nid27082026/",
+      "publishedAt": "2026-08-27T21:04:47.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/M2MJAX26CNABREIAIIGDTLPMR4.JPG?auth=dcdb28e7ea10f2d445c6bc4e87ddeea8bb2bf73fe3df96343b8c11fe02abdfaa&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Los Pumas vs. Australia: Felipe Contepomi repite el equipo por primera vez",
+      "description": "Para el Test Match en Jujuy dispuso los mismos 15 que cayeron ante Sudáfrica en Vélez",
+      "link": "https://www.lanacion.com.ar/deportes/rugby/los-pumas-vs-australia-felipe-contepomi-repite-el-equipo-por-primera-vez-nid27082026/",
+      "publishedAt": "2026-08-27T20:57:21.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/43OTZVECJZGLFIZWOZ65HGJGUU.JPEG?auth=5845cc1fc508edc9035a582abf41223f4e5a84725a4a4bb176d2166fe494ab9e&smart=true&width=2000&height=1390",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Leonardo Ponzio, DT interino de River tras la salida de Coudet: arrancará con Banfield y... ¿puede quedarse?",
+      "description": "Tras el golpe por la eliminación de la Copa Sudamericana en el Monumental, los principales dirigentes empezaron a tomar decisiones con respecto al futuro del equipo",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/leonardo-ponzio-dt-interino-de-river-tras-la-salida-de-coudet-nid27082026/",
+      "publishedAt": "2026-08-27T20:49:44.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/J73H6F3TWBCPRIS2MCW4BC6MOI.JPG?auth=4bf5d8ceb8e6dc979b97d0f0bb5318646391928b54308b3318da489ff1c4398f&smart=true&width=4926&height=3284",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "El Kily González será director técnico del Inter Miami",
+      "description": "El entrenador rosarino dirigirá a Messi y a De Paul en el club de Florida; reemplazará al cordobés Guillermo Hoyos, quien había llegado al puesto tras la renuncia de Mascherano",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/el-kily-gonzalez-sera-director-tecnico-del-inter-miami-nid27082026/",
+      "publishedAt": "2026-08-27T20:38:12.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/QOQN26OJD5DFZNS7OQELSEB47Q.JPG?auth=d4845facdb5cb43655800326105852826ca223e464c460309d253f78910ab053&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Los Pumas vs. Australia, por un test match: día, horario, TV y cómo ver online",
+      "description": "El encuentro está programado para este sábado a las 16 (hora argentina) en el estadio 23 de Agosto de Jujuy, con arbitraje del neozelandés Ben O’Keeffe",
+      "link": "https://www.lanacion.com.ar/deportes/rugby/los-pumas-vs-australia-por-un-test-match-dia-horario-tv-y-como-ver-online-nid27082026/",
+      "publishedAt": "2026-08-27T20:38:03.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/CAPPIDFT4ZECXPRWPPVCCC2HOY.JPG?auth=9fe235a3757fc6eba4dda97526a01426d5c241b54419c51aa136656c6d9647ac&smart=true&width=2623&height=1749",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Así quedó conformada la final del Mundial de hockey 2026, con las Leonas",
+      "description": "El equipo argentino está en una nueva definición y este sábado jugará por el tercer título de su historia; antes, se consagró en Perth 2002 y en Rosario 2010",
+      "link": "https://www.lanacion.com.ar/deportes/hockey/asi-quedo-conformada-la-final-del-mundial-de-hockey-2026-con-las-leonas-nid27082026/",
+      "publishedAt": "2026-08-27T20:33:31.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/K6SFBB4HLVBDDBM7XRTE36MWMY.JPG?auth=ed0d420d61d90c06f2d9f60b77b6dfa937ed1a3ab426f0f1b2bae5c574d91937&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Chelsea acordó el fichaje de Dibu Martínez, que deja Aston Villa para dar el gran salto en su carrera",
+      "description": "El club londinense pagará poco más de 8,7 millones de euros por el arquero de la selección argentina, que firmará por dos temporadas con opción a una más",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/chelsea-acordo-el-fichaje-de-dibu-martinez-que-deja-aston-villa-para-dar-el-gran-salto-en-su-carrera-nid27082026/",
+      "publishedAt": "2026-08-27T20:12:45.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/6ATEXELU5RD3BE54Z352QTYIJE.JPG?auth=32b607b42c5a6b329d01fa090a1294750cecaa0e3d4072f72d2e51693ab1b049&smart=true&width=2000&height=1332",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Los tenistas argentinos ya conocen a sus rivales de la primera ronda del US Open: Navone ante Djokovic",
+      "description": "Trece jugadores nacionales competirán en el main draw de Flushing Meadows a partir del domingo; el regreso de Alcaraz y la ausencia de Sinner",
+      "link": "https://www.lanacion.com.ar/deportes/tenis/los-tenistas-argentinos-ya-conocen-a-sus-rivales-de-la-primera-ronda-del-us-open-navone-ante-nid27082026/",
+      "publishedAt": "2026-08-27T19:57:02.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/XRK2MK73LBEJ7JPUGLNESBTPVA.JPG?auth=73e51cd75355ef3949889cacd141bdaa345481048fe079320b06d5c2a84d8d4e&smart=true&width=3605&height=2404",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Eduardo Coudet dejó de ser entrenador de River y Stefano Di Carlo anunció a Leonardo Ponzio como interino",
+      "description": "Tras quedar afuera de la Copa Sudamericana ante Independiente Santa Fe, se realizó una conferencia en la que el DT se refirió a su salida",
+      "link": "https://www.lanacion.com.ar/deportes/noticias-de-river-plate-en-vivo-se-va-coudet-las-ultimas-novedades-del-club-minuto-a-minuto-nid27082026/",
+      "publishedAt": "2026-08-27T19:50:36.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/LMA5HJAKOVFLRD6YOEO5FKC5W4.jpg?auth=d82f17bbb0c7b4b16684059db088c9398c228d09bd5358abf1aac83edea07beb&smart=true&width=2000&height=1306",
+      "source": "La Nación Deportes"
+    }
+  ]
 }
