@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-09-04T02:31:39.497Z",
+  "updatedAt": "2026-09-04T08:31:40.110Z",
   "items": [
+    {
+      "title": "La agenda de la TV del viernes: los ensayos de la F1 en Monza, el US Open, el torneo Clausura y fútbol de Europa",
+      "description": "La actividad deportiva en el fin de la semana, disponible a través de las pantallas",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-viernes-los-ensayos-de-la-f1-en-monza-el-us-open-el-torneo-clausura-y-futbol-nid03092026/",
+      "publishedAt": "2026-09-04T03:20:00.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/KIWF6I7S5FDV5OH6A6NJ7Y6MIQ.jpg?auth=425a4f83b35b530356b6d50397a42ccca5a44217f5417ed02dbf500828792476&smart=true&width=5632&height=3744",
+      "source": "La Nación Deportes"
+    },
     {
       "title": "Fernando Alonso, un detractor del reglamento que no declina en la lucha y ata su continuidad a las modificaciones",
       "description": "El español desea contribuir a las reglas en el futuro, no se conforma con el avance de Aston Martin y especula que continuará en el Gran Circo",
@@ -15,14 +23,6 @@
       "link": "https://www.lanacion.com.ar/deportes/futbol/san-lorenzo/solo-falta-la-firma-ruben-dario-insua-a-un-paso-de-volver-a-san-lorenzo-nid03092026/",
       "publishedAt": "2026-09-04T00:53:29.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/AI6OM574UBHPPOVC2KCUJMTOX4.JPG?auth=f167974921d6f1d3c86245d64291ec2783a979e027679c065eeb9fbea29a14da&smart=true&width=2500&height=1667",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "La agenda de la TV del viernes: los ensayos de la F1 en Monza, el US Open, el torneo Clausura y fútbol de Europa",
-      "description": "La actividad deportiva en el fin de la semana, disponible a través de las pantallas",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-viernes-los-ensayos-de-la-f1-en-monza-el-us-open-el-torneo-clausura-y-futbol-nid03092026/",
-      "publishedAt": "2026-09-04T00:23:14.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/KIWF6I7S5FDV5OH6A6NJ7Y6MIQ.jpg?auth=425a4f83b35b530356b6d50397a42ccca5a44217f5417ed02dbf500828792476&smart=true&width=5632&height=3744",
       "source": "La Nación Deportes"
     },
     {
