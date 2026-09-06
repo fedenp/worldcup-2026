@@ -1,20 +1,92 @@
 {
-  "updatedAt": "2026-09-06T17:57:40.591Z",
+  "updatedAt": "2026-09-06T21:54:49.973Z",
   "items": [
+    {
+      "title": "River vs. Independiente Rivadavia, en vivo, por el Torneo Clausura: horario, TV, formaciones y más",
+      "description": "El Millonario busca su segundo triunfo en el ciclo Ponzio ante el conjunto mendocino, líder de la tabla general",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/river-vs-independiente-rivadavia-en-vivo-nid06092026/",
+      "publishedAt": "2026-09-06T21:48:44.000Z",
+      "imageUrl": null,
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "US Open: Carlos Alcaraz venció a Tommy Paul y continúa su regreso a toda marcha",
+      "description": "El español, dos veces campeón en Nueva York, ya está de nuevo en los cuartos de final",
+      "link": "https://www.lanacion.com.ar/deportes/us-open-carlos-alcaraz-vencio-a-tommy-paul-y-continua-su-regreso-a-toda-marcha-nid06092026/",
+      "publishedAt": "2026-09-06T21:43:49.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/Y65JVXPG6JHD7O6FJTJSPBP4OI.jpg?auth=f3224a77712a3cee8db515f270ff25a8ad09412a9ee25511e293fd96da421cc4&smart=true&width=4926&height=3284",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Golazo y hat-trick de Lucas Boyé, el delantero de Alavés que soñó con volver a River",
+      "description": "Fue la figura en la victoria en el clásico ante Osasuna por 5-2; en España lo dirigió el Chacho Coudet, que lo tuvo en cuenta como posible refuerzo para River",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/golazo-y-hat-trick-de-boye-el-delantero-de-alaves-que-sono-con-volver-a-river-nid06092026/",
+      "publishedAt": "2026-09-06T21:24:10.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/HNMXMHHUCNCFJD7DCDFDXXS2NE.JPG?auth=51c63de838c4e5e8d07e1a53f33e87688e7f61ef4c31aa8428938ebeec470fa4&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Newell’s le empató el clásico a Rosario Central en la última pelota: el aplauso de Di María a Messi y... ¿un sueño todavía posible?",
+      "description": "El gol de Cóccaro en el descuento, con Kudelka apostando el triple 9, le puso justicia al desarrollo del partido: Ávila había puesto en ventaja al Canalla",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/newells-le-empato-el-clasico-a-rosario-central-en-la-ultima-pelota-el-aplauso-de-di-maria-a-messi-y-nid06092026/",
+      "publishedAt": "2026-09-06T21:04:26.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/IOWPIKEKZVH4PELTS5OYQM5NQA.JPG?auth=3e0dc7dabb4691d8b9e6d78697da156c02740c312896ea306631addd6de89478&smart=true&width=2000&height=1331",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "En qué canal pasan Racing vs. Atlético de Tucumán por el Torneo Clausura 2026 hoy",
+      "description": "El partido de la octava fecha del Grupo se disputa este domingo a las 21.30 en el estadio Cilindro de Avellaneda con arbitraje de Pablo Echavarría",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-racing-vs-atletico-de-tucuman-por-el-torneo-clausura-2026-hoy-nid06092026/",
+      "publishedAt": "2026-09-06T20:42:04.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/7D7CBHFUWRH2BFOKA5DBTG2N2Q.jpg?auth=45a24177074a1a27e1ed485188bb308383192eb6555d5df3614b4e71f1036e3a&smart=true&width=2160&height=1581",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Rosario Central y Newell’s empataron 1 a 1 en el clásico rosarino del torneo Clausura",
+      "description": "El Canalla se puso en ventaja con un golazo de Ávila; Cóccaro lo empató para la Lepra de forma agónica",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/rosario-central-vs-newells-en-vivo-nid06092026/",
+      "publishedAt": "2026-09-06T20:14:17.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/KQZ3I5LUEZHWPKDBPS4UTH4ZQM.JPG?auth=67db4c81c91f38397bffb811e7d188ee9663359fe8f7df496cc2dfbc4afbad70&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Un error, carrerón y llanto: la remontada de película de Franco Colapinto en Monza para sumar dos puntos para Alpine",
+      "description": "El argentino vivió un carrusel de emociones, entre el despiste y el noveno puesto final",
+      "link": "https://www.lanacion.com.ar/deportes/automovilismo/un-error-carreron-y-llanto-la-remontada-de-pelicula-de-franco-colapinto-en-monza-para-sumar-dos-nid06092026/",
+      "publishedAt": "2026-09-06T19:32:56.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/BMGYNFZAYNBJLLRNWWXD7LIV3M.jpg?auth=928303ccb05831a839680e5965da988a0a7521db093c67d59601d076efc09f3d&smart=true&width=4555&height=2986",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "En qué canal pasan River Plate vs. Independiente Rivadavia por el Torneo Clausura 2026 hoy",
+      "description": "El encuentro correspondiente a la octava fecha del Grupo B se disputa este domingo desde las 19.15 en el estadio Monumental con arbitraje de Nicolás Ramírez",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-river-plate-vs-independiente-rivadavia-por-el-torneo-clausura-2026-hoy-nid06092026/",
+      "publishedAt": "2026-09-06T18:56:18.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/YIEU7YPICVCF7EEK2GXGQFTTLY.JPG?auth=39d54a2a0b1c4e7b63d5981ef43ad1361ced166ba4c0b44fc50a93c443b99e75&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Aryna Sabalenka, la bicampeona defensora del US Open, venció a Taylor Townsend y avanzó a los cuartos de final",
+      "description": "La bielorrusa y número 1 del mundo no contó con el apoyo del público local, pero mantuvo la calma y pisó fuerte en el Arthur Ashe",
+      "link": "https://www.lanacion.com.ar/deportes/tenis/aryna-sabalenka-la-bicampeona-defensora-del-us-open-vencio-a-taylor-townsend-y-avanzo-a-los-cuartos-nid06092026/",
+      "publishedAt": "2026-09-06T18:36:41.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/5AP563NK3BGJNAQUZQ4PRCVDFM.JPG?auth=f525bb9b8ba7d5aed88632757b6653a3500808e16744a51fec7c78e4a426801d&smart=true&width=3758&height=2505",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Por dónde pasan Independiente vs. Central Córdoba y qué canal lo transmite en vivo",
+      "description": "El Rojo visita este domingo desde las 17 al conjunto santiagueño con la necesidad de ganar",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-independiente-vs-central-cordoba-y-que-canal-lo-transmite-en-vivo-nid06092026/",
+      "publishedAt": "2026-09-06T18:17:49.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/WHSKOTJ3ZRARXBT3U5IKBY2A4M.JPG?auth=4eab4479a5585ea4993eb97f31f4e6e9cf8746c71e2a6e4916fe11a94933404c&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
     {
       "title": "Arsenal le ganó a Chelsea: Dibu Martínez atajó casi todo y Havertz hizo una asistencia sin tocar la pelota",
       "description": "El equipo de Arteta se impuso por 2-1 en el Emirates Stadium, por la tercera fecha de la Premier League",
       "link": "https://www.lanacion.com.ar/deportes/futbol/los-goles-del-cruce-de-arsenal-con-chelsea-con-emiliano-dibu-martinez-como-protaginista-nid06092026/",
-      "publishedAt": "2026-09-06T17:52:28.000Z",
+      "publishedAt": "2026-09-06T17:54:36.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/BS44RSK7XJCNNGEJE3TNBHF22E.JPG?auth=9f0dae191f7d08a880a343527583336e9ec047fd0a2148eca845aa4214760823&smart=true&width=2500&height=1667",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Rosario Central vs. Newell’s, en vivo por el torneo Clausura: minuto a minuto del partido",
-      "description": "El clásico rosarino se disputa en el Gigante de Arroyito del Canalla",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/rosario-central-vs-newells-en-vivo-nid06092026/",
-      "publishedAt": "2026-09-06T17:50:05.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/5IRZRSSCR5B6LEFDM3OBZF5I44.JPG?auth=8b7f2271eed3be3a62719a13fb4de7411fb8bed6fe59bc090a175b9be356100c&smart=true&width=2000&height=1333",
       "source": "La Nación Deportes"
     },
     {
@@ -87,78 +159,6 @@
       "link": "https://www.lanacion.com.ar/deportes/automovilismo/como-le-fue-a-franco-colapinto-en-el-gp-de-italia-de-la-formula-1-nid06092026/",
       "publishedAt": "2026-09-06T15:19:51.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/JIW5POA2SVHL7P3URCOCNPDYMY.jpg?auth=8686e1cc05033437fcea3eaba26bd9ee20d237546ecce4fc74819a4b96f2a7c8&smart=true&width=5298&height=3532",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Insua vuelve a San Lorenzo y ya piensa en Independiente: “Lo que puedo garantizar es que trabajaremos mucho”",
-      "description": "Inicia su tercer período y reemplaza a Pipo Gorosito, de breve paso en el Ciclón",
-      "link": "https://www.lanacion.com.ar/deportes/automovilismo/insua-vuelve-a-san-lorenzo-y-ya-piensa-en-independiente-lo-que-puedo-garantizar-es-que-trabajaremos-nid06092026/",
-      "publishedAt": "2026-09-06T14:35:31.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/QUORDOWZYRAGDIQSNPTHUJ25H4.jpg?auth=59e375a5aeb0b9aa678fffcddc47c3eecb69273dba603479fef77400ed97d9f8&smart=true&width=6308&height=4165",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "US Open 2026 hoy: partidos y cómo está el cuadro",
-      "description": "En la octava jornada en Flushing Meadows inician los octavos de final de los torneos masculino y femenino; juegan Carlos Alcaraz, Tomás Etcheverry y Aryna Sabalenka",
-      "link": "https://www.lanacion.com.ar/deportes/tenis/us-open-2026-hoy-partidos-y-como-esta-el-cuadro-nid06092026/",
-      "publishedAt": "2026-09-06T14:29:47.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/7FOIR2ZUQZGTDJSWPT7PPDXT74.png?auth=32643f94bdcfe5fbedec1dfba2db7a20e25651882eb5054a74846fc46d8d65b7&smart=true&width=1126&height=623",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Pese a los cuestionamientos, Infantino confirmó su candidatura a reelección como presidente de FIFA",
-      "description": "El suizo ‌ha enfrentado pedidos de renuncia por parte de la UEFA, la AFC y la CONCACAF, aunque cuenta con el apoyo de las confederaciones africana y sudamericana",
-      "link": "https://www.lanacion.com.ar/deportes/pese-a-los-cuestionamientos-infantino-confirmo-su-candidatura-a-reeleccion-como-presidente-de-fifa-nid06092026/",
-      "publishedAt": "2026-09-06T14:28:42.000Z",
-      "imageUrl": null,
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Muy fuerte choque de Leclerc en Monza: destruyó su Ferrari",
-      "description": "El piloto de Ferrari perdió el control de su monoplaza e impactó contra una de las barreras de la pista; fue al comienzo de la segunda vuelta",
-      "link": "https://www.lanacion.com.ar/deportes/automovilismo/muy-fuerte-choque-de-leclerc-en-monza-destruyo-su-ferrari-nid06092026/",
-      "publishedAt": "2026-09-06T13:55:23.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/MZ4R3VCQWRC2FBRPE64PSYN43Q.jpg?auth=51d60333eb38bb67b2e41f792233de0478b88975e5606da8e786710f50b4581f&smart=true&width=570&height=530",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "En qué canal pasan Rosario Central vs. Newell’s por el Torneo Clausura 2026 hoy",
-      "description": "El clásico se disputa este domingo desde las 14.45 en el Gigante de Arroyito con arbitraje de Yael Falcón Pérez",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-rosario-central-vs-newells-por-el-torneo-clausura-2026-hoy-nid06092026/",
-      "publishedAt": "2026-09-06T13:43:56.000Z",
-      "imageUrl": null,
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Los Pumas: como un barco lanzado a alta mar rumbo a la costa australiana para el Mundial 2027",
-      "description": "Resta poco más de un año para la gran cita del rugby: los puntos a favor y en contra del equipo de Felipe Contepomi",
-      "link": "https://www.lanacion.com.ar/deportes/rugby/los-pumas-como-un-barco-lanzado-a-alta-mar-rumbo-a-la-costa-australiana-para-el-mundial-2027-nid06092026/",
-      "publishedAt": "2026-09-06T12:53:26.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/RBRKSDAGGVBPDKDGLL7WFWC7KM.jpg?auth=6fe0c32ed76b5ee16393233227342b1373cf05da3793ae6fc3d50e07e682ec29&smart=true&width=2048&height=1365",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Por dónde pasan la carrera de la Fórmula 1 y qué canal la transmite en vivo",
-      "description": "La decimotercera prueba del año se disputa este domingo desde las 10 (hora argentina) en el Autódromo Nacional de Monza; Pierre Gasly hizo la pole position",
-      "link": "https://www.lanacion.com.ar/deportes/automovilismo/por-donde-pasan-la-carrera-de-la-formula-1-y-que-canal-la-transmite-en-vivo-nid06092026/",
-      "publishedAt": "2026-09-06T11:51:47.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/V7QMOZRWXNDPVPB5BLUM5QRBRU.JPG?auth=a5d022bd153bd5f82f1e575357ef1b8c6ca7f89c5622cef12e84fdc5cc7cb9b1&smart=true&width=4405&height=2936",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "En qué canal pasan el GP de Italia de la Fórmula 1 hoy",
-      "description": "Con Pierre Gasly desde la pole position, la carrera se desarrolla este domingo a las 10 (hora argentina) en el Autódromo Nacional de Monza",
-      "link": "https://www.lanacion.com.ar/deportes/automovilismo/en-que-canal-pasan-el-gp-de-italia-de-la-formula-1-hoy-nid06092026/",
-      "publishedAt": "2026-09-06T11:22:00.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/OD6RMEMOGRGTBE3VFBIIJ6YRAA.JPG?auth=19fe86d2ba669f05e50126f886ae49fa4fd9950fd63182cc9b0d65979860dcf4&smart=true&width=6624&height=4416",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Agenda de TV y streaming del domingo: el clásico rosarino, River, Colapinto y Etcheverry en US Open",
-      "description": "Fútbol local y exterior, tenis, automovilismo, rugby y ciclismo conforman la actividad deportiva en el cierre del fin de semana",
-      "link": "https://www.lanacion.com.ar/deportes/agenda-de-tv-y-streaming-del-domingo-el-clasico-rosarino-river-colapinto-y-etcheverry-en-us-open-nid06092026/",
-      "publishedAt": "2026-09-06T11:14:34.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/Q6Y5FXLESJCFVPAQP57E6GJT6Q.jpeg?auth=a1a7ced70abc1a4b80ac8fe85dfb17565924eab08e45b213712e9a0a13fde9fe&smart=true&width=3098&height=2453",
       "source": "La Nación Deportes"
     }
   ]
