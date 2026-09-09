@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T02:39:08.256Z",
+  "updated_at": "2026-09-09T08:33:26.228Z",
   "managers": {
     "451": {
       "id": 128,
@@ -695,25 +695,25 @@
       "stats_updated_at": "2026-09-07T23:31:03.555203+00:00"
     },
     "490": {
-      "id": 97,
-      "name": "Vladimir Petković",
-      "short_name": "V. Petković",
-      "country": "Switzerland",
-      "tactical_profile": "attacking",
-      "preferred_formation": "4-3-3",
+      "id": 3877,
+      "name": "Brahim Hemdani",
+      "short_name": "B. Hemdani",
+      "country": "Algeria",
+      "tactical_profile": "",
+      "preferred_formation": "",
       "current_team_id": 490,
-      "matches_total": 26,
-      "wins": 16,
-      "draws": 5,
-      "losses": 5,
-      "win_pct": 61.5,
-      "avg_goals_scored": 2,
-      "avg_goals_conceded": 0.92,
-      "avg_possession": 57.53,
-      "clean_sheet_pct": 38.5,
-      "btts_pct": 46.2,
-      "over_25_pct": 61.5,
-      "stats_updated_at": "2026-09-07T23:31:35.271696+00:00"
+      "matches_total": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "win_pct": null,
+      "avg_goals_scored": null,
+      "avg_goals_conceded": null,
+      "avg_possession": null,
+      "clean_sheet_pct": null,
+      "btts_pct": null,
+      "over_25_pct": null,
+      "stats_updated_at": null
     },
     "491": {
       "id": 197,
