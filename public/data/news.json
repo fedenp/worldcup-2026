@@ -1,12 +1,156 @@
 {
-  "updatedAt": "2026-09-12T21:54:00.239Z",
+  "updatedAt": "2026-09-13T02:42:14.473Z",
   "items": [
     {
-      "title": "Atlético Tucumán vs. River, en vivo por el torneo Clausura: el minuto a minuto del partido",
-      "description": "En el estadio Monumental Presidente José Fierro, el equipo millonario juega por la novena fecha del torneo Clausura",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/atletico-tucuman-vs-river-en-vivo-nid12092026/",
-      "publishedAt": "2026-09-12T21:49:06.000Z",
+      "title": "Springboks vs. All Blacks: Un equipo de época: Sudáfrica reafirmó su dominio en el rugby mundial",
+      "description": "Con autoridad, los Springboks se impusieron 3-1 en la serie ante los All Blacks",
+      "link": "https://www.lanacion.com.ar/deportes/rugby/springboks-vs-all-blacks-un-equipo-de-epoca-sudafrica-reafirmo-su-dominio-en-el-rugby-mundial-nid12092026/",
+      "publishedAt": "2026-09-13T02:35:52.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/4YUPLZ3QQRFYVHS2UBR6H6QZ44.jpg?auth=f457b558723d9a0007738e424674a22eaef4d75cec6573526c1961f5ee05e78a&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Rosario levantó el telón de los Juegos Suramericanos, con una fiesta inédita en el Monumento a la Bandera",
+      "description": "Santa Fe 2026 ya está en marcha; Luciana Aymar, uno de los grandes emblemas del deporte argentino, fue la elegida para llevar la llama hacia el pebetero",
+      "link": "https://www.lanacion.com.ar/deportes/juegos-olimpicos/rosario-levanto-el-telon-de-los-juegos-suramericanos-con-una-fiesta-inedita-en-el-monumento-a-la-nid12092026/",
+      "publishedAt": "2026-09-13T01:55:31.000Z",
+      "imageUrl": null,
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Lionel Messi llegó a los 99 goles en Inter Miami, pero Nashville empató sobre el final",
+      "description": "Las Garzas merecieron el triunfo y estrellaron tres tiros en los palos",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/inter-miami-con-lionel-messi-vs-nashville-en-vivo-nid12092026/",
+      "publishedAt": "2026-09-13T01:48:00.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/PZO2PXUR2JDABIMOQ3U32JTSWM.JPG?auth=b1c7f095c9a588c4a9c6d92fbcfc69f6d4fef790616cc3de86c81ff05c6b34a7&smart=true&width=3064&height=2043",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Talleres - Unión: el golazo de Agustín Álvarez Martínez que abrió el primer éxito de la T en Córdoba",
+      "description": "El delantero, proveniente de Italia, abrió el marcador con un magnífico remate; el conjunto cordobés se impuso por 2-1",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/talleres-union-el-golazo-de-agustin-alvarez-martinez-que-abrio-el-primer-exito-de-la-t-en-cordoba-nid12092026/",
+      "publishedAt": "2026-09-13T01:39:39.000Z",
+      "imageUrl": null,
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "TV y streaming del domingo: Colapinto en la Fórmula 1, el Torneo Clausura, ligas de Europa y la final del US Open",
+      "description": "La actividad deportiva en el cierre del fin de semana, disponible a través de las pantallas",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/tv-y-streaming-del-domingo-colapinto-en-la-formula-1-el-torneo-clausura-ligas-de-europa-y-la-final-nid12092026/",
+      "publishedAt": "2026-09-13T00:33:00.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/NITLOKSSV5GUVI2NZUIPZ6WWBQ.JPG?auth=72d051a0bacdcf371c90828ab394b7aea5b94eb641e2c04959e256fe304feacf&smart=true&width=5712&height=3808",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Julio Falcioni explotó tras la derrota ante River: “Parece que la banda empezó a funcionar de nuevo”",
+      "description": "Por la no expulsión a Mauro Arambarri, el DT de Atlético Tucumán acusó duramente al juez Andrés Gariano y al encargado del VAR, Silvio Trucco",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/julio-falcioni-exploto-tras-la-derrota-ante-river-parece-que-la-banda-empezo-a-funcionar-de-nuevo-nid12092026/",
+      "publishedAt": "2026-09-13T00:25:09.000Z",
+      "imageUrl": null,
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Elena Rybakina venció a Aryna Sabalenka y es la nueva campeona del US Open",
+      "description": "La tenista kazaja se impuso por 6-4, 5-7 y 6-2 en casi dos horas y media de partido",
+      "link": "https://www.lanacion.com.ar/deportes/tenis/elena-rybakina-vencio-a-aryna-sabalenka-y-es-la-nueva-campeona-del-us-open-nid12092026/",
+      "publishedAt": "2026-09-13T00:23:09.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/SVODYRWQWRAAJCMDSLXWVXCEUA.JPG?auth=b647093e51a977d2c7c9c5ef37705e7d9f7b4e9b8d0561bfb9e7af8ca2063c11&smart=true&width=6591&height=4394",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Así quedó la tabla histórica de campeonas del US Open, tras el título de Elena Rybakina",
+      "description": "La kazaja le quitó la posibilidad de levantar el trofeo por tercer año consecutivo a la bielorrusa Aryna Sabalenka tras ganarle por 6-4, 5-7 y 6-2 en la final",
+      "link": "https://www.lanacion.com.ar/deportes/tenis/asi-quedo-la-tabla-historica-de-campeonas-del-us-open-tras-el-titulo-de-elena-rybakina-nid12092026/",
+      "publishedAt": "2026-09-13T00:09:16.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/SVODYRWQWRAAJCMDSLXWVXCEUA.JPG?auth=b647093e51a977d2c7c9c5ef37705e7d9f7b4e9b8d0561bfb9e7af8ca2063c11&smart=true&width=6591&height=4394",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "La recuperación de River también se nutre de triunfos que consigue con el agua al cuello",
+      "description": "Venció 2-1 a Atlético Tucumán, con un gol a los 46 minutos de la segunda etapa y tras jugar con un futbolista más casi 80 minutos; tercer triunfo consecutivo de Ponzio",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/la-recuperacion-de-river-tambien-se-nutre-de-triunfos-que-consigue-con-el-agua-al-cuello-nid12092026/",
+      "publishedAt": "2026-09-12T23:59:09.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/VOWGQMZP65D47NVD2QIM4URT4E.JPG?auth=3d1e086d29edffebdd339c254b95a8e04c4073f07ff3f0d8917536b52540f3e7&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Newman, intratable: venció a Regatas e igualó una racha histórica en el siglo XXI",
+      "description": "Como local superó con autoridad y llegó a 19 triunfos consecutivos: “Ni cerca me lo esperaba”, dijo el head coach Santiago Piccaluga",
+      "link": "https://www.lanacion.com.ar/deportes/rugby/newman-intratable-vencio-a-regatas-e-igualo-una-racha-historica-en-el-siglo-xxi-nid12092026/",
+      "publishedAt": "2026-09-12T23:54:51.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/ABG3XHGZFRBMTNV664NJC5TADI.jpg?auth=f5a619326dee41945e4bfa1920283d7d3c1d014e1049cd650dabcc8fa4289484&smart=true&width=3000&height=2000",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Resultado de River vs. Atlético Tucumán: quién ganó el partido del Torneo Clausura 2026",
+      "description": "El equipo dirigido por Leonardo Ponzio se impuso en medio de un diluvio y festejó una nueva victoria en el certamen local para escalar al quinto lugar de la zona B",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/resultado-de-river-vs-atletico-tucuman-quien-gano-el-partido-del-torneo-clausura-2026-nid12092026/",
+      "publishedAt": "2026-09-12T23:30:01.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/HBWCIMVUXNGVHMPZKEACA2OCVA.JPG?auth=26180e0258dffedc050ed7280c2fe2335d3abe3e141d743fd8327c418eeac08a&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Top 14 de URBA: CASI ganó in extremis e Hindú la pasó mal y quedó algo relegado en la puja con SIC y Alumni",
+      "description": "Un penal de Juan Akemeier sobre el final le dio el éxito a la Academia en la cancha de Buenos Aires C&amp;RC; Los Tilos no pierde",
+      "link": "https://www.lanacion.com.ar/deportes/rugby/top-14-de-urba-casi-gano-in-extremis-e-hindu-la-paso-mal-y-quedo-algo-relegado-en-la-puja-con-sic-y-nid12092026/",
+      "publishedAt": "2026-09-12T23:26:53.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/OEV642YQFNAQBBOMTLJ4RD5AMU.jpeg?auth=f14ef91d630c00732fe7dc89501c699c588c58032a8d94592e834d65e4b32fbc&smart=true&width=3040&height=2027",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Los unos y los otros: las diferencias entre pelear por el título (SIC) y por mantener la categoría (Rosario)",
+      "description": "El equipo de Boulogne se impuso por 46-17 y se mantiene con chances de entrar en los playoffs; el conjunto rosarino pugna por seguir en la elite",
+      "link": "https://www.lanacion.com.ar/deportes/rugby/los-unos-y-los-otros-las-diferencias-entre-pelear-por-el-titulo-sic-y-por-mantener-la-categoria-nid12092026/",
+      "publishedAt": "2026-09-12T23:14:07.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/DX3UPCTEYRBBLLE2M4L7252POI.jpeg?auth=ebafaa17dfcc8c12da2f39ce4be0393c2c87a0069b9ce3679874c179f6943840&smart=true&width=3744&height=2496",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Comenzó la fiesta inaugural de los Juegos Suramericanos Santa Fe 2026: dónde verla en vivo",
+      "description": "La ceremonia de apertura da inicio al evento deportivo multidisciplinario que otorga varias plazas a los Juegos Panamericanos Lima 2027",
+      "link": "https://www.lanacion.com.ar/deportes/comenzo-la-fiesta-inaugural-de-los-juegos-suramericanos-santa-fe-2026-donde-verla-en-vivo-nid12092026/",
+      "publishedAt": "2026-09-12T23:07:37.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/VBCQULGSWVBXHEDE6HH7P3DRPQ.JPG?auth=51f2c799c3f353175e86d8825cbd55c12b48a348d26fd0630b940994dd786825&smart=true&width=2000&height=1331",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Faustino Oro en el torneo Prodigios y Leyendas de Madrid: no retuvo el título, pero acrecentó su Elo",
+      "description": "El argentino de 12 años terminó tercero en un certamen en el que el campeón y el de mejor posición en el ranking no lograron derrotarlo",
+      "link": "https://www.lanacion.com.ar/deportes/ajedrez/faustino-oro-en-el-torneo-prodigios-y-leyendas-de-madrid-no-retuvo-el-titulo-pero-acrecento-su-elo-nid12092026/",
+      "publishedAt": "2026-09-12T22:54:42.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/KDKOOW4WRRENJBDX57QV6SQQV4.jpeg?auth=ae65e7c800aef45f7d0c6ced5bce8523734eb7e02b08476b7a54323d47d5ff27&smart=true&width=4032&height=3024",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Polémica en Tucumán: la plancha contra Martínez Quarta que resultó en expulsión y la tala de Arambarri que zafó de la tarjeta roja",
+      "description": "El árbitro no dudó en echar a Nicola por el puntinazo al defensor millonario, pero solo mostró la amarilla en la falta contra Canelo",
+      "link": "https://www.lanacion.com.ar/deportes/river-con-uno-mas-nicola-se-fue-expulsado-tras-un-puntinazo-a-la-cara-de-martinez-quarta-nid12092026/",
+      "publishedAt": "2026-09-12T22:51:42.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/DCW6EZP2N5D7VFIQK7HBQIGLZI.JPG?auth=9ed5c7f04367b9062e2ec795b290cd2e673f46faa28ff6c6ae02045ce2da02a6&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "River venció 2-1 a Atlético Tucumán sobre el final y sumó su tercer triunfo consecutivo",
+      "description": "En el estadio Monumental Presidente José Fierro, Thiago Almada marcó el gol agónico a los 46 minutos del segundo tiempo; el conjunto local jugó con diez desde los 12 de la primera parte",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/atletico-tucuman-vs-river-en-vivo-nid12092026/",
+      "publishedAt": "2026-09-12T22:41:02.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/HYNKAUKIUBCBVK2SMAVBDTGSH4.JPG?auth=cb224013a7be338bde96d2a8979fabbbe2695d9f3c433acd155e3246af1a7999&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Así está la Tabla Anual 2026, con las clasificaciones a las copas Libertadores y Sudamericana",
+      "description": "Belgrano, como campeón del Apertura, es el único que tiene asegurada su participación en el plano internacional en 2027",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/asi-esta-la-tabla-anual-2026-con-las-clasificaciones-a-las-copas-libertadores-y-sudamericana-nid11092026/",
+      "publishedAt": "2026-09-12T22:36:28.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/JXWMQAO37VCNTATXOLR2AFG7NY.JPG?auth=c98cd9c78f0870acefce24d0e7b8ffd7f73245478648f24cad28723b20e4469b&smart=true&width=2500&height=1664",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Michael Jordan, estrella de la NBA: “Fracasé una y otra y otra vez en mi vida. Y por eso tengo éxito”",
+      "description": "Lejos de esconder sus tropiezos, el histórico basquetbolista de los Chicago Bulls transformó sus derrotas en el cimiento de su éxito deportivo",
+      "link": "https://www.lanacion.com.ar/lifestyle/michael-jordan-estrella-de-la-nba-fracase-una-y-otra-y-otra-vez-en-mi-vida-y-por-eso-tengo-exito-nid12092026/",
+      "publishedAt": "2026-09-12T22:34:39.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/DKA7GOCYWBA3HEBXJUCHEPCVBQ.jpg?auth=c4169b8043a0d1e38a77ccd15484f00abf4726982de915b567add582614b0900&smart=true&width=2000&height=1333",
       "source": "La Nación Deportes"
     },
     {
@@ -15,150 +159,6 @@
       "link": "https://www.lanacion.com.ar/deportes/tenis/alexander-zverev-vs-ben-shelton-horario-tv-y-como-ver-online-la-final-del-us-open-2026-nid12092026/",
       "publishedAt": "2026-09-12T21:33:55.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/SCLJBZBHURBKPPEDEGUUD5UW7Y.jpg?auth=12f59914076e2cb060334064e93fd96c4d1f3496a0f1b609e8af785a5af0fe33&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "River, con uno más: Nicola se fue expulsado tras un puntinazo a la cara de Martínez Quarta",
-      "description": "El jugador de Atlético Tucumán fue a disputar la pelota, pero calculo mal y le pegó al defensor del Millonario",
-      "link": "https://www.lanacion.com.ar/deportes/river-con-uno-mas-nicola-se-fue-expulsado-tras-un-puntinazo-a-la-cara-de-martinez-quarta-nid12092026/",
-      "publishedAt": "2026-09-12T21:28:50.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/DCW6EZP2N5D7VFIQK7HBQIGLZI.JPG?auth=9ed5c7f04367b9062e2ec795b290cd2e673f46faa28ff6c6ae02045ce2da02a6&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Top 14 de URBA: CASI ganó in extremis e Hindú la pasó mal y quedó algo relegado en la puja con SIC y Alumni",
-      "description": "Un penal de Juan Akemeier sobre el final le dio el éxito a la Academia en la cancha de Buenos Aires C&amp;RC; Los Tilos no pierde",
-      "link": "https://www.lanacion.com.ar/deportes/rugby/top-14-de-urba-casi-gano-in-extremis-e-hindu-la-paso-mal-y-quedo-algo-relegado-en-la-puja-con-sic-y-nid12092026/",
-      "publishedAt": "2026-09-12T21:12:25.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/OEV642YQFNAQBBOMTLJ4RD5AMU.jpeg?auth=f14ef91d630c00732fe7dc89501c699c588c58032a8d94592e834d65e4b32fbc&smart=true&width=3040&height=2027",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Independiente Rivadavia derrotó a Aldosivi en un partido de 7 goles y Alex Arce marcó por duplicado",
-      "description": "En el 4-3 en Mendoza, hubo 3 tantos en 9 minutos; el paraguayo acumula 19 en 29 partidos y es el máximo goleador de 2026",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/independiente-rivadavia-derroto-a-aldosivi-en-un-partido-de-7-goles-y-alex-arce-marco-por-duplicado-nid12092026/",
-      "publishedAt": "2026-09-12T20:54:30.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/IRTC7FSQZNFNLHA5MUAA2IMFWI.JPEG?auth=e561be13ffed34228cedd554304e6c8285e614594c680a75c2f0f03eb047f85e&smart=true&width=2500&height=1754",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Estudiantes le ganó al Platense de Palermo en el descuento y con dos goles de sus N° “9″",
-      "description": "Adolfo Gaich y Guido Carrillo convirtieron para darle la victoria al Pincha, por la 9° fecha del Apertura; ambos hicieron cambios pensando en la Copa Libertadores",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/estudiantes-le-gano-al-platense-de-palermo-en-el-descuento-y-con-dos-goles-de-sus-n-9-nid12092026/",
-      "publishedAt": "2026-09-12T20:10:14.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/Y5MC6T5SZZFMNCNTHCRGIV32CI.JPG?auth=643b9fb54759615ac6631180696d6e1921d6190cc716266af67cec612c2d8150&smart=true&width=2500&height=1690",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Un accidente múltiple en el GP de Madrid de la Fórmula 3 detuvo por media hora la carrera: “¡Están locos!“",
-      "description": "Un choque entre dos compañeros de equipo provocó un incidente que terminó involucrando a otros cinco monoplazas",
-      "link": "https://www.lanacion.com.ar/deportes/un-accidente-multiple-en-el-gp-de-madrid-de-la-formula-3-detuvo-por-media-hora-la-carrera-estan-nid12092026/",
-      "publishedAt": "2026-09-12T20:00:22.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/4HRLCOO6SZC6BGTE73IJGRZ3IM.png?auth=d89670c126b0e9f3fe54fd9721a9ce0b214ec555419e49c22cc3d97e87144071&smart=true&width=898&height=545",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Colapinto, entre las mariposas en la panza y los abrazos del alma, marca el camino de Alpine en “Madring”",
-      "description": "El piloto argentino tuvo un gran sábado, enmarcado en la espectacular vuelta que le permitió meterse en la Q3; largará noveno, por delante de de los Racing Bulls y su compañero Gasly",
-      "link": "https://www.lanacion.com.ar/deportes/automovilismo/colapinto-entre-las-mariposas-en-la-panza-y-los-abrazos-del-alma-marca-el-camino-de-alpine-en-nid12092026/",
-      "publishedAt": "2026-09-12T19:28:09.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/QNRF2JY5XZER7MHHVAD5ZUEEZE.JPG?auth=f295bcf05aa57526695bdd423ece727c3ff9347ece1570a55fe66170b694078a&smart=true&width=2048&height=1444",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "En qué canal pasan River vs. Atlético Tucumán por el Torneo Clausura 2026 hoy",
-      "description": "El encuentro entre el Decano y el Millonario se disputa este sábado a las 17.30 en el estadio Monumental José Fierro, con arbitraje de Andrés Gariano",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-river-vs-atletico-tucuman-por-el-torneo-clausura-2026-hoy-nid12092026/",
-      "publishedAt": "2026-09-12T18:48:11.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/K5ADBEC4MNHYXFOT3SUGUI7CKU.jpg?auth=d38822ca22c8b6995a77d1ec4fb5dd3726dae75e16d4626c18e0c37366911f0c&smart=true&width=3000&height=2000",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Por dónde pasan River vs. Atlético Tucumán y qué canal lo transmite en vivo",
-      "description": "El encuentro correspondiente a la fecha 9 del Grupo B se disputa este sábado a las 17.30 en el estadio Monumental José Fierro, con arbitraje de Andrés Gariano",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-river-vs-atletico-tucuman-y-que-canal-lo-transmite-en-vivo-nid12092026/",
-      "publishedAt": "2026-09-12T18:19:11.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/6J7HSGOKYJDV7PMRW2TJQFUEUM.JPG?auth=caf60e661d47f5c074aa301437164fed4790b7d048a6c1a1f3557fb8255ed9b3&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "El increíble gol que erró Luis Vázquez con el arco vacío en Inglaterra",
-      "description": "El exdelantero de Boca tuvo una oportunidad inmejorable sobre el final ante Derby County, pero remató por encima del travesaño, en el triunfo de Birmingham City",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/el-increible-gol-que-erro-luis-vazquez-con-el-arco-vacio-en-inglaterra-nid12092026/",
-      "publishedAt": "2026-09-12T18:05:39.000Z",
-      "imageUrl": null,
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Final femenina del US Open 2026: a qué hora juegan Aryna Sabalenka vs. Elena Rybakina",
-      "description": "La bielorrusa, N° 1 del ranking WTA, y la kazaja, quien subirá a lo más alto del escalafón internacional a partir del lunes, se enfrentan este sábado en Flushing Meadows",
-      "link": "https://www.lanacion.com.ar/deportes/tenis/final-femenina-del-us-open-2026-a-que-hora-juegan-aryna-sabalenka-vs-elena-rybakina-nid12092026/",
-      "publishedAt": "2026-09-12T17:54:15.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/JEJAOWV4SVHBDKVCRQAKCUXYFM.jpg?auth=143aa48e5573f48424167c986cc1ae5452d17bc33e4b434eb401bd0f68d7ec84&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Horario del GP de España de la Fórmula 1 de este domingo 13 de septiembre",
-      "description": "La 15° carrera de este 2026 se disputa en la mañana argentina de este domingo; Lando Norris, de McLaren, largará en el primer lugar",
-      "link": "https://www.lanacion.com.ar/deportes/automovilismo/horario-del-gp-de-espana-de-la-formula-1-de-este-domingo-13-de-septiembre-nid12092026/",
-      "publishedAt": "2026-09-12T17:02:00.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/OOTFO42SFNEUFBIFF6DZG6YBGY.JPG?auth=defeaf879686bdfb6d307237997d41cf82c8b8de45d982ee66f5dd8ad5ef58f5&smart=true&width=2048&height=1328",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Franco Colapinto: “Fue una de mis mejores clasificaciones en la Fórmula 1″",
-      "description": "El argentino celebró su noveno lugar para la carrera de mañana en el circuito de la capital ibérica",
-      "link": "https://www.lanacion.com.ar/deportes/franco-colapinto-fue-una-de-mis-mejores-clasificaciones-en-la-formula-1-nid12092026/",
-      "publishedAt": "2026-09-12T17:01:58.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/URBR7GKZJBEZDANH7HW32MQDKY.jpg?auth=c67c03c0c6e179214fa2705e7813c4c97a966be96a570315ce958ea67f64e3f5&smart=true&width=3072&height=2048",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "A qué hora juega River vs. Atlético Tucumán y por dónde se puede ver en vivo",
-      "description": "El Millonario se enfrenta al Decano este sábado en el Monumental José Fierro, por la fecha 9 del Grupo B, con arbitraje de Andrés Gariano y televisación de TNT Sports",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-river-vs-atletico-tucuman-y-por-donde-se-puede-ver-en-vivo-nid12092026/",
-      "publishedAt": "2026-09-12T16:35:37.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/7ZZAKYHHZFCRXCK6URPE3DE73U.jpeg?auth=b670ca639f833e9f77794e89b45fe4a7dda6b647ffb7ccbb4820cd50383e46d0&smart=true&width=865&height=576",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Franco Colapinto largará noveno en el Gran Premio de España de Fórmula 1",
-      "description": "El piloto argentino tuvo una gran clasificación en el circuito de “Madring”, donde Lando Norris estableció la pole",
-      "link": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-la-formula-1-en-vivo-nid12092026-2/",
-      "publishedAt": "2026-09-12T15:49:38.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/TNSDPWWKTNHXDIOXWV3NM2ULTY.JPG?auth=89307f4d1c42462f4e8fbea0bb7decad06accf195c1ea8af3dda0b689d81deb3&smart=true&width=7083&height=4722",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Por dónde se pueden ver en vivo los Juegos Suramericanos Santa Fe 2026",
-      "description": "El evento deportivo multidisciplinario que otorga varias plazas a los Juegos Panamericanos Lima 2027 comienza de manera oficial este sábado, con la ceremonia de apertura",
-      "link": "https://www.lanacion.com.ar/deportes/por-donde-se-pueden-ver-en-vivo-los-juegos-suramericanos-santa-fe-2026-nid12092026/",
-      "publishedAt": "2026-09-12T15:11:10.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/SHRSELI6SJCX7AW6OGHTHU7ASE.jpg?auth=f9fd100f37da45f3e0bb68cc42b91e497ac07f3f766458a66c7a0ef833dfa3db&smart=true&width=7435&height=4957",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Fundación River Plate inauguró las luces de la cancha del único club de Purmamarca",
-      "description": "La cancha Diego Armando Maradona, ubicada a 2300 metros de altura, podrá ser usada durante la noche",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/fundacion-river-plate-inauguro-las-luces-de-la-cancha-del-unico-club-de-purmamarca-nid12092026/",
-      "publishedAt": "2026-09-12T14:28:14.000Z",
-      "imageUrl": null,
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Marvin Hagler, el boxeador “Maravilloso”: cómo le habría peleado a Monzón, por qué fue actor y su muerte misteriosa",
-      "description": "Campeón de los medianos, respetaba mucho al argentino, con el que eran comparados. Un estilo avasallante, un cuerpo compacto que intimidaba y la capacidad de cambiar de guardia",
-      "link": "https://www.lanacion.com.ar/deportes/boxeo/marvin-hagler-el-boxeador-maravilloso-como-le-habria-peleado-a-monzon-por-que-fue-actor-y-su-muerte-nid11092026/",
-      "publishedAt": "2026-09-12T14:18:21.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/3AYH5TYQVNFMTNDCI2MSGX522Q.jpeg?auth=e4d5a6d45771e77d0f10e62d9c44cacd0631075b92fb3bff23b3bc6023a206f6&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Juegos Suramericanos: Nicolás Marcipar y Bruno Galassi, los europibes de la selección argentina sub 19",
-      "description": "Nacieron en España, tienen padres santafesinos y se formaron en Barcelona y Real Madrid; características de dos defensores a futuro",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/juegos-suramericanos-nicolas-marcipar-y-bruno-galassi-los-europibes-de-la-seleccion-argentina-sub-19-nid12092026/",
-      "publishedAt": "2026-09-12T13:37:07.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/36EXPMDAKNB5PCRF3RDAVLEGUA.jpg?auth=3fe117de1d47a342a3c51ebda39d151b406ac94236b13b3d5620887046cd588e&smart=true&width=2000&height=1333",
       "source": "La Nación Deportes"
     }
   ]
