@@ -1,20 +1,44 @@
 {
-  "updatedAt": "2026-09-13T02:42:14.473Z",
+  "updatedAt": "2026-09-13T08:42:52.738Z",
   "items": [
     {
-      "title": "Springboks vs. All Blacks: Un equipo de época: Sudáfrica reafirmó su dominio en el rugby mundial",
-      "description": "Con autoridad, los Springboks se impusieron 3-1 en la serie ante los All Blacks",
-      "link": "https://www.lanacion.com.ar/deportes/rugby/springboks-vs-all-blacks-un-equipo-de-epoca-sudafrica-reafirmo-su-dominio-en-el-rugby-mundial-nid12092026/",
-      "publishedAt": "2026-09-13T02:35:52.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/4YUPLZ3QQRFYVHS2UBR6H6QZ44.jpg?auth=f457b558723d9a0007738e424674a22eaef4d75cec6573526c1961f5ee05e78a&smart=true&width=2000&height=1333",
+      "title": "El boxeador argentino Rodrigo Ruíz fue retirado en camilla tras recibir un fuerte golpe en la mandíbula",
+      "description": "El mexicano Ángel Talavera Carrillo venció a su par tucumano, pero no pudo adjudicarse los títulos latinos de la OMB y la FIB porque no había dado el peso pactado",
+      "link": "https://www.lanacion.com.ar/deportes/boxeo/el-boxeador-argentino-rodrigo-ruiz-fue-retirado-en-camilla-tras-recibir-un-fuerte-golpe-en-la-nid13092026/",
+      "publishedAt": "2026-09-13T07:16:57.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/2K6TGV3PINA3RNPIQCLDBOTAWM.jpg?auth=5475db6993b9426d2578f274e1e628ef9d021b7d31e399f98266a684d16bdfcf&smart=true&width=2240&height=1493",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "El empresario argentino Carlos Abriata se reunió con el presidente de Real Madrid, Florentino Pérez",
+      "description": "El salteño está vinculado a las empresas que desarrollaron la plataforma de venta de entradas utilizada para la Copa del Mundo",
+      "link": "https://www.lanacion.com.ar/deportes/el-empresario-argentino-carlos-abriata-se-reunio-con-el-presidente-de-real-madrid-florentino-perez-nid13092026/",
+      "publishedAt": "2026-09-13T03:54:19.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/BCZNJJAMRRHOBMEPRQMKHTPXFE.jpg?auth=a79c7b592168eba64c2c53b730e67e8432797bb3fe92cd5ff1340749780aff25&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Agenda de TV y streaming del domingo: Colapinto, Independiente - San Lorenzo, Racing, US Open y Suramericanos",
+      "description": "Automovilismo, fútbol local y exterior, tenis, motociclismo, el cierre de la Vuelta a España y los Juegos de Santa Fe, en las pantallas",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/tv-y-streaming-del-domingo-colapinto-en-la-formula-1-el-torneo-clausura-ligas-de-europa-y-la-final-nid12092026/",
+      "publishedAt": "2026-09-13T03:00:00.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/IDIMRL3QHRFO5PJMTNXSPTMFEI.JPG?auth=569fe8b54d55ce030bd77416c46083b5ed4ba669841e9ee91aae1f44146a1582&smart=true&width=2000&height=1333",
       "source": "La Nación Deportes"
     },
     {
       "title": "Rosario levantó el telón de los Juegos Suramericanos, con una fiesta inédita en el Monumento a la Bandera",
       "description": "Santa Fe 2026 ya está en marcha; Luciana Aymar, uno de los grandes emblemas del deporte argentino, fue la elegida para llevar la llama hacia el pebetero",
       "link": "https://www.lanacion.com.ar/deportes/juegos-olimpicos/rosario-levanto-el-telon-de-los-juegos-suramericanos-con-una-fiesta-inedita-en-el-monumento-a-la-nid12092026/",
-      "publishedAt": "2026-09-13T01:55:31.000Z",
-      "imageUrl": null,
+      "publishedAt": "2026-09-13T02:42:02.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/D5TYJOSKSNELJPCJUSN2JS5RZ4.JPG?auth=d4a487da6c3bea928b980faa96570432397aa22d7eadbdb498a89680d5f6694f&smart=true&width=1807&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Springboks vs. All Blacks: Sudáfrica es un equipo de época y reafirmó su dominio en el rugby mundial",
+      "description": "Con autoridad, los Springboks ganaron el cuarto encuentro de la serie ante los neozelandeses; por qué jugaron en Estados Unidos",
+      "link": "https://www.lanacion.com.ar/deportes/rugby/springboks-vs-all-blacks-un-equipo-de-epoca-sudafrica-reafirmo-su-dominio-en-el-rugby-mundial-nid12092026/",
+      "publishedAt": "2026-09-13T02:35:52.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/4YUPLZ3QQRFYVHS2UBR6H6QZ44.jpg?auth=f457b558723d9a0007738e424674a22eaef4d75cec6573526c1961f5ee05e78a&smart=true&width=2000&height=1333",
       "source": "La Nación Deportes"
     },
     {
@@ -31,14 +55,6 @@
       "link": "https://www.lanacion.com.ar/deportes/futbol/talleres-union-el-golazo-de-agustin-alvarez-martinez-que-abrio-el-primer-exito-de-la-t-en-cordoba-nid12092026/",
       "publishedAt": "2026-09-13T01:39:39.000Z",
       "imageUrl": null,
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "TV y streaming del domingo: Colapinto en la Fórmula 1, el Torneo Clausura, ligas de Europa y la final del US Open",
-      "description": "La actividad deportiva en el cierre del fin de semana, disponible a través de las pantallas",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/tv-y-streaming-del-domingo-colapinto-en-la-formula-1-el-torneo-clausura-ligas-de-europa-y-la-final-nid12092026/",
-      "publishedAt": "2026-09-13T00:33:00.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/NITLOKSSV5GUVI2NZUIPZ6WWBQ.JPG?auth=72d051a0bacdcf371c90828ab394b7aea5b94eb641e2c04959e256fe304feacf&smart=true&width=5712&height=3808",
       "source": "La Nación Deportes"
     },
     {
@@ -143,22 +159,6 @@
       "link": "https://www.lanacion.com.ar/deportes/futbol/asi-esta-la-tabla-anual-2026-con-las-clasificaciones-a-las-copas-libertadores-y-sudamericana-nid11092026/",
       "publishedAt": "2026-09-12T22:36:28.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/JXWMQAO37VCNTATXOLR2AFG7NY.JPG?auth=c98cd9c78f0870acefce24d0e7b8ffd7f73245478648f24cad28723b20e4469b&smart=true&width=2500&height=1664",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Michael Jordan, estrella de la NBA: “Fracasé una y otra y otra vez en mi vida. Y por eso tengo éxito”",
-      "description": "Lejos de esconder sus tropiezos, el histórico basquetbolista de los Chicago Bulls transformó sus derrotas en el cimiento de su éxito deportivo",
-      "link": "https://www.lanacion.com.ar/lifestyle/michael-jordan-estrella-de-la-nba-fracase-una-y-otra-y-otra-vez-en-mi-vida-y-por-eso-tengo-exito-nid12092026/",
-      "publishedAt": "2026-09-12T22:34:39.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/DKA7GOCYWBA3HEBXJUCHEPCVBQ.jpg?auth=c4169b8043a0d1e38a77ccd15484f00abf4726982de915b567add582614b0900&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Alexander Zverev vs. Ben Shelton: horario, TV y cómo ver online la final del US Open 2026",
-      "description": "El alemán, N° 2 del ranking ATP, y el joven estadounidense que tiene al saque como su mejor virtud, se enfrentan este domingo en Flushing Meadows",
-      "link": "https://www.lanacion.com.ar/deportes/tenis/alexander-zverev-vs-ben-shelton-horario-tv-y-como-ver-online-la-final-del-us-open-2026-nid12092026/",
-      "publishedAt": "2026-09-12T21:33:55.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/SCLJBZBHURBKPPEDEGUUD5UW7Y.jpg?auth=12f59914076e2cb060334064e93fd96c4d1f3496a0f1b609e8af785a5af0fe33&smart=true&width=2000&height=1333",
       "source": "La Nación Deportes"
     }
   ]
