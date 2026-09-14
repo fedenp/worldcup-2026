@@ -1,12 +1,132 @@
 {
-  "updatedAt": "2026-09-14T17:27:56.175Z",
+  "updatedAt": "2026-09-14T22:54:52.841Z",
   "items": [
+    {
+      "title": "La agenda de la TV del martes: Boca frente a San Pablo por la Sudamericana, Platense por la Libertadores y la Liga de España",
+      "description": "La actividad deportiva en la continuidad de la semana, disponible a través de las pantallas",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-martes-boca-frente-a-san-pablo-por-la-sudamericana-platense-por-la-nid14092026/",
+      "publishedAt": "2026-09-14T22:32:00.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/RGNV3MWZY5DUDKCNB2PXOAYOZA.jpg?auth=1ce0aceae12aac8dd63ec6023f25b372293acd0c2cf034d4d49768b8c22b5ec6&smart=true&width=4599&height=3066",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Macarena Ceballos puso a la natación argentina en lo más alto y se llevó el oro en su especialidad: los 100m pecho",
+      "description": "La cordobesa llegó a Santa Fe 2026 con el objetivo de imponerse en sus tres pruebas individuales y ya cumplió con la primera parte",
+      "link": "https://www.lanacion.com.ar/deportes/juegos-olimpicos/macarena-ceballos-puso-a-la-natacion-argentina-en-lo-mas-alto-y-se-llevo-el-oro-en-su-especialidad-nid13092026/",
+      "publishedAt": "2026-09-14T22:06:30.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/775NLR56OVH6JB4GAEX5U2L3U4.jpg?auth=cdae1dca741635290b1de32026abd065f58ce3f7388e80991d31779bbc7fb8c7&smart=true&width=3936&height=2624",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Mammana evoluciona favorablemente tras fracturarse varias costillas por un choque en el partido ante Newell’s",
+      "description": "Vélez compartió un nuevo parte médico en relación a la salud del defensor central, que  permanece internado bajó observación en la Clínica Zabala",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/mammana-evoluciona-favorablemente-tras-fracturarse-varias-costillas-por-un-choque-en-el-partido-ante-nid14092026/",
+      "publishedAt": "2026-09-14T21:59:19.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/CUO5SMQ2UNCHFDNV65K6PHH7OI.jpg?auth=f64d5bb4a0360e9571d052abbf486215f2383703f23fa46ce03c860d22573d8a&smart=true&width=1030&height=686",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Paulo Dybala y Malen hacen volar a Roma, mientras Balerdi es comparado con una gloria del calcio",
+      "description": "Las asistencias de la Joya y las definiciones del neerlandés potencian a uno de los punteros de la Serie A",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/paulo-dybala-y-malen-hacen-volar-a-roma-mientras-balerdi-es-comparado-con-una-gloria-del-calcio-nid14092026/",
+      "publishedAt": "2026-09-14T21:37:00.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/F4RCVAEEORCL3ETXDUA7SJ3D7E.JPG?auth=be1dabf4152de6387d32b8865ce083e20a646e93078bcf8c77abc7360316a51e&smart=true&width=2500&height=1700",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Alexander Zverev, campeón del US Open: “Cuando a tu hijo de 4 años le diagnostican diabetes y los médicos te hablan de hablan de limitaciones, hace falta una madre increíble”",
+      "description": "El alemán ganó su segundo Grand Slam, seis años después de haber perdido la final en ese mismo certamen, y estiró una marca lapidaria a favor ade los tenistas europeos",
+      "link": "https://www.lanacion.com.ar/deportes/tenis/alexander-zverev-campeon-del-us-open-cuando-a-tu-hijo-de-4-anos-le-diagnostican-diabetes-y-los-nid14092026/",
+      "publishedAt": "2026-09-14T21:30:56.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/IDJXJAAYK5ABRPS5G4JIWYS3DA.jpg?auth=c5bdbb322c52ab979a150390a6e00923173833e9913317aeca93a64520ba36d1&smart=true&width=2000&height=1352",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "José Meolans en los Juegos Suramericanos 2026: “Agostina Hein es la abanderada de la natación  argentina”",
+      "description": "El exnadador, campeón mundial de pileta corta y referente de toda su generación, elogió a la gran figura del momento y a todo el equipo albiceleste",
+      "link": "https://www.lanacion.com.ar/deportes/juegos-olimpicos/jose-meolans-en-los-juegos-suramericanos-2026-agostina-hein-es-la-abanderada-de-la-natacion-nid14092026/",
+      "publishedAt": "2026-09-14T21:18:22.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/DTYUIZPYBNGNZMWF2R4KK7DZMI.jpg?auth=478189d074223430d46f41b96499dae7ebd23a35f13044e9b2f7521966f67322&smart=true&width=4717&height=3138",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "El recuerdo de un amigo de Federico Martín Aramburú: “Conectaba con las personas haciéndote sentir importante y mirándote a los ojos”",
+      "description": "Matías Newton, excompañero del CASI, cuenta cómo está atravesando el juicio su entorno y su familia",
+      "link": "https://www.lanacion.com.ar/deportes/rugby/el-amigo-de-federico-martin-aramburu-conectaba-con-las-personas-haciendote-sentir-importante-y-nid14092026/",
+      "publishedAt": "2026-09-14T20:59:01.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/I7EVSNPI6JCYRA4XDAEZPMECXY.jpeg?auth=56638ae02b0b2df0685728c6d6bd7a0367cc0962a40b08584335623cde1b5e88&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Juan Pablo Vojvoda sigue como DT de Racing (por ahora): las razones de una continuidad en plena crisis",
+      "description": "La derrota ante Huracán agudizó el mal momento en la Academia, pero el presidente del club le dio otra oportunidad; en 11 partidos,el DT apenas logró tres victorias",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/racing/juan-pablo-vojvoda-sigue-como-dt-de-racing-por-ahora-las-razones-de-una-continuidad-en-plena-crisis-nid14092026/",
+      "publishedAt": "2026-09-14T20:27:23.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/PQ3AMC3IDRBPFLQT5UDRBB4IJE.JPG?auth=83fb71e41cec1d9caa5af350c4b0fdbf75ca2b4bc481bf026f051199c63fe54a&smart=true&width=2500&height=1666",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Calendario de los Juegos Suramericanos 2026: el fixture completo, deporte por deporte",
+      "description": "El evento se realiza en Santa Fe hasta el 26 de septiembre y se compite en 60 disciplinas de 43 actividades",
+      "link": "https://www.lanacion.com.ar/deportes/calendario-de-los-juegos-suramericanos-2026-el-fixture-completo-deporte-por-deporte-nid14092026/",
+      "publishedAt": "2026-09-14T19:57:44.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/OG2BWNJDVBDWFOKOZ4H7LDQF34.jpg?auth=01234449d02d58d329ba237f9da28e8fef09ab2c27520eb3b6ea9a1506a684c9&smart=true&width=3584&height=2446",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "VIDEO: en una jornada repleta de argentinos en el Calcio, llegó el primer gol en el fútbol italiano para David Romero",
+      "description": "El delantero marcó cuando el partido estaba por terminar; Dybala y Nico Paz asistieron para las victorias de sus equipos",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/video-en-una-jornada-repleta-de-argentinos-en-el-calcio-llego-el-primer-gol-en-el-futbol-italiano-nid14092026/",
+      "publishedAt": "2026-09-14T19:47:49.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/3VLXZLH4QJE7ZPUS45VVWLXG6I.JPG?auth=47ef62838832e3016dac302cbcfa50d196deae094b5955b365a38fb6e6d11746&smart=true&width=2048&height=1366",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Polémica en una competencia de Hyrox: sufrió una incontinencia intestinal y siguió hasta ganar",
+      "description": "La atleta australiana Joanna Wietrzyk siguió adelante hasta completar el recorrido y coronarse campeona; los organizadores anunciaron que harán cambios en el reglamento",
+      "link": "https://www.lanacion.com.ar/deportes/polemica-en-una-competencia-de-hyrox-sufrio-una-incontinencia-intestinal-y-siguio-hasta-ganar-nid14092026/",
+      "publishedAt": "2026-09-14T19:22:49.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/ENCKGZQ37NH2RGONT65GXALZAA.jpg?auth=c461fc598f93f9ef354ff560c158cebf9421930a9c11fff2ed266a85645e0e22&smart=true&width=1200&height=1935",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Argentina tiene definidos tres amistosos para la fecha FIFA: Bolivia, Burkina Faso y Benín, con Messi todavía en duda",
+      "description": "Serían dos partidos en Córdoba y uno en el Monumental; la lista todavía no fue oficializada",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/argentina-tiene-definidos-tres-amistosos-para-la-fecha-fifa-bolivia-burkina-faso-y-benin-con-messi-nid14092026/",
+      "publishedAt": "2026-09-14T18:51:18.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/HJZZ7XL72VGETGRVYXHJQJ36FU.jpg?auth=ec7189573a79f34daf4ee742dd732f6a51dcdba62a322b1b0cb1b3a7d56f05d0&smart=true&width=3144&height=2096",
+      "source": "La Nación Deportes"
+    },
     {
       "title": "De jugar el Mundial con Messi y compartir cancha con Zidane a deslumbrar en un concurso de baile de malambo con su hija en Milán",
       "description": "El exfutbolista Esteban Cambiasso sorprendió en las redes sociales tras participar de una coreografía profesional junto a su hija Victoria en Italia; el video captó una destreza atlética poco conocida por sus seguidores",
       "link": "https://www.lanacion.com.ar/deportes/de-jugar-el-mundial-con-messi-y-compartir-cancha-con-zidane-a-deslumbrar-en-un-concurso-de-baile-de-nid14092026/",
-      "publishedAt": "2026-09-14T17:20:31.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/RJVMRC5Y4VGBNPBUOB3YCLYXGA.jpg?auth=969e62b59b225029318babfd101ba972451c2bc76e551bb47383afa9b51ed136&smart=true&width=2000&height=1333",
+      "publishedAt": "2026-09-14T18:21:12.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/LZHJ54M2DVEO7HPFD4J3ZSLLRU.jpg?auth=d1652b31ac84442a442cad7860f44dc2115d7c0681870d01c55a5013874f3171&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Dónde ver los Juegos Suramericanos 2026 online: así se pueden seguir minuto a minuto",
+      "description": "El evento multidisciplinario se desarrolla en la provincia de Santa Fe hasta el 26 de septiembre con más de cuatro mil deportistas de 15 países",
+      "link": "https://www.lanacion.com.ar/deportes/donde-ver-los-juegos-suramericanos-2026-online-asi-se-pueden-seguir-minuto-a-minuto-nid14092026/",
+      "publishedAt": "2026-09-14T18:13:42.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/ZEQRLBGNMVF2RK3CJIW5C2LGEU.jpg?auth=ebb5a98f8ec92d84b61f69bd8e089618da9591be087257475cb990574611d121&smart=true&width=5588&height=3718",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Fernando Contreras hizo historia en Mountain Bike con la conquista de la medalla dorada en los Juegos Suramericanos 2026",
+      "description": "En la ciudad de Rafaela, el mendocino logró izar la bandera argentina por primera vez en la disciplina",
+      "link": "https://www.lanacion.com.ar/deportes/fernando-contreras-hizo-historia-en-mountain-bike-con-la-conquista-de-la-medalla-dorada-en-los-nid14092026/",
+      "publishedAt": "2026-09-14T17:47:53.000Z",
+      "imageUrl": null,
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Cuándo juega Boca vs. San Pablo por la Copa Sudamericana 2026",
+      "description": "La revancha de los cuartos de final se disputará este martes desde las 21.30 (hora argentina) en el estadio Morumbí con arbitraje de Gustavo Tejera",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/cuando-juega-boca-vs-san-pablo-por-la-copa-sudamericana-2026-nid14092026/",
+      "publishedAt": "2026-09-14T17:36:55.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/PA2EVNTEG5HBJJ2VHMUWC6NFQI.JPG?auth=990f64ed75010e08593c97b5578039d8177f8d1391099c20ba57d4186dae9459&smart=true&width=4091&height=2728",
       "source": "La Nación Deportes"
     },
     {
@@ -39,126 +159,6 @@
       "link": "https://www.lanacion.com.ar/deportes/padel/la-definicion-del-premier-padel-en-paris-de-los-toques-magicos-de-agustin-tapia-a-la-bestialidad-de-nid14092026/",
       "publishedAt": "2026-09-14T15:02:51.000Z",
       "imageUrl": null,
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Prestianni apunta a la renovación de la selección argentina, si aprende a controlar sus impulsos",
-      "description": "El delantero, de 20 años, tiene un muy buen arranque de temporada, con ocho goles y dos asistencias en Benfica; ya debutó con Scaloni",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/prestianni-apunta-a-la-renovacion-de-la-seleccion-argentina-si-aprende-a-controlar-sus-impulsos-nid14092026/",
-      "publishedAt": "2026-09-14T15:02:03.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/736ZVNOUW5FHXLLQSO7OEKZA24.JPG?auth=9338542115de052bf26c0cbc7498b68dec0ee809e4ee101f346127899576840b&smart=true&width=830&height=1366",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Mbappé habló de los memes que lo apodan “dictador”: qué le causa gracia y qué le molesta",
-      "description": "El delantero de Real Madrid se refirió a las bromas que circulan en las redes sociales sobre su figura",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/mbappe-hablo-de-los-memes-que-lo-apodan-dictador-que-le-causa-gracia-y-que-le-molesta-nid14092026/",
-      "publishedAt": "2026-09-14T14:18:24.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/WSW33E77YFETLKHQFYARPJEGTI.JPG?auth=846229ac90b9a7d7fe715fc33cc1ccb7cb135f471cfc4a3835a9930c1fd177c6&smart=true&width=2048&height=1365",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Lamine Yamal se diferenció de la candidatura de Kylian Mbappé al Balón de Oro: “Somos los mejores, pero lo merezco yo”",
-      "description": "El talentoso español habló con Jorge Valdano y dio los argumentos por los que piensa que es el mejor futbolista del mundo",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/lamine-yamal-se-diferencio-de-la-candidatura-de-kylian-mbappe-al-balon-de-oro-somos-los-mejores-pero-nid13092026/",
-      "publishedAt": "2026-09-14T13:51:13.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/2X6EXNXUYJC4XMIOLJH3CD536U.JPG?auth=78ac408bc59f3930df6209f128fe0b9724fe7db3f293df9b7034a1d19be206b7&smart=true&width=2048&height=1365",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Polémica en una competencia de Hyrox: sufrió una incontinencia intestinal y siguió hasta ganar",
-      "description": "La atleta australiana Joanna Wietrzyk siguió adelante hasta completar el recorrido y coronarse campeona; los organizadores anunciaron que harán cambios en el reglamento",
-      "link": "https://www.lanacion.com.ar/deportes/polemica-en-una-competencia-de-hyrox-sufrio-una-incontinencia-intestinal-y-siguio-hasta-ganar-nid14092026/",
-      "publishedAt": "2026-09-14T13:50:35.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/ENCKGZQ37NH2RGONT65GXALZAA.jpg?auth=c461fc598f93f9ef354ff560c158cebf9421930a9c11fff2ed266a85645e0e22&smart=true&width=1200&height=1935",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Metropolitanos de hockey: la primera caída de San Fernando en varones y solo quedan dos líderes en mujeres",
-      "description": "En el torneo femenino, Saint Catherine’s bajó a Lomas con el triunfo por 1 a 0",
-      "link": "https://www.lanacion.com.ar/deportes/hockey/metropolitanos-de-hockey-la-primera-caida-de-san-fernando-en-varones-y-solo-quedan-dos-lideres-en-nid14092026/",
-      "publishedAt": "2026-09-14T13:50:17.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/LAOUIMN2GVF3FFLKBJXRQMQ4CU.jpg?auth=1aaae8ecad7cf70e171d38113d280d1de11daf458fe64ce313b82a76030ef14f&smart=true&width=799&height=534",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "El recuerdo de un amigo de Federico Martín Aramburú: “Conectaba con las personas haciéndote sentir importante y mirándote a los ojos”",
-      "description": "Matías Newton, excompañero del CASI, cuenta cómo está atravesando el juicio su entorno y su familia",
-      "link": "https://www.lanacion.com.ar/deportes/rugby/el-amigo-de-federico-martin-aramburu-conectaba-con-las-personas-haciendote-sentir-importante-y-nid14092026/",
-      "publishedAt": "2026-09-14T13:38:00.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/I7EVSNPI6JCYRA4XDAEZPMECXY.jpeg?auth=56638ae02b0b2df0685728c6d6bd7a0367cc0962a40b08584335623cde1b5e88&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Briatore llenó de elogios a Colapinto por su actuación en Madrid: “Hizo un trabajo magnífico el fin de semana”",
-      "description": "El piloto argentino de 23 años terminó séptimo en el circuito de Madring y sumó seis puntos para el equipo francés, que se mantiene sexto en el Mundial de Constructores con 68 unidades",
-      "link": "https://www.lanacion.com.ar/deportes/automovilismo/briatore-lleno-de-elogios-a-colapinto-por-su-actuacion-en-madrid-hizo-un-trabajo-magnifico-el-fin-de-nid13092026/",
-      "publishedAt": "2026-09-14T12:48:48.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/HES5LL32IJBRBNQUEJUBK4WMY4.jpg?auth=c5bbb7d76ca7b703db1fa49cd0ea73c3e003ec3af62274ef793b3143523818e9&smart=true&width=872&height=582",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Juicio por el crimen de Aramburú: la madre del exrugbier habló del “odio” e “impunidad” de los asesinos de su hijo",
-      "description": "“Federico se encontró con personas que eran extremadamente violentas, que salían de sus casas triplemente armadas: de odio, de armas de fuego y, da la sensación, con impunidad”, dijo Cecilia ante el tribunal que lleva adelante el proceso oral contra los dos acusados",
-      "link": "https://www.lanacion.com.ar/deportes/rugby/juicio-por-el-crimen-de-aramburu-la-madre-del-exrugbier-hablo-del-odio-e-impunidad-de-los-asesinos-nid14092026/",
-      "publishedAt": "2026-09-14T12:24:40.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/CII5HJ4C7FGCFG6CLL7D5GXZ3I.JPG?auth=e1675fe358e5fdcdc02a90b2b78dc5f01dbfbff8ca2b6297a115d4567099acab&smart=true&width=2675&height=1828",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "La radio de Pierre Gasly durante el Gran Premio de España: el enojo con su ingeniero y un pedido que nunca llegó",
-      "description": "El francés, en el final de la carrera en “Madring”, cerró la comunicación con su equipo",
-      "link": "https://www.lanacion.com.ar/deportes/automovilismo/la-radio-de-pierre-gasly-durante-el-gran-premio-de-espana-el-enojo-con-su-ingeniero-y-un-pedido-que-nid14092026/",
-      "publishedAt": "2026-09-14T12:09:06.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/EMOOKC2DVVG4LLWYNLM6PVSJNI.JPG?auth=cd203a56df3dcb81f3d45e4f716cb9bca9956e7ef1806d64f52cc45ad3a017c0&smart=true&width=5848&height=3898",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Qué se ve de nuevo en el River de Ponzio: volvieron los “ataques interiores” de Gallardo y los centros atrás",
-      "description": "Un análisis sobre los puntos positivos del equipo millonario en las tres victorias seguidas del torneo Clausura",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/que-se-ve-de-nuevo-en-el-river-de-ponzio-volvieron-los-ataques-interiores-de-gallardo-y-los-centros-nid14092026/",
-      "publishedAt": "2026-09-14T11:54:42.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/TSW7YGXGKNCQ5NCZHMBIAQINLM.jpg?auth=4f6424eea85fa7d3a2619dcfe2aec379db0e602e04c6f38072d1c0a6920f35b6&smart=true&width=1361&height=628",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Buenas noticias para Contepomi: regresos de peso en Europa pensando en los tests de noviembre",
-      "description": "Se jugó la segunda fecha del Top 14 francés, con tries argentinos y vueltas fundamentales de cara al cierre del año internacional",
-      "link": "https://www.lanacion.com.ar/deportes/rugby/buenas-noticias-para-contepomi-regresos-de-peso-en-europa-pensando-en-los-tests-de-noviembre-nid14092026/",
-      "publishedAt": "2026-09-14T11:53:19.000Z",
-      "imageUrl": null,
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Marcelo Gallardo fue presentado como nuevo entrenador de la selección de Ecuador",
-      "description": "A través de un posteo en la red social X, la Federación Ecuatoriana de Fútbol (FEF) oficializó la llegada del ex DT de River Plate; “que la gente crea, porque tiene con qué creer. Bienvenido Marcelo”, reza la publicación",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/marcelo-gallardo-fue-presentado-como-nuevo-entrenador-de-la-seleccion-de-ecuador-nid13092026/",
-      "publishedAt": "2026-09-14T06:34:26.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/44RZOX6EPVAJ3DSC4LIWIRIBRI.JPEG?auth=8c1000dffb07cd511ec46dcdda02ca75032c5ca6f4ef962876056c74314c49a0&smart=true&width=2000&height=1332",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Racing sigue sin rumbo, Huracán le ganó, profundizó su crisis y lo dejó en el fondo de la tabla",
-      "description": "El Globo se impuso por 2-1 en el Tomás Ducó",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/racing-sigue-sin-rumbo-huracan-le-gano-profundizo-su-crisis-y-lo-dejo-en-el-fondo-de-la-tabla-nid14092026/",
-      "publishedAt": "2026-09-14T03:19:55.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/PQ3AMC3IDRBPFLQT5UDRBB4IJE.JPG?auth=83fb71e41cec1d9caa5af350c4b0fdbf75ca2b4bc481bf026f051199c63fe54a&smart=true&width=2500&height=1666",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "La agenda de la TV del lunes: el torneo Clausura, la Serie A de Italia y los Juegos Suramericanos",
-      "description": "La actividad deportiva en el inicio de la semana, disponible a través de las pantallas",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-lunes-el-torneo-clausura-la-serie-a-de-italia-y-los-juegos-suramericanos-nid13092026/",
-      "publishedAt": "2026-09-14T03:05:00.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/5KBM3JYRTZCD3KTRTQJ3QU4PNM.JPEG?auth=845ef330543f7f833f8a732824b632df28be5547a70958f6df040d5a582f3015&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "El organismo arbitral de la Premier League reconoció una falla del VAR en el gol de Haaland que definió el clásico",
-      "description": "Pro Ref reconoció que el VAR no evaluó correctamente la incidencia de Enzo Fernández, quien estaba en posición adelantada, y debió recomendar una revisión en el monitor; el Manchester United perdió 1-0",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/el-organismo-arbitral-de-la-premier-league-reconocio-una-falla-del-var-en-el-gol-de-haaland-que-nid13092026/",
-      "publishedAt": "2026-09-14T02:36:03.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/KFJ3BPIFSZBJNHPJBPHIHPAFMI.JPG?auth=7615fec9838ce167b40241bc2abefc67325b1cb4490f03ac3ded2cd2417c4f8b&smart=true&width=1926&height=1284",
       "source": "La Nación Deportes"
     }
   ]
