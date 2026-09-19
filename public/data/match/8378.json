@@ -1,6 +1,10 @@
 {
   "event_id": 8378,
-  "venue": null,
+  "venue": {
+    "name": "Estadio Azteca",
+    "city": "Mexico City",
+    "capacity": 87523
+  },
   "weather": {
     "code": 3,
     "description": "rain",
