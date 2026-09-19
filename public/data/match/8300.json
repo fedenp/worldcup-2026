@@ -1,10 +1,6 @@
 {
   "event_id": 8300,
-  "venue": {
-    "name": "Lumen Field",
-    "city": "Seattle",
-    "capacity": 68740
-  },
+  "venue": null,
   "weather": {
     "code": 1,
     "description": "clear",

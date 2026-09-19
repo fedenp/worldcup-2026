@@ -1,10 +1,6 @@
 {
   "event_id": 8289,
-  "venue": {
-    "name": "BMO Field",
-    "city": "Toronto",
-    "capacity": 45700
-  },
+  "venue": null,
   "weather": {
     "code": 2,
     "description": "cloudy",
