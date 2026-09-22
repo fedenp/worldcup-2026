@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T22:58:16.179Z",
+  "updated_at": "2026-09-22T02:55:00.354Z",
   "managers": {
     "451": {
       "id": 128,
@@ -20,7 +20,7 @@
       "clean_sheet_pct": 66.7,
       "btts_pct": 23.8,
       "over_25_pct": 33.3,
-      "stats_updated_at": "2026-09-14T23:30:43.171900+00:00"
+      "stats_updated_at": "2026-09-21T23:30:44.468345+00:00"
     },
     "452": {
       "id": 87,
@@ -41,7 +41,7 @@
       "clean_sheet_pct": 37.5,
       "btts_pct": 37.5,
       "over_25_pct": 25,
-      "stats_updated_at": "2026-09-14T23:30:40.786477+00:00"
+      "stats_updated_at": "2026-09-21T23:30:41.853685+00:00"
     },
     "453": {
       "id": 105,
@@ -62,7 +62,7 @@
       "clean_sheet_pct": 26.1,
       "btts_pct": 52.2,
       "over_25_pct": 47.8,
-      "stats_updated_at": "2026-09-14T23:31:01.096960+00:00"
+      "stats_updated_at": "2026-09-21T23:31:06.254644+00:00"
     },
     "455": {
       "id": 130,
@@ -83,7 +83,7 @@
       "clean_sheet_pct": 45.8,
       "btts_pct": 37.5,
       "over_25_pct": 33.3,
-      "stats_updated_at": "2026-09-14T23:30:44.012179+00:00"
+      "stats_updated_at": "2026-09-21T23:30:45.859525+00:00"
     },
     "457": {
       "id": 122,
@@ -104,7 +104,7 @@
       "clean_sheet_pct": 27.3,
       "btts_pct": 59.1,
       "over_25_pct": 63.6,
-      "stats_updated_at": "2026-09-14T23:30:57.793443+00:00"
+      "stats_updated_at": "2026-09-21T23:31:00.236116+00:00"
     },
     "458": {
       "id": 90,
@@ -125,7 +125,7 @@
       "clean_sheet_pct": 48.3,
       "btts_pct": 34.5,
       "over_25_pct": 34.5,
-      "stats_updated_at": "2026-09-14T23:30:39.088320+00:00"
+      "stats_updated_at": "2026-09-21T23:30:40.228693+00:00"
     },
     "459": {
       "id": 571,
@@ -146,7 +146,7 @@
       "clean_sheet_pct": 55.6,
       "btts_pct": 33.3,
       "over_25_pct": 33.3,
-      "stats_updated_at": "2026-09-14T23:31:20.251594+00:00"
+      "stats_updated_at": "2026-09-21T23:31:23.983428+00:00"
     },
     "461": {
       "id": 570,
@@ -163,11 +163,11 @@
       "win_pct": 53.3,
       "avg_goals_scored": 1.77,
       "avg_goals_conceded": 1.47,
-      "avg_possession": 41.17,
+      "avg_possession": 45.29,
       "clean_sheet_pct": 30,
       "btts_pct": 56.7,
       "over_25_pct": 70,
-      "stats_updated_at": "2026-09-14T23:30:47.595906+00:00"
+      "stats_updated_at": "2026-09-21T23:30:49.765415+00:00"
     },
     "462": {
       "id": 78,
@@ -188,7 +188,7 @@
       "clean_sheet_pct": 29.6,
       "btts_pct": 63,
       "over_25_pct": 44.4,
-      "stats_updated_at": "2026-09-14T23:31:01.050851+00:00"
+      "stats_updated_at": "2026-09-21T23:31:06.208477+00:00"
     },
     "463": {
       "id": 127,
@@ -209,7 +209,7 @@
       "clean_sheet_pct": 32.3,
       "btts_pct": 54.8,
       "over_25_pct": 51.6,
-      "stats_updated_at": "2026-09-14T23:30:23.502647+00:00"
+      "stats_updated_at": "2026-09-21T23:30:25.186302+00:00"
     },
     "464": {
       "id": 89,
@@ -230,7 +230,7 @@
       "clean_sheet_pct": 60,
       "btts_pct": 33.3,
       "over_25_pct": 40,
-      "stats_updated_at": "2026-09-14T23:31:00.571242+00:00"
+      "stats_updated_at": "2026-09-21T23:31:05.402349+00:00"
     },
     "465": {
       "id": 3573,
@@ -251,7 +251,7 @@
       "clean_sheet_pct": 55.6,
       "btts_pct": 44.4,
       "over_25_pct": 66.7,
-      "stats_updated_at": "2026-09-14T23:30:28.163628+00:00"
+      "stats_updated_at": "2026-09-21T23:30:30.253945+00:00"
     },
     "466": {
       "id": 95,
@@ -272,7 +272,7 @@
       "clean_sheet_pct": 29.2,
       "btts_pct": 45.8,
       "over_25_pct": 54.2,
-      "stats_updated_at": "2026-09-14T23:31:17.882288+00:00"
+      "stats_updated_at": "2026-09-21T23:31:20.668162+00:00"
     },
     "467": {
       "id": 51,
@@ -293,7 +293,7 @@
       "clean_sheet_pct": 35.7,
       "btts_pct": 57.1,
       "over_25_pct": 64.3,
-      "stats_updated_at": "2026-09-14T23:30:47.690841+00:00"
+      "stats_updated_at": "2026-09-21T23:30:49.831727+00:00"
     },
     "468": {
       "id": 1562,
@@ -314,7 +314,7 @@
       "clean_sheet_pct": 54.2,
       "btts_pct": 41.7,
       "over_25_pct": 54.2,
-      "stats_updated_at": "2026-09-14T23:30:29.530874+00:00"
+      "stats_updated_at": "2026-09-21T23:30:31.655166+00:00"
     },
     "469": {
       "id": 102,
@@ -335,7 +335,7 @@
       "clean_sheet_pct": 26.7,
       "btts_pct": 66.7,
       "over_25_pct": 66.7,
-      "stats_updated_at": "2026-09-14T23:31:14.385803+00:00"
+      "stats_updated_at": "2026-09-21T23:31:16.333494+00:00"
     },
     "470": {
       "id": 109,
@@ -356,7 +356,7 @@
       "clean_sheet_pct": 59.3,
       "btts_pct": 37,
       "over_25_pct": 63,
-      "stats_updated_at": "2026-09-14T23:30:39.488523+00:00"
+      "stats_updated_at": "2026-09-21T23:30:40.503157+00:00"
     },
     "471": {
       "id": 96,
@@ -377,7 +377,7 @@
       "clean_sheet_pct": 45,
       "btts_pct": 45,
       "over_25_pct": 50,
-      "stats_updated_at": "2026-09-14T23:30:31.639252+00:00"
+      "stats_updated_at": "2026-09-21T23:30:34.108187+00:00"
     },
     "472": {
       "id": 103,
@@ -398,7 +398,7 @@
       "clean_sheet_pct": 53.3,
       "btts_pct": 33.3,
       "over_25_pct": 30,
-      "stats_updated_at": "2026-09-14T23:31:16.060798+00:00"
+      "stats_updated_at": "2026-09-21T23:31:18.488018+00:00"
     },
     "474": {
       "id": 555,
@@ -419,7 +419,7 @@
       "clean_sheet_pct": 100,
       "btts_pct": 0,
       "over_25_pct": 40,
-      "stats_updated_at": "2026-09-14T23:31:00.628176+00:00"
+      "stats_updated_at": "2026-09-21T23:31:05.482349+00:00"
     },
     "475": {
       "id": 116,
@@ -440,7 +440,7 @@
       "clean_sheet_pct": 57.1,
       "btts_pct": 42.9,
       "over_25_pct": 65.7,
-      "stats_updated_at": "2026-09-14T23:30:52.847824+00:00"
+      "stats_updated_at": "2026-09-21T23:30:54.254028+00:00"
     },
     "477": {
       "id": 3035,
@@ -482,7 +482,7 @@
       "clean_sheet_pct": 46.7,
       "btts_pct": 50,
       "over_25_pct": 43.3,
-      "stats_updated_at": "2026-09-14T23:30:40.642634+00:00"
+      "stats_updated_at": "2026-09-21T23:30:41.639456+00:00"
     },
     "479": {
       "id": 188,
@@ -499,11 +499,11 @@
       "win_pct": 35.3,
       "avg_goals_scored": 1.03,
       "avg_goals_conceded": 0.94,
-      "avg_possession": 46.67,
+      "avg_possession": 47.31,
       "clean_sheet_pct": 47.1,
       "btts_pct": 35.3,
       "over_25_pct": 35.3,
-      "stats_updated_at": "2026-09-14T23:30:36.852987+00:00"
+      "stats_updated_at": "2026-09-21T23:30:38.575448+00:00"
     },
     "480": {
       "id": 98,
@@ -524,7 +524,7 @@
       "clean_sheet_pct": 48.3,
       "btts_pct": 34.5,
       "over_25_pct": 34.5,
-      "stats_updated_at": "2026-09-14T23:30:54.404926+00:00"
+      "stats_updated_at": "2026-09-21T23:30:55.893770+00:00"
     },
     "481": {
       "id": 63,
@@ -545,7 +545,7 @@
       "clean_sheet_pct": 44.8,
       "btts_pct": 51.7,
       "over_25_pct": 58.6,
-      "stats_updated_at": "2026-09-14T23:30:16.399170+00:00"
+      "stats_updated_at": "2026-09-21T23:30:16.648175+00:00"
     },
     "482": {
       "id": 578,
@@ -566,7 +566,7 @@
       "clean_sheet_pct": 40,
       "btts_pct": 40,
       "over_25_pct": 90,
-      "stats_updated_at": "2026-09-14T23:30:27.979677+00:00"
+      "stats_updated_at": "2026-09-21T23:30:30.080453+00:00"
     },
     "483": {
       "id": 104,
@@ -587,7 +587,7 @@
       "clean_sheet_pct": 29.6,
       "btts_pct": 51.9,
       "over_25_pct": 51.9,
-      "stats_updated_at": "2026-09-14T23:31:11.319682+00:00"
+      "stats_updated_at": "2026-09-21T23:31:13.273972+00:00"
     },
     "484": {
       "id": 85,
@@ -608,7 +608,7 @@
       "clean_sheet_pct": 28.6,
       "btts_pct": 53.6,
       "over_25_pct": 60.7,
-      "stats_updated_at": "2026-09-14T23:30:42.815111+00:00"
+      "stats_updated_at": "2026-09-21T23:30:44.073234+00:00"
     },
     "485": {
       "id": 32,
@@ -629,7 +629,7 @@
       "clean_sheet_pct": 44.1,
       "btts_pct": 50,
       "over_25_pct": 58.8,
-      "stats_updated_at": "2026-09-14T23:30:29.683504+00:00"
+      "stats_updated_at": "2026-09-21T23:30:31.823472+00:00"
     },
     "486": {
       "id": 112,
@@ -650,7 +650,7 @@
       "clean_sheet_pct": 44.4,
       "btts_pct": 50,
       "over_25_pct": 66.7,
-      "stats_updated_at": "2026-09-14T23:31:08.272409+00:00"
+      "stats_updated_at": "2026-09-21T23:31:10.082803+00:00"
     },
     "488": {
       "id": 77,
@@ -671,7 +671,7 @@
       "clean_sheet_pct": 33.3,
       "btts_pct": 66.7,
       "over_25_pct": 83.3,
-      "stats_updated_at": "2026-09-14T23:31:17.355166+00:00"
+      "stats_updated_at": "2026-09-21T23:31:19.901538+00:00"
     },
     "489": {
       "id": 124,
@@ -692,7 +692,7 @@
       "clean_sheet_pct": 58.3,
       "btts_pct": 33.3,
       "over_25_pct": 44.4,
-      "stats_updated_at": "2026-09-14T23:30:52.095576+00:00"
+      "stats_updated_at": "2026-09-21T23:30:53.569849+00:00"
     },
     "490": {
       "id": 3877,
@@ -713,7 +713,7 @@
       "clean_sheet_pct": 36.4,
       "btts_pct": 63.6,
       "over_25_pct": 81.8,
-      "stats_updated_at": "2026-09-14T23:30:21.958902+00:00"
+      "stats_updated_at": "2026-09-21T23:30:23.787738+00:00"
     },
     "491": {
       "id": 197,
@@ -734,7 +734,7 @@
       "clean_sheet_pct": 51.4,
       "btts_pct": 48.6,
       "over_25_pct": 62.9,
-      "stats_updated_at": "2026-09-14T23:30:45.362953+00:00"
+      "stats_updated_at": "2026-09-21T23:30:48.092053+00:00"
     },
     "493": {
       "id": 108,
@@ -755,7 +755,7 @@
       "clean_sheet_pct": 54.5,
       "btts_pct": 42.4,
       "over_25_pct": 51.5,
-      "stats_updated_at": "2026-09-14T23:31:19.527098+00:00"
+      "stats_updated_at": "2026-09-21T23:31:22.947670+00:00"
     },
     "495": {
       "id": 838,
@@ -776,7 +776,7 @@
       "clean_sheet_pct": 38.1,
       "btts_pct": 47.6,
       "over_25_pct": 52.4,
-      "stats_updated_at": "2026-09-14T23:30:23.993127+00:00"
+      "stats_updated_at": "2026-09-21T23:30:25.690849+00:00"
     },
     "496": {
       "id": 88,
@@ -797,7 +797,7 @@
       "clean_sheet_pct": 28.1,
       "btts_pct": 56.2,
       "over_25_pct": 46.9,
-      "stats_updated_at": "2026-09-14T23:31:19.143353+00:00"
+      "stats_updated_at": "2026-09-21T23:31:22.439704+00:00"
     },
     "497": {
       "id": 575,
@@ -818,7 +818,7 @@
       "clean_sheet_pct": 42.9,
       "btts_pct": 50,
       "over_25_pct": 57.1,
-      "stats_updated_at": "2026-09-14T23:30:33.037705+00:00"
+      "stats_updated_at": "2026-09-21T23:30:35.323059+00:00"
     },
     "498": {
       "id": 31,
@@ -839,7 +839,7 @@
       "clean_sheet_pct": 45.5,
       "btts_pct": 45.5,
       "over_25_pct": 48.5,
-      "stats_updated_at": "2026-09-14T23:31:01.768234+00:00"
+      "stats_updated_at": "2026-09-21T23:31:07.105026+00:00"
     },
     "648": {
       "id": 583,
@@ -860,7 +860,7 @@
       "clean_sheet_pct": 43.3,
       "btts_pct": 43.3,
       "over_25_pct": 23.3,
-      "stats_updated_at": "2026-09-14T23:31:16.312986+00:00"
+      "stats_updated_at": "2026-09-21T23:31:18.697806+00:00"
     },
     "731": {
       "id": 574,
@@ -881,7 +881,7 @@
       "clean_sheet_pct": 15,
       "btts_pct": 65,
       "over_25_pct": 75,
-      "stats_updated_at": "2026-09-14T23:30:38.111435+00:00"
+      "stats_updated_at": "2026-09-21T23:30:39.511443+00:00"
     },
     "930": {
       "id": 579,
@@ -902,7 +902,7 @@
       "clean_sheet_pct": 29.2,
       "btts_pct": 66.7,
       "over_25_pct": 66.7,
-      "stats_updated_at": "2026-09-14T23:31:00.351360+00:00"
+      "stats_updated_at": "2026-09-21T23:31:04.970010+00:00"
     },
     "931": {
       "id": 580,
@@ -923,7 +923,7 @@
       "clean_sheet_pct": 22.7,
       "btts_pct": 63.6,
       "over_25_pct": 45.5,
-      "stats_updated_at": "2026-09-14T23:31:16.509732+00:00"
+      "stats_updated_at": "2026-09-21T23:31:18.884541+00:00"
     },
     "932": {
       "id": 581,
@@ -944,7 +944,7 @@
       "clean_sheet_pct": 30.8,
       "btts_pct": 53.8,
       "over_25_pct": 69.2,
-      "stats_updated_at": "2026-09-14T23:31:21.445095+00:00"
+      "stats_updated_at": "2026-09-21T23:31:25.198200+00:00"
     },
     "933": {
       "id": 582,
@@ -961,11 +961,11 @@
       "win_pct": 53.3,
       "avg_goals_scored": 1.43,
       "avg_goals_conceded": 1.17,
-      "avg_possession": 40.71,
+      "avg_possession": 41.25,
       "clean_sheet_pct": 43.3,
       "btts_pct": 43.3,
       "over_25_pct": 46.7,
-      "stats_updated_at": "2026-09-14T23:30:38.074716+00:00"
+      "stats_updated_at": "2026-09-21T23:30:39.470700+00:00"
     }
   }
 }
