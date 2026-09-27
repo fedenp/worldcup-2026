@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T22:18:46.066Z",
+  "updated_at": "2026-09-27T03:12:28.325Z",
   "managers": {
     "451": {
       "id": 2039,
@@ -254,25 +254,25 @@
       "stats_updated_at": "2026-09-21T23:30:30.253945+00:00"
     },
     "466": {
-      "id": 95,
-      "name": "Steve Clarke",
-      "short_name": "S. Clarke",
-      "country": "Scotland",
+      "id": 437,
+      "name": "Sébastien Pocognoli",
+      "short_name": "S. Pocognoli",
+      "country": "Belgium",
       "tactical_profile": "balanced",
-      "preferred_formation": "4-2-3-1",
+      "preferred_formation": "3-4-2-1",
       "current_team_id": 466,
-      "matches_total": 24,
-      "wins": 10,
-      "draws": 3,
-      "losses": 11,
-      "win_pct": 41.7,
-      "avg_goals_scored": 1.33,
-      "avg_goals_conceded": 1.33,
-      "avg_possession": 46.19,
-      "clean_sheet_pct": 29.2,
-      "btts_pct": 45.8,
-      "over_25_pct": 54.2,
-      "stats_updated_at": "2026-09-21T23:31:20.668162+00:00"
+      "matches_total": 47,
+      "wins": 20,
+      "draws": 11,
+      "losses": 16,
+      "win_pct": 42.6,
+      "avg_goals_scored": 1.66,
+      "avg_goals_conceded": 1.66,
+      "avg_possession": 50.98,
+      "clean_sheet_pct": 23.4,
+      "btts_pct": 66,
+      "over_25_pct": 66,
+      "stats_updated_at": "2026-09-21T23:31:18.770136+00:00"
     },
     "467": {
       "id": 51,
@@ -777,6 +777,27 @@
       "btts_pct": 42.4,
       "over_25_pct": 51.5,
       "stats_updated_at": "2026-09-21T23:31:22.947670+00:00"
+    },
+    "494": {
+      "id": 2069,
+      "name": "Slaven Bilić",
+      "short_name": "S. Bilić",
+      "country": "Croatia",
+      "tactical_profile": "",
+      "preferred_formation": "",
+      "current_team_id": 494,
+      "matches_total": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "win_pct": null,
+      "avg_goals_scored": null,
+      "avg_goals_conceded": null,
+      "avg_possession": null,
+      "clean_sheet_pct": null,
+      "btts_pct": null,
+      "over_25_pct": null,
+      "stats_updated_at": null
     },
     "495": {
       "id": 838,

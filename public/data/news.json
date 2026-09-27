@@ -1,19 +1,107 @@
 {
-  "updatedAt": "2026-09-26T22:18:52.850Z",
+  "updatedAt": "2026-09-27T03:12:37.140Z",
   "items": [
+    {
+      "title": "Agenda de TV y streaming del domingo: Racing-Boca por Copa Argentina, TC 2000, Copa Laver y polo",
+      "description": "Fútbol nacional e internacional, tenis, rugby, la clasificación para Tortugas y Palermo y más deporte, en televisión e internet",
+      "link": "https://www.lanacion.com.ar/deportes/agenda-de-tv-y-streaming-del-domingo-racing-boca-por-copa-argentina-tc-2000-copa-laver-y-polo-nid26092026/",
+      "publishedAt": "2026-09-27T02:35:17.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/ORSCWDLFOZAHHNCT7KIZW57LVE.jpg?auth=1025314d36dd99f13b2f18ac4d94ca55b40c8e280ae8997644164a20bb16f73b&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Abierto de Hurlingham: La Hache, cada vez más de punta, jugará la final ante La Natividad-La Dolfina",
+      "description": "Con un destacado Benjamín Panelo, le ganó por 13-12 a Ellerstina-Chapaleufú y definirá por el primer trofeo de la Triple Corona",
+      "link": "https://www.lanacion.com.ar/deportes/polo/abierto-de-hurlingham-la-hache-cada-vez-mas-de-punta-jugara-la-final-ante-la-natividad-la-dolfina-nid26092026/",
+      "publishedAt": "2026-09-27T02:14:21.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/U2JHWOXPZREHZDSW5EU3WO6FOU.jpg?auth=78c87589e6e74f4e6e365e5f2617d95328d4508f1dfa74e4d992ed1422f7f99e&smart=true&width=3000&height=2000",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "CASI hizo otra remontada en el clásico con Belgrano, pero no puede dormirse en el súper del próximo sábado",
+      "description": "Un try convertido en la última jugada lo rescató de una derrota que lo habría complicado; escolta de Newman, se encamina a los playoffs",
+      "link": "https://www.lanacion.com.ar/deportes/rugby/casi-hizo-otra-remontada-en-el-clasico-con-belgrano-pero-no-puede-dormirse-en-el-super-del-proximo-nid26092026/",
+      "publishedAt": "2026-09-27T01:15:51.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/CVVXGHYKVBB3RIHVMAKG7FU2FY.jpeg?auth=49eb1d879a082e9600f9b4c79b40bdf31ee59ceb20be2b7a4da977e875cb4b49&smart=true&width=5383&height=3589",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "SIC ganó contra el rival directo que era Los Tilos y llega fuerte al clásico con CASI por el Top 14",
+      "description": "Se impuso por 30-20 en Barrio Obrero, cortó una serie de diez victorias del conjunto platense y defendió su cuarto lugar",
+      "link": "https://www.lanacion.com.ar/deportes/rugby/sic-gano-contra-el-rival-directo-que-era-los-tilos-y-llega-fuerte-al-clasico-con-casi-por-el-top-14-nid26092026/",
+      "publishedAt": "2026-09-27T00:32:44.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/2ZABMCCBYRGARCNBYX55S7R5NA.JPEG?auth=426f2b886a6615ee083101bba1198525cd73150c706bf3db6a3a9510eaf5b8d1&smart=true&width=2000&height=1332",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "El partido del escándalo: todo lo que pasó entre Estudiantes y Rosario Central en Santiago del Estero",
+      "description": "La final por la Supercopa Internacional no terminó porque Verón retiró el equipo, pero había arrancado mucho antes del pitazo inicial de Darío Herrera",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/el-partido-del-escandalo-todo-lo-que-paso-en-el-partido-entre-estudiantes-y-rosario-central-en-nid26092026/",
+      "publishedAt": "2026-09-27T00:29:37.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/KNAPHQAVTNFSVOJLTXFEFPGHIE.jpg?auth=24c09e1c321ac093ff6cc2e7f34d3ffdb08bcb1284ca034198c4a00f418a5d46&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Estudiantes pasó de la bronca a la burla: aplausos irónicos a Chiqui Tapia y la terna arbitral",
+      "description": "En la premiación ante Central, los pincharratas eligieron la sorna para mostrar el descontento con Herrera y el presidente de la AFA",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/estudiantes-paso-de-la-bronca-a-la-burla-aplausos-ironicos-a-chiqui-tapia-y-la-terna-arbitral-nid26092026/",
+      "publishedAt": "2026-09-26T23:49:48.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/4X6JK7DVN5DLLFXJSDA2MELHDM.JPG?auth=3a1f37bf10eeb3f32bedb41a2872462c09d34fe4679e81afd1153ccbdd7affd0&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Juegos Suramericanos: actuación “histórica” para Argentina, críticas generales y figuras a futuro",
+      "description": "En Santa Fe 2026, la delegación nacional terminó debajo de Brasil; un desempeño positivo que convivió con múltiples cuestionamientos",
+      "link": "https://www.lanacion.com.ar/deportes/atletismo/juegos-suramericanos-actuacion-historica-para-argentina-criticas-generales-y-figuras-a-futuro-nid26092026/",
+      "publishedAt": "2026-09-26T23:22:51.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/EDSHOZINDBE37GWSACVYQMIH6M.JPG?auth=e9aa34a367e85f66821fcf0fb56d3f0db8419043609fec733187ac108ecc92c6&smart=true&width=2000&height=1274",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Rosario Central le ganó a Estudiantes la Supercopa Internacional tras un final escandaloso",
+      "description": "Hubo golpes de puño entre los jugadores y Juan Sebastián Verón increpó al árbitro Darío Herrera",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/estudiantes-vs-rosario-central-en-vivo-por-la-supercopa-internacional-nid26092026/",
+      "publishedAt": "2026-09-26T23:15:04.000Z",
+      "imageUrl": null,
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Di María defendió el penal que pateó y apuntó contra Estudiantes tras la pelea: “Siempre pasa lo mismo”",
+      "description": "Los jugadores se dieron golpes y empujones en la cancha que luego trasladaron a la entrada de los vestuarios; el capitán defendió al Canalla y la decisión del VAR",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/di-maria-defendio-el-penal-que-pateo-y-apunto-contra-estudiantes-tras-la-pelea-siempre-pasa-lo-mismo-nid26092026/",
+      "publishedAt": "2026-09-26T23:11:27.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/B25Z4INBEFCU7NZ5BBO2BOFFFQ.JPG?auth=163c62fd4060e6fa6cebfdaa3fb808a4817b8cce22c2069b932162db218b1a87&smart=true&width=2000&height=1322",
+      "source": "La Nación Deportes"
+    },
     {
       "title": "Rosario Central - Estudiantes: el fuerte mensaje de Sebastián Verón tras el polémico penal de VAR",
       "description": "El presidente del Pincha, desde una tribuna, aplaudió irónico el cobro del árbitro Darío Herrera y publicó un duro mensaje en las redes",
       "link": "https://www.lanacion.com.ar/deportes/futbol/rosario-central-estudiantes-el-fuerte-mensaje-de-sebastian-veron-tras-el-polemico-penal-de-var-nid26092026/",
-      "publishedAt": "2026-09-26T22:14:05.000Z",
+      "publishedAt": "2026-09-26T23:05:25.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/TI5XKCOH45ARVARZITVA4FY4GA.jpg?auth=b4567db49d52a9f4a779772c3a33ca8cef9d86968a52220161928a0880d8352f&smart=true&width=742&height=1280",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Así quedó el medallero de los Juegos Suramericanos Santa Fe 2026, con la Argentina en el segundo lugar",
+      "description": "La delegación albiceleste finalizó la competencia como escolta de Brasil, con un total de 293 preseas; así superó ampliamente las 197 que había conseguido en Santiago 2022",
+      "link": "https://www.lanacion.com.ar/deportes/asi-quedo-el-medallero-de-los-juegos-suramericanos-santa-fe-2026-con-la-argentina-en-el-segundo-nid26092026/",
+      "publishedAt": "2026-09-26T22:43:58.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/QEXMSL22KRFXJGRSFFMOBOOMMU.jpg?auth=090375195ef23d778fd6793f7338a633ee0bb5b9ba583c2193be9cdf2138084c&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Ya nadie le cree al fútbol argentino: la tarde que debería indicar el principio del fin",
+      "description": "El escándalo en la final de la Supercopa Internacional expuso aún más los manejos polémicos de Claudio Tapia en la AFA",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/ya-nadie-le-cree-al-futbol-argentino-la-tarde-que-deberia-indicar-el-principio-del-fin-nid26092026/",
+      "publishedAt": "2026-09-26T22:40:25.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/QDOJMY5PHREEZDCY4TEKPZJ4JY.jpg?auth=841eb3441410871febbae4ab8f1a52d750958786247e4ed013204320fa2681dc&smart=true&width=2000&height=1333",
       "source": "La Nación Deportes"
     },
     {
       "title": "Top 14 de URBA: Newman aseguró el primer lugar, Champagnat descenderá y sigue la pelea por los playoffs",
       "description": "CASI ganó un clásico y se mantiene escolta; SIC, Alumni e Hindú también vencieron y Los Tilos quedó casi fuera de carrera",
       "link": "https://www.lanacion.com.ar/deportes/rugby/top-14-de-urba-newman-aseguro-el-primer-lugar-champagnat-descendera-y-sigue-la-pelea-por-los-nid26092026/",
-      "publishedAt": "2026-09-26T22:13:55.000Z",
+      "publishedAt": "2026-09-26T22:15:55.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/ZSRX25VEZJDA7EF2TFHVBRZOII.jpeg?auth=9fa0f932b3398af3f60b8f4aea971ce8c6a89a592011017fe5e7e9c4fa4fd460&smart=true&width=5057&height=3371",
       "source": "La Nación Deportes"
     },
@@ -42,27 +130,11 @@
       "source": "La Nación Deportes"
     },
     {
-      "title": "Con un polémico arbitraje de Darío Herrera, dos goles de Ángel Di María y un final que incluyó golpes entre los jugadores, Rosario Central es campeón de la Supercopa Internacional",
-      "description": "Los rosarinos ganaron 3-1 con dos goles de Di María y el partido terminó en escándalo",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/estudiantes-vs-rosario-central-en-vivo-por-la-supercopa-internacional-nid26092026/",
-      "publishedAt": "2026-09-26T21:53:35.000Z",
-      "imageUrl": null,
-      "source": "La Nación Deportes"
-    },
-    {
       "title": "Así quedó la tabla de campeones del fútbol argentino, tras el título de Rosario Central en la Supercopa Internacional",
       "description": "El Canalla se consagró en Santiago del Estero tras derrotar a Estudiantes de La Plata por 3 a 1 con un doblete de Ángel Di María y un tanto de Julián Fernández",
       "link": "https://www.lanacion.com.ar/deportes/futbol/asi-quedo-la-tabla-de-campeones-del-futbol-argentino-tras-el-titulo-de-rosario-central-en-la-nid26092026/",
       "publishedAt": "2026-09-26T21:49:59.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/YIKOTKIJ4VE43DQE6L2YFF3F44.JPG?auth=48bfd9fb867d8895d2601b5a4191eed695e5d06c17e3f6dfbc56d0d6b18c0929&smart=true&width=2000&height=1296",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Di María defendió el penal que pateó y apuntó contra Estudiantes tras la pelea: “Siempre pasa lo mismo”",
-      "description": "Los jugadores se dieron golpes y empujones en la cancha que luego trasladaron a la entrada de los vestuarios; el capitán defendió al Canalla y la decisión del VAR",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/di-maria-defendio-el-penal-que-pateo-y-apunto-contra-estudiantes-tras-la-pelea-siempre-pasa-lo-mismo-nid26092026/",
-      "publishedAt": "2026-09-26T21:36:57.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/B25Z4INBEFCU7NZ5BBO2BOFFFQ.JPG?auth=163c62fd4060e6fa6cebfdaa3fb808a4817b8cce22c2069b932162db218b1a87&smart=true&width=2000&height=1322",
       "source": "La Nación Deportes"
     },
     {
@@ -87,78 +159,6 @@
       "link": "https://www.lanacion.com.ar/deportes/handball/los-gladiadores-se-quedaron-con-el-oro-en-los-juegos-suramericanos-tras-un-vibrante-empate-con-chile-nid26092026/",
       "publishedAt": "2026-09-26T20:04:48.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/QRH43UYW3NHBDB7KKXB44MQY7E.png?auth=302f42f8e2fb14aa4225814db739d66fcc7e93c61e5a7c0b1f8d14741bcb1908&smart=true&width=1155&height=419",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Hinchas de Estudiantes increparon a Darío Herrera en la previa de la final con Rosario Central: “¡Tomatela!“",
-      "description": "Los fanáticos del ‘Pincha’ mantuvieron una acalorada discusión con uno de los asistentes en el hotel donde se alojó el cuerpo arbitral",
-      "link": "https://www.lanacion.com.ar/deportes/hinchas-de-estudiantes-increparon-a-dario-herrera-en-la-previa-de-la-final-con-rosario-central-nid26092026/",
-      "publishedAt": "2026-09-26T19:05:49.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/AUXOPOGZKNCHTGUMPIGWYLXVZM.jpg?auth=0bc873ca57f7e1cd42d40526d6d6e9838fda663ce453dd4cce042b6376b54700&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Por dónde pasan Inglaterra vs. España: qué canal lo transmite en vivo y cómo ver online",
-      "description": "El encuentro correspondiente a la fecha 1 del Grupo 3 se disputa este sábado a las 15.45 (horario argentino) en Wembley, con arbitraje del italiano Davide Massa",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-inglaterra-vs-espana-que-canal-lo-transmite-en-vivo-y-como-ver-online-nid26092026/",
-      "publishedAt": "2026-09-26T18:32:41.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/EGEFOU27EJAJNHYOLDXMOT3AYA.JPG?auth=a3d92df34c474b4ecfb2bc40d9a91ab7e2e5c3339cd36905a6ffcebe5573d2ce&smart=true&width=2728&height=1818",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Real Madrid confirmó la lesión de Kylian Mbappé tras la preocupante salida del francés ante Turquía",
-      "description": "Los estudios detectaron una hiperextensión en la rodilla izquierda; el club no estableció plazos para su regreso",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/real-madrid-confirmo-la-lesion-de-kylian-mbappe-tras-la-preocupante-salida-del-frances-ante-turquia-nid26092026/",
-      "publishedAt": "2026-09-26T18:02:48.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/6H3MKIUIBFDMBMFEVKMPVI6WTA.jpg?auth=36983adabfd31528a59aef977bf4d36f56c3fe3ad7f49d382f676237d7fc93b1&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Daniel Osvaldo fue internado de urgencia tras sufrir un derrame pleural: permanece en terapia intensiva",
-      "description": "El exfutbolista ingresó en grave estado al hospital de Lavallol este jueves a la noche luego de días de un dolor agudo en el pecho; su diagnóstico es reservado",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/daniel-osvaldo-fue-internado-de-urgencia-tras-sufrir-un-derrame-pleural-permanece-en-terapia-nid25092026/",
-      "publishedAt": "2026-09-26T17:49:24.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/ST77NOKDBBHU7HMHYC7ELBLJEA.png?auth=cba7b971154255da361d5efdf5cdc1c92fa6aa81b6989112c030b2eb2bffb3eb&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Juegos Suramericanos: el tenista Lautaro Midón ganó la medalla de oro en singles y encabezó un podio pleno argentino",
-      "description": "En la final, el correntino superó a Juan Manuel La Serna, con el que juntos conquistaron la plata en el dobles masculino",
-      "link": "https://www.lanacion.com.ar/deportes/tenis/juegos-suramericanos-el-tenista-lautaro-midon-gano-la-medalla-de-oro-en-singles-y-encabezo-un-podio-nid26092026/",
-      "publishedAt": "2026-09-26T17:47:05.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/RL7BMWMVZVFWRFZOQAHNHDNBU4.jpeg?auth=8963a0fd421101d503847c08bef7c4055722f5d0f78f00b651f81fe5319e90ff&smart=true&width=1280&height=854",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "En qué canal pasan Estudiantes vs. Rosario Central por la Supercopa Internacional 2026 hoy",
-      "description": "El encuentro entre el Pincha y el Canalla se disputa este sábado a las 16 en el estadio Único Madre de Ciudades de Santiago del Estero",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-estudiantes-vs-rosario-central-por-la-supercopa-internacional-2026-hoy-nid26092026/",
-      "publishedAt": "2026-09-26T17:44:47.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/HWO4RZIVVRBCVL4AHZVXKFQDN4.jpg?auth=b45b155f87951f6f66df17246b6da5fbe76cda0ed95502cd7f9b31849898bebf&smart=true&width=6442&height=4295",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Por dónde pasan Estudiantes vs. Rosario Central y qué canal lo transmite en vivo",
-      "description": "El encuentro entre el Pincha y el Canalla se disputa este sábado a las 16 en el estadio Único Madre de Ciudades de Santiago del Estero",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-estudiantes-vs-rosario-central-y-que-canal-lo-transmite-en-vivo-nid26092026/",
-      "publishedAt": "2026-09-26T17:27:41.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/AEFFJKT3SFDPVL6V4VZZYYENE4.jpg?auth=419934dbd2ea732ab9541239d898b4f8de370b84f5d59919fac105f6c9b338be&smart=true&width=2000&height=1331",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Colapinto sabía que el objetivo era sumar puntos, pero equivocó su batalla y lo pagó caro",
-      "description": "El argentino realizó una desafortunada maniobra que sacó de carrera también a su compañero de equipo, en un momento propicio para descontarle puntos a Racing Bulls, su principal rival en la Copa de Constructores",
-      "link": "https://www.lanacion.com.ar/deportes/automovilismo/colapinto-sabia-que-el-objetivo-era-sumar-puntos-pero-equivoco-su-batalla-y-lo-pago-caro-nid26092026/",
-      "publishedAt": "2026-09-26T16:57:32.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/JL7GQHB27FBFBBD2OG2JAIPOEQ.jpg?auth=fb7ba4b2525cec15293f6ee6d86226e2efba88b2da902e2ff80ce6c9d0c9223d&smart=true&width=1920&height=1080",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "La dura sanción de la FIA que Colapinto deberá cumplir en el GP de Bahrein",
-      "description": "Los comisarios dieron a conocer la pena al piloto argentino por el accidente con Pierre Gasly en el Gran Premio de Azerbaiyán",
-      "link": "https://www.lanacion.com.ar/deportes/automovilismo/la-dura-sancion-de-la-fia-que-colapinto-debera-cumplir-en-el-gp-de-bahrein-nid26092026/",
-      "publishedAt": "2026-09-26T16:39:29.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/W47AGYHCQFHNBFNQ7JWFEUJS3U.JPG?auth=55e3ff0d75bd4ee9b494ceb123ad77a9efffee03d49aca1ac9d0b3daa3a5dbc7&smart=true&width=5522&height=3682",
       "source": "La Nación Deportes"
     }
   ]
