@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T23:23:40.775Z",
+  "updated_at": "2026-10-01T03:41:16.902Z",
   "managers": {
     "451": {
       "id": 2039,
@@ -443,25 +443,25 @@
       "stats_updated_at": "2026-09-28T23:31:04.230193+00:00"
     },
     "476": {
-      "id": 4043,
-      "name": "Humberto Frederico Silva Bettencourt",
-      "short_name": "H. F. S. Bettencourt",
-      "country": "Cape Verde",
-      "tactical_profile": "attacking",
-      "preferred_formation": "4-2-3-1",
+      "id": 4125,
+      "name": "Humberto Bettencourt",
+      "short_name": "H. Bettencourt",
+      "country": "",
+      "tactical_profile": "",
+      "preferred_formation": "",
       "current_team_id": 476,
-      "matches_total": 11,
-      "wins": 9,
-      "draws": 2,
+      "matches_total": 0,
+      "wins": 0,
+      "draws": 0,
       "losses": 0,
-      "win_pct": 81.8,
-      "avg_goals_scored": 1.91,
-      "avg_goals_conceded": 0.36,
+      "win_pct": null,
+      "avg_goals_scored": null,
+      "avg_goals_conceded": null,
       "avg_possession": null,
-      "clean_sheet_pct": 81.8,
-      "btts_pct": 18.2,
-      "over_25_pct": 45.5,
-      "stats_updated_at": "2026-09-28T23:30:47.612786+00:00"
+      "clean_sheet_pct": null,
+      "btts_pct": null,
+      "over_25_pct": null,
+      "stats_updated_at": null
     },
     "477": {
       "id": 3035,
