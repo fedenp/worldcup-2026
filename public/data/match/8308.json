@@ -13,16 +13,27 @@
   },
   "prediction": null,
   "head_to_head": {
-    "total_matches": 8,
-    "home_wins": 6,
+    "total_matches": 9,
+    "home_wins": 7,
     "draws": 1,
     "away_wins": 1,
-    "home_goals": 21,
+    "home_goals": 28,
     "away_goals": 9,
-    "avg_total_goals": 3.75,
-    "home_win_rate": 0.75,
-    "away_win_rate": 0.125,
+    "avg_total_goals": 4.111111111111111,
+    "home_win_rate": 0.7777777777777778,
+    "away_win_rate": 0.1111111111111111,
     "recent_matches": [
+      {
+        "away": "England",
+        "date": "2026-10-03T16:00:00+00:00",
+        "home": "Croatia",
+        "score": "0-7",
+        "event_id": 212654,
+        "away_score": 7,
+        "home_score": 0,
+        "away_team_id": 493,
+        "home_team_id": 494
+      },
       {
         "away": "Croatia",
         "date": "2026-06-17T20:00:00+00:00",

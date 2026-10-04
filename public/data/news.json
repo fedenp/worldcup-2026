@@ -1,28 +1,140 @@
 {
-  "updatedAt": "2026-10-03T22:37:29.839Z",
+  "updatedAt": "2026-10-04T03:52:14.795Z",
   "items": [
     {
-      "title": "Argentina vs. Burkina Faso, EN VIVO: hora, TV y formaciones",
-      "description": "En el Monumental, el equipo de Lionel Scaloni juega el segundo amistoso de la fecha FIFA",
+      "title": "Agenda de TV y streaming del domingo: Racing, Liga de Naciones y final del Abierto de Hurlingham",
+      "description": "Talleres vs. Belgrano, Alemania, Países Bajos, Portugal vs. Noruega y La Natividad-La Dolfina vs. La Hache, en el menú deportivo del día",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/agenda-de-tv-y-streaming-del-domingo-racing-liga-de-naciones-y-final-del-abierto-de-hurlingham-nid04102026/",
+      "publishedAt": "2026-10-04T03:00:48.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/PNVUGFU7ARAURCKJPOJHRMDF2A.png?auth=76865267106338505acf3f2a4f218b42fa88d26b06c45a4c0f76f069853d7280&smart=true&width=637&height=452",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Las 24 horas increíbles de Leonel Flores: dos goles con Boca y segundo partido en la selección argentina",
+      "description": "El delantero ingresó en la última media hora del 3 a 0 sobre Unión en la Bombonera y también se destacó con la Albiceleste en el Monumental",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/las-24-horas-increibles-de-leonel-flores-dos-goles-con-boca-y-segundo-partido-en-la-seleccion-nid03102026/",
+      "publishedAt": "2026-10-04T02:59:17.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/TFM3XLF5H5DGLNZFOMVPVIS2DI.jpg?auth=1a565847dcb924e8dabaf87ddf5958685dcd846f05a4da64fd0ed93bf3f53b9a&smart=true&width=6000&height=4000",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Argentina golea y respeta a sus rivales como la AFA no lo hace con los amistosos que programa",
+      "description": "Venció 7-0 a Burkina Faso, que vino con un plantel juvenil y llegó a Buenos Aires desde África con menos de cinco horas de antelación al partido",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/argentina-golea-y-respeta-a-sus-rivales-como-la-afa-no-lo-hace-con-los-amistosos-que-programa-nid03102026/",
+      "publishedAt": "2026-10-04T02:44:48.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/NZNVBNFCO5AWXFUYN5MRS5X4OQ.jpg?auth=6bff07e77384f1f280c0ca530a1a59940030c703bb88d0f2de5c292b07868a69&smart=true&width=6000&height=4000",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Por qué la goleada contra Burkina Faso ni siquiera debería servir para rebajar las sanciones de Paredes y Molina",
+      "description": "Los africanos jugaron con el Sub 23, por lo que el encuentro no debería ser considerado “Clase A”, según la escala de la FIFA",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/por-que-la-goleada-contra-burkina-faso-ni-siquiera-deberia-servir-para-rebajar-las-sanciones-de-nid03102026/",
+      "publishedAt": "2026-10-04T02:26:14.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/J6I2IB32XNFXFFQXBFNVMLYPVU.jpg?auth=642332602d97e50f0261a2b46be2c1d987bb39c9b3c83fecc95c32e8ec025ca4&smart=true&width=6000&height=4000",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Argentina goleó 7-0 a Burkina Faso en un partido que fue un papelón",
+      "description": "En el Monumental, el equipo de Lionel Scaloni hizo lo que debía ante un rival juvenil que había llegado al país apenas horas antes",
       "link": "https://www.lanacion.com.ar/deportes/futbol/argentina-vs-burkina-faso-en-vivo-nid03102026/",
-      "publishedAt": "2026-10-03T22:34:31.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/JAFL5TYVR5FPPBAM6H3RLIC2W4.jpg?auth=eb57775ed10ed73232e7524edaab331a44b71234f1b678f2a12548cf58723f0c&smart=true&width=6000&height=4000",
+      "publishedAt": "2026-10-04T02:25:07.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/BKAPM6WHNNFIPFRXWTTST6VBMU.jpg?auth=c00778a5b1019555dd2b7a8a33f77a5dddfc93031c6125d697cb1520417bbd2c&smart=true&width=6000&height=4000",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Resultado de Argentina vs. Burkina Faso: quién ganó el partido amistoso de la fecha FIFA",
+      "description": "La selección albiceleste se midió contra un rival netamente inferior, en el segundo amistoso de esta fecha FIFA; la próxima semana se despedirá Lionel Messi",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-hoy-argentina-vs-burkina-faso-y-por-donde-se-puede-ver-en-vivo-nid03102026/",
+      "publishedAt": "2026-10-04T02:15:52.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/PGEYYWWSHRBYVKHY3FCJ6ML5W4.jpg?auth=7b92733f6ec174a475230e352d954d06dfa6d44dcd2f5fe1996d5e3991e2c61d&smart=true&width=2154&height=1439",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Barracas Central se lo ganó de guapo 3-2 a Atlético Tucumán por un doblete de Nicolás Orsini",
+      "description": "El delantero había convertido su último gol en 2025, en Platense; jugó el segundo partido en su nuevo club",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/barracas-central-se-lo-gano-de-guapo-3-2-a-atletico-tucuman-por-un-doblete-de-nicolas-orsini-nid03102026/",
+      "publishedAt": "2026-10-04T01:28:46.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/QWI7FN7ZZRGPNCETQTAJED6QSY.JPG?auth=ad8f3a4dd669c9d76eed0e7740451e5e5680bee363b460a4df848760173176d0&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Burkina Faso llegó a la tarde, se sacó selfies en el Monumental, jugó un partido... y se va a la madrugada",
+      "description": "La selección africana, sin el DT original, aterrizó, descansó un par de horas, se deslumbró con el estadio y fue parte de un partido poco común",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/burkina-faso-llego-a-la-argentina-apenas-horas-antes-del-amistoso-en-el-monumental-nid03102026/",
+      "publishedAt": "2026-10-04T01:27:47.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/QXBT5YTLTNBBPH6GYFJV5GSMXQ.jpg?auth=03c082d19d6bdfcefeb4c6bfe426565ce2e9770fdf94109837649086839e7c0d&smart=true&width=6665&height=4443",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Francisco Cerúndolo vs. Daniil Medvedev: a qué hora juegan y por dónde pasan el partido del ATP 500 de Pekín",
+      "description": "El mejor tenista argentino de la actualidad y el ruso se verán las caras en la madrugada argentina de este domingo, por los cuartos de final",
+      "link": "https://www.lanacion.com.ar/deportes/tenis/francisco-cerundolo-vs-daniil-medvedev-a-que-hora-juegan-y-por-donde-pasan-el-partido-del-atp-500-de-nid03102026/",
+      "publishedAt": "2026-10-04T00:51:27.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/SKLBU6LCM5F5LH2BIFCC4P7WVY.jpg?auth=a34433e8980f83cbb55c607fad6962af4d504e56bd21301006dbc6a36493df53&smart=true&width=4096&height=2732",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "El CASI y un triunfo en el clásico que lo empuja a ir por todo: festejo con los hinchas y el sueño de cortar la racha",
+      "description": "“Ahora, vamos por todo”, dijo el pilar Hugo García, luego del triunfo ante el SIC como visitante",
+      "link": "https://www.lanacion.com.ar/deportes/rugby/el-casi-y-un-triunfo-en-el-clasico-que-lo-empuja-a-ir-por-todo-festejo-con-los-hinchas-y-el-sueno-de-nid03102026/",
+      "publishedAt": "2026-10-04T00:50:52.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/OAW5SWRN7ZDVPCNWK2AAB3LCV4.JPG?auth=b01aa524c31786f97b2a1080bd1b3bde28fe1bad2efabd5418fa59006914020d&smart=true&width=3000&height=2000",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "La fiesta fue completa: el CASI se desquitó ante el SIC y se metió en las semifinales",
+      "description": "Sostenido por una gran defensa, la Academia aseguró su lugar entre los mejores cuatro de Buenos Aires",
+      "link": "https://www.lanacion.com.ar/deportes/rugby/la-fiesta-fue-completa-el-casi-se-desquito-ante-el-sic-y-se-metio-en-las-semifinales-nid03102026/",
+      "publishedAt": "2026-10-04T00:44:02.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/Y4UTJ3GXA5CMTCR5IFOZCCKEKA.JPG?auth=ad72a8f39895e76275641aec6146aa6e5b942c46d0b2e69fb5356616c7b05e46&smart=true&width=3000&height=2000",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Una final familiar y promesa de buen polo en Hurlingham: los Cambiaso y los Castagnola contra los Ulloa y los Panelo",
+      "description": "La Natividad La Dolfina y La Hache definen el primer torneo de la Triple Corona, desde las 15",
+      "link": "https://www.lanacion.com.ar/deportes/polo/una-final-familiar-y-promesa-de-buen-polo-en-hurlingham-los-cambiaso-y-los-castagnola-contra-los-nid03102026/",
+      "publishedAt": "2026-10-04T00:34:57.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/INZ23WHK4ZBIHBHQUA5TRVZJGU.jpg?auth=164ddc3907f245763b970caa18ad4d72b5794bed978c6e23f2913ca517611e71&smart=true&width=3000&height=2000",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "¿Hay entradas para la despedida de Lionel Messi de la selección argentina? Esto es lo que se sabe",
+      "description": "El 10 se despedirá de su gente este martes 6 de octubre en el Monumental, ante Benín; el expendio de tickets desató una verdadera locura",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/hay-entradas-para-la-despedida-de-lionel-messi-de-la-seleccion-argentina-esto-es-lo-que-se-sabe-nid03102026/",
+      "publishedAt": "2026-10-03T23:45:01.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/BAMIWRL4CVGSXNC5O5DL7AO2S4.jpg?auth=4bd0ad02def682cd01df18f521664b9b1b320f05db839f3220274046abc61e5f&smart=true&width=2783&height=1855",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "A qué hora corre Franco Colapinto y por dónde se puede ver online el GP de Malasia de la Fórmula 1",
+      "description": "La 16° fecha del Gran Circo debería disputarse en Bahréin, pero fue reprogramada por la Guerra de Medio Oriente y cambió de país; el argentino de Alpine largará penúltimo",
+      "link": "https://www.lanacion.com.ar/deportes/automovilismo/a-que-hora-corre-franco-colapinto-y-por-donde-se-puede-ver-online-el-gp-de-malasia-de-la-formula-1-nid03102026/",
+      "publishedAt": "2026-10-03T23:30:32.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/IGY26FPKOVEJXB6K5U7XTWFRKI.JPG?auth=0acebeb9962cc3d5f2e300eaed19a7a0bee926f2fb7a58110d51b48829cf7869&smart=true&width=5199&height=3466",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Alexander Zverev vs. Novak Djokovic: a qué hora juegan y por dónde pasan el partido del ATP 500 de Pekín",
+      "description": "El N° 2 del ranking ATP y el máximo ganador de la historia del certamen que se disputa en China se verán las caras este domingo en los cuartos de final",
+      "link": "https://www.lanacion.com.ar/deportes/tenis/alexander-zverev-vs-novak-djokovic-a-que-hora-juegan-y-por-donde-pasan-el-partido-del-atp-500-de-nid03102026/",
+      "publishedAt": "2026-10-03T23:25:40.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/722EV4TGYFHRVKE2WO733YQWZY.JPG?auth=08325c54a42fb4975b60ceb1d5fc6138258f8670a9f6185201cf24686d8ee57a&smart=true&width=5270&height=3513",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "CASI, dueño de San Isidro: venció como visitante al SIC por 18-13 y se clasificó a los playoffs de URBA Top 14",
+      "description": "Con la defensa como puntal, la Academia se llevó un gran triunfo y estará en la definición del Top 14 de la URBA",
+      "link": "https://www.lanacion.com.ar/deportes/rugby/casi-dueno-de-san-isidro-vencio-como-visitante-al-sic-por-18-13-y-se-acerca-a-la-clasificacion-nid03102026/",
+      "publishedAt": "2026-10-03T22:55:11.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/TJJJNVLLTZG2VMHMFVB3CIYOEE.jpg?auth=7040973e75abe0807a509f3b00632a8e02095d5c94c4b18bc31c172a781d7477&smart=true&width=3000&height=2000",
       "source": "La Nación Deportes"
     },
     {
       "title": "Gran Premio Jockey Club: de último a primero, Stay Tune logró un triunfo fuera de libreto",
-      "description": "El potrillo, que no competía hace 70 días, estrenó jockey y le dio el décimo festejo en la carrera a su entrenador, Dany Etchechoury",
+      "description": "El potrillo, que no competía hace 70 días, estrenó jinete y le dio el décimo festejo en la carrera a su entrenador, Dany Etchechoury",
       "link": "https://www.lanacion.com.ar/deportes/turf/gran-premio-jockey-club-de-ultimo-a-primero-stay-tune-logro-un-triunfo-fuera-de-libreto-nid03102026/",
       "publishedAt": "2026-10-03T22:32:17.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/T3U6TLDUTJBL5FUYK44CKRLMRI.jpg?auth=b929a680e696fcf8e5ad78e58007fe7e7777ba600ba2fa5a0125d2c7a7236bf8&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Burkina Faso llegó a la Argentina apenas horas antes del amistoso en el Monumental",
-      "description": "La delegación africana aterrizó poco antes de las 16 en Ezeiza, después de viaje de casi 12 horas",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/burkina-faso-llego-a-la-argentina-apenas-horas-antes-del-amistoso-en-el-monumental-nid03102026/",
-      "publishedAt": "2026-10-03T22:27:17.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/WFAQ2OH53NBHVCWZPLJP6NTWOQ.JPG?auth=46fed631eb56fa54e3104fe8b8d976032e206ef2d9d264bb5fa19bb5f495842d&smart=true&width=2805&height=1870",
       "source": "La Nación Deportes"
     },
     {
@@ -31,14 +143,6 @@
       "link": "https://www.lanacion.com.ar/deportes/futbol/espana-le-gano-a-republica-checa-con-otro-golazo-de-lamine-yamal-y-un-equipo-a-la-altura-nid03102026/",
       "publishedAt": "2026-10-03T22:21:33.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/4HOUJ3C6OFERDG4KT4ALITVRL4.jpg?auth=29561b3702418e62c3859078ab69efbb5a404a97ad620f58da068274628433c8&smart=true&width=2048&height=1365",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "CASI, dueño de San Isidro: venció como visitante al SIC por 18-13 y se clasificó a los playoffs de URBA Top 14",
-      "description": "Con la defensa como puntal, la Academia se llevó un gran triunfo y estará en la definición del Top 14 de la URBA",
-      "link": "https://www.lanacion.com.ar/deportes/rugby/casi-dueno-de-san-isidro-vencio-como-visitante-al-sic-por-18-13-y-se-acerca-a-la-clasificacion-nid03102026/",
-      "publishedAt": "2026-10-03T22:19:38.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/TJJJNVLLTZG2VMHMFVB3CIYOEE.jpg?auth=7040973e75abe0807a509f3b00632a8e02095d5c94c4b18bc31c172a781d7477&smart=true&width=3000&height=2000",
       "source": "La Nación Deportes"
     },
     {
@@ -55,110 +159,6 @@
       "link": "https://www.lanacion.com.ar/deportes/futbol/ruben-insua-dt-san-lorenzo-tras-la-goleada-sufrida-ante-defensa-uno-tiene-que-aceptar-la-realidad-y-nid03102026/",
       "publishedAt": "2026-10-03T22:07:28.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/IW26N7HDRZFJFNHAEIUQ3XASPY.JPG?auth=f6f76aa13cc3f24c3fe0d2a8efc14bc0910c266ded4b10625d623fe17b72aba6&smart=true&width=2000&height=1430",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "En qué canal pasan Argentina vs. Burkina Faso por un amistoso internacional hoy",
-      "description": "El encuentro entre argentinos y burkineses se disputa este sábado a las 21 en el estadio Monumental, con arbitraje del chileno José Cabero",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-argentina-vs-burkina-faso-por-un-amistoso-internacional-hoy-nid03102026/",
-      "publishedAt": "2026-10-03T22:00:00.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/VYWPZH4IFRGBTPIRPISRPOREQU.jpg?auth=b7b9aab4e4d0da3167f652aaeb6cc80f64509c8ecbee7cff2a707ad32f014d0c&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Por dónde pasan Argentina vs. Burkina Faso y qué canal lo transmite en vivo",
-      "description": "La selección albiceleste recibe a un débil conjunto africano que llegará sobre la hora; se trata del segundo amistoso de los tres que tiene por fecha FIFA",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-argentina-vs-burkina-faso-y-que-canal-lo-transmite-en-vivo-nid03102026/",
-      "publishedAt": "2026-10-03T21:00:00.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/KP3CSPMTUJANZFB6VFYLTSMFTU.JPG?auth=7dc3e6cfe1b9cfede6f452833d045e8f350ab4aa650ba735e91e77dd0589c1df&smart=true&width=6139&height=4093",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Defensa y Justicia goleó a San Lorenzo 3-0: tres goles en el primer tiempo y algunas polémicas",
-      "description": "Se midieron en Florencio Varela, por la 11° fecha del torneo Clausura; hubo 3000 hinchas visitantes en el estadio Tito Tomaghello",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/defensa-y-justicia-vs-san-lorenzo-el-ciclon-recibio-tres-goles-en-el-primer-tiempo-nid03102026/",
-      "publishedAt": "2026-10-03T20:09:32.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/S7IDKYRKURCO3LIDPHLP5LTBTU.JPG?auth=dff7c8405aab741cab6661f4145f95a026c1da65e8571ca950bc6fb2998263cd&smart=true&width=2000&height=1446",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Inglaterra goleó a Croacia de visitante en un marco singular: el estadio debía estar vacío, pero se llenó de niños por una exención otorgada por la UEFA",
-      "description": "Fue un concierto de los británicos, que se impusieron por 7 a 0; los croatas estaban castigados por la UEFA y debían jugar sin público; la Federación no vendió entradas, pero llenó la cancha con menores de 14 años",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/inglaterra-goleo-a-croacia-de-visitante-en-un-marco-singular-el-estadio-debia-estar-vacio-pero-se-nid03102026/",
-      "publishedAt": "2026-10-03T18:07:33.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/IKURKHJGINEPLKUO6G56CBKBQ4.JPG?auth=f0658dd1a3257d81963d7cf4fd1a92277e344ba008b6fee3db0680d15326085b&smart=true&width=2048&height=1366",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "El comunicado del organizador de los amistosos de la selección sobre lo ocurrido con Burkina Faso",
-      "description": "El agente FIFA de Partidos Jairo Pachon brindó detalles del conflicto con los jugadores del conjunto africano para el encuentro de este sábado en River",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/el-comunicado-del-organizador-de-los-amistosos-de-la-seleccion-sobre-lo-ocurrido-con-burkina-faso-nid03102026/",
-      "publishedAt": "2026-10-03T16:47:45.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/BRVUIK55PVAJXLPVMUHN2EXV7M.png?auth=7d670a4d9caef4510768e71c089ad3f75547efe5ba648f80c2d90622f67bb539&smart=true&width=647&height=895",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "La Fórmula 1 confirmó que cerrará la temporada en Qatar y Abu Dhabi pese al conflicto en Oriente Medio",
-      "description": "Stefano Domenicali, director de la categoría, aseguró que existen las garantías necesarias para mantener las dos últimas fechas; Max Verstappen se mostró en contra e Imola continúa preparado como alternativa",
-      "link": "https://www.lanacion.com.ar/deportes/automovilismo/la-formula-1-confirmo-que-cerrara-la-temporada-en-qatar-y-abu-dhabi-pese-al-conflicto-en-oriente-nid03102026/",
-      "publishedAt": "2026-10-03T16:35:52.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/NGZH5DULJZA5TAMA5LCBVLDOGM.JPG?auth=d6edb5f437411f3e4680d34cd0c2530e882187417eb6070a010a8ca783fdb739&smart=true&width=4107&height=2738",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Enzo Fernández visitó el Hospital Garrahan: compartió la tarde con niños en tratamiento oncológico",
-      "description": "El mediocampista de la selección argentina visitó el servicio de oncología del hospital pediátrico; compartió tiempo con pacientes, familias y profesionales de salud para visibilizar la labor diaria de la institución",
-      "link": "https://www.lanacion.com.ar/deportes/enzo-fernandez-visito-el-hospital-garrahan-compartio-la-tarde-con-ninos-en-tratamiento-oncologico-nid03102026/",
-      "publishedAt": "2026-10-03T16:12:12.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/37ME5UMMCVBXHAVUVWPROWDGBQ.png?auth=59d527c95dcbe2466ab58d9fd9bc3408c0126be2db6237dd6541adf4fea68ae1&smart=true&width=1093&height=654",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Maximiliano Salas sufrió una seria lesión de rodilla y estará varios meses sin jugar",
-      "description": "El delantero de Independiente Rivadavia, que está a préstamo desde River, sufrió una rotura de ligamentos durante el encuentro que el equipo mendocino igualó ante Gimnasia en la noche del viernes",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/river-plate/maximiliano-salas-sufrio-una-seria-lesion-de-rodilla-y-estara-varios-meses-sin-jugar-nid03102026/",
-      "publishedAt": "2026-10-03T15:52:36.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/KDKZGGEBR5ESHDADG5LGVV2GYU.jpg?auth=b0fdf63d4d3b3dafbe17ad3a428c2a760638b073bdfb21e75b18ce814de4d987&smart=true&width=808&height=581",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Argentina-Burkina Faso: un amistoso confirmado ante un rival que llegará horas antes y con un plantel que es una incógnita",
-      "description": "AFA ratificó el partido de esta noche en el Monumental contra la delegación africana, que se espera aterrice a menos de seis horas del partido y con una nómina con mayoría del combinado sub 23",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/argentina-burkina-faso-un-amistoso-confirmado-ante-un-rival-que-llegara-horas-antes-y-con-un-plantel-nid03102026/",
-      "publishedAt": "2026-10-03T15:20:46.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/WFAQ2OH53NBHVCWZPLJP6NTWOQ.JPG?auth=46fed631eb56fa54e3104fe8b8d976032e206ef2d9d264bb5fa19bb5f495842d&smart=true&width=2805&height=1870",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "¿Hay entradas para la despedida de Lionel Messi de la selección argentina? Esto es lo que se sabe",
-      "description": "El 10 se despedirá de su gente este martes 6 de octubre en el Monumental, ante Benín; el expendio de tickets desató una verdadera locura",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/hay-entradas-para-la-despedida-de-lionel-messi-de-la-seleccion-argentina-esto-es-lo-que-se-sabe-nid03102026/",
-      "publishedAt": "2026-10-03T14:48:37.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/BAMIWRL4CVGSXNC5O5DL7AO2S4.jpg?auth=4bd0ad02def682cd01df18f521664b9b1b320f05db839f3220274046abc61e5f&smart=true&width=2783&height=1855",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Guillermo Barros Schelotto: “Podés jugar como quieras, pero no podés fallar en lo humano”",
-      "description": "El DT de Vélez repasó los aprendizajes que marcaron su paso por el Boca campeón de Bianchi; cómo asume el liderazgo y las críticas",
-      "link": "https://www.lanacion.com.ar/videos/guillermo-barros-schelotto-podes-jugar-como-quieras-pero-no-podes-fallar-en-lo-humano-nid03102026/",
-      "publishedAt": "2026-10-03T14:45:35.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/NDZ7Z37BJBAM7JT4YZ6KTNTCVM.JPG?auth=53d4365e174ce9a9d094e0a273e6742b360b611a88a9027910a8a1180046639a&smart=true&width=2000&height=1332",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Francisco Cerúndolo derrotó a Jakub Mensik y avanzó a los cuartos de final del ATP 500 de Pekín",
-      "description": "El argentino tuvo una sólida tarea y este domingo se medirá con Medvedev; Zverev también ganó, se enfrentará con Djokovic y se acerca al N° 1",
-      "link": "https://www.lanacion.com.ar/deportes/tenis/francisco-cerundolo-derroto-a-jakub-mensik-y-avanzo-a-los-cuartos-de-final-del-atp-500-de-pekin-nid03102026/",
-      "publishedAt": "2026-10-03T14:14:17.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/QB2RUIPSBRC6DG3C6D6JBTBDCA.jpeg?auth=01ceca3123afc63d4b6b70cfa26ce51e52ee48c256554d6a49f9cf2f0dcb2fcc&smart=true&width=4209&height=2807",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Cristiano Ronaldo echa nafta al fuego con un “like”, mientras en Portugal espera que acepte una reunión de paz con su entrenador",
-      "description": "Jorge Jesus aceptó participar de una reunión de paz impulsada por la Federación y esperan la respuesta de CR7, que reaccionó de manera llamativa a un duro cuestionamiento hacia sus compañeros",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/cristiano-ronaldo-echa-nafta-al-fuego-con-un-like-mientras-en-portugal-espera-que-acepte-una-reunion-nid03102026/",
-      "publishedAt": "2026-10-03T13:49:37.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/YGYLUZQPHFG6ZGRNNLYOGKQPAY.jpg?auth=746a0931b275b6bd34442ccbb22af74689457d559adb2e2b695e06b221dd2cf4&smart=true&width=2000&height=1334",
       "source": "La Nación Deportes"
     }
   ]
