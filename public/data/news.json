@@ -1,11 +1,107 @@
 {
-  "updatedAt": "2026-10-07T18:18:30.202Z",
+  "updatedAt": "2026-10-07T23:59:03.580Z",
   "items": [
     {
-      "title": "El posteo de despedida de Messi tras su último partido con la selección argentina",
+      "title": "La agenda de la TV del jueves: el Masters 1000 de Shanghai y la acción del básquetbol",
+      "description": "La actividad deportiva en la continuidad de la semana, disponible a través de las pantallas",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-jueves-el-masters-1000-de-shanghai-nid07102026/",
+      "publishedAt": "2026-10-08T03:01:00.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/PNVUGFU7ARAURCKJPOJHRMDF2A.png?auth=76865267106338505acf3f2a4f218b42fa88d26b06c45a4c0f76f069853d7280&smart=true&width=637&height=452",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Torneo Clausura: se definió cuándo se jugará el Superclásico Boca-River por la penúltima fecha",
+      "description": "El mayor duelo del fútbol argentino se disputará en la Bombonera",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/torneo-clausura-se-definio-cuando-se-jugara-el-superclasico-boca-river-por-la-penultima-fecha-nid07102026/",
+      "publishedAt": "2026-10-07T23:42:07.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/BPRJDDOQZJAWTDNJOFKN4KGXL4.jpg?auth=0be914a619d4eff4ed410d1d7dd977730af7f8f5f38b96cd3bc1e0b7aca34616&smart=true&width=2709&height=1806",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "La respuesta de Cristiano Ronaldo a la carta de despedida de Messi: “Una historia que quedará por siempre”",
+      "description": "La estrella de Portugal comentó en la publicación que el astro argentino realizó en redes tras su último partido en la selección",
+      "link": "https://www.lanacion.com.ar/deportes/la-respuesta-de-cristiano-ronaldo-a-la-carta-de-despedida-de-messi-una-historia-que-quedara-por-nid07102026/",
+      "publishedAt": "2026-10-07T23:41:10.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/Q5MF35KLYNBVPLHG2RC2VLW3GI.jpg?auth=126d73888edfc428c58ceb2e699909d623fb9af1b2323d36edf2255b3911f42d&smart=true&width=1048&height=653",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Agustín Giay le cambió a Soledad Pastorutti el poncho por una campera de la selección (y otras perlitas de la despedida)",
+      "description": "La cantante interpretó “Brindis” en el Monumental en honor a Messi y, además de hacer un cambio de indumentaria, se llevó a casa un divertido “souvenir” del capitán; los detalles en la nota",
+      "link": "https://www.lanacion.com.ar/deportes/agustin-giay-le-cambio-a-soledad-pastorutti-el-poncho-por-una-campera-de-la-seleccion-y-otras-nid07102026/",
+      "publishedAt": "2026-10-07T23:18:55.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/TH2CMTEFF5F7DCDFOT32QWVWVQ.JPG?auth=bb87d828b1d2fc29c5b3991f497d24e806ff5381d4ffbb1c552c3a61e2899894&smart=true&width=2500&height=1666",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "George Russell, penalizado: por los cambios en el Mercedes, el británico largará retrasado en Singapur",
+      "description": "Una situación que puede favorecer más aún a su compañero y líder del Mundial, Kimi Antonelli",
+      "link": "https://www.lanacion.com.ar/deportes/automovilismo/george-russell-penalizado-por-los-cambios-en-el-mercedes-el-britanico-largara-retrasado-en-singapur-nid07102026/",
+      "publishedAt": "2026-10-07T22:16:38.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/QGBW4NRSNZDCVIIJQUSWU7LZLE.jpg?auth=cabec5c26262917729a9d15f76b7365b8b9f87bcf9b89f933cd57b9fb7b2789a&smart=true&width=6463&height=4309",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Valtteri Bottas, piloto de F1, viajó 400 kilómetros en bicicleta para llegar al Gran Premio de Singapur",
+      "description": "Apasionado por el ciclismo, el veterano de la máxima categoría del automovilismo finalizó la carrera en Sepang, Malasia y comenzó de inmediato una travesía de tres días",
+      "link": "https://www.lanacion.com.ar/deportes/automovilismo/valtteri-bottas-piloto-de-f1-viajo-400-kilometros-en-bicicleta-para-llegar-al-gran-premio-de-nid07102026/",
+      "publishedAt": "2026-10-07T21:55:15.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/X44OAQ3R5ZHNJHOYYQWIXAAABE.png?auth=bfab1f7da38a25a5bff075812fee7e3b501a3e3a4180897ffd5d4b0f2bc2f9ad&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Tapia, el único perdedor de la despedida de Messi: la noche en que todo un estadio lo hizo retroceder",
+      "description": "Fue reprobado por el Monumental desde antes del comienzo del homenaje al capitán y tuvo que conformarse con entregarle regalos en un gimnasio; la lectura que hace la AFA y el quiebre que puede marcar el fin de una era única",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/tapia-el-unico-perdedor-de-la-despedida-de-messi-la-noche-en-que-todo-un-estadio-lo-hizo-retroceder-nid07102026/",
+      "publishedAt": "2026-10-07T20:48:34.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/YQDPQBAA6ZEYLJ6CKTV6YK3YQM.JPG?auth=272407e5bd213ba68e5c30752248904f101437be21c53bbf1484bfd8a379fa59&smart=true&width=2500&height=1667",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Lionel Messi para su papá, Jorge: “No sabés lo que te extrañamos anoche”",
+      "description": "El delantero disputó su último partido con la selección argentina y decidió compartir una emotiva publicación dedicada a su padre, quien murió el pasado 8 de agosto a los 68 años",
+      "link": "https://www.lanacion.com.ar/deportes/lionel-messi-para-su-papa-jorge-no-sabes-lo-que-te-extranamos-anoche-nid07102026/",
+      "publishedAt": "2026-10-07T20:35:07.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/IEKSSS3IZ5B45NYXPVLEOZK5WM.JPG?auth=ede5082b11e2e739e486d3b431a347c7b6d4a82f22af056f3ac885e2407d08df&smart=true&width=2500&height=1668",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "El posteo de despedida de Lionel Messi tras su último partido con la selección argentina",
       "description": "El astro se expresó en redes luego del triunfo por 3 a 0 ante Benín, donde marcó un gol y asistió en dos oportunidades",
       "link": "https://www.lanacion.com.ar/deportes/futbol/el-posteo-de-despedida-de-messi-tras-su-ultimo-partido-con-la-seleccion-argentina-nid07102026/",
-      "publishedAt": "2026-10-07T18:10:07.000Z",
+      "publishedAt": "2026-10-07T20:34:56.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/ANPIXXGCTZDEHE3FKHTM2EZEQE.jpg?auth=cd6db964e419ffc52ece42f5f8c6a2b2cf20eb686bb2ba99bd919160cc0f3e4b&smart=true&width=1200&height=800",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Máximos goleadores del mundo 2026: así está la tabla de la temporada",
+      "description": "El ranking lo domina un futbolista inglés que brilla en Nueva Zelanda; Fernando Zampedri es el argentino mejor ubicado y Lionel Messi está dentro del Top 15",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/maximos-goleadores-del-mundo-2026-asi-esta-la-tabla-de-la-temporada-nid07102026/",
+      "publishedAt": "2026-10-07T20:12:07.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/UKADBP22Z5A3PEO7OXCXVTEN64.jpg?auth=0bbd62c96fba0af1b7dd55562799332174a93931cc108b36c9905d873ebc6d4a&smart=true&width=1080&height=1350",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Amistosos de la selección argentina: qué se sabe de la fecha FIFA de noviembre",
+      "description": "En la última ventana del año el equipo dirigido por Lionel Scaloni podrá jugar un máximo de dos partidos, tal establece la FIFA",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/amistosos-de-la-seleccion-argentina-que-se-sabe-de-la-fecha-fifa-de-noviembre-nid07102026/",
+      "publishedAt": "2026-10-07T19:36:11.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/GL5SGWOCVFEUXFGLDKTNXXQS24.jpg?auth=0fb97cced965c136c333d4df5885429982028e37f3ec9edcdff4f962bc6f1314&smart=true&width=2000&height=1334",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Un diario inglés advirtió que la selección podría enfrentar otra sanción por volver mostrar la bandera de Malvinas",
+      "description": "The Sun recordó la multa previa que la FIFA le impuso al conjunto nacional cuando la misma pancarta se desplegó tras la victoria ante Inglaterra en la semifinal del Mundial",
+      "link": "https://www.lanacion.com.ar/el-mundo/un-diario-ingles-advirtio-que-la-seleccion-podria-enfrentar-otra-sancion-por-volver-mostrar-la-nid07102026/",
+      "publishedAt": "2026-10-07T19:32:30.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/XNAIBT6I7BBFXLEAEL2BCFRWIQ.jpg?auth=b8ee6c87d6d9fc09ffd81bd59c64f04c2e854e85ab4091bf7593d7276c26a1ae&smart=true&width=1051&height=682",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "La despedida de Lionel Messi, EN VIVO: los mensajes y las reacciones tras una noche inolvidable para el capitán de Argentina",
+      "description": "El N° 10 puso fin a 22 años en el conjunto nacional, con sinsabores, goles inolvidables, un Mundial y un legado que perdurará para siempre",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/la-despedida-de-lionel-messi-en-vivo-vs-benin-hora-todos-los-invitados-y-el-minuto-a-minuto-del-nid06102026/",
+      "publishedAt": "2026-10-07T19:30:00.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/ANPIXXGCTZDEHE3FKHTM2EZEQE.jpg?auth=cd6db964e419ffc52ece42f5f8c6a2b2cf20eb686bb2ba99bd919160cc0f3e4b&smart=true&width=1200&height=800",
       "source": "La Nación Deportes"
     },
@@ -23,14 +119,6 @@
       "link": "https://www.lanacion.com.ar/deportes/futbol/proximo-partido-de-la-seleccion-argentina-cuando-vuelve-a-jugar-ya-sin-lionel-messi-nid07102026/",
       "publishedAt": "2026-10-07T18:02:02.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/YQJBQTDAUBGB7NPXXXLJT2PUZA.jpg?auth=75e46bf990bab9c6118c971de7c4adccab97d1b7ad9a638ddc0855cd9ba0ad65&smart=true&width=2048&height=1365",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "La despedida de Lionel Messi, EN VIVO: los mensajes y las reacciones tras una noche inolvidable para el capitán de Argentina",
-      "description": "El N° 10 puso fin a 22 años en el conjunto nacional, con sinsabores, goles inolvidables, un Mundial y un legado que perdurará para siempre",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/la-despedida-de-lionel-messi-en-vivo-vs-benin-hora-todos-los-invitados-y-el-minuto-a-minuto-del-nid06102026/",
-      "publishedAt": "2026-10-07T17:35:00.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/KVGZFAAXOBHRVGPRAXUYB53UAE.JPG?auth=042f3082aef6e20a7553e8717d44bbe0448e02a49b6a554305d72b99a0e0c9be&smart=true&width=3974&height=2650",
       "source": "La Nación Deportes"
     },
     {
@@ -71,94 +159,6 @@
       "link": "https://www.lanacion.com.ar/deportes/futbol/en-la-noche-de-los-agradecimientos-messi-pidio-un-compromiso-nid07102026/",
       "publishedAt": "2026-10-07T16:05:21.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/XDXMAQXHRFDZZP6PDG7DIQQK2I.JPG?auth=127ce595a76b0334693a2bb83607efbb17923899c7dd0b3a3a9464ad797bc742&smart=true&width=1265&height=843",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "La reacción de los medios del mundo a la despedida de Messi de la selección argentina: “El último tango”",
-      "description": "La Gazzetta dello Sport, L’Equipe y Marca, entre otros, destacaron el gol y las dos asistencias del rosarino en el amistoso ante Benín y advirtieron que la Albiceleste “va a extrañar” a su capitán",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/la-reaccion-de-los-medios-del-mundo-a-la-despedida-de-messi-de-la-seleccion-argentina-el-ultimo-nid07102026/",
-      "publishedAt": "2026-10-07T15:40:50.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/KD6YKLSJK5DSRBQJ6GGGZDCHD4.png?auth=0e6a35412eeea3d4929b824210df8e539a7cdb987becff782a262b951c884317&smart=true&width=688&height=377",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "El show de drones en la despedida de Messi: los memes y las polémicas en redes sociales",
-      "description": "El capitán recibió innumerables muestras de afecto en plataformas digitales",
-      "link": "https://www.lanacion.com.ar/deportes/el-show-de-drones-en-la-despedida-de-messi-los-memes-y-las-polemicas-en-redes-sociales-nid07102026/",
-      "publishedAt": "2026-10-07T15:35:09.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/NQXW26HCDZC2FDP3LTT3XSPK2Y.png?auth=55023a214c2f76ec51ea797acc89233ad3a247e0d671213c302b9c5471812ae8&smart=true&width=1200&height=1201",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Coco Gauff perdió en el Abierto de China tras denunciar insultos racistas",
-      "description": "La tenista estadounidense fue derrotada 6-3, 6-3 por la belga Elise Mertens; en octavos de final le había ganado en un polémico partido a la jugadora local Sun Xinran, lo que desató una ola de críticas en redes sociales",
-      "link": "https://www.lanacion.com.ar/deportes/coco-gauff-perdio-en-el-abierto-de-china-tras-denunciar-insultos-racistas-nid07102026/",
-      "publishedAt": "2026-10-07T14:54:12.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/PFJGLYUT5BFIBHCXTJBXJOATLI.jpg?auth=e966dc8ce82d03ad666841e9d9c6c6480b8a858fb742759a845b3197ec7b1d24&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Cuántos Balones de Oro tiene Messi: años en los que lo ganó y todas las nominaciones",
-      "description": "El premio se entregó en 19 oportunidades desde que el astro argentino es futbolista profesional y estuvo casi siempre entre los finalistas",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/cuantos-balones-de-oro-tiene-messi-anos-en-los-que-lo-gano-y-todas-las-nominaciones-nid07102026/",
-      "publishedAt": "2026-10-07T14:51:56.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/AOXZMC2G3JBOBMU444EGXV5B5A.JPG?auth=856f429237656b256a4408bbc79e85911b9760220edded42fb0683d25d9be567&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Habló el excombatiente que cantó el himno en la despedida de Messi y reveló el pedido que le hizo Scaloni",
-      "description": "Fabio Santana fue el encargado de la presentación previa al partido de la selección argentina contra Benín; el artista llevó la bandera en reclamo por las islas Malvinas",
-      "link": "https://www.lanacion.com.ar/deportes/hablo-el-excombatiente-que-canto-el-himno-en-la-despedida-de-messi-y-revelo-el-consejo-que-le-dio-nid07102026/",
-      "publishedAt": "2026-10-07T14:45:52.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/XNAIBT6I7BBFXLEAEL2BCFRWIQ.jpg?auth=b8ee6c87d6d9fc09ffd81bd59c64f04c2e854e85ab4091bf7593d7276c26a1ae&smart=true&width=1051&height=682",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Balón de Oro 2026: favoritos y cuándo se entrega",
-      "description": "El premio otorgado por la revista France Football reconoce al futbolista más destacado de la temporada; Lionel Messi vuelve a estar entre los máximos candidatos",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/balon-de-oro-2026-favoritos-y-cuando-se-entrega-nid07102026/",
-      "publishedAt": "2026-10-07T14:22:03.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/5JMVV7JGNJER5HUDQUII2MMX4A.jpg?auth=6145c6b61036565e59a927e1aea52efed75b0cbba8bc8033d58d211369d82d77&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "El llanto desconsolado de Enzo Fernández al escuchar a Lionel Messi despedirse de la selección argentina",
-      "description": "El volante del Manchester City y de la selección argentina no pudo contener la emoción durante el discurso de ‘La Pulga’, un gesto que revivió la histórica carta que le dedicó en 2016.",
-      "link": "https://www.lanacion.com.ar/deportes/el-llanto-desconsolado-de-enzo-fernandez-al-escuchar-a-lionel-messi-hablar-en-su-despedida-nid06102026/",
-      "publishedAt": "2026-10-07T14:03:08.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/5X3FSO4AA5DBROYSFGGDWABJU4.jpg?auth=65e4b1a72c60462597a34be0532d0a865c4c51d334b94890d0ba100df0d94ca1&smart=true&width=1920&height=1080",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Messi reseteó a un país: “Papá, ¿por qué vas si no te quieren?”",
-      "description": "En su carrera, convivió con el abismo del desamparo, sometido a pruebas que vaya a saber cuántos hubiesen resistido, pero él nunca cambió, terco y enamorado",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/messi-reseteo-a-un-pais-papa-por-que-vas-si-no-te-quieren-nid07102026/",
-      "publishedAt": "2026-10-07T13:56:19.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/Q2YZIHI2YJDGJAO6QIRRDM5P5M.jpg?auth=1a2eab1bc55a21c995836c6c150cd88b56a57c174f3e49902df55805d95f42ad&smart=true&width=4132&height=2688",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Los ocho puntos que Jorge Jesus debía revelar y que Cristiano Ronaldo asegura que incumplió en su carta",
-      "description": "El portugués develó en su extensa carta lo que el entrenador había acordado exponer ante la prensa para cerrar el conflicto",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/los-ocho-puntos-que-jorge-jesus-debia-revelar-y-que-cristiano-ronaldo-asegura-que-incumplio-en-su-nid07102026/",
-      "publishedAt": "2026-10-07T13:51:46.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/YGYLUZQPHFG6ZGRNNLYOGKQPAY.jpg?auth=746a0931b275b6bd34442ccbb22af74689457d559adb2e2b695e06b221dd2cf4&smart=true&width=2000&height=1334",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Las reacciones de los deportistas por el retiro de Lionel Messi de la selección argentina",
-      "description": "De Pau Gasol a Sabatini, de Cachito Vigil a Vozinha, la despedida del rosarino generó mucha emoción en el mundo del deporte",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/las-reacciones-de-los-deportistas-por-el-retiro-de-lionel-messi-de-la-seleccion-argentina-nid07102026/",
-      "publishedAt": "2026-10-07T13:49:49.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/ZSGQBVGB4FG5BDIVCJAI55IDWE.jpg?auth=7f3e24fbb558b692db5636a710ea53cdde6278988a444ea8657dc3a79b89051c&smart=true&width=960&height=1280",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "La emoción de Thiago Messi durante la despedida de su papá de la selección argentina: llanto desconsolado",
-      "description": "El hijo del ex capitán argentino tuvo una reacción que se viralizó en las redes sociales por su emotividad",
-      "link": "https://www.lanacion.com.ar/deportes/la-emocion-de-thiago-messi-durante-la-despedida-de-su-papa-de-la-seleccion-argentina-llanto-nid07102026/",
-      "publishedAt": "2026-10-07T13:49:13.000Z",
-      "imageUrl": null,
       "source": "La Nación Deportes"
     }
   ]
