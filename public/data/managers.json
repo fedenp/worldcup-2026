@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T20:29:41.766Z",
+  "updated_at": "2026-10-10T03:55:10.763Z",
   "managers": {
     "451": {
       "id": 2039,
@@ -611,25 +611,25 @@
       "stats_updated_at": "2026-10-05T23:31:23.522463+00:00"
     },
     "484": {
-      "id": 85,
-      "name": "Jamal Sellami",
-      "short_name": "J. Sellami",
+      "id": 67,
+      "name": "Zaki Badou",
+      "short_name": "Z. Badou",
       "country": "Morocco",
-      "tactical_profile": "attacking",
-      "preferred_formation": "3-4-2-1",
+      "tactical_profile": "defensive",
+      "preferred_formation": "4-3-3",
       "current_team_id": 484,
-      "matches_total": 28,
-      "wins": 11,
-      "draws": 7,
-      "losses": 10,
-      "win_pct": 39.3,
-      "avg_goals_scored": 1.75,
-      "avg_goals_conceded": 1.32,
-      "avg_possession": 31.8,
-      "clean_sheet_pct": 28.6,
-      "btts_pct": 53.6,
-      "over_25_pct": 60.7,
-      "stats_updated_at": "2026-10-05T23:30:53.090079+00:00"
+      "matches_total": 4,
+      "wins": 1,
+      "draws": 3,
+      "losses": 0,
+      "win_pct": 25,
+      "avg_goals_scored": 1.25,
+      "avg_goals_conceded": 0.5,
+      "avg_possession": null,
+      "clean_sheet_pct": 50,
+      "btts_pct": 50,
+      "over_25_pct": 25,
+      "stats_updated_at": "2026-10-05T23:31:34.948735+00:00"
     },
     "485": {
       "id": 32,
