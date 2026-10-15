@@ -1,6 +1,134 @@
 {
-  "updatedAt": "2026-10-15T16:09:22.513Z",
+  "updatedAt": "2026-10-15T22:51:31.900Z",
   "items": [
+    {
+      "title": "La agenda de la TV del viernes: Boca juega por el torneo Clausura, ligas de Europa, básquetbol, tenis y rugby",
+      "description": "La actividad deportiva en el fin de la semana, disponible a través de las pantallas",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-viernes-boca-juega-por-el-torneo-clausura-ligas-de-europa-basquetbol-tenis-y-nid15102026/",
+      "publishedAt": "2026-10-15T22:46:30.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/HDAF3DJLCNHFVNJV7YNE43VMA4.JPG?auth=e020ee70015d39ec7beec1ba6e4db58e60389efc73f96ce17df81d079921900a&smart=true&width=6192&height=4128",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Las razones de la Conmebol para no habilitar a Marcos Rojo y qué hará Estudiantes de La Plata",
+      "description": "El futbolista no está inscripto para la Copa Libertadores",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/las-razones-de-la-conmebol-para-no-habilitar-a-marcos-rojo-y-que-hara-estudiantes-de-la-plata-nid15102026/",
+      "publishedAt": "2026-10-15T22:36:20.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/JIFQRVEJO5ASVG34WIH6U2XBT4.jpg?auth=8e86fa6a8c14cfcc2d2f58928c5b64a10288fd2d1d97c863a67aa60b2c23ea6f&smart=true&width=1279&height=1600",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Perlitas de Europa y Conference League: una salvada increíble, una lesión insólita, el gol olímpico y argentinos protagonistas",
+      "description": "Gianluca Prestianni dio dos asistencias y Santiago Hezze marcó el gol del triunfo de Olympiacos",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/perlitas-de-europa-y-conference-league-una-salvada-increible-una-lesion-insolita-el-gol-olimpico-y-nid15102026/",
+      "publishedAt": "2026-10-15T22:13:59.000Z",
+      "imageUrl": null,
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Andrés “Chapu” Nocioni estuvo involucrado en un choque de lanchas sobre el Río Paraná",
+      "description": "El siniestro ocurrió cerca de la isla Gato, a la altura de la ciudad correntina de Itatí; la embarcación que trasladaba al exbasquetbolista impactó contra un bote de Prefectura",
+      "link": "https://www.lanacion.com.ar/deportes/andres-chapu-nocioni-estuvo-involucrado-en-un-choque-de-lanchas-sobre-el-rio-parana-nid15102026/",
+      "publishedAt": "2026-10-15T21:02:28.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/3ZFSOBH4SBH65MZIC5BELT24OU.png?auth=61b64b82641d046729b493c435d430572b5a52eda4121bb3315f8eeb16e8db53&smart=true&width=1920&height=1080",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Lionel Messi y el Balón de Oro 2026: ¿es favorito?",
+      "description": "El argentino tiene ocho estatuillas en su haber y está entre los candidatos a ganar otra más por lo hecho en el Mundial 2026 con la selección argentina",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/lionel-messi-y-el-balon-de-oro-2026-es-favorito-nid15102026/",
+      "publishedAt": "2026-10-15T20:41:50.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/AOXZMC2G3JBOBMU444EGXV5B5A.JPG?auth=856f429237656b256a4408bbc79e85911b9760220edded42fb0683d25d9be567&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Boca vs. Talleres: cuándo juegan por el Torneo Clausura 2026",
+      "description": "El encuentro entre el xeneize y la T se disputa en la Bombonera, con arbitraje de Luis Lobo Medina y televisación de TNT Sports",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/boca-vs-talleres-cuando-juegan-por-el-torneo-clausura-2026-nid15102026/",
+      "publishedAt": "2026-10-15T20:19:05.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/RSBHCL6RE5HJ7J2WMMM7UJNZOE.jpg?auth=9c7fd1eea1239cff1e6b690d565f2c7fa9d7af89dd256c3cedf6c380712b90fa&smart=true&width=2156&height=1437",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Messi Cup 2026: cuándo se juega y todos los equipos que participan",
+      "description": "El torneo Sub 16 contará con la participación de tres clubes argentinos; River es el primer y único campeón, ya que en 2025 venció en la final a Atlético de Madrid",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/messi-cup-2026-cuando-se-juega-y-todos-los-equipos-que-participan-nid15102026/",
+      "publishedAt": "2026-10-15T20:15:07.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/3Q2FWHRS4JFJ5LBXJ3B4WU5TAA.jpg?auth=30f5e2a8eef47a1c5c16406d7f701d3fb79bdab9270562145194267855981290&smart=true&width=1680&height=2100",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Cuándo vuelve a correr Franco Colapinto en la Fórmula 1 2026",
+      "description": "La temporada tiene por delante seis GP y los próximos cuatro serán en América; el argentino marcha 12° en la tabla de posiciones de pilotos",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/cuando-vuelve-a-correr-franco-colapinto-en-la-formula-1-2026-nid15102026/",
+      "publishedAt": "2026-10-15T20:07:38.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/GAQ7JQDWPVD6BO6P6DF3QOXXLU.JPG?auth=55733e9eee71ba2d911d270b53bd48995017d0b53210d53fb1a02224426a272d&smart=true&width=6870&height=4580",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Lisandro Martínez pidió disculpas tras sus fuertes críticas a Manchester United y contó que se reunió con los dirigentes",
+      "description": "El defensor argentino publicó un nuevo comunicado después de la polémica que provocaron sus declaraciones tras la derrota ante Atlético de Madrid",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/lisandro-martinez-pidio-disculpas-tras-sus-fuertes-criticas-a-manchester-united-y-conto-que-se-nid15102026/",
+      "publishedAt": "2026-10-15T19:23:20.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/LHDGG6EFAZHD7ATGHUE2H24QQI.png?auth=5eb15ed4638740a379a01d4e5d00cfeb7c94436a2ca878317149dce87935e15d&smart=true&width=484&height=713",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Favoritos al Balón de Oro 2026, según los últimos pronósticos",
+      "description": "El premio otorgado por la revista France Football reconoce al futbolista más destacado de la temporada; Lionel Messi vuelve a estar entre los máximos candidatos",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/favoritos-al-balon-de-oro-2026-segun-los-ultimos-pronosticos-nid15102026/",
+      "publishedAt": "2026-10-15T19:11:16.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/SF3DTLNNXNEHXLWNHXLLWROSWE.jpg?auth=2e2deeec4adf73df1400c933b3ba18f9c1e47a5a75896c112b2584dbaf154bae&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Un jugador jamaiquino hizo una interminable caminata para patear un penal, falló y complicó a su equipo",
+      "description": "Trayvone Reid tuvo la chance de poner 2-0 al Mount Pleasant en la semifinal de ida de la Copa Caribeña de la Concacaf, pero el partido acabó igualado",
+      "link": "https://www.lanacion.com.ar/deportes/un-jugador-jamaiquino-hizo-una-interminable-caminata-para-patear-un-penal-fallo-y-complico-a-su-nid15102026/",
+      "publishedAt": "2026-10-15T18:52:26.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/3JF3DU6ZDRDEVD44ZPMJ2G4BQY.png?auth=d4f5e3cab24776b0e887591030d81c19d6bdf99d6ae3d6c4b9558e43222cf82e&smart=true&width=1674&height=859",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Papu Gómez compartió un inesperado guiño para Lionel Messi que llamó la atención de todos",
+      "description": "El futbolista tuvo un encuentro con el empresario Ali Bin Harmash Al Mansouri en Emiratos Árabes Unidos; durante la reunión, le firmó una camiseta de la selección argentina y difundió una fotografía con un detalle alusivo al excapitán nacional",
+      "link": "https://www.lanacion.com.ar/deportes/papu-gomez-compartio-un-inesperado-guino-para-lionel-messi-que-llamo-la-atencion-de-todos-nid15102026/",
+      "publishedAt": "2026-10-15T18:44:58.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/2IV6JM75HBHXJN4OBFBOPG6FA4.jpg?auth=b994585ad28623160be3795b5e610b6eed36845c248bf90d6d6eda7d02ae9cca&smart=true&width=1147&height=2000",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Murió la fisicoculturista chilena Marianne von Gierke a los 40 años",
+      "description": "La atleta fue ganadora del Rising Phoenix y tuvo destacadas participaciones en Mister Olympia; el National Physique Committee (NPC) confirmó la noticia; los detalles en la nota",
+      "link": "https://www.lanacion.com.ar/deportes/murio-la-fisicoculturista-chilena-marianne-von-gierke-a-los-40-anos-nid15102026/",
+      "publishedAt": "2026-10-15T18:27:28.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/D4R5YXNAKRENHCM3RFQAZXYCA4.jpg?auth=2cadfcce09acbf47d01b15e89bd91684bfe96f8b44f8985727a93afc256153f5&smart=true&width=1440&height=1917",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "“Es un Maradona”: revelaron los informes sobre Lionel Messi cuando llegó a Barcelona y uno recomendó no contratarlo",
+      "description": "Un periodista francés difundió tres evaluaciones del año 2000, cuando el rosarino tenía 13 años y había arribado a España con sus sueños a cuestas",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/es-un-maradona-revelaron-los-informes-sobre-lionel-messi-cuando-llego-a-barcelona-y-uno-recomendo-no-nid15102026/",
+      "publishedAt": "2026-10-15T17:34:24.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/NFNRZZH3KJGMLDWZDYS6APTBJU.png?auth=693501e81263f9720373447739a21cae8332b0e835afa898427dcf5e6600c831&smart=true&width=949&height=593",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Las confesiones de Brian Fernández: a qué edad comenzó a consumir drogas, el impacto de llegar a la elite y su lucha para salir adelante",
+      "description": "El delantero de 32 años, que jugó en Defensa y Justicia, Racing y el fútbol mexicano, entre otros, ofreció detalles de su vida privada y de la adicción que le impidió desarrollar a pleno su carrera",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/las-confesiones-de-brian-fernandez-a-que-edad-comenzo-a-consumir-drogas-el-impacto-de-llegar-a-la-nid15102026/",
+      "publishedAt": "2026-10-15T17:14:44.000Z",
+      "imageUrl": null,
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Partidos de hoy jueves 15 de octubre: horario y por dónde ver en vivo online",
+      "description": "Hay actividad en el Torneo Clausura, la Copa Libertadores, la Europa League y la Conference League, entre otras competencias",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/partidos-de-hoy-jueves-15-de-octubre-horario-y-por-donde-ver-en-vivo-online-nid15102026/",
+      "publishedAt": "2026-10-15T16:56:22.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/2B4FQSTSS5G2PHSDYWVP33ZT2E.jpg?auth=f7db4981e1e96d690fefd8931af66444bf03382299f01f6ff8f5604b7f2646f2&smart=true&width=2000&height=1334",
+      "source": "La Nación Deportes"
+    },
     {
       "title": "Sin gira por Asia, la selección argentina reconfiguró su doble fecha FIFA de noviembre y tiene un rival de peso en el horizonte",
       "description": "Los dos partidos se jugarían en el país, con la Bombonera, el Gigante de Arroyito y el Kempes como posibles escenarios",
@@ -31,134 +159,6 @@
       "link": "https://www.lanacion.com.ar/deportes/futbol/vinicius-junior-vive-su-peor-momento-en-real-madrid-apuntado-por-mourinho-y-marcado-por-la-salida-de-nid15102026/",
       "publishedAt": "2026-10-15T14:01:55.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/HWDISUECXZCINJGHBVXRQ3KKTM.JPG?auth=7740d3ede435f1f08a46e7b0c73ce619be35601febe0ad765da1e2de8f9ccd2b&smart=true&width=8256&height=5504",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Así está el cuadro de semifinales del Masters 1000 de Shanghai",
-      "description": "Alexander Zverev y Alejandro Davidovich Fokina se metieron en la ronda de los cuatro mejores; faltan jugar Rafael Jódar vs. Casper Ruud y Daniil Medvedev vs. Tommy Paul",
-      "link": "https://www.lanacion.com.ar/deportes/tenis/asi-esta-el-cuadro-de-semifinales-del-masters-1000-de-shanghai-nid15102026/",
-      "publishedAt": "2026-10-15T13:54:57.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/VBPJOBC5JZGKXEE255XXXJNFRU.JPG?auth=5e2b5bfc4644f532a65e25fd411500a8742a40a5cfd592a0b27b5c4f575b4e14&smart=true&width=4023&height=2682",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Un compañero de Franco Colapinto en Alpine podría perder su licencia de conducir: el insólito motivo",
-      "description": "Paul Aron sería sancionado por no presentarse a las revisiones médicas obligatorias del servicio militar de su país",
-      "link": "https://www.lanacion.com.ar/deportes/un-companero-de-franco-colapinto-en-alpine-podria-perder-su-licencia-de-conducir-el-insolito-motivo-nid15102026/",
-      "publishedAt": "2026-10-15T13:51:54.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/ZRKBZLCM2FFOXHZ6TIBUJJAKDU.JPG?auth=de9d77f19238650bb4ce2d6db9ec77b6e3afb958ae4aa3617dcc2fcdf4cc4169&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "El posteo de Lisandro Martínez después del escándalo en Manchester United: “Los jugadores debemos dar la talla y asumo esa responsabilidad”",
-      "description": "El defensor argentino posteó un mea culpa en sus redes sociales, que se suceden a las fuertes declaraciones que realizó luego de la derrota de su equipo ante Atlético de Madrid, en las que había cuestionado a su directiva",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/el-posteo-de-lisandro-martinez-despues-del-escandalo-en-manchester-united-los-jugadores-debemos-dar-nid15102026/",
-      "publishedAt": "2026-10-15T13:50:45.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/SVBTOWOQXNAFFECZLPZK3VPPLM.JPG?auth=d43be08cc3c997527a11d48dee3aeff3997880ad2e8310c84013ca4efb7b5f0a&smart=true&width=6554&height=4867",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Lautaro Martínez se desgarró y estará inactivo durante más de un mes: problemas para Inter y la selección",
-      "description": "Lo confirmó el club de Milán: el atacante bahiense se perderá muchos partidos trascendentes",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/lautaro-martinez-se-desgarro-y-estara-inactivo-durante-mas-de-un-mes-problemas-para-inter-y-la-nid15102026/",
-      "publishedAt": "2026-10-15T11:50:35.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/4ITSL5XLS5FPFFNMW42GLUM72M.JPG?auth=a6a05d34c5272fbc92acb5da28eba5781b0b6532a3e8b99389c112299e47d476&smart=true&width=8256&height=5504",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Murió la fisicoculturista chilena Marianne von Gierke a los 40 años",
-      "description": "La atleta fue ganadora del Rising Phoenix y tuvo destacadas participaciones en Mister Olympia; el National Physique Committee (NPC) confirmó la noticia",
-      "link": "https://www.lanacion.com.ar/deportes/murio-la-fisicoculturista-chilena-marianne-von-gierke-a-los-40-anos-nid15102026/",
-      "publishedAt": "2026-10-15T11:12:41.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/D4R5YXNAKRENHCM3RFQAZXYCA4.jpg?auth=2cadfcce09acbf47d01b15e89bd91684bfe96f8b44f8985727a93afc256153f5&smart=true&width=1440&height=1917",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "El fuerte reclamo de Nicolás Otamendi a Santiago Beltrán en el empate de River con Sarmiento: “¡Salí una vez!”",
-      "description": "El defensor le cuestionó a su arquero que no salió de su arco para cortar una jugada, que terminó en lateral para el equipo local",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/el-fuerte-reclamo-de-nicolas-otamendi-a-santiago-beltran-en-el-empate-de-river-con-sarmiento-sali-nid15102026/",
-      "publishedAt": "2026-10-15T06:01:02.000Z",
-      "imageUrl": null,
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "River, como ya le pasó en otros momentos culminantes del año, sigue sin dar el estirón",
-      "description": "Empató 1-1 en Junín ante Sarmiento; todavía está fuera de la zona de play-off, no acortó distancia para los puestos de la Copa Libertadores y quedó muy lejos del título de la Tabla Anual",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/river-como-ya-le-paso-en-otros-momentos-culminantes-del-ano-sigue-sin-dar-el-estiron-nid14102026/",
-      "publishedAt": "2026-10-15T03:26:59.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/RXKTD3RVV5HG3HOPW2F3CKRMQ4.jpg?auth=a5100752d470103095476679c5a61f12adf44cb8a750cc116975a1f95e177a8b&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Con un gol de Flaco López, Palmeiras le ganó a Fluminense la ida de su semifinal de Copa Libertadores",
-      "description": "El delantero anotó el primer tanto en el 2-1 del Verdão como visitante; la serie se definirá el miércoles próximo en San Pablo",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/con-un-gol-de-flaco-lopez-palmeiras-le-gano-a-fluminense-la-ida-de-su-semifinal-de-copa-libertadores-nid15102026/",
-      "publishedAt": "2026-10-15T03:12:17.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/RJGOSGCAYJC7ZBUAY72O4CQV2A.jpg?auth=71770b534cc82bb331015009be6f877557ec654159f276685e79e8aab7fe078c&smart=true&width=2121&height=1414",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Ponzio dijo que quedó “conforme” con el partido de River ante Sarmiento y que pelear por la tabla anual es algo que “se verá”",
-      "description": "Tras el empate en Junín, el Millonario quedó a cinco puntos de la clasificación a la Libertadores a falta de cuatro fechas, entre las cuales enfrentará a Boca y Racing",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/ponzio-dijo-que-quedo-conforme-con-el-partido-de-river-ante-sarmiento-y-que-pelear-por-la-tabla-nid14102026/",
-      "publishedAt": "2026-10-15T03:08:18.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/7QAORB52IRH67LWOUDQHUM2THM.jpg?auth=9e6dc27de528052b3719b3af7cc98011f3e79447f66ac2783c26142915962c87&smart=true&width=2480&height=1703",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "La agenda de la TV del jueves: Estudiantes-Flamengo por la Copa Libertadores, y la acción de la Europa League",
-      "description": "La actividad deportiva en la continuidad de la semana, disponible a través de las pantallas",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-jueves-estudiantes-flamengo-por-la-copa-libertadores-y-la-accion-de-la-europa-nid14102026/",
-      "publishedAt": "2026-10-15T03:06:00.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/DSWSSFR7EJHB7IUHQID7IIZAGU.jpg?auth=12c2e7ac80072d35b6e1547d3d8d679c893d1577ec43eb74d0cf75db4b7b503e&smart=true&width=2000&height=1334",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Inter Miami festejó y sacó pasaje a los playoffs, con cinco partidos para el final de la etapa regular",
-      "description": "Con goles de Berterame y De Paul derrotó por 2 a 0 a New York City; Messi jugó todo el partido y participó en los dos tantos",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/inter-miami-festejo-y-saco-pasaje-a-los-playoffs-con-cinco-partidos-para-el-final-de-la-etapa-nid15102026/",
-      "publishedAt": "2026-10-15T03:00:02.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/NXMEXSPGQVGWXIBJ564XKS5KOU.jpg?auth=955a40aaf275d5899d6e6fb5c6e6803cf6df448616a248f3847e61f21f4ca43c&smart=true&width=3900&height=2600",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Fecha del Superclásico del Torneo Clausura 2026",
-      "description": "El partido más importante de la primera etapa del certamen local será en el marco de la fecha 15 y se disputará en la Bombonera, con árbitro a designar",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/fecha-del-superclasico-del-torneo-apertura-2026-nid14102026/",
-      "publishedAt": "2026-10-15T02:21:43.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/XVEZLEDE5VG33DFFPJMMXFO45A.jpg?auth=687294761ae2d362a516c6ade358f1bc83d1d88978c5f8f1b65bc0428714162c&smart=true&width=6000&height=4000",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Boca vs. Talleres, por el Torneo Clausura 2026: día, horario, TV y cómo ver online",
-      "description": "El encuentro está programado para este viernes a las 21.30 en la Bombonera, con arbitraje de Luis Lobo Medina y televisación de TNT Sports",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/boca-vs-talleres-por-el-torneo-clausura-2026-dia-horario-tv-y-como-ver-online-nid14102026/",
-      "publishedAt": "2026-10-15T02:20:52.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/GUFKI5VYLBDTJJACKJ5IYR2NCU.JPEG?auth=f44b54a8b86d9b621dea2d7cd5b14a7086db503dc96ae8c7c98eaa004ea2cf91&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "La historia de los 15 hijos y 14 nietos de Locomotora Castro: “Yo tenía que poblar la Argentina”",
-      "description": "El excampeón mundial de boxeo dejó un legado familiar numeroso y heterogéneo; su vida privada se caracterizó por una dinámica particular con sus herederos",
-      "link": "https://www.lanacion.com.ar/deportes/la-historia-de-los-15-hijos-y-14-nietos-de-locomotora-castro-yo-tenia-que-poblar-la-argentina-nid14102026/",
-      "publishedAt": "2026-10-15T02:17:56.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/ICKE4VNIDNB2PM6LW4BYEKDMPA.jpg?auth=aaf349794c0046bbc27634d086ee6453a66525bd20634a0c3a061126e679f441&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Fue campeón con Racing en 2001, dejó el fútbol y abrió un bar en Brasil: “No volví a encontrar una pasión así”",
-      "description": "Martín Vitali integró el plantel que terminó con una sequía de 35 años sin títulos locales; después de jugar en España y Chipre, se retiró del fútbol profesional y encontró nuevos desafíos en la gastronomía, la construcción y el mundo de los autos",
-      "link": "https://www.lanacion.com.ar/deportes/fue-campeon-con-racing-en-2001-dejo-el-futbol-y-abrio-un-bar-en-brasil-no-volvi-a-encontrar-una-nid14102026/",
-      "publishedAt": "2026-10-15T02:12:05.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/Y24MMQQUHBAZ5DSCQDHQKDKA3Y.jpg?auth=cf56cdd312381d8d8016acadf4557ab391cc4252300954dc04163ae98fa51053&smart=true&width=300&height=317",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Con Lionel Messi de titular, Inter Miami derrotó a New York City y se clasificó a los playoffs de la MLS",
-      "description": "Con el triunfo, el equipo del Kily González logró avanzar a la próxima instancia a falta de cinco fechas del final de la temporada regular",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/lionel-messi-en-inter-miami-vs-new-york-city-fc-en-vivo-nid14102026/",
-      "publishedAt": "2026-10-15T02:00:18.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/67OYRPXYFJFDFDTW4POOGGH5SQ.jpg?auth=82b2e9821fde098da80e3528d0601b8107d392b0a78e46ff9ab20289e34c0b74&smart=true&width=4182&height=2788",
       "source": "La Nación Deportes"
     }
   ]
