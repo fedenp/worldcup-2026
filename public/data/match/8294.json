@@ -5,9 +5,37 @@
     "city": "Foxborough",
     "capacity": 66829
   },
-  "weather": null,
+  "weather": {
+    "code": 2,
+    "description": "cloudy",
+    "wind_speed": 0.8,
+    "temperature_c": 12
+  },
   "prediction": null,
-  "head_to_head": null,
+  "head_to_head": {
+    "total_matches": 1,
+    "home_wins": 0,
+    "draws": 0,
+    "away_wins": 1,
+    "home_goals": 0,
+    "away_goals": 1,
+    "avg_total_goals": 1,
+    "home_win_rate": 0,
+    "away_win_rate": 1,
+    "recent_matches": [
+      {
+        "away": "Scotland",
+        "date": "2026-06-14T01:00:00+00:00",
+        "home": "Haiti",
+        "score": "0-1",
+        "event_id": 8294,
+        "away_score": 1,
+        "home_score": 0,
+        "away_team_id": 466,
+        "home_team_id": 465
+      }
+    ]
+  },
   "average_positions": {
     "away": [
       {
