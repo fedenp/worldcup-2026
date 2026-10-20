@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-20T03:03:18.857Z",
+  "updatedAt": "2026-10-20T09:04:12.591Z",
   "items": [
+    {
+      "title": "Un futbolista brasileño acusó a Flávio Bolsonaro de quedarse con su isla privada: “No quería venderla”",
+      "description": "Richarlison aseguró que el candidato a presidente se apoderó de su propiedad en Angra dos Reis; la defensa del senador le respondió",
+      "link": "https://www.lanacion.com.ar/el-mundo/un-futbolista-brasileno-acuso-a-flavio-bolsonaro-de-quedarse-con-su-isla-privada-no-queria-venderla-nid20102026/",
+      "publishedAt": "2026-10-20T06:19:06.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/RMJZEPZVHNFH7OAAEBXQLDOCN4.JPG?auth=f9efa0ec07bd475c83d0eac7fd92badeeb8bb03917cae40d7638e5f02aa9da65&smart=true&width=2000&height=1331",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Sarmiento le ganaba a Barracas Central con un golazo, pero el VAR llamó al árbitro Zamora para anularlo",
+      "description": "Hubo un polémico trazado de líneas en el tanto de Marabel, que hubiera significado el 2-1 para el equipo de Junín; el juez había echado a Suárez por una falta que no fue y debió corregir el fallo",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/sarmiento-le-ganaba-a-barracas-central-con-un-golazo-pero-el-var-llamo-al-arbitro-zamora-para-nid19102026/",
+      "publishedAt": "2026-10-20T03:35:53.000Z",
+      "imageUrl": null,
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "La agenda de la TV del martes: Boca va por la revancha en la Copa Sudamericana, y PSG-Barcelona en la Champions League",
+      "description": "La actividad deportiva en la continuidad de la semana, disponible a través de las pantallas",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-martes-boca-va-por-la-revancha-en-la-copa-sudamericana-y-psg-barcelona-en-la-nid19102026/",
+      "publishedAt": "2026-10-20T03:05:00.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/FQU4AXO5XFDYFMXD4UDSPALDVM.jpg?auth=9cac14ad088e6e7f75b0be0ad1bed5126204caa2efbf584eb7f4d9629655b550&smart=true&width=4794&height=3196",
+      "source": "La Nación Deportes"
+    },
     {
       "title": "Así están los cruces de octavos de final del Torneo Clausura 2026, tras la fecha 13",
       "description": "Instituto de Córdoba es el único clasificado y quedan 15 lugares para 25 equipos; cuatro clubes ya están eliminados",
@@ -39,22 +63,6 @@
       "link": "https://www.lanacion.com.ar/deportes/futbol/el-presidente-de-almirante-brown-defendio-a-claudio-tapia-y-luciano-nakis-con-una-fuerte-frase-nid19102026/",
       "publishedAt": "2026-10-20T01:38:32.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/LWYWLR4EUJDEJJL2QVDMIT7M5A.jpeg?auth=720f6e569293ae5a39c897cd0dd7b939cade61ecbcc7d81357bd2d36e3dcc56e&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Sarmiento le ganaba a Barracas Central con un golazo, pero el VAR llamó al árbitro Zamora para anularlo",
-      "description": "Dudoso trazado de líneas en el tanto de Marabel, que hubiera significado el 2-1 para el equipo de Junín; el juez había echado a Suárez por una falta que no fue y debió corregir el fallo",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/sarmiento-le-ganaba-a-barracas-central-con-un-golazo-pero-el-var-llamo-al-arbitro-zamora-para-nid19102026/",
-      "publishedAt": "2026-10-20T00:48:57.000Z",
-      "imageUrl": null,
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "La agenda de la TV del martes: Boca va por la revancha en la Copa Sudamericana, y PSG-Barcelona en la Champions League",
-      "description": "La actividad deportiva en la continuidad de la semana, disponible a través de las pantallas",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-martes-boca-va-por-la-revancha-en-la-copa-sudamericana-y-psg-barcelona-en-la-nid19102026/",
-      "publishedAt": "2026-10-20T00:01:10.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/FQU4AXO5XFDYFMXD4UDSPALDVM.jpg?auth=9cac14ad088e6e7f75b0be0ad1bed5126204caa2efbf584eb7f4d9629655b550&smart=true&width=4794&height=3196",
       "source": "La Nación Deportes"
     },
     {
@@ -151,14 +159,6 @@
       "link": "https://www.lanacion.com.ar/deportes/futbol/premier-insolita-brentford-recurrio-a-la-policia-despues-de-que-una-pelota-de-rugby-fuera-pateada-nid19102026/",
       "publishedAt": "2026-10-19T17:42:22.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/FMG3V6CTKNCPFCPR3DJBCQLIUA.png?auth=972bd8cfa41d65390960df1b879ab5de13b6ffd21938adbf2feedc8b8472554b&smart=true&width=1600&height=900",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Boca vs. Vasco Da Gama: cuándo juegan por las semifinales de la Copa Sudamericana 2026",
-      "description": "La revancha tendrá lugar este martes en el estadio Maracaná con arbitraje de Jesús Valenzuela; en la ida se impusieron los brasileños 1 a 0",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/boca-vs-vasco-da-gama-cuando-juegan-por-las-semifinales-de-la-copa-sudamericana-2026-nid19102026/",
-      "publishedAt": "2026-10-19T17:09:52.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/BM44P5K32ZDPDNPPRPSDWLDJBA.jpg?auth=b7a1c858a572f88853abe30f6689cd8b3faf197f59e7e05b537815d897e3cb05&smart=true&width=6370&height=4247",
       "source": "La Nación Deportes"
     }
   ]
