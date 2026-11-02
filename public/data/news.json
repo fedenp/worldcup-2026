@@ -1,12 +1,108 @@
 {
-  "updatedAt": "2026-11-01T23:18:19.166Z",
+  "updatedAt": "2026-11-02T03:56:33.059Z",
   "items": [
     {
-      "title": "Gran Premio de México: Kimi Antonelli se consagró campeón a los 20 años y Franco Colapinto terminó octavo",
+      "title": "La agenda de la TV del lunes: el torneo Clausura, las ligas de Europa y el Masters 1000 de París",
+      "description": "La actividad deportiva en el inicio de la semana, disponible a través de las pantallas",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-lunes-el-torneo-clausura-las-ligas-de-europa-y-el-masters-1000-de-paris-nid02112026/",
+      "publishedAt": "2026-11-02T03:46:39.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/6GKLC7L2L5BNBEBF7SO5LFU4CM.jfif?auth=9a7e7f4d602182e0ffc5ccbdc8795055a3baecaf1ff99cfc08dde1863f7f6320&smart=true&width=1638&height=2048",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Tras una excelente carrera, Colapinto había terminado 8° en México, pero luego sufrió una dura sanción",
+      "description": "Ganó Max Verstappen y se coronó campeón el italiano Kimi Antonelli, y el argentino Franco fue penado por la FIA",
+      "link": "https://www.lanacion.com.ar/deportes/automovilismo/tras-una-excelente-carrera-colapinto-habia-terminado-8-en-mexico-pero-luego-sufrio-una-dura-sancion-nid02112026/",
+      "publishedAt": "2026-11-02T03:27:13.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/PIAO5KCP4BFE3JNZ4XQ53NMI2Y.jpg?auth=61da22949ed952c0e597ffdc2443178f9655729eb7286345058476db6eb453cc&smart=true&width=5674&height=3783",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "A Ramírez le quedó grande el Superclásico: dos rojas correctas a River, pero sin el mismo criterio con Boca",
+      "description": "El árbitro no tuvo una vara parecida ante situaciones similares, el trámite del encuentro se le fue de las manos y su actuación dejó múltiples reclamos en la victoria xeneize.",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/a-ramirez-le-quedo-grande-el-superclasico-dos-rojas-correctas-a-river-pero-sin-el-mismo-criterio-con-nid01112026/",
+      "publishedAt": "2026-11-02T02:58:34.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/PB5K26M765GKTC3AAVKPV53TSI.jpg?auth=5ffc681f51c038073b7072b04b2d81d95fd21c30d558e4ec6a6e123a49d3dbd3&smart=true&width=2000&height=1334",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Lionel Messi apareció en el momento más caliente: gambeta en una baldosa y zurdazo de gol para que gane Inter Miami",
+      "description": "Ganó por 2-1 ante New England Revolution y se quedó con el segundo lugar de la Conferencia Este de la MLS",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/lionel-messi-en-new-england-revolution-inter-miami-en-vivo-nid01112026/",
+      "publishedAt": "2026-11-02T02:50:33.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/GHMEUVE65BFFTGYLN3X3VPHOQU.jpg?auth=0b8c65d5bb6a5979084a1dd68a6e1acf0cd77a8760914f82da1f3291bf79f75f&smart=true&width=4412&height=2941",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Las posiciones del torneo Clausura y una Tabla Anual al rojo vivo: la situación de Boca y River tras el superclásico",
+      "description": "Además, cómo están el ingreso a las copas Libertadores y Sudamericana, y la clasificación a los playoffs",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/las-posiciones-del-torneo-clausura-y-una-tabla-anual-al-rojo-vivo-la-situacion-de-boca-y-river-tras-nid01112026/",
+      "publishedAt": "2026-11-02T02:18:12.000Z",
+      "imageUrl": null,
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Cómo le fue a Franco Colapinto en el GP de México de Fórmula 1 2026",
+      "description": "El argentino terminó octavo, pero recibió una dura sanción por no reducir lo suficiente la velocidad en un sector con bandera amarilla",
+      "link": "https://www.lanacion.com.ar/deportes/automovilismo/como-le-fue-a-franco-colapinto-en-el-gp-de-mexico-de-formula-1-2026-nid01112026/",
+      "publishedAt": "2026-11-02T02:14:26.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/NQRO7MS7DVDLDN4W5VWV7MPPHM.jpg?auth=dca99db4fff0ccb19fd1525f0b32dc7fcd5c34c19d1c0cda28731e7a33afbcc4&smart=true&width=2409&height=1607",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Gran Premio de México: Kimi Antonelli se consagró campeón a los 20 años y Franco Colapinto fue sancionado",
       "description": "Ganó Max Verstappen, detrás llegó Lewis Hamilton y cerró el podio el italiano, en la cima de la Fórmula 1 con Mercedes",
       "link": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-el-gran-premio-de-mexico-en-vivo-nid01112026/",
-      "publishedAt": "2026-11-01T23:15:49.000Z",
+      "publishedAt": "2026-11-02T02:12:47.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/LQZCRMYBV5EJPJFKEMPW7EJHUI.JPG?auth=11801febfda9d6a475947b60506739eae485e2a188bd1f64863582ff0f16ba4a&smart=true&width=4098&height=2732",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Así quedó la Tabla Anual 2026, tras el triunfo de Boca sobre River en el Superclásico",
+      "description": "Belgrano, que fue el campeón del Apertura, es el único que ya tiene asegurada su participación en el plano internacional del año que viene",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/asi-quedo-la-tabla-anual-2026-tras-el-triunfo-de-boca-sobre-river-en-el-superclasico-nid01112026/",
+      "publishedAt": "2026-11-02T01:42:39.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/4AN2RWK46VEMLJVAPIGARSUJHE.JPG?auth=c1db4a4e5f754ec7b49baea4de98fe1f611c4f042b50e4639ff3a8657b493107&smart=true&width=1999&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Riquelme, feliz por el triunfo en el superclásico: los elogios a Arruabarrena y el particular consejo a los jugadores",
+      "description": "El presidente del Xeneize se mostró ilusionado y le agradeció a los hinchas por el aliento en el duelo ante River",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/riquelme-feliz-por-el-triunfo-en-el-superclasico-los-elogios-a-arruabarrena-y-el-particular-consejo-nid01112026/",
+      "publishedAt": "2026-11-02T00:57:30.000Z",
+      "imageUrl": null,
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "El árbitro agregó un minuto al tiempo adicional y Barracas se lo empató a Belgrano en otro polémico final",
+      "description": "El Pirata ganaba 2 a 1; Ferreyra había sumado 5 minutos al descuento pero sobre el filo añadió uno más; fue cuando Barracas Central, el equipo de Tapia, anotó",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/el-arbitro-agrego-un-minuto-al-tiempo-adicional-y-barracas-se-lo-empato-a-belgrano-en-otro-polemico-nid01112026/",
+      "publishedAt": "2026-11-02T00:57:11.000Z",
+      "imageUrl": null,
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Franco Colapinto se mostró feliz por haber sumado en una de “sus casas” y felicitó al campeón Antonelli",
+      "description": "El argentino había terminado octavo, aunque luego una sanción lo llevó al 15° lugar",
+      "link": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-se-mostro-feliz-por-haber-sumado-en-una-de-sus-casas-y-felicito-al-campeon-nid01112026/",
+      "publishedAt": "2026-11-02T00:00:45.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/V7KJSCMEFNBWLJUDWABVWHCJCA.jpg?auth=39f9e22f49ac92caf3ac34cdce92b2a49ae22009d201da43ab29567e37f3e495&smart=true&width=6192&height=4128",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Otamendi disparó contra Ramírez, el VAR y su amigo Tapia (sin nombrarlo): “Que designen al campeón y no competimos”",
+      "description": "El capitán dio un paso más que Montiel, también crítico; “Están comiendo pochoclos y tomando coca”, dijo el central sobre la tecnología",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/otamendi-disparo-contra-ramirez-el-var-y-su-amigo-tapia-sin-nombrarlo-que-designen-al-campeon-y-no-nid01112026/",
+      "publishedAt": "2026-11-01T23:51:43.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/E5XP6X3HJRAZJNBXUGJVSJOS2Q.jpg?auth=0b1858c884a286fa67e1ee7142758f466f7498925f4172cc6df24073d60bbc8e&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Antonelli: el campeón más joven de la F.1, el talento que regresó la corona a Italia y el adolescente de hábitos simples",
+      "description": "Tercero en el Gran Premio de Ciudad de México, el boloñés de Mercedes selló una temporada de ensueño",
+      "link": "https://www.lanacion.com.ar/deportes/automovilismo/antonelli-el-campeon-mas-joven-de-la-f1-el-talento-que-regreso-la-corona-a-italia-y-el-adolescente-nid01112026/",
+      "publishedAt": "2026-11-01T23:39:14.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/IOKE5KZQRBD3TBA5JGA4RPMUPE.jpg?auth=e4a13c159ca08acdda32990905bc643e27654f9ecf1ef9eaf4bda71dcb1a9857&smart=true&width=4756&height=3171",
       "source": "La Nación Deportes"
     },
     {
@@ -14,7 +110,7 @@
       "description": "El neerlandés de Red Bull se impuso en tres de las últimas cuatro carreras; Andrea Kimi Antonelli quedó tercero y es el nuevo campeón del mundo",
       "link": "https://www.lanacion.com.ar/deportes/automovilismo/asi-quedo-la-tabla-de-posiciones-de-la-formula-1-tras-el-triunfo-de-max-verstappen-en-el-gp-de-nid01112026/",
       "publishedAt": "2026-11-01T22:52:57.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/VHB3S2J6GJE4BFWLF2ZFAOTRSA.png?auth=01ec5a7138ea3755b1458e2defadeeb0a57334b8b60f150afe0d9d13c58f76f5&smart=true&width=1186&height=483",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/LEU7OGOXING5NNGVWPAEP3B3V4.jpg?auth=2f461f10260114029a783249ebe25b66e329e675f2c199769455f16ba1117f99&smart=true&width=4591&height=3061",
       "source": "La Nación Deportes"
     },
     {
@@ -63,102 +159,6 @@
       "link": "https://www.lanacion.com.ar/deportes/polo/abierto-de-tortugas-las-monjitas-gano-pero-la-hache-sigue-siendo-el-mejor-del-resto-nid01112026/",
       "publishedAt": "2026-11-01T22:10:38.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/IUVQGCL6UJBJTL5I4VAWYRX7WY.jpg?auth=627367dea2ce887e60d9e8b031b57497a496f7ed69f2e6032b98a74c36c86830&smart=true&width=2000&height=1334",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "El descargo de Stefano Di Carlo tras la derrota de River ante Boca en el Superclásico",
-      "description": "A través de un posteo en redes sociales, el presidente del club  cuestionó las decisiones arbitrales y apuntó contra la AFA",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/el-descargo-de-stefano-di-carlo-tras-la-derrota-de-river-ante-boca-en-el-superclasico-nid01112026/",
-      "publishedAt": "2026-11-01T22:06:44.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/A7GKYVZXN5FDVOI25RPAESGPF4.jpg?auth=2bcc634671767c316b8770e5a6387e3e50a5eae5a9ce8cf80bbc378e32c7e85c&smart=true&width=1067&height=704",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Arruabarrena no se refirió al arbitraje, sabe que van por buen camino, pero expresó que van partido a partido",
-      "description": "El entrenador del Xeneize respondió a las preguntas de los periodistas y dejó su opinión sobre el triunfo ante el Millonario",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/arruabarrena-no-se-refirio-al-arbitraje-sabe-que-van-por-buen-camino-pero-expreso-que-van-partido-a-nid01112026/",
-      "publishedAt": "2026-11-01T22:04:04.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/7ZG6GSRVI5ALTO7OLWNTK3ZF7Y.jpg?auth=387a84a0285fd6c32b222cf97d8b9dd26a68b2d8fa2314a4c1d45e3ac782015b&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Arruabarrena aprendió a desconfiar hasta de su sombra",
-      "description": "También un 1° de noviembre, pero de 2015, el Vasco se coronaba en Boca por primera vez como DT, pero tres meses después era despedido",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/arruabarrena-aprendio-a-desconfiar-hasta-de-su-sombra-nid01112026/",
-      "publishedAt": "2026-11-01T21:47:34.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/647WYHXUARHQVN5LO2AMKEA7GQ.JPG?auth=1818d09485c13875441525ed1afdbe9f2ab8a5cb5f7c7299689498723259b2d5&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Gran Premio de México: la gran largada de Colapinto, que avanzó cuatro posiciones",
-      "description": "",
-      "link": "https://www.lanacion.com.ar/deportes/automovilismo/gran-premio-de-mexico-la-gran-largada-de-colapinto-que-avanzo-cuatro-posiciones-nid01112026/",
-      "publishedAt": "2026-11-01T21:41:55.000Z",
-      "imageUrl": null,
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Leonardo Ponzio apuntó a Nicolás Ramírez y al VAR: “Interfiere siempre en contra y, a veces, no interfiere”",
-      "description": "Tras el polémico arbitraje en la Bombonera, el DT se molestó por conducir el partido con criterios diferentes",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/leonardo-ponzio-apunto-a-nicolas-ramirez-y-al-var-interfiere-siempre-en-contra-y-a-veces-no-nid01112026/",
-      "publishedAt": "2026-11-01T21:12:23.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/7CFKK3WVGNGD7FVINURNLCMBGE.jpg?auth=7c3c4f410de41d74b0c7e1a1ab22cbbbc471d0c4a208342127eea73c2c473919&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Resultado de Boca vs. River: quién ganó el partido del Torneo Clausura 2026",
-      "description": "El Superclásico se reeditó este domingo en la Bombonera, por la fecha 15 del Torneo Clausura 2026; hubo dos expulsados en el visitante",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-hoy-boca-juniors-vs-river-plate-y-por-donde-se-puede-ver-en-vivo-nid01112026/",
-      "publishedAt": "2026-11-01T20:51:25.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/UN4P2FVANJAXTNR27HD36PUZOI.jpg?auth=b9308e3a2ca6da6476babba89a5ad5eab53bb665f7705c6ce133b70bce3c20e9&smart=true&width=2000&height=1334",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Los mejores memes de Boca vs. River con el foco en las expulsiones y el triunfo xeneize",
-      "description": "El equipo de Arruabarrena, como local, le ganó por 1-0 al de Ponzio con un gol de Di Lollo; las mejores reacciones de los usuarios en las redes sociales",
-      "link": "https://www.lanacion.com.ar/deportes/boca-vs-river-los-mejores-memes-y-reacciones-al-superclasico-nid01112026/",
-      "publishedAt": "2026-11-01T20:43:35.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/3DBS5XPGGFH6TONUVNRK6U5WUE.png?auth=339eec13948c2f2fa84e06bc58aa0dc04edde08df9609b64640aeaf8ad7c576e&smart=true&width=520&height=613",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Superclásico: el irónico reclamo de Leonardo Ponzio al árbitro Nicolás Ramírez",
-      "description": "Tras las expulsiones de Martínez Quarta y de Montiel, el DT millonario cruzó al juez principal, lo miró a la cara y le repitió varias veces: “¿Ya está? ¿Cumpliste?“",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/river-plate/superclasico-el-ironico-reclamo-de-leonardo-ponzio-al-arbitro-nicolas-ramirez-nid01112026/",
-      "publishedAt": "2026-11-01T20:43:04.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/AK3TVCNT6BBJLH457PMZAL5O6M.JPG?auth=41067e77e671a2db8c5024b70e6dfa804c280430b8f01b3283b420ff491ba78c&smart=true&width=5056&height=3371",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Boca le ganó a River 1 a 0 en el Superclásico del torneo Clausura",
-      "description": "Lautaro Di Lollo marcó el único tanto del partido y el Xeneize se ilusiona con ganar la tabla anual; el Millonario terminó con dos menos por las expulsiones de Martínez Quarta y Montiel",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/boca-vs-river-en-vivo-nid01112026/",
-      "publishedAt": "2026-11-01T20:34:10.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/LF24NDOWWVABVIAMXKM7JOJEF4.jpg?auth=5036b6a770a307cd447a0b668044930a399f2cb54096bc2457c73e3db5c376c2&smart=true&width=2000&height=1334",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Así quedó el historial entre Boca y River, tras el triunfo del xeneize en el Superclásico",
-      "description": "El local se impuso en la Bombonera y estiró la ventaja sobre su clásico rival, al que le ganó en las tres últimas presentaciones por campeonatos locales",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/asi-quedo-el-historial-entre-boca-y-river-tras-el-triunfo-del-xeneize-en-el-superclasico-nid01112026/",
-      "publishedAt": "2026-11-01T20:18:35.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/4AN2RWK46VEMLJVAPIGARSUJHE.JPG?auth=c1db4a4e5f754ec7b49baea4de98fe1f611c4f042b50e4639ff3a8657b493107&smart=true&width=1999&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Los gestos de Martínez Quarta y Montiel a los hinchas de Boca tras ser expulsados en el Superclásico",
-      "description": "Ambos defensores del Millonario provocaron a los fanáticos del Xeneize; hicieron alusión a la final de la Copa Libertadores 2018, que se disputó en Madrid",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/el-gesto-de-martinez-quarta-a-los-hinchas-de-boca-tras-ser-expulsado-en-los-primeros-minutos-del-nid01112026/",
-      "publishedAt": "2026-11-01T20:16:47.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/AK3TVCNT6BBJLH457PMZAL5O6M.JPG?auth=41067e77e671a2db8c5024b70e6dfa804c280430b8f01b3283b420ff491ba78c&smart=true&width=5056&height=3371",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Así quedó la Tabla Anual 2026, tras el triunfo de Boca sobre River en el Superclásico",
-      "description": "Belgrano, que fue el campeón del Apertura, es el único que ya tiene asegurada su participación en el plano internacional del año que viene",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/asi-quedo-la-tabla-anual-2026-tras-el-triunfo-de-boca-sobre-river-en-el-superclasico-nid01112026/",
-      "publishedAt": "2026-11-01T20:15:34.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/4AN2RWK46VEMLJVAPIGARSUJHE.JPG?auth=c1db4a4e5f754ec7b49baea4de98fe1f611c4f042b50e4639ff3a8657b493107&smart=true&width=1999&height=1333",
       "source": "La Nación Deportes"
     }
   ]
