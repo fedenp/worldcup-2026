@@ -1,10 +1,6 @@
 {
   "event_id": 8295,
-  "venue": {
-    "name": "NRG Stadium",
-    "city": "Houston",
-    "capacity": 72220
-  },
+  "venue": null,
   "weather": {
     "code": 2,
     "description": "cloudy",
