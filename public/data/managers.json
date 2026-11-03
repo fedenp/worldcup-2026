@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T15:44:10.828Z",
+  "updated_at": "2026-11-03T21:26:44.314Z",
   "managers": {
     "451": {
       "id": 2039,
@@ -588,27 +588,6 @@
       "btts_pct": 50,
       "over_25_pct": 68.2,
       "stats_updated_at": "2026-11-02T23:30:38.019503+00:00"
-    },
-    "483": {
-      "id": 104,
-      "name": "Ralf Rangnick",
-      "short_name": "R. Rangnick",
-      "country": "Germany",
-      "tactical_profile": "attacking",
-      "preferred_formation": "4-2-3-1",
-      "current_team_id": 483,
-      "matches_total": 31,
-      "wins": 17,
-      "draws": 7,
-      "losses": 7,
-      "win_pct": 54.8,
-      "avg_goals_scored": 2.13,
-      "avg_goals_conceded": 1.06,
-      "avg_possession": 56.83,
-      "clean_sheet_pct": 25.8,
-      "btts_pct": 58.1,
-      "over_25_pct": 54.8,
-      "stats_updated_at": "2026-11-02T23:31:44.296412+00:00"
     },
     "484": {
       "id": 67,
