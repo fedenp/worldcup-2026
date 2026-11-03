@@ -1,6 +1,10 @@
 {
   "event_id": 8332,
-  "venue": null,
+  "venue": {
+    "name": "Gillette Stadium",
+    "city": "Foxborough",
+    "capacity": 66829
+  },
   "weather": {
     "code": 3,
     "description": "rain",

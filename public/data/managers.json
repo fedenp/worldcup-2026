@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-11-03T05:07:24.837Z",
+  "updated_at": "2026-11-03T15:44:10.828Z",
   "managers": {
+    "451": {
+      "id": 2039,
+      "name": "Rafael Márquez",
+      "short_name": "R. Márquez",
+      "country": "Mexico",
+      "tactical_profile": "balanced",
+      "preferred_formation": "4-3-3",
+      "current_team_id": 451,
+      "matches_total": 17,
+      "wins": 5,
+      "draws": 7,
+      "losses": 5,
+      "win_pct": 29.4,
+      "avg_goals_scored": 1.06,
+      "avg_goals_conceded": 1.24,
+      "avg_possession": 60,
+      "clean_sheet_pct": 41.2,
+      "btts_pct": 41.2,
+      "over_25_pct": 35.3,
+      "stats_updated_at": "2026-11-02T23:31:43.832274+00:00"
+    },
     "452": {
       "id": 87,
       "name": "Hugo Broos",
@@ -42,6 +63,27 @@
       "btts_pct": 52.2,
       "over_25_pct": 47.8,
       "stats_updated_at": "2026-11-02T23:31:34.553591+00:00"
+    },
+    "455": {
+      "id": 130,
+      "name": "Jesse Marsch",
+      "short_name": "J. Marsch",
+      "country": "USA",
+      "tactical_profile": "defensive",
+      "preferred_formation": "4-4-2",
+      "current_team_id": 455,
+      "matches_total": 35,
+      "wins": 16,
+      "draws": 12,
+      "losses": 7,
+      "win_pct": 45.7,
+      "avg_goals_scored": 1.37,
+      "avg_goals_conceded": 0.71,
+      "avg_possession": 52.94,
+      "clean_sheet_pct": 54.3,
+      "btts_pct": 28.6,
+      "over_25_pct": 28.6,
+      "stats_updated_at": "2026-11-02T23:31:09.338690+00:00"
     },
     "457": {
       "id": 122,
