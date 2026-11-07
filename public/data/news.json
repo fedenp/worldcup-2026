@@ -1,12 +1,140 @@
 {
-  "updatedAt": "2026-11-06T21:13:57.437Z",
+  "updatedAt": "2026-11-07T04:12:46.097Z",
   "items": [
     {
-      "title": "Irlanda vs. los Pumas, en vivo: el minuto a minuto del partido por el Nations Championship",
-      "description": "En el Aviva Stadium de Dublín, el seleccionado argentino busca un triunfo histórico ante el Trébol",
+      "title": "Tigre volvió a ganar de local cuando Sarmiento hizo todo para que ocurriese: penal errado y dos rojas",
+      "description": "El club de Junín no aseguró su clasificación y quedó atado a una ayuda de Argentinos (ante Huracán) para poder jugar los playoffs",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/tigre-volvio-a-ganar-de-local-cuando-sarmiento-hizo-todo-para-que-ocurriese-penal-errado-y-dos-rojas-nid07112026/",
+      "publishedAt": "2026-11-07T03:42:59.000Z",
+      "imageUrl": null,
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "El simulador del Clausura: así está la clasificación y cómo quedan los cruces de octavos de final",
+      "description": "Se definen las posiciones de las zonas A y B del torneo, que terminan el avance de 16 equipos",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/el-simulador-del-clausura-asi-esta-la-clasificacion-y-como-quedan-los-cruces-de-octavos-de-final-nid06112026/",
+      "publishedAt": "2026-11-07T03:34:51.000Z",
+      "imageUrl": null,
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "La agenda de la TV del sábado: el torneo Clausura, fútbol de Europa, Messi en Inter Miami y Colapinto en el GP de Brasil",
+      "description": "La actividad deportiva en el inicio del fin de la semana, disponible a través de las pantallas",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-sabado-el-torneo-clausura-futbol-de-europa-messi-en-inter-miami-y-colapinto-nid07112026/",
+      "publishedAt": "2026-11-07T03:21:34.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/WEZA3HL5GJHYDOBW4ZQVYSBIAE.JPG?auth=1915d28869c54a1f3e9d101f6d94ec479596984bccff8122c108c8d268de3bf2&smart=true&width=4712&height=3133",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Bonavena y un fantasma de carrera: el golpe bajo, una acción sospechada y la descalificación",
+      "description": "En la previa a su inolvidable combate con Muhammad Ali, Ringo combatió en el Luna Park con el marplatense Miguel Ángel Páez, un astuto púgil que había reinado entre los semipesados; historia de un duelo que dio mucho que hablar",
+      "link": "https://www.lanacion.com.ar/deportes/boxeo/bonavena-y-un-fantasma-de-carrera-el-golpe-bajo-una-accion-sospechada-y-la-descalificacion-nid07112026/",
+      "publishedAt": "2026-11-07T03:00:00.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/Z6YXY2WUFNAOJA6HHNUGIRX7ME.jpeg?auth=d61add3f33a8b04ed3882aa05c62ea6d84d7ab9dfcf28acd1ca1d47e29e52263&smart=true&width=3112&height=5104",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "San Lorenzo fue la marcha de la bronca: reproches contra todos y una derrota que confirmó un pésimo 2026",
+      "description": "El Ciclón perdió con Platense y se quedó fuera del tramo decisivo del Clausura, un reflejo de una temporada marcada por las frustraciones",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/san-lorenzo-fue-la-marcha-de-la-bronca-reproches-contra-todos-y-una-derrota-que-confirmo-un-pesimo-nid06112026/",
+      "publishedAt": "2026-11-07T02:01:17.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/BMXDUHHER5GVHHYEKMZGAZV4FY.JPG?auth=3986ca17682665cf121682e7513a3ad981d5409f7e42b4548121cd6534aba4a1&smart=true&width=1817&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Fórmula 1: Colapinto y Gasly se quejaron de los “baches”, mientras Alpine disfruta la velocidad de su nueva promesa",
+      "description": "Terminó 11º este viernes, delante de ambos Racing Bulls y su compañero Pierre Gasly (14º); ambos Alpine lucharán por entrar entre los mejores 10 en la clasificación de este sábado",
+      "link": "https://www.lanacion.com.ar/deportes/automovilismo/formula-1-colapinto-y-gasly-se-quejaron-de-los-baches-mientras-alpine-disfruta-la-velocidad-de-su-nid06112026/",
+      "publishedAt": "2026-11-07T01:31:49.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/A3DFYU5ONNATHIH7OEND6WASWI.JPG?auth=ff1f1641761c253a2103eaa0c2ef0e327a5b7be49019a914248ae5724ec59b97&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Unión venció a Vélez y precisa una ayuda mendocina para jugar los octavos, mientras Gariano recibió la doble ayuda del VAR",
+      "description": "El Tatengue festejó un gol por el que pensó que ya clasificaría, pero debe seguir esperando; otro arbitraje desprolijo",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/union-vencio-a-velez-y-precisa-una-ayuda-mendocina-para-jugar-los-octavos-mientras-gariano-recibio-nid06112026/",
+      "publishedAt": "2026-11-07T01:28:50.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/2HVPA5L45VE5THBLYPIBZBMNOQ.JPG?auth=095bc9ab178b494d716390e4361d95aa199778248826d08260639dd4a28a6fc7&smart=true&width=1740&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Independiente ganó y se metió en los octavos con un gol sobre la hora, mucha angustia y nada de fútbol",
+      "description": "El Rojo sufrió hasta el último segundo para conseguir la clasificación a los playoffs",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/independiente-gano-y-se-metio-en-los-octavos-con-un-gol-sobre-la-hora-mucha-angustia-y-nada-de-nid06112026/",
+      "publishedAt": "2026-11-07T00:53:58.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/QI4UQ2O5WFHH7M7WOYHC7Z46BQ.JPG?auth=23cb47cbac7a9a9ad9caaa2d56eb37debfdc547de1d045a858b5864f256e2e06&smart=true&width=1866&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Así quedó el cuadro de semifinales del Masters 1000 de París 2026",
+      "description": "Carlos Alcaraz, Casper Ruud, Luca Van Assche y Ben Shelton superaron sus cruces de cuartos de final y se consolidaron como los cuatro mejores",
+      "link": "https://www.lanacion.com.ar/deportes/tenis/asi-quedo-el-cuadro-de-semifinales-del-masters-1000-de-paris-2026-nid06112026/",
+      "publishedAt": "2026-11-07T00:49:24.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/F4YO42PXERGNPE2WO2KEI4A6VA.JPG?auth=c1af113ca472c31c1d4a03ea7dce7dcde1e8436a4345e1f2e95e77a0e39f15fd&smart=true&width=4194&height=2796",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Durísima derrota ante Irlanda: una derrota que cala hondo en la cohesión de los Pumas",
+      "description": "La caída por 42-12 en Dublín enciende las alarmas por un rendimiento decreciente a un año del Mundial",
+      "link": "https://www.lanacion.com.ar/deportes/rugby/durisima-derrota-ante-irlanda-una-derrota-que-cala-hondo-en-la-cohesion-de-los-pumas-nid06112026/",
+      "publishedAt": "2026-11-07T00:20:05.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/2QVCD2DAEFE5LBID53DSO2LW6U.JPG?auth=05bf991dbe71bd9bac0f8fe3fd49bde3b2605af5fa9e876b5901731be49bf308&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Carlos Alcaraz salvó dos match-points y pasó a las semifinales del Masters 1000 de de París",
+      "description": "La victoria del murciano clasificó a otro español al ATP Finals, el Masters de fin de año",
+      "link": "https://www.lanacion.com.ar/deportes/tenis/carlos-alcaraz-salvo-dos-match-points-y-paso-a-las-semifinales-del-masters-1000-de-de-paris-nid06112026/",
+      "publishedAt": "2026-11-06T23:55:37.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/7TYZ6ILGF5BAZJWM6KY77JYGSI.JPG?auth=2725154c60c9f37beb64796adf1abc8648903d3a1b034ec15a36391401e60717&smart=true&width=7504&height=5002",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "La FIFA le redujo la sanción a Nahuel Molina, pero mantuvo las 10 fechas de suspensión a Leandro Paredes: la AFA irá al TAS",
+      "description": "La Cámara de Apelaciones aceptó parcialmente el reclamo de la entidad argentina por los incidentes en la final del Mundial ante España",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/la-fifa-le-redujo-la-sancion-a-nahuel-molina-pero-mantuvo-las-10-fechas-de-suspension-a-leandro-nid06112026/",
+      "publishedAt": "2026-11-06T23:28:36.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/SKQ7INMCAJD25MNVCR7SMOWUU4.jpg?auth=e9bfdef81b9a2a0928d3fa0a410889f0eb2d5fe1ca949a33a859069620594873&smart=true&width=4428&height=2952",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Dura caída de Argentina XV frente a Inglaterra A: un mal resultado, una experiencia necesaria",
+      "description": "El equipo albiceleste fue derrotado en un test match jugado en Bath",
+      "link": "https://www.lanacion.com.ar/deportes/rugby/dura-caida-de-argentina-xv-frente-a-inglaterra-a-un-mal-resultado-una-experiencia-necesaria-nid06112026/",
+      "publishedAt": "2026-11-06T23:14:26.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/7D76S6D2EVATBNWP6BNHKNF5CQ.JPG?auth=7dd4762136096614b6732a0449c8f9bf0e2b70e8b6d7ab4ce070abaa0ecad306&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Los Pumas sufrieron una dura derrota ante Irlanda por 42-12 en Dublín por el Nations Championship",
+      "description": "En el Aviva Stadium, el equipo de Felipe Contepomi fue ampliamente superado y sumó su tercera derrota en el torneo",
       "link": "https://www.lanacion.com.ar/deportes/rugby/irlanda-vs-los-pumas-en-vivo-nid06112026/",
-      "publishedAt": "2026-11-06T21:02:17.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/LKEW27AE6BG3NNJFOT735AZWXE.jpg?auth=5f2e85f428517d6ae4b3511a980b8af8a6692b2371835786701ac69228e2ce49&smart=true&width=2000&height=1333",
+      "publishedAt": "2026-11-06T22:50:46.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/Q66VUCX4UZBBRBLHTWIBTZI6XQ.jpg?auth=8182ed6bc9f85fe4c3f70873b6eb4d9a4756a42e8ca564fc0dffcc03f8ed6a1d&smart=true&width=2000&height=1333",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "A qué hora es la qualy del GP de Brasil de la Fórmula 1, con Franco Colapinto",
+      "description": "La nueva fecha del Gran Circo se disputa en el Autódromo José Carlos Pace; Andrea Kimi Antonelli, de Mercedes, afronta su primera carrera como campeón del mundo",
+      "link": "https://www.lanacion.com.ar/deportes/automovilismo/a-que-hora-es-la-qualy-del-gp-de-brasil-de-la-formula-1-con-franco-colapinto-nid06112026/",
+      "publishedAt": "2026-11-06T22:40:46.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/C7AFYI4ZG5BYRHM2YZLVTKB3II.jpg?auth=21648486906598c6b52a35f9cfd88fb0e8dd18401072ef288b7aca4bab808b8a&smart=true&width=3294&height=2196",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "Franco Colapinto recibió una particular sanción en la primera práctica libre del GP de Brasil",
+      "description": "El argentino se excedió del límite de velocidad en el ingreso a boxes y recibió una multa económica",
+      "link": "https://www.lanacion.com.ar/deportes/franco-colapinto-recibio-una-particular-sancion-en-la-primera-practica-libre-del-gp-de-brasil-nid06112026/",
+      "publishedAt": "2026-11-06T21:33:20.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/STJBHH2JJ5HCDKLDGZAV3DQQEE.jpeg?auth=1c669dce801e540e192e551343be2fc89325b1e8268d3a1991906c99ae3e6b52&smart=true&width=1130&height=1600",
+      "source": "La Nación Deportes"
+    },
+    {
+      "title": "A la hora de la siesta, Racing tuvo otra pesadilla y terminó el año: Barracas no necesitó nada para ganarle",
+      "description": "La Academia cerró un año pobrísimo con una derrota por 2-0 como visitante ante el club de Claudio Tapia, ya clasificado a octavos del Clausura",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/a-la-hora-de-la-siesta-racing-tuvo-otra-pesadilla-y-termino-el-ano-barracas-no-necesito-nada-para-nid06112026/",
+      "publishedAt": "2026-11-06T21:26:28.000Z",
+      "imageUrl": "https://resizer.glanacion.com/resizer/v2/XFNKNT2JTFFZ7FCT5NGDPYEO3M.JPG?auth=8d159a4264b9f915103ef260753ba7ec983e13779fb5652a93bdc77225c64ed0&smart=true&width=2000&height=1333",
       "source": "La Nación Deportes"
     },
     {
@@ -18,14 +146,6 @@
       "source": "La Nación Deportes"
     },
     {
-      "title": "El simulador del Clausura: así está la clasificación y cómo quedan los cruces de octavos de final",
-      "description": "Se definen las posiciones de las zonas A y B del torneo, que terminan el avance de 16 equipos",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/el-simulador-del-clausura-asi-esta-la-clasificacion-y-como-quedan-los-cruces-de-octavos-de-final-nid06112026/",
-      "publishedAt": "2026-11-06T20:32:18.000Z",
-      "imageUrl": null,
-      "source": "La Nación Deportes"
-    },
-    {
       "title": "Franco Colapinto terminó por delante de Pierre Gasly en la segunda práctica en San Pablo",
       "description": "El piloto argentino concluyó undécimo, mientras que el francés lo hizo tres puestos más atrás; el más rápido fue Andrea Kimi Antonelli (Mercedes)",
       "link": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-la-formula-1-en-vivo-nid06112026-2/",
@@ -34,131 +154,11 @@
       "source": "La Nación Deportes"
     },
     {
-      "title": "Franco Colapinto recibió una particular sanción en la primera práctica libre del GP de Brasil",
-      "description": "El argentino se excedió del límite de velocidad en el ingreso a boxes y recibió una multa económica",
-      "link": "https://www.lanacion.com.ar/deportes/franco-colapinto-recibio-una-particular-sancion-en-la-primera-practica-libre-del-gp-de-brasil-nid06112026/",
-      "publishedAt": "2026-11-06T20:06:53.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/STJBHH2JJ5HCDKLDGZAV3DQQEE.jpeg?auth=1c669dce801e540e192e551343be2fc89325b1e8268d3a1991906c99ae3e6b52&smart=true&width=1130&height=1600",
-      "source": "La Nación Deportes"
-    },
-    {
       "title": "Unión vs. Vélez: horario y qué canal transmite el partido",
       "description": "El encuentro entre el Tatengue y el Fortín, por la última fecha del Grupo A del Torneo Clausura, se disputa este viernes a las 19.15 en el estadio 15 de Abril",
       "link": "https://www.lanacion.com.ar/deportes/futbol/union-vs-velez-horario-y-que-canal-transmite-el-partido-nid06112026/",
       "publishedAt": "2026-11-06T19:42:12.000Z",
       "imageUrl": "https://resizer.glanacion.com/resizer/v2/VQ4LDWTENVHQVFYC6HKJVCDMXI.jpeg?auth=cd514c5feeb4274ddbad029e9a03dc0711cd43f85ce0967872626ec181dd7a21&smart=true&width=863&height=576",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Independiente vs. Deportivo Riestra: horario y cómo ver online",
-      "description": "El encuentro entre el Rojo y el Malevo, por la última fecha de la etapa de grupos del Torneo Clausura 2026, se disputa este viernes en Avellaneda",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/independiente-vs-deportivo-riestra-horario-y-como-ver-online-nid06112026/",
-      "publishedAt": "2026-11-06T19:29:43.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/4ZE2B6HXGZDNTFEGNJXETZKTUA.JPG?auth=f68acddf6d92e4c2424818abe733e78edb0ec359a61e2d59795fae6c90e70773&smart=true&width=1924&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "La agenda de la TV del viernes: el torneo Clausura, Fórmula 1 en Brasil, ligas de Europa y el Masters 1000 de París",
-      "description": "La actividad deportiva en el fin de la semana, disponible a través de las pantallas",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-viernes-nid05112026/",
-      "publishedAt": "2026-11-06T19:28:55.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/QVO2AMU7XZDXBP4G7XSO6YZQ7Y.JPG?auth=850549c75c58062a1e985d387feaee57414fe6fe66bc185b872ad65476e65890&smart=true&width=1860&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Horario de los partidos del Torneo Clausura de este sábado 7 de noviembre",
-      "description": "Con la jornada 16 se definen el cierre de la etapa regular, los cruces de playoffs y se cierra la Tabla Anual que da clasificaciones a las copas",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/horario-de-los-partidos-del-torneo-clausura-de-este-sabado-7-de-noviembre-nid06112026/",
-      "publishedAt": "2026-11-06T19:25:23.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/VZEL7BN3RZA6RPQX7JMO7LZLHI.jpeg?auth=ee63660a96c17697b6abe02482f210f9a9127d48b66cd8423546b0a71c4c335b&smart=true&width=2048&height=1365",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Un paso más: Jorge Macri se reunió en San Pablo con Stefano Domenicali, CEO de la Fórmula 1",
-      "description": "“Estamos trabajando en cada paso necesario para estar listos”, dijo el jefe de Gobierno porteño",
-      "link": "https://www.lanacion.com.ar/deportes/automovilismo/un-paso-mas-jorge-macri-se-reunio-en-san-pablo-con-stefano-domenicali-ceo-de-la-formula-1-nid06112026/",
-      "publishedAt": "2026-11-06T18:35:06.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/RDER5ZOUN5HAZNOUXEZISVJG2Y.jpg?auth=3abeb1f0438c29d36a5d8327269b1a2a1495be37ec6e485ac07c873561231b56&smart=true&width=3680&height=2760",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Franco Colapinto llegó a ser tercero, pero terminó noveno en la primera práctica de la Fórmula 1 en San Pablo",
-      "description": "Su circunstancial compañero de equipo, el italiano Gabriele Minì, concluyó séptimo y fue el mejor de los novatos; Lando Norris (McLaren) lideró la prueba",
-      "link": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-la-formula-1-en-vivo-nid06112026/",
-      "publishedAt": "2026-11-06T17:39:46.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/RDER5ZOUN5HAZNOUXEZISVJG2Y.jpg?auth=3abeb1f0438c29d36a5d8327269b1a2a1495be37ec6e485ac07c873561231b56&smart=true&width=3680&height=2760",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "El padre de Colapinto llevó el casco de su hijo a la Basílica de Luján para que fuera bendecido antes del GP de Brasil",
-      "description": "Antes de que comenzara la actividad en el circuito de Interlagos, el padre del piloto de Alpine decidió hacer algo muy especial para protegerlo",
-      "link": "https://www.lanacion.com.ar/deportes/el-padre-de-colapinto-llevo-el-casco-de-su-hijo-a-la-basilica-de-lujan-para-que-fuera-bendecido-nid06112026/",
-      "publishedAt": "2026-11-06T17:31:52.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/SHJJL3AL65CE7LOQNMQMWAPFCE.jpg?auth=f844800c47d7a65ba48ecde5ab5e672f15d7ff7cafaf7e4e24cb01f7703e31f2&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "En qué canal pasan los Pumas vs. Irlanda hoy, por el Nations Championship 2026",
-      "description": "El equipo argentino se mide con el Trébol en el Aviva Stadium de Dublín, con la premisa de ganar, pero también de anotarse un dato en la historia",
-      "link": "https://www.lanacion.com.ar/deportes/rugby/en-que-canal-pasan-los-pumas-vs-irlanda-hoy-por-el-nations-championship-2026-nid06112026/",
-      "publishedAt": "2026-11-06T16:20:57.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/7TH2YVMOYVCXJIFK7RMUYL5UFM.jpg?auth=c83f86c0180b98f20d3e0fef9970512f83eab3147ee0662d5343236578bd8c86&smart=true&width=2048&height=1365",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Por dónde pasan los Pumas vs. Irlanda y qué canal lo transmite en vivo",
-      "description": "El equipo de Felipe Contepomi, que por primera vez está casi completo en la temporada, se mide con el Trébol, por la fecha 4 del Nations Championship",
-      "link": "https://www.lanacion.com.ar/deportes/rugby/por-donde-pasan-los-pumas-vs-irlanda-y-que-canal-lo-transmite-en-vivo-nid06112026/",
-      "publishedAt": "2026-11-06T15:13:34.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/KJDWUH6YQFGDVCWEAH6VQ2YIYM.jpg?auth=290ce79bac9cce85fb6fb0ebc6c6a73d6d9fec2d1918131c361a014ba6eee5fb&smart=true&width=2048&height=1365",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Jorge Jesús, DT de Portugal, dijo que no se siente culpable por el retiro de Cristiano Ronaldo de la selección",
-      "description": "“Quizás las cosas se precipitaron, pero no por mi culpa”, dijo el entrenador, que coincidió con el astro en Al-Nassr, de Arabia Saudita",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/jorge-jesus-dt-de-portugal-dijo-que-no-se-siente-culpable-por-el-retiro-de-cristiano-ronaldo-de-la-nid06112026/",
-      "publishedAt": "2026-11-06T15:09:44.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/O5G6KGTUZRDLXJOKCM25FKNRCI.jpg?auth=33a864d05606d5fb640d99b29bbd556c20ec4e45815761fad6f21d338e417d7b&smart=true&width=6744&height=4641",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "A qué hora juegan los Pumas vs. Irlanda y cómo se puede ver el partido en vivo",
-      "description": "El seleccionado argentino se presenta en Dublín ante un rival al que nunca venció como visitante; es el primer encuentro del final del Nations Championship",
-      "link": "https://www.lanacion.com.ar/deportes/rugby/a-que-hora-juegan-los-pumas-vs-irlanda-y-como-se-puede-ver-el-partido-en-vivo-nid06112026/",
-      "publishedAt": "2026-11-06T14:25:00.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/CHB45B52OVF4PIC2CCUTRG2XPM.jpeg?auth=4d34c4e31b039ea843edf1de4260a8bcacb74e6b583495775478108862ff61b9&smart=true&width=1289&height=604",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Forlán anunció la lista de convocados de Uruguay para el partido ante Argentina",
-      "description": "El encuentro, primero de la doble fecha FIFA de amistosos, se jugará el viernes 13 en la Bombonera",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/forlan-anuncio-la-lista-de-convocados-de-uruguay-para-el-partido-ante-argentina-nid06112026/",
-      "publishedAt": "2026-11-06T14:17:16.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/KTQPBU5GTRHIFMT2OSEEPBJW6Y.jpg?auth=af1d4e879fbbc2d14a9fcf3c8c17b6e659efed6820daeb190103d621213b75cf&smart=true&width=1536&height=2048",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Formaciones de los Pumas vs. Irlanda, por el Nations Championship 2026",
-      "description": "La selección argentina se enfrenta al Trébol este viernes a las 17.10 (horario argentino) en Dublín, con arbitraje del inglés Luke Pearce",
-      "link": "https://www.lanacion.com.ar/deportes/rugby/formaciones-de-los-pumas-vs-irlanda-por-el-nations-championship-2026-nid05112026/",
-      "publishedAt": "2026-11-06T13:57:32.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/J2BYDETODRG3FO6DHTGB42PKNM.jpg?auth=2a7e4e2accf137d46e8605d60ff30cb2dcf92da66a9579e40932b2baa66b564d&smart=true&width=2000&height=1333",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Masters 1000 de París: partidos de hoy y cómo está el cuadro",
-      "description": "El último certamen de esta categoría en la temporada continúa este viernes, con la presencia de Carlos Alcaraz y Ben Shelton, entre otros",
-      "link": "https://www.lanacion.com.ar/deportes/tenis/masters-1000-de-paris-partidos-de-hoy-y-como-esta-el-cuadro-nid06112026/",
-      "publishedAt": "2026-11-06T13:42:38.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/F4YO42PXERGNPE2WO2KEI4A6VA.JPG?auth=c1af113ca472c31c1d4a03ea7dce7dcde1e8436a4345e1f2e95e77a0e39f15fd&smart=true&width=4194&height=2796",
-      "source": "La Nación Deportes"
-    },
-    {
-      "title": "Pierre Gasly destacó el apoyo de los hinchas argentinos a Colapinto en el GP de Brasil: “Se siente”",
-      "description": "“Para él es lo más parecido a correr de local”, admitió el piloto francés, compañero del pilarense en Alpine",
-      "link": "https://www.lanacion.com.ar/deportes/automovilismo/pierre-gasly-destaco-el-apoyo-de-los-hinchas-argentinos-a-colapinto-en-el-gp-de-brasil-se-siente-nid06112026/",
-      "publishedAt": "2026-11-06T13:37:29.000Z",
-      "imageUrl": "https://resizer.glanacion.com/resizer/v2/DXT5XTLDNBEAXBPERXCED6ESSU.JPG?auth=275edce8ac3154266867bd931cab043572b746d1dc7511de7d0d4418acc79eb0&smart=true&width=4608&height=3072",
       "source": "La Nación Deportes"
     }
   ]
