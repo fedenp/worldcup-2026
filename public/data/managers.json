@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T02:29:26.935Z",
+  "updated_at": "2026-11-10T12:00:47.807Z",
   "managers": {
     "451": {
       "id": 2039,
@@ -485,25 +485,25 @@
       "stats_updated_at": "2026-11-09T23:31:34.497485+00:00"
     },
     "478": {
-      "id": 117,
-      "name": "Hossam Hassan",
-      "short_name": "H. Hassan",
+      "id": 4887,
+      "name": "Ali Maher",
+      "short_name": "A. Maher",
       "country": "Egypt",
-      "tactical_profile": "balanced",
-      "preferred_formation": "4-2-3-1",
+      "tactical_profile": "",
+      "preferred_formation": "",
       "current_team_id": 478,
-      "matches_total": 37,
-      "wins": 18,
-      "draws": 13,
-      "losses": 6,
-      "win_pct": 48.6,
-      "avg_goals_scored": 1.57,
-      "avg_goals_conceded": 0.84,
-      "avg_possession": 50.5,
-      "clean_sheet_pct": 43.2,
-      "btts_pct": 48.6,
-      "over_25_pct": 43.2,
-      "stats_updated_at": "2026-11-09T23:31:09.213053+00:00"
+      "matches_total": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "win_pct": null,
+      "avg_goals_scored": null,
+      "avg_goals_conceded": null,
+      "avg_possession": null,
+      "clean_sheet_pct": null,
+      "btts_pct": null,
+      "over_25_pct": null,
+      "stats_updated_at": null
     },
     "479": {
       "id": 188,
