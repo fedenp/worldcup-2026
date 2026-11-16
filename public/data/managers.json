@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T04:23:01.882Z",
+  "updated_at": "2026-11-16T17:48:40.668Z",
   "managers": {
     "451": {
       "id": 2039,
@@ -84,27 +84,6 @@
       "btts_pct": 28.6,
       "over_25_pct": 28.6,
       "stats_updated_at": "2026-11-09T23:31:14.609507+00:00"
-    },
-    "457": {
-      "id": 122,
-      "name": "Mauricio Pochettino",
-      "short_name": "M. Pochettino",
-      "country": "Argentina",
-      "tactical_profile": "attacking",
-      "preferred_formation": "4-2-3-1",
-      "current_team_id": 457,
-      "matches_total": 34,
-      "wins": 19,
-      "draws": 2,
-      "losses": 13,
-      "win_pct": 55.9,
-      "avg_goals_scored": 1.88,
-      "avg_goals_conceded": 1.41,
-      "avg_possession": 56.1,
-      "clean_sheet_pct": 26.5,
-      "btts_pct": 58.8,
-      "over_25_pct": 64.7,
-      "stats_updated_at": "2026-11-09T23:31:37.363761+00:00"
     },
     "458": {
       "id": 90,
